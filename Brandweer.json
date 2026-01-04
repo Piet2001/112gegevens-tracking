@@ -796,10 +796,10 @@
   {
     "Regio": "01",
     "Roepnummer": "01-1808",
-    "Kenteken": "48-TZ-XX",
+    "Kenteken": "J-466-JD",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Merk (& Type)": "Dienstauto",
+    "Merk (& Type)": "Volkswagen Up",
     "Kazerne": "Groningen Sontweg",
     "Adres": "Sontweg 10, 9723AT, Groningen"
   },
@@ -900,20 +900,20 @@
   {
     "Regio": "01",
     "Roepnummer": "01-1850",
-    "Kenteken": "BX-ZZ-14",
+    "Kenteken": "03-BVR-7",
     "Type": "HW",
     "Omschrijving": "Hoogwerker",
-    "Merk (& Type)": "Mercedes-Benz Econic 2633 6x2/4",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "Groningen Sontweg",
     "Adres": "Sontweg 10, 9723AT, Groningen"
   },
   {
     "Regio": "01",
     "Roepnummer": "01-1851",
-    "Kenteken": "BX-ZZ-13",
+    "Kenteken": "72-BVT-3",
     "Type": "HW",
     "Omschrijving": "Hoogwerker",
-    "Merk (& Type)": "Mercedes-Benz Econic 2633 6x2/5",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "Groningen Sontweg",
     "Adres": "Sontweg 10, 9723AT, Groningen"
   },
@@ -937,6 +937,7 @@
   {
     "Regio": "01",
     "Roepnummer": "01-1862",
+    "Kenteken": "28-WZ-DK",
     "Type": "DPA",
     "Omschrijving": "Dompelpompaanhanger",
     "Kazerne": "Groningen Sontweg",
@@ -962,10 +963,12 @@
   {
     "Regio": "01",
     "Roepnummer": "01-1865",
-    "Type": "PBA",
-    "Omschrijving": "Poederblusaanhanger",
-    "Kazerne": "Harkstede",
-    "Adres": "Dorpshuisweg 30a, 9617BN, Harkstede"
+    "Kenteken": "WZ-GG-20",
+    "Type": "ABA",
+    "Omschrijving": "Adembescherming Aanhanger",
+    "Merk (& Type)": "Hapert",
+    "Kazerne": "Groningen Sontweg",
+    "Adres": "Sontweg 10, 9723AT, Groningen"
   },
   {
     "Regio": "01",
@@ -1007,10 +1010,10 @@
   {
     "Regio": "01",
     "Roepnummer": "01-1882",
-    "Kenteken": "BS-XT-26",
+    "Kenteken": "BB-587-G",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
-    "Merk (& Type)": "DAF FAN CF75",
+    "Merk (& Type)": "DAF",
     "Kazerne": "Groningen Sontweg",
     "Adres": "Sontweg 10, 9723AT, Groningen"
   },
@@ -1088,10 +1091,10 @@
   {
     "Regio": "01",
     "Roepnummer": "01-1905",
-    "Kenteken": "83-HX-KK",
-    "Type": "DB",
-    "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Volkswagen Transporter",
+    "Kenteken": "2-VNH-80",
+    "Type": "PM",
+    "Omschrijving": "Personeel/Materieelvoertuig",
+    "Merk (& Type)": "Nissan Primastar",
     "Kazerne": "Groningen Sontweg",
     "Adres": "Sontweg 10, 9723AT, Groningen"
   },
@@ -1118,12 +1121,13 @@
   {
     "Regio": "01",
     "Roepnummer": "01-1910",
-    "Kenteken": "49-VJG-6",
-    "Type": "WO-RES",
-    "Omschrijving": "Waterongevallenvoertuig - Reserve",
+    "Kenteken": "5-VGH-41",
+    "Type": "ORT",
+    "Omschrijving": "Oppervlakte Redding Team",
+    "Toevoeging": "Reserve",
     "Merk (& Type)": "Mercedes-Benz Sprinter",
-    "Kazerne": "Groningen Sontweg",
-    "Adres": "Sontweg 10, 9723AT, Groningen"
+    "Kazerne": "Delfzijl",
+    "Adres": "Hogelandsterweg 1, 9934RM, Delfzijl"
   },
   {
     "Regio": "01",
@@ -1202,7 +1206,7 @@
   {
     "Regio": "01",
     "Roepnummer": "01-2101",
-    "Kenteken": "7-ZLP-96",
+    "Kenteken": "7-ZLP-94",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
     "Merk (& Type)": "Volkswagen Polo",
@@ -1212,7 +1216,7 @@
   {
     "Regio": "01",
     "Roepnummer": "01-2103",
-    "Kenteken": "7-ZLP-94",
+    "Kenteken": "7-ZLP-96",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
     "Merk (& Type)": "Volkswagen Polo",
@@ -1242,12 +1246,12 @@
   {
     "Regio": "01",
     "Roepnummer": "01-2131",
-    "Kenteken": "BN-BR-92",
+    "Kenteken": "BV-DZ-28",
     "Type": "TS-7",
     "Omschrijving": "Tankautospuit\u00a07 mans\u00a0bezetting",
-    "Merk (& Type)": "Mercedes-Benz Atego",
-    "Kazerne": "Hoogezand-Sappemeer",
-    "Adres": "Rembrandtlaan 8, 9601XC, Hoogezand"
+    "Merk (& Type)": "MAN TGM 15.240BL",
+    "Kazerne": "Delfzijl",
+    "Adres": "Hogelandsterweg 1, 9934RM, Delfzijl"
   },
   {
     "Regio": "01",
@@ -1262,10 +1266,10 @@
   {
     "Regio": "01",
     "Roepnummer": "01-2150",
-    "Kenteken": "BN-ZV-13",
+    "Kenteken": "23-BVG-5",
     "Type": "HW",
     "Omschrijving": "Hoogwerker",
-    "Merk (& Type)": "Mercedes-Benz Econic",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "Hoogezand-Sappemeer",
     "Adres": "Rembrandtlaan 8, 9601XC, Hoogezand"
   },
@@ -1300,10 +1304,10 @@
   {
     "Regio": "01",
     "Roepnummer": "01-2182",
-    "Kenteken": "BF-XZ-65",
+    "Kenteken": "BX-NV-64",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
-    "Merk (& Type)": "DAF AE65NC",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "Hoogezand-Sappemeer",
     "Adres": "Rembrandtlaan 8, 9601XC, Hoogezand"
   },
@@ -1340,10 +1344,10 @@
   {
     "Regio": "01",
     "Roepnummer": "01-2231",
-    "Kenteken": "BN-ZL-32",
-    "Type": "TS-6",
-    "Omschrijving": "Tankautospuit\u00a06 mans\u00a0bezetting",
-    "Merk (& Type)": "MAN M2000 14.250LLF",
+    "Kenteken": "22-BTF-2",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "DAF",
     "Kazerne": "Harkstede",
     "Adres": "Dorpshuisweg 30a, 9617BN, Harkstede"
   },
@@ -1585,10 +1589,10 @@
   {
     "Regio": "01",
     "Roepnummer": "01-2582",
-    "Kenteken": "BX-NV-64",
+    "Kenteken": "54-BRS-5",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
-    "Merk (& Type)": "Volvo",
+    "Merk (& Type)": "DAF",
     "Kazerne": "Veendam",
     "Adres": "Langeleegte 2, 9641GN, Veendam"
   },
@@ -2042,12 +2046,12 @@
   {
     "Regio": "01",
     "Roepnummer": "01-3011",
-    "Kenteken": "5-VGH-41",
+    "Kenteken": "VPG-34-T",
     "Type": "ORT",
     "Omschrijving": "Oppervlakte Redding Team",
-    "Merk (& Type)": "Mercedes-Benz Sprinter",
-    "Kazerne": "Delfzijl",
-    "Adres": "Hogelandsterweg 1, 9934RM, Delfzijl"
+    "Merk (& Type)": "Mercedes-Benz",
+    "Kazerne": "Groningen Sontweg",
+    "Adres": "Sontweg 10, 9723AT, Groningen"
   },
   {
     "Regio": "01",
@@ -2082,16 +2086,6 @@
     "Type": "TS-7",
     "Omschrijving": "Tankautospuit\u00a07 mans\u00a0bezetting",
     "Merk (& Type)": "DAF",
-    "Kazerne": "Delfzijl",
-    "Adres": "Hogelandsterweg 1, 9934RM, Delfzijl"
-  },
-  {
-    "Regio": "01",
-    "Roepnummer": "01-3033",
-    "Kenteken": "BV-DZ-28",
-    "Type": "TS-7",
-    "Omschrijving": "Tankautospuit\u00a07 mans\u00a0bezetting",
-    "Merk (& Type)": "MAN TGM 15.240BL",
     "Kazerne": "Delfzijl",
     "Adres": "Hogelandsterweg 1, 9934RM, Delfzijl"
   },
@@ -2280,16 +2274,6 @@
     "Regio": "01",
     "Roepnummer": "01-3301",
     "Kenteken": "8-VNF-01",
-    "Type": "PM",
-    "Omschrijving": "Personeel/Materieelvoertuig",
-    "Merk (& Type)": "Nissan Primastar",
-    "Kazerne": "Uithuizen",
-    "Adres": "Nijverheidsweg 16, 9981GJ, Uithuizen"
-  },
-  {
-    "Regio": "01",
-    "Roepnummer": "01-3302",
-    "Kenteken": "2-VNH-80",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
     "Merk (& Type)": "Nissan Primastar",
