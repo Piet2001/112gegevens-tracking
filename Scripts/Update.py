@@ -34,7 +34,7 @@ for x in brw:
 
 print("Check ambulance")
 for x in amb_new:
-    if next((False for y in brw if y["Roepnummer"] == x["Roepnummer"]), True):
+    if next((False for y in amb if y["Roepnummer"] == x["Roepnummer"]), True):
         discord.webhook(f'{x["Roepnummer"]} has been added ```{x}```')
         time.sleep(10)
         continue
