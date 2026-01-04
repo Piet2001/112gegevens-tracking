@@ -11689,10 +11689,12 @@
   {
     "Regio": "06",
     "Roepnummer": "06-8102",
+    "Kenteken": "H-624-BH\r\n",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Kazerne": "Lochem",
-    "Adres": "Albert Hahnweg 7, 7242EA, Lochem"
+    "Merk (& Type)": "Volkswagen Polo",
+    "Kazerne": "Doetinchem",
+    "Adres": "Stokhorstweg 1, 7006GA, Doetinchem"
   },
   {
     "Regio": "06",
@@ -36732,7 +36734,7 @@
     "Regio": "19",
     "Roepnummer": "19-8597",
     "Type": "DV\u2010IMC",
-    "Omschrijving": "Dienstvoertuig Informatie Manger CoPI",
+    "Omschrijving": "Omschrijving NOT FOUND",
     "Toevoeging": "COPI",
     "Kazerne": "Middelburg"
   },
@@ -41375,6 +41377,17 @@
   },
   {
     "Regio": "22",
+    "Roepnummer": "22-1082",
+    "Kenteken": "BH-JX-35",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Toevoeging": "Jeugdbrandweer",
+    "Merk (& Type)": "Mercedes-Benz",
+    "Kazerne": "Asten",
+    "Adres": "Floralaan 20, 5721CV, Asten"
+  },
+  {
+    "Regio": "22",
     "Roepnummer": "22-1101",
     "Kenteken": "85-XZB-6",
     "Type": "DA",
@@ -41422,16 +41435,6 @@
     "Merk (& Type)": "DAF CF",
     "Kazerne": "Luyksgestel",
     "Adres": "Zoeferbeemd 14, 5575CE, Luyksgestel"
-  },
-  {
-    "Regio": "22",
-    "Roepnummer": "22-1301",
-    "Kenteken": "58-XN-GS",
-    "Type": "DA",
-    "Omschrijving": "Dienstauto",
-    "Merk (& Type)": "Peugeot Partner",
-    "Kazerne": "Best",
-    "Adres": "Willem de Zwijgerweg 1a, 5684SB, Best"
   },
   {
     "Regio": "22",
@@ -42559,16 +42562,6 @@
   },
   {
     "Regio": "22",
-    "Roepnummer": "22-49GM",
-    "Kenteken": "11-BD-NH",
-    "Type": "GM",
-    "Omschrijving": "Gereedschap/Materieelwagen",
-    "Merk (& Type)": "Ford Transit",
-    "Kazerne": "Bavaria Lieshout",
-    "Adres": "de Stater 5, 5737RV, Lieshout"
-  },
-  {
-    "Regio": "22",
     "Roepnummer": "22-5001",
     "Kenteken": "18-ZFX-5",
     "Type": "DA",
@@ -42680,7 +42673,7 @@
   {
     "Regio": "22",
     "Roepnummer": "22-5012",
-    "Kenteken": "H-624-BH",
+    "Kenteken": "H-627-BH",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
     "Merk (& Type)": "Volkswagen",
@@ -42744,8 +42737,8 @@
     "Type": "VK",
     "Omschrijving": "Verkenningsvoertuig",
     "Merk (& Type)": "Mercedes-Benz Citan",
-    "Kazerne": "Valkenswaard",
-    "Adres": "Maastrichterweg 51, 5554GE, Valkenswaard"
+    "Kazerne": "Bakel",
+    "Adres": "De Brakken 4, 5761AD, Bakel"
   },
   {
     "Regio": "22",
@@ -43077,14 +43070,6 @@
   },
   {
     "Regio": "22",
-    "Roepnummer": "22-5122",
-    "Type": "BOH-DC",
-    "Omschrijving": "Basis Ontsmettinghaakarmbak - Ontsmettingsunit Decontaminatie",
-    "Kazerne": "Bergeijk",
-    "Adres": "Borkelsedijk 15, 5571GA, Bergeijk"
-  },
-  {
-    "Regio": "22",
     "Roepnummer": "22-5123",
     "Type": "CBRN-BU",
     "Omschrijving": "Chemische Biologische of Radiologische Nucleaire stoffen - Bevoorradings Unit",
@@ -43283,23 +43268,12 @@
   },
   {
     "Regio": "22",
-    "Roepnummer": "22-5196",
-    "Kenteken": "GH-693-B",
-    "Type": "DB-OVD",
-    "Omschrijving": "Dienstbus - Officier van Dienst",
-    "Merk (& Type)": "Volkswagen Transporter",
-    "Kazerne": "ROC Waalre",
-    "Adres": "Engelse Tuin 1, 5583CT, Waalre"
-  },
-  {
-    "Regio": "22",
     "Roepnummer": "22-5197",
     "Kenteken": "S-051-NH",
     "Type": "DB-OVD",
     "Omschrijving": "Dienstbus - Officier van Dienst",
     "Merk (& Type)": "Mercedes-Benz Vito",
-    "Kazerne": "ROC Waalre",
-    "Adres": "Engelse Tuin 1, 5583CT, Waalre"
+    "Kazerne": "Regionaal"
   },
   {
     "Regio": "22",
@@ -43359,7 +43333,7 @@
   {
     "Regio": "22",
     "Roepnummer": "22-5281",
-    "Kenteken": "BX-JV-82",
+    "Kenteken": "BX-JV-85",
     "Type": "HA-T",
     "Omschrijving": "Haakarmbakvoertuig-Terreinvaardig",
     "Merk (& Type)": "Volvo",
@@ -43398,24 +43372,24 @@
     "Regio": "22",
     "Roepnummer": "22-5286",
     "Kenteken": "WX-TH-15",
-    "Type": "VT",
-    "Omschrijving": "Veetakel",
-    "Toevoeging": "aanhanger",
+    "Type": "VIA",
+    "Omschrijving": "Veetakelinstallatie aanhanger",
     "Kazerne": "Bakel",
     "Adres": "De Brakken 4, 5761AD, Bakel"
   },
   {
     "Regio": "22",
     "Roepnummer": "22-5287",
-    "Type": "VT",
-    "Omschrijving": "Veetakel",
+    "Kenteken": "13-WF-XF",
+    "Type": "VIA",
+    "Omschrijving": "Veetakelinstallatie aanhanger",
     "Kazerne": "Vessem",
     "Adres": "Wilhelminalaan 44, 5512BK, Vessem"
   },
   {
     "Regio": "22",
     "Roepnummer": "22-5289",
-    "Kenteken": "BP-TT-40",
+    "Kenteken": "06-BTJ-6",
     "Type": "VW-LO",
     "Omschrijving": "Vrachtwagen - Logistiek en Ondersteuning",
     "Merk (& Type)": "DAF",
@@ -43525,8 +43499,10 @@
   {
     "Regio": "22",
     "Roepnummer": "22-5484",
-    "Type": "OMA",
-    "Omschrijving": "Oefen Materiaal Aanhanger",
+    "Kenteken": "WV-TH-02",
+    "Type": "BMA",
+    "Omschrijving": "Bijzonder materieel Aanhanger",
+    "Toevoeging": "Oefenen",
     "Kazerne": "ROC Waalre",
     "Adres": "Engelse Tuin 1, 5583CT, Waalre"
   },
@@ -43560,10 +43536,10 @@
   {
     "Regio": "22",
     "Roepnummer": "22-5498",
-    "Kenteken": "KL-992-G",
-    "Type": "DB-IM",
-    "Omschrijving": "Dienstbus - Informatie Manager",
-    "Merk (& Type)": "Volkswagen Transporter",
+    "Kenteken": "X-736-TG",
+    "Type": "DV-IMC",
+    "Omschrijving": "Dienstvoertuig Informatie Manger CoPI",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Regionaal"
   },
   {
@@ -43603,6 +43579,14 @@
     "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Son en Breugel",
     "Adres": "Rooijseweg 1, 5691PA, Son"
+  },
+  {
+    "Regio": "22",
+    "Roepnummer": "26-8229",
+    "Type": "DCH",
+    "Omschrijving": "Decontaminatiehaakarmbak",
+    "Kazerne": "Bergeijk",
+    "Adres": "Borkelsedijk 15, 5571GA, Bergeijk"
   },
   {
     "Regio": "22",
