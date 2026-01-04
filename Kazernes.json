@@ -1,0 +1,4944 @@
+[
+    {
+        "Regio": "01",
+        "Kazerne naam": "Appingedam",
+        "Adres": "Dijkhuizenweg 28, 9903AC, Appingedam"
+    },
+    {
+        "Regio": "01",
+        "Kazerne naam": "Test",
+        "Adres": "Dijkhuizenweg 28, 9903AC, Appingedam"
+    },
+    {
+        "Regio": "01",
+        "Kazerne naam": "Baflo",
+        "Adres": "Laurentiusstraat 4, 9953PS, Baflo test"
+    },
+    {
+        "Regio": "01",
+        "Kazerne naam": "Bedum",
+        "Adres": "Industrieweg 15, 9781AC, Bedum"
+    },
+    {
+        "Regio": "01",
+        "Kazerne naam": "Bellingwolde",
+        "Adres": "Blijhamsterweg 34a, 9695BA, Bellingwolde"
+    },
+    {
+        "Regio": "01",
+        "Kazerne naam": "Bierum",
+        "Adres": "Spijksterweg 5, 9906PA, Bierum"
+    },
+    {
+        "Regio": "01",
+        "Kazerne naam": "Bosbrandweer",
+        "Adres": "Jacob Hansens de Boerstraat 35, 9365PL, Niebert"
+    },
+    {
+        "Regio": "01",
+        "Kazerne naam": "Delfzijl",
+        "Adres": "Hogelandsterweg 1, 9934RM, Delfzijl"
+    },
+    {
+        "Regio": "01",
+        "Kazerne naam": "Falck (Chemiepark Delfzijl)",
+        "Adres": "Oosterhorn 4e, 9936HD, Delfzijl"
+    },
+    {
+        "Regio": "01",
+        "Kazerne naam": "Finsterwolde",
+        "Adres": "Bospad 1, 9684AW, Finsterwolde"
+    },
+    {
+        "Regio": "01",
+        "Kazerne naam": "Grijpskerk",
+        "Adres": "Bouwhuisstraat 20, 9843BC, Grijpskerk"
+    },
+    {
+        "Regio": "01",
+        "Kazerne naam": "Groningen Sontweg",
+        "Adres": "Sontweg 10, 9723AT, Groningen"
+    },
+    {
+        "Regio": "01",
+        "Kazerne naam": "Groningen Vinkhuizen",
+        "Adres": "Diamantlaan 168, 9743BK, Groningen"
+    },
+    {
+        "Regio": "01",
+        "Kazerne naam": "Grootegast",
+        "Adres": "Rondweg 15, 9861GK, Grootegast"
+    },
+    {
+        "Regio": "01",
+        "Kazerne naam": "Haren",
+        "Adres": "Felland Noord 2, 9753TB, Haren"
+    },
+    {
+        "Regio": "01",
+        "Kazerne naam": "Harkstede",
+        "Adres": "Dorpshuisweg 30a, 9617BN, Harkstede"
+    },
+    {
+        "Regio": "01",
+        "Kazerne naam": "Hoogezand-Sappemeer",
+        "Adres": "Rembrandtlaan 8, 9601XC, Hoogezand"
+    },
+    {
+        "Regio": "01",
+        "Kazerne naam": "Leek",
+        "Adres": "Tolberterstraat 74, 9351BJ, Leek"
+    },
+    {
+        "Regio": "01",
+        "Kazerne naam": "Loppersum",
+        "Adres": "Pomonaweg 3, 9919HS, Loppersum"
+    },
+    {
+        "Regio": "01",
+        "Kazerne naam": "Marum",
+        "Adres": "Kruisweg 40, 9363AE, Marum"
+    },
+    {
+        "Regio": "01",
+        "Kazerne naam": "Middelstum",
+        "Adres": "Delleweg 21, 9991CG, Middelstum"
+    },
+    {
+        "Regio": "01",
+        "Kazerne naam": "Nieuwe Pekela",
+        "Adres": "Pekelwerk 8, 9663AW, Nieuwe Pekela"
+    },
+    {
+        "Regio": "01",
+        "Kazerne naam": "Oldehove",
+        "Adres": "Englumstraat 6, 9883PE, Oldehove"
+    },
+    {
+        "Regio": "01",
+        "Kazerne naam": "Oude Pekela",
+        "Adres": "Burg. Snaterlaan 42, 9665HR, Oude Pekela"
+    },
+    {
+        "Regio": "01",
+        "Kazerne naam": "Scheemda",
+        "Adres": "Zwaagsterweg 2e, 9679BH, Scheemda"
+    },
+    {
+        "Regio": "01",
+        "Kazerne naam": "Siddeburen",
+        "Adres": "Oudeweg 140a, 9628CH, Siddeburen"
+    },
+    {
+        "Regio": "01",
+        "Kazerne naam": "Slochteren",
+        "Adres": "Verlengde Veenlaan 1, 9621TP, Slochteren"
+    },
+    {
+        "Regio": "01",
+        "Kazerne naam": "Stadskanaal",
+        "Adres": "Veenstraat 8, 9502EZ, Stadskanaal"
+    },
+    {
+        "Regio": "01",
+        "Kazerne naam": "Ten Boer",
+        "Adres": "Boltweg 1, 9791AC, Ten Boer"
+    },
+    {
+        "Regio": "01",
+        "Kazerne naam": "Ter Apel",
+        "Adres": "Heemker Akkerstraat 1, 9561KD, Ter Apel"
+    },
+    {
+        "Regio": "01",
+        "Kazerne naam": "Uithuizen",
+        "Adres": "Nijverheidsweg 16, 9981GJ, Uithuizen"
+    },
+    {
+        "Regio": "01",
+        "Kazerne naam": "Veendam",
+        "Adres": "Langeleegte 2, 9641GN, Veendam"
+    },
+    {
+        "Regio": "01",
+        "Kazerne naam": "Vlagtwedde",
+        "Adres": "Nieuwe Weg 1, 9541EG, Vlagtwedde"
+    },
+    {
+        "Regio": "01",
+        "Kazerne naam": "Wagenborgen",
+        "Adres": "De Elzen 4, 9945NA, Wagenborgen"
+    },
+    {
+        "Regio": "01",
+        "Kazerne naam": "Wehe-den Hoorn",
+        "Adres": "W.H. Timersmastraat 7, 9964AZ, Wehe den Hoorn"
+    },
+    {
+        "Regio": "01",
+        "Kazerne naam": "Winschoten",
+        "Adres": "Molenweg 2, 9675JC, Winschoten"
+    },
+    {
+        "Regio": "01",
+        "Kazerne naam": "Winsum",
+        "Adres": "Meeden 2, 9951HT, Winsum"
+    },
+    {
+        "Regio": "01",
+        "Kazerne naam": "Woldendorp",
+        "Adres": "A.E. Gorterweg 30, 9946PD, Woldendorp"
+    },
+    {
+        "Regio": "01",
+        "Kazerne naam": "Zoutkamp",
+        "Adres": "Marnestraat 3, 9974RB, Zoutkamp"
+    },
+    {
+        "Regio": "01",
+        "Kazerne naam": "Zuidbroek",
+        "Adres": "Europaweg 6, 9636HT, Zuidbroek"
+    },
+    {
+        "Regio": "01",
+        "Kazerne naam": "Zuidhorn",
+        "Adres": "Boslaan 16, 9801HG, Zuidhorn"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Akkrum",
+        "Adres": "It Vegelinskampke 12, 8491PD, Akkrum"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Anjum",
+        "Adres": "Buorfinne 11, 9133NR, Anjum"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Appelscha",
+        "Adres": "Industrieweg 8c, 8426AA Appelscha"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Bakhuizen",
+        "Adres": "Teeuwes de Boerstraat 23, 8574SC, Bakhuizen"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Balk",
+        "Adres": "Herman Gorterstraat 12, 8561BS, Balk"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Beetsterzwaag",
+        "Adres": "Van Lyndenlaan 1, 9244BV, Beetsterzwaag"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Bolsward",
+        "Adres": "Hichtumerweg 17, 8701PG, Bolsward"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Buitenpost",
+        "Adres": "Vaart 4, 9285TX, Buitenpost"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Burgum",
+        "Adres": "Mr. W.M. Oppedijk van Veenweg 24a, 9251GA, Burgum"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Damwâld",
+        "Adres": "De Moarrewei 24, 9104LA, Damwâld"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "De Westereen",
+        "Adres": "Roazeloane 70, 9271VT, De Westereen"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Dokkum",
+        "Adres": "Rondweg Noord 28, 9101AD, Dokkum"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Drachten",
+        "Adres": "Loswal 1, 9206AH, Drachten"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Drogeham",
+        "Adres": "De Droegehamster Feart 6, 9289HH, Drogeham"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Echten",
+        "Adres": "Middenweg 21, 8537SN, Echten"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Ferwert",
+        "Adres": "Prof. Heymansstraat 2, 9172NV, Ferwert"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Franeker",
+        "Adres": "Burgemeester J. Dijkstraweg 13, 8801PG, Franeker"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Giekerk",
+        "Adres": "R. van Nautaweg 4d, 9061AE, Giekerk"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Gorredijk",
+        "Adres": "Leitswei 3, 8401CL, Gorredijk"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Grou",
+        "Adres": "Oedsmawei 17, 9001ZJ, Grou"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Hallum",
+        "Adres": "It Blikkelan 15, 9074CM, Hallum"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Harlingen",
+        "Adres": "Westerzeedijk 11, 8862PK, Harlingen"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Haulerwijk",
+        "Adres": "Eikensingel 18, 8433JK, Haulerwijk"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Heeg",
+        "Adres": "De Draei 17, 8621CZ, Heeg"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Heerenveen",
+        "Adres": "It Hege Stik 8, 8445PZ, Heerenveen"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Hollum",
+        "Adres": "Fabrieksweg 30, 9161CG, Hollum"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Ijlst",
+        "Adres": "De Finne 1, 8651CW, Ijlst"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Joure",
+        "Adres": "Tolhûswei 6, 8501ZR, Joure"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Jubbega",
+        "Adres": "Siemen Brinksmaweg 26, 8411XH, Jubbega"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Kollum",
+        "Adres": "Tochmalaan 3, 9291BV, Kollum"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Koudum",
+        "Adres": "Tjalke van der Walstraat 32, 8723CA, Koudum"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Langweer",
+        "Adres": "Pontdyk 1, 8525DM, Langweer"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Leeuwarden-Hoofdpost",
+        "Adres": "Aldlânsdijk 11, 8934AA, Leeuwarden"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Leeuwarden-Noord",
+        "Adres": "Ludinga 1, 8918GH, Leeuwarden"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Lemmer",
+        "Adres": "Albert Koopmanstraat 1, 8531HC, Lemmer"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Makkum",
+        "Adres": "Waardwei 1, 8754HB, Makkum"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Mantgum",
+        "Adres": "Skillaerderdyk 15, 9022AV, Mantgum"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Marsum",
+        "Adres": "Sasker van Heringawei 41, 9034GC, Marsum"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Menaam",
+        "Adres": "Bitgumerdyk 17, 9036VS, Menaam"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Nes",
+        "Adres": "Ballumerweg 38, 9163GB, Nes"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Nieuwehorne",
+        "Adres": "Schoterlandseweg 69, 8414LP, Nieuwehorne"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Noordwolde",
+        "Adres": "Hellingstraat 2, 8391AD, Noordwolde"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Oldeberkoop",
+        "Adres": "Heerenveenseweg 2b, 8421PJ, Oldeberkoop"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Oosterwolde",
+        "Adres": "Dertien Aprilstraat 42a, 8431GE, Oosterwolde"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Oudega (tijdelijk2)",
+        "Adres": "Gariperwei 30, 9216VK, Oudega (tijdelijk2)"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Parrega",
+        "Adres": "Trekweg 116a, 8763MH, Parrega"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Scherpenzeel",
+        "Adres": "Grindweg 135, 8483JL, Scherpenzeel"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Schiermonnikoog",
+        "Adres": "Knuppeldam 6, 9166NZ, Schiermonnikoog"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Sint Annaparochie",
+        "Adres": "Warmoesstraat 61, 9076DM, Sint Annaparochie"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Sint Nicolaasga",
+        "Adres": "Slotweg 13, 8521MA, Sint Nicolaasga"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Sloten",
+        "Adres": "Wijckelerweg 171b, 8556XB, Sloten"
+    },
+    { "Regio": "02", "Kazerne naam": "Sneek", "Adres": "Malta 1, 8601GW, Sneek" },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Stavoren",
+        "Adres": "Meerweg 10, 8715EK, Stavoren"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Stiens",
+        "Adres": "It Noarderfjild 28, 9051BM, Stiens"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Surhuisterveen",
+        "Adres": "Lauwersweg 20, 9231GR, Surhuisterveen"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Ternaard",
+        "Adres": "Gysbert Japiksstrjitte 10, 9145RW, Ternaard"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Terschelling Midsland",
+        "Adres": "Midslander Hoofdweg 9, 8891GG, Midsland"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Tjalleberd",
+        "Adres": "De Kluft 1, 8458CW, Tjalleberd"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Ureterp",
+        "Adres": "De Gilden 21, 9247CX, Ureterp"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Veiligheidsregio Fryslân",
+        "Adres": "Harlingertrekweg 58, 8913HR, Leeuwarden"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Vlieland",
+        "Adres": "Willem de Vlaminghweg 43, 8899AT, Vlieland"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "West-Terschelling",
+        "Adres": "Burgemeester Eschauzierstraat 51, 8881AS, West-Terschelling"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Witmarsum",
+        "Adres": "Ulbe Hiemstrastrjitte 21, 8748DA, Witmarsum"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Wolvega",
+        "Adres": "Grafietstraat 1, 8472EB, Wolvega"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Wommels",
+        "Adres": "Terp 31, 8731AX, Wommels"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Workum",
+        "Adres": "Konvintsdyk 2, 8711GB, Workum"
+    },
+    {
+        "Regio": "02",
+        "Kazerne naam": "Woudsend",
+        "Adres": "Yndyksterleane 1a, 8551NR, Woudsend"
+    },
+    {
+        "Regio": "03",
+        "Kazerne naam": "Annen",
+        "Adres": "Spijkerboorsdijk 3, 9468CG, Annen"
+    },
+    {
+        "Regio": "03",
+        "Kazerne naam": "Assen-Oost",
+        "Adres": "Stelmakerstraat 28, 9403VB, Assen"
+    },
+    {
+        "Regio": "03",
+        "Kazerne naam": "Assen-West",
+        "Adres": "Mien Ruysweg 1, 9408KA, Assen"
+    },
+    {
+        "Regio": "03",
+        "Kazerne naam": "Beilen",
+        "Adres": "Gentiaan 24, 9411CL, Beilen"
+    },
+    {
+        "Regio": "03",
+        "Kazerne naam": "Borger",
+        "Adres": "Ijzertijdstraat 1, 9531RA, Borger"
+    },
+    {
+        "Regio": "03",
+        "Kazerne naam": "Coevorden",
+        "Adres": "Hulsvoorderdijk 2, 7741CX, Coevorden"
+    },
+    {
+        "Regio": "03",
+        "Kazerne naam": "De Wijk-Koekange",
+        "Adres": "Zuiderkanaalweg 16, 7957NK, De Wijk"
+    },
+    {
+        "Regio": "03",
+        "Kazerne naam": "Drenthe",
+        "Adres": "Mien Ruysweg 1, 9408KA, Assen"
+    },
+    {
+        "Regio": "03",
+        "Kazerne naam": "Dwingeloo",
+        "Adres": "Valderseweg 77, 7991BD, Dwingeloo"
+    },
+    {
+        "Regio": "03",
+        "Kazerne naam": "Eelde",
+        "Adres": "Burgemeester J.G. Legroweg 29a, 9761TA, Eelde"
+    },
+    {
+        "Regio": "03",
+        "Kazerne naam": "Emmen",
+        "Adres": "Nijbracht 43a, 7821CB, Emmen"
+    },
+    {
+        "Regio": "03",
+        "Kazerne naam": "Emmer-Compascuüm",
+        "Adres": "Kijlweg 1, 7881JD, Emmer-Compascuüm"
+    },
+    {
+        "Regio": "03",
+        "Kazerne naam": "Gasselternijveen",
+        "Adres": "Vogelshemweg 20, 9514BT, Gasselternijveen"
+    },
+    {
+        "Regio": "03",
+        "Kazerne naam": "Gieten",
+        "Adres": "Oelenboom 8a, 9461VA, Gieten"
+    },
+    {
+        "Regio": "03",
+        "Kazerne naam": "Groningen Airport Eelde",
+        "Adres": "Machlaan 38, 9761TK, Eelde"
+    },
+    {
+        "Regio": "03",
+        "Kazerne naam": "Havelte",
+        "Adres": "Molenweg 3a, 7971BJ, Havelte"
+    },
+    {
+        "Regio": "03",
+        "Kazerne naam": "Hoogeveen",
+        "Adres": "Industrieweg 2, 7902AA, Hoogeveen"
+    },
+    {
+        "Regio": "03",
+        "Kazerne naam": "Klazienaveen",
+        "Adres": "Derksweg 267, 7891PR, Klazienaveen"
+    },
+    {
+        "Regio": "03",
+        "Kazerne naam": "Meppel",
+        "Adres": "Paradijsweg 1, 7942HB, Meppel"
+    },
+    {
+        "Regio": "03",
+        "Kazerne naam": "Norg",
+        "Adres": "Eenerstraat 69, 9331VE, Norg"
+    },
+    {
+        "Regio": "03",
+        "Kazerne naam": "Peize",
+        "Adres": "De Aanleg 4, 9321DD, Peize"
+    },
+    {
+        "Regio": "03",
+        "Kazerne naam": "Roden",
+        "Adres": "Westeresch 20, 9301ZW, Roden"
+    },
+    {
+        "Regio": "03",
+        "Kazerne naam": "Rolde",
+        "Adres": "Grote Brink 22, 9451BP, Rolde"
+    },
+    {
+        "Regio": "03",
+        "Kazerne naam": "Ruinen",
+        "Adres": "Kloosterstraat 5, 7963AJ, Ruinen"
+    },
+    {
+        "Regio": "03",
+        "Kazerne naam": "Ruinerwold",
+        "Adres": "Gieser Wildemans 1, 7961GD, Ruinerwold"
+    },
+    {
+        "Regio": "03",
+        "Kazerne naam": "Schoonebeek",
+        "Adres": "De Pienhoek 16, 7761CB, Schoonebeek"
+    },
+    {
+        "Regio": "03",
+        "Kazerne naam": "Schoonoord",
+        "Adres": "Alle Boelensstraat 29, 7848CS, Schoonoord"
+    },
+    {
+        "Regio": "03",
+        "Kazerne naam": "Sleen",
+        "Adres": "Boelkenweg 7, 7841CG, Sleen"
+    },
+    {
+        "Regio": "03",
+        "Kazerne naam": "Smilde",
+        "Adres": "Hoofdweg 27, 9422AG, Smilde"
+    },
+    {
+        "Regio": "03",
+        "Kazerne naam": "Tweede Exloërmond",
+        "Adres": "Middenkijl 1, 9571TB, Tweede Exloërmond"
+    },
+    {
+        "Regio": "03",
+        "Kazerne naam": "Veenhuizen",
+        "Adres": "Oude Gracht 8, 9341AB, Veenhuizen"
+    },
+    {
+        "Regio": "03",
+        "Kazerne naam": "Vledder",
+        "Adres": "Kerkhoflaan 2, 8381BB, Vledder"
+    },
+    {
+        "Regio": "03",
+        "Kazerne naam": "Vries",
+        "Adres": "Westerstraat 26, 9481CB, Vries"
+    },
+    {
+        "Regio": "03",
+        "Kazerne naam": "Westerbork",
+        "Adres": "Sliemkampen 2, 9431JR, Westerbork"
+    },
+    {
+        "Regio": "03",
+        "Kazerne naam": "Zuidlaren",
+        "Adres": "Havenstraat 6, 9471AM, Zuidlaren"
+    },
+    {
+        "Regio": "03",
+        "Kazerne naam": "Zuidwolde",
+        "Adres": "Industrieweg 34, 7921JP, Zuidwolde"
+    },
+    {
+        "Regio": "03",
+        "Kazerne naam": "Zweeloo",
+        "Adres": "Burgemeester Tonkensstraat 5, 7851AG, Zweeloo"
+    },
+    {
+        "Regio": "03",
+        "Kazerne naam": "Zwinderen",
+        "Adres": "Brinkweg 5b, 7864TD, Zwinderen"
+    },
+    {
+        "Regio": "04",
+        "Kazerne naam": "Balkbrug",
+        "Adres": "Meppelerweg 2, 7701CN, Balkbrug"
+    },
+    {
+        "Regio": "04",
+        "Kazerne naam": "Bathmen",
+        "Adres": "Koekendijk 9, 7437CJ, Bathmen"
+    },
+    {
+        "Regio": "04",
+        "Kazerne naam": "Bergentheim",
+        "Adres": "Kanaalweg West 65a, 7691BV, Bergentheim"
+    },
+    {
+        "Regio": "04",
+        "Kazerne naam": "Dalfsen",
+        "Adres": "Prins Hendrikstraat 4, 7721CZ, Dalfsen"
+    },
+    {
+        "Regio": "04",
+        "Kazerne naam": "De Krim",
+        "Adres": "Hoofdweg 70, 7782PP, De Krim"
+    },
+    {
+        "Regio": "04",
+        "Kazerne naam": "Dedemsvaart",
+        "Adres": "Hoofdvaart 55a, 7701GW, Dedemsvaart"
+    },
+    {
+        "Regio": "04",
+        "Kazerne naam": "Deventer",
+        "Adres": "Schonenvaardersstraat 5, 7418CC, Deventer"
+    },
+    {
+        "Regio": "04",
+        "Kazerne naam": "Diepenveen",
+        "Adres": "Oranjelaan 63a, 7431AB, Diepenveen"
+    },
+    {
+        "Regio": "04",
+        "Kazerne naam": "Genemuiden",
+        "Adres": "Stuivenbergstraat 15, 8281EJ, Genemuiden"
+    },
+    {
+        "Regio": "04",
+        "Kazerne naam": "Giethoorn",
+        "Adres": "Bartus Warnersweg 1, 8355CZ, Giethoorn"
+    },
+    {
+        "Regio": "04",
+        "Kazerne naam": "Gramsbergen",
+        "Adres": "Oldenhof 4a, 7431AB, Gramsbergen"
+    },
+    {
+        "Regio": "04",
+        "Kazerne naam": "Hardenberg",
+        "Adres": "Europaweg 10, 7771BG, Hardenberg"
+    },
+    {
+        "Regio": "04",
+        "Kazerne naam": "Hasselt",
+        "Adres": "Tijlswegje 2, 8061JH, Hasselt"
+    },
+    {
+        "Regio": "04",
+        "Kazerne naam": "Heeten",
+        "Adres": "Ijzerweg 23, 8111CW, Heeten"
+    },
+    {
+        "Regio": "04",
+        "Kazerne naam": "Heino",
+        "Adres": "Marktstraat 72, 8141GC, Heino"
+    },
+    {
+        "Regio": "04",
+        "Kazerne naam": "Ijsselland",
+        "Adres": "Marsweg 39, 8013PE, Zwolle"
+    },
+    {
+        "Regio": "04",
+        "Kazerne naam": "Ijsselmuiden",
+        "Adres": "Goudplevier 121, 8271GB, Ijsselmuiden"
+    },
+    {
+        "Regio": "04",
+        "Kazerne naam": "Kampen",
+        "Adres": "Jan Ligthartstraat 9, 8265CJ, Kampen"
+    },
+    {
+        "Regio": "04",
+        "Kazerne naam": "Kuinre",
+        "Adres": "De Schans 4, 8374KD, Kuinre"
+    },
+    {
+        "Regio": "04",
+        "Kazerne naam": "Lemelerveld",
+        "Adres": "Nijverheidstraat 8, 8152AJ, Lemelerveld"
+    },
+    {
+        "Regio": "04",
+        "Kazerne naam": "Luttenberg",
+        "Adres": "Witte Hekke 8, 8105RC, Luttenberg"
+    },
+    {
+        "Regio": "04",
+        "Kazerne naam": "Nieuwleusen",
+        "Adres": "Westeinde 19b, 7711CH, Nieuwleusen"
+    },
+    {
+        "Regio": "04",
+        "Kazerne naam": "Oldemarkt",
+        "Adres": "Industrieweg 3, 8375AW, Oldemarkt"
+    },
+    {
+        "Regio": "04",
+        "Kazerne naam": "Olst",
+        "Adres": "Industrieweg 3, 8121BZ, Olst"
+    },
+    {
+        "Regio": "04",
+        "Kazerne naam": "Ommen",
+        "Adres": "Schurinkstraat 44a, 7731GE, Ommen"
+    },
+    {
+        "Regio": "04",
+        "Kazerne naam": "Raalte",
+        "Adres": "Aakstraat 2, 8102HH, Raalte"
+    },
+    {
+        "Regio": "04",
+        "Kazerne naam": "Slagharen",
+        "Adres": "Coevorderweg-Noord 36a, 7776AC, Slagharen"
+    },
+    {
+        "Regio": "04",
+        "Kazerne naam": "Staphorst",
+        "Adres": "Gemeenteweg 36, 7951CN, Staphorst"
+    },
+    {
+        "Regio": "04",
+        "Kazerne naam": "Steenwijk",
+        "Adres": "Vendelweg 3, 8331XE, Steenwijk"
+    },
+    {
+        "Regio": "04",
+        "Kazerne naam": "Vollenhove",
+        "Adres": "De Weyert 1, 8325EM, Vollenhove"
+    },
+    {
+        "Regio": "04",
+        "Kazerne naam": "Welsum",
+        "Adres": "Kapellenkamp 2, 8196MA, Welsum"
+    },
+    {
+        "Regio": "04",
+        "Kazerne naam": "Wesepe",
+        "Adres": "Eikenweg 3, 8124RH, Wesepe"
+    },
+    {
+        "Regio": "04",
+        "Kazerne naam": "Wijhe",
+        "Adres": "Industrieweg 6, 8131VZ, Wijhe"
+    },
+    {
+        "Regio": "04",
+        "Kazerne naam": "Zwartsluis",
+        "Adres": "Zomerdijk 41a, 8064XB, Zwartsluis"
+    },
+    {
+        "Regio": "04",
+        "Kazerne naam": "Zwolle-Noord",
+        "Adres": "Middelweg 235, 8021CN, Zwolle"
+    },
+    {
+        "Regio": "04",
+        "Kazerne naam": "Zwolle-Zuid",
+        "Adres": "Marsweg 39, 8013PE, Zwolle"
+    },
+    {
+        "Regio": "05",
+        "Kazerne naam": "Almelo",
+        "Adres": "Brugstraat 6, 7607XG, Almelo"
+    },
+    {
+        "Regio": "05",
+        "Kazerne naam": "Boekelo",
+        "Adres": "Verzetslaan 21, 7548EM, Boekelo"
+    },
+    {
+        "Regio": "05",
+        "Kazerne naam": "Borne",
+        "Adres": "De Bieffel 11, 7622BM, Borne"
+    },
+    {
+        "Regio": "05",
+        "Kazerne naam": "De Lutte",
+        "Adres": "Lossersestraat 16, 7587PX, De Lutte"
+    },
+    {
+        "Regio": "05",
+        "Kazerne naam": "Delden",
+        "Adres": "De Berken 2b, 7491HJ, Delden"
+    },
+    {
+        "Regio": "05",
+        "Kazerne naam": "Den Ham",
+        "Adres": "Dorpsstraat 49, 7683BH, Den Ham"
+    },
+    {
+        "Regio": "05",
+        "Kazerne naam": "Denekamp",
+        "Adres": "Nordhornsestraat 66, 7591BH, Denekamp"
+    },
+    {
+        "Regio": "05",
+        "Kazerne naam": "Diepenheim",
+        "Adres": "Wilsonweg 6, 7478BA, Diepenheim"
+    },
+    {
+        "Regio": "05",
+        "Kazerne naam": "Enschede-Centrum",
+        "Adres": "Spaansland 20, 7543BG, Enschede"
+    },
+    {
+        "Regio": "05",
+        "Kazerne naam": "Enschede-Noord",
+        "Adres": "Lijsterstraat 15, 7523ER, Enschede"
+    },
+    {
+        "Regio": "05",
+        "Kazerne naam": "Enter",
+        "Adres": "Vonderweg 2, 7468DC, Enter"
+    },
+    {
+        "Regio": "05",
+        "Kazerne naam": "Glanerbrug",
+        "Adres": "Heidevlinder 2a, 7534LS, Glanerbrug"
+    },
+    {
+        "Regio": "05",
+        "Kazerne naam": "Goor",
+        "Adres": "Van Kollaan 19, 7471DP, Goor"
+    },
+    {
+        "Regio": "05",
+        "Kazerne naam": "Haaksbergen",
+        "Adres": "Parallelweg 2, 7482CA, Haaksbergen"
+    },
+    {
+        "Regio": "05",
+        "Kazerne naam": "Hellendoorn",
+        "Adres": "Kasteelstraat 9, 7447AW, Hellendoorn"
+    },
+    {
+        "Regio": "05",
+        "Kazerne naam": "Hengelo-Centrum",
+        "Adres": "Lansinkesweg 59, 7553AE, Hengelo"
+    },
+    {
+        "Regio": "05",
+        "Kazerne naam": "Hengelo-Noord",
+        "Adres": "Torenlaan 2a, 7559PJ, Hengelo"
+    },
+    { "Regio": "05", "Kazerne naam": "Holten", "Adres": "Eg 15, 7451XS, Holten" },
+    {
+        "Regio": "05",
+        "Kazerne naam": "Losser",
+        "Adres": "Broekhoekweg 40, 7582PT, Losser"
+    },
+    {
+        "Regio": "05",
+        "Kazerne naam": "Markelo",
+        "Adres": "Schoolstraat 13a, 7475AH, Markelo"
+    },
+    {
+        "Regio": "05",
+        "Kazerne naam": "Nijverdal",
+        "Adres": "Kerkstraat 138B, 7442EH, Nijverdal"
+    },
+    {
+        "Regio": "05",
+        "Kazerne naam": "Oldenzaal",
+        "Adres": "Ossenmaatstraat 1, 7572BT, Oldenzaal"
+    },
+    {
+        "Regio": "05",
+        "Kazerne naam": "Ootmarsum",
+        "Adres": "Laagsestraat 4, 7631AM, Ootmarsum"
+    },
+    {
+        "Regio": "05",
+        "Kazerne naam": "Rijssen",
+        "Adres": "Molenstalweg 17, 7462AE, Rijssen"
+    },
+    {
+        "Regio": "05",
+        "Kazerne naam": "Tubbergen",
+        "Adres": "Reutummerweg 6, 7651KL, Tubbergen"
+    },
+    {
+        "Regio": "05",
+        "Kazerne naam": "Vriezenveen",
+        "Adres": "De Zuivering 30, 7671SP, Vriezenveen"
+    },
+    {
+        "Regio": "05",
+        "Kazerne naam": "Vroomshoop",
+        "Adres": "Plantsoen 8, 7681XN, Vroomshoop"
+    },
+    {
+        "Regio": "05",
+        "Kazerne naam": "Weerselo",
+        "Adres": "Legtenbergerstraat 3-5, 7595XA, Weerselo"
+    },
+    {
+        "Regio": "05",
+        "Kazerne naam": "Wierden",
+        "Adres": "Tulpenstraat 1, 7641CJ, Wierden"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Aalten",
+        "Adres": "Tramstraat 1, 7121DD, Aalten"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Almen",
+        "Adres": "Berkelweg 2a, 7218AS, Almen"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Apeldoorn Centrum",
+        "Adres": "Vosselmanstraat 203, 7311CL, Apeldoorn"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Apeldoorn-De Maten",
+        "Adres": "Beatrijsgaarde 2, 7329BK, Apeldoorn"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Apeldoorn-Zuid",
+        "Adres": "Saba 6, 7332BH, Apeldoorn"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Barchem",
+        "Adres": "Van Damstraat 2, 7244BJ, Barchem"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Beekbergen",
+        "Adres": "Van Schaffelaarweg 2, 7361AG, Beekbergen"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Bergh",
+        "Adres": "Zeddamseweg 77b, 7041CN, 's-Heerenberg"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Borculo",
+        "Adres": "Haarloseweg 2-02, 7271BT, Borculo"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Brummen",
+        "Adres": "Oude Eerbeekseweg 44, 6971BM, Brummen"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Didam",
+        "Adres": "Burgemeester Kronenburglaan 6, 6942AH, Didam"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Dinxperlo",
+        "Adres": "Nieuwstraat 2, 7091DG, Dinxperlo"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Doetinchem",
+        "Adres": "Stokhorstweg 1, 7006GA, Doetinchem"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Eerbeek",
+        "Adres": "Smeestraat 4a, 6961DH, Eerbeek"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Eibergen",
+        "Adres": "Nijverheidsstraat 2, 7151HN, Eibergen"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Elburg",
+        "Adres": "Oostendorperstraatweg 8, 8081RK, Elburg"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Elspeet",
+        "Adres": "Vierhouterweg 22a, 8075BJ, Elspeet"
+    },
+    { "Regio": "06", "Kazerne naam": "Epe", "Adres": "Kweekweg 1, 8161PE, Epe" },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Ermelo",
+        "Adres": "Oude Telgterweg 181, 3851EC, Ermelo"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Gendringen",
+        "Adres": "Nijverheidsweg 27, 7081AE, Gendringen"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Gorssel",
+        "Adres": "Hoofdstraat 14A, 7213CV, Gorssel"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Groenlo",
+        "Adres": "Oude Winterswijkseweg 20, 7141DG, Groenlo"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Harderwijk",
+        "Adres": "Maltezerlaan 1, 3842AZ, Harderwijk"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Hattem",
+        "Adres": "Verlengde Parklaan 36, 8051VB, Hattem"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Heerde",
+        "Adres": "Rhijnsburglaan 52, 8181XT, Heerde"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Hengelo",
+        "Adres": "Zelhemseweg 27, 7255PT, Hengelo"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Hierden",
+        "Adres": "Ooster Mheenweg 6, 3849PB, Hierden"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Hoenderloo",
+        "Adres": "Brinkenbergweg 6, 7351BD, Hoenderloo"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Hoog Soeren",
+        "Adres": "Hoog Soeren 52, 7346AJ, Hoog-Soeren"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Klarenbeek",
+        "Adres": "Klarenbeekseweg 127a, 7381BE, Klarenbeek"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Laren",
+        "Adres": "Zutphenseweg 22, 7245BL, Laren"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Lichtenvoorde",
+        "Adres": "Vragenderweg 5, 7131NS, Lichtenvoorde"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Lochem",
+        "Adres": "Albert Hahnweg 7, 7242EA, Lochem"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Loenen",
+        "Adres": "Leeuwenbergweg 13, 7371AL, Loenen"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Logistieke Eenheid VNOG",
+        "Adres": "Saba 6, 7332BH, Apeldoorn"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Neede",
+        "Adres": "Oude Eibergseweg 20, 7161RN, Neede"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Noord- en Oost-Gelderland",
+        "Adres": "Europaweg 79, 7336AK, Apeldoorn"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Nunspeet",
+        "Adres": "Elburgerweg 13, 8071TA, Nunspeet"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Oene",
+        "Adres": "Dorpsstraat 5, 8167NK, Oene"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Oldebroek",
+        "Adres": "Spronksweg 12, 8096AP, Oldebroek"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Putten",
+        "Adres": "Kelnarijstraat 10a, 3881CB, Putten"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Ruurlo",
+        "Adres": "Groenloseweg 10a, 7261AN, Ruurlo"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Silvolde",
+        "Adres": "De Breide 74, 7064AT, Silvolde"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Steenderen",
+        "Adres": "Dr. Alfons Ariënsstraat 33c, 7221CA, Steenderen"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Terwolde",
+        "Adres": "Dorpsstraat 57, 7396AL, Terwolde"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Twello",
+        "Adres": "Jupiter 4, 7391RK, Twello"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Uddel",
+        "Adres": "Uttilochweg 8, 3888LK, Uddel"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Ugchelen",
+        "Adres": "G.P. Duuringlaan 13, 7339BS, Ugchelen"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Vaassen",
+        "Adres": "Laan van Fasna 69, 8171KH, Vaassen"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Varsseveld",
+        "Adres": "Klaproosstraat 28, 7051ZH, Varsseveld"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Voorst",
+        "Adres": "Wilhelminaweg 22, 7383CA, Voorst"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Vorden",
+        "Adres": "Rondweg 6, 7251RV, Vorden"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Wapenveld",
+        "Adres": "W.H. van de Pollstraat 48, 8191DA, Wapenveld"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Wehl",
+        "Adres": "Didamseweg 26, 7031AM, Wehl"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Wehl-Logistiek",
+        "Adres": "Didamseweg 26, 7031AM, Wehl"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Wezep",
+        "Adres": "Rondweg 15, 8091XA, Wezep"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Winterswijk",
+        "Adres": "Europark 16, 7102AM, Winterswijk"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Zelhem",
+        "Adres": "Industriepark 2, 7021BL, Zelhem"
+    },
+    {
+        "Regio": "06",
+        "Kazerne naam": "Zutphen",
+        "Adres": "Gerard Doustraat 129, 7204EW, Zutphen"
+    },
+    {
+        "Regio": "07",
+        "Kazerne naam": "Arnhem-Noord",
+        "Adres": "Rietgrachtstraat 74, 6828KE, Arnhem"
+    },
+    {
+        "Regio": "07",
+        "Kazerne naam": "Arnhem-Zuid",
+        "Adres": "Groningensingel 1249, 6835HZ, Arnhem"
+    },
+    {
+        "Regio": "07",
+        "Kazerne naam": "Barneveld",
+        "Adres": "Nijkerkerweg 119, 3771LA, Barneveld"
+    },
+    {
+        "Regio": "07",
+        "Kazerne naam": "Bemmel",
+        "Adres": "Karstraat 18, 6681LB, Bemmel"
+    },
+    {
+        "Regio": "07",
+        "Kazerne naam": "Bennekom",
+        "Adres": "Bergakkerweg 2, 6721DV, Bennekom"
+    },
+    {
+        "Regio": "07",
+        "Kazerne naam": "De Valk",
+        "Adres": "Lage Valkseweg 119, 6741GB, Lunteren"
+    },
+    {
+        "Regio": "07",
+        "Kazerne naam": "Dieren",
+        "Adres": "Burgemeester Bloemersstraat 1, 6952BA, Dieren"
+    },
+    {
+        "Regio": "07",
+        "Kazerne naam": "Doesburg",
+        "Adres": "Halve Maanweg 3, 6982AM, Doesburg"
+    },
+    {
+        "Regio": "07",
+        "Kazerne naam": "Doornenburg",
+        "Adres": "Vijzelpad 9, 6686BV, Doornenburg"
+    },
+    {
+        "Regio": "07",
+        "Kazerne naam": "Doorwerth",
+        "Adres": "Van der Molenallee 10, 6865CG, Doorwerth"
+    },
+    {
+        "Regio": "07",
+        "Kazerne naam": "Duiven",
+        "Adres": "Ploenstraat 3, 6921PM, Duiven"
+    },
+    {
+        "Regio": "07",
+        "Kazerne naam": "Ede-Centrum",
+        "Adres": "Breelaan 4, 6711MR, Ede"
+    },
+    {
+        "Regio": "07",
+        "Kazerne naam": "Ede-Stadspoort",
+        "Adres": "Willy Brandtlaan 1, 6716RJ, Ede"
+    },
+    {
+        "Regio": "07",
+        "Kazerne naam": "Ederveen",
+        "Adres": "Sneeuwbesstraat 8, 6744PW, Ederveen"
+    },
+    {
+        "Regio": "07",
+        "Kazerne naam": "Elst",
+        "Adres": "De Korte Helster 1, 6661AE, Elst"
+    },
+    {
+        "Regio": "07",
+        "Kazerne naam": "Garderen",
+        "Adres": "Oud Milligenseweg 12, 3886ME, Garderen"
+    },
+    {
+        "Regio": "07",
+        "Kazerne naam": "Gendt",
+        "Adres": "Dorpstraat 72a, 6691BA, Gendt"
+    },
+    {
+        "Regio": "07",
+        "Kazerne naam": "Giesbeek",
+        "Adres": "Dorpsplein 7, 6987AH, Giesbeek"
+    },
+    {
+        "Regio": "07",
+        "Kazerne naam": "Harskamp",
+        "Adres": "Dorpsstraat 106A, 6732AG, Harskamp"
+    },
+    {
+        "Regio": "07",
+        "Kazerne naam": "Heteren",
+        "Adres": "Polderstraat 1, 6666LD, Heteren"
+    },
+    {
+        "Regio": "07",
+        "Kazerne naam": "Hoevelaken",
+        "Adres": "De Wel 5, 3871MT, Hoevelaken"
+    },
+    {
+        "Regio": "07",
+        "Kazerne naam": "Huissen",
+        "Adres": "Kampstuk 21, 6852AC, Huissen"
+    },
+    {
+        "Regio": "07",
+        "Kazerne naam": "ISK Harskamp",
+        "Adres": "Otterloseweg, 6732BS, Harskamp"
+    },
+    {
+        "Regio": "07",
+        "Kazerne naam": "Kootwijkerbroek",
+        "Adres": "Drieënhuizerweg 5, 3774RE, Kootwijkerbroek"
+    },
+    {
+        "Regio": "07",
+        "Kazerne naam": "Lobith",
+        "Adres": "Industrieweg 1a, 6915SH, Lobith"
+    },
+    {
+        "Regio": "07",
+        "Kazerne naam": "Lunteren",
+        "Adres": "Zilvervoslaan 29, 6741BE, Lunteren"
+    },
+    {
+        "Regio": "07",
+        "Kazerne naam": "Nijkerk",
+        "Adres": "Havenstraat 5, 3861VS, Nijkerk"
+    },
+    {
+        "Regio": "07",
+        "Kazerne naam": "Norske Skog Parenco",
+        "Adres": "Veerweg 1, 6871AV, Renkum"
+    },
+    {
+        "Regio": "07",
+        "Kazerne naam": "Oosterbeek",
+        "Adres": "Steijnweg 5, 6861DD, Oosterbeek"
+    },
+    {
+        "Regio": "07",
+        "Kazerne naam": "Oosterhout",
+        "Adres": "Dorpsstraat 3a, 6678BD, Oosterhout"
+    },
+    {
+        "Regio": "07",
+        "Kazerne naam": "Otterlo",
+        "Adres": "Harskamperweg 30a, 6731AB, Otterlo"
+    },
+    {
+        "Regio": "07",
+        "Kazerne naam": "Pannerden",
+        "Adres": "Renbaan 1c, 6911KH, Pannerden"
+    },
+    {
+        "Regio": "07",
+        "Kazerne naam": "Renkum",
+        "Adres": "Utrechtseweg 131, 6871DR, Renkum"
+    },
+    {
+        "Regio": "07",
+        "Kazerne naam": "Rheden",
+        "Adres": "Worth Rhedenseweg 66, 6991DX, Rheden"
+    },
+    {
+        "Regio": "07",
+        "Kazerne naam": "Scherpenzeel",
+        "Adres": "t Zwarte Land 27, 3925CK, Scherpenzeel"
+    },
+    {
+        "Regio": "07",
+        "Kazerne naam": "Schietkamp ASK `t Harde",
+        "Adres": "Eperweg 149, 8084HE, Het Harde"
+    },
+    {
+        "Regio": "07",
+        "Kazerne naam": "Valburg",
+        "Adres": "De Vang 1, 6675AC, Valburg"
+    },
+    {
+        "Regio": "07",
+        "Kazerne naam": "Velp",
+        "Adres": "Noorder Parallelweg 21, 6881RX, Velp"
+    },
+    {
+        "Regio": "07",
+        "Kazerne naam": "Voorthuizen",
+        "Adres": "Wheemstraat 10, 3781EE, Voorthuizen"
+    },
+    {
+        "Regio": "07",
+        "Kazerne naam": "Wageningen",
+        "Adres": "Marijkeweg 25, 6709PE, Wageningen"
+    },
+    {
+        "Regio": "07",
+        "Kazerne naam": "Wolfheze",
+        "Adres": "Parallelweg 2, 6874BJ, Wolfheze"
+    },
+    {
+        "Regio": "07",
+        "Kazerne naam": "Zetten",
+        "Adres": "Sint Walburg 1b, 6671AS, Zetten"
+    },
+    {
+        "Regio": "07",
+        "Kazerne naam": "Zevenaar",
+        "Adres": "Professor Aalbersestraat 3, 6904CA, Zevenaar"
+    },
+    {
+        "Regio": "07",
+        "Kazerne naam": "Zwartebroek",
+        "Adres": "Eendrachtstraat 48, 3785KV, Zwartebroek"
+    },
+    {
+        "Regio": "08",
+        "Kazerne naam": "Asperen",
+        "Adres": "Heukelumseweg 6c, 4147EW, Asperen"
+    },
+    {
+        "Regio": "08",
+        "Kazerne naam": "Beek-Ubbergen",
+        "Adres": "Nieuwe Rijksweg 1, 6573DH, Beek"
+    },
+    {
+        "Regio": "08",
+        "Kazerne naam": "Beesd",
+        "Adres": "Veerweg 5, 4153AS, Beesd"
+    },
+    {
+        "Regio": "08",
+        "Kazerne naam": "Beneden-Leeuwen",
+        "Adres": "Van Heemstraweg 64c, 6658KJ, Beneden-Leeuwen"
+    },
+    {
+        "Regio": "08",
+        "Kazerne naam": "Beuningen",
+        "Adres": "Van Heemstraweg 95, 6641AC, Beuningen"
+    },
+    {
+        "Regio": "08",
+        "Kazerne naam": "Beusichem",
+        "Adres": "Speulmanweg 2, 4112NA, Beusichem"
+    },
+    {
+        "Regio": "08",
+        "Kazerne naam": "Brakel",
+        "Adres": "Molenkampsweg 9, 5306VN, Brakel"
+    },
+    {
+        "Regio": "08",
+        "Kazerne naam": "Buren",
+        "Adres": "Graafschapsstraat 3, 4116GE, Buren"
+    },
+    {
+        "Regio": "08",
+        "Kazerne naam": "Culemborg",
+        "Adres": "Triosingel 34, 4101XC, Culemborg"
+    },
+    {
+        "Regio": "08",
+        "Kazerne naam": "Dodewaard",
+        "Adres": "Oranjelaan 1b, 6669AH, Dodewaard"
+    },
+    {
+        "Regio": "08",
+        "Kazerne naam": "Dreumel",
+        "Adres": "Margrietstraat 12b, 6621BW, Dreumel"
+    },
+    {
+        "Regio": "08",
+        "Kazerne naam": "Druten",
+        "Adres": "Van Heemstraweg 52a, 6651KH, Druten"
+    },
+    {
+        "Regio": "08",
+        "Kazerne naam": "Gameren",
+        "Adres": "Middelkampseweg 4, 5311PC, Gameren"
+    },
+    {
+        "Regio": "08",
+        "Kazerne naam": "Gelderland-Zuid",
+        "Adres": "Groenewoudseweg 275, 6524TV, Nijmegen"
+    },
+    {
+        "Regio": "08",
+        "Kazerne naam": "Geldermalsen",
+        "Adres": "Rijksstraatweg 62, 4191SG, Geldermalsen"
+    },
+    {
+        "Regio": "08",
+        "Kazerne naam": "Groesbeek",
+        "Adres": "Industrieweg 9, 6562AP, Groesbeek"
+    },
+    {
+        "Regio": "08",
+        "Kazerne naam": "Hedel",
+        "Adres": "Uithovensestraat 52, 5321GD, Hedel"
+    },
+    {
+        "Regio": "08",
+        "Kazerne naam": "Herwijnen",
+        "Adres": "Graaf Reinaldweg 2b, 4171LC, Herwijnen"
+    },
+    {
+        "Regio": "08",
+        "Kazerne naam": "Kerkdriel",
+        "Adres": "Steenbeemdstraat 11, 5331KN, Kerkdriel"
+    },
+    {
+        "Regio": "08",
+        "Kazerne naam": "Kesteren",
+        "Adres": "Vincent van Goghstraat 18, 4041GG, Kesteren"
+    },
+    {
+        "Regio": "08",
+        "Kazerne naam": "Lent",
+        "Adres": "Spoorstraat 31, 6663AE, Lent"
+    },
+    {
+        "Regio": "08",
+        "Kazerne naam": "Lienden",
+        "Adres": "Verbrughweg 2, 4033GP, Lienden"
+    },
+    {
+        "Regio": "08",
+        "Kazerne naam": "Maasbommel",
+        "Adres": "Kapelstraat 21a, 6627AV, Maasbommel"
+    },
+    {
+        "Regio": "08",
+        "Kazerne naam": "Malden",
+        "Adres": "Ambachtsweg 9, 6581AX, Malden"
+    },
+    {
+        "Regio": "08",
+        "Kazerne naam": "Maurik",
+        "Adres": "Homoetsestraat 12, 4021HH, Maurik"
+    },
+    {
+        "Regio": "08",
+        "Kazerne naam": "Millingen aan den Rijn",
+        "Adres": "Heerbaan 65, 6566ED, Millingen aan den Rijn"
+    },
+    {
+        "Regio": "08",
+        "Kazerne naam": "Nederhemert",
+        "Adres": "Nijverheidstraat 1, 5317NL, Nederhemert"
+    },
+    {
+        "Regio": "08",
+        "Kazerne naam": "Nijmegen-Centrum",
+        "Adres": "Professor Bellefroidstraat 11, 6525AG, Nijmegen"
+    },
+    {
+        "Regio": "08",
+        "Kazerne naam": "Nijmegen-West",
+        "Adres": "Nieuwe Dukenburgseweg 23, 6534AD, Nijmegen"
+    },
+    {
+        "Regio": "08",
+        "Kazerne naam": "Ochten",
+        "Adres": "Cuneraweg 4, 4051CE, Ochten"
+    },
+    {
+        "Regio": "08",
+        "Kazerne naam": "Opheusden",
+        "Adres": "Hamsestraat 24, 4043LH, Opheusden"
+    },
+    {
+        "Regio": "08",
+        "Kazerne naam": "Overasselt",
+        "Adres": "Kasteelsestraat 3, 6611KA, Overasselt"
+    },
+    {
+        "Regio": "08",
+        "Kazerne naam": "Recticel kerksteren",
+        "Adres": "Spoorstraat 69, 4041CL, Kesteren"
+    },
+    {
+        "Regio": "08",
+        "Kazerne naam": "Tiel",
+        "Adres": "Teisterbantlaan 1c, 4001TJ, Tiel"
+    },
+    {
+        "Regio": "08",
+        "Kazerne naam": "Varik",
+        "Adres": "Achterstraat 1d, 4064EH, Varik"
+    },
+    {
+        "Regio": "08",
+        "Kazerne naam": "Waardenburg",
+        "Adres": "Steenweg 20, 4181AL, Waardenburg"
+    },
+    {
+        "Regio": "08",
+        "Kazerne naam": "Wijchen",
+        "Adres": "Bronckhorstlaan 5, 6602BG, Wijchen"
+    },
+    {
+        "Regio": "08",
+        "Kazerne naam": "Zaltbommel",
+        "Adres": "Steenweg 81, 5301HK, Zaltbommel"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Abcoude",
+        "Adres": "Brandweerplein 5, 1391CP, Abcoude"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Achterveld",
+        "Adres": "Meester van Bergenweg 3, 3791AW, Achterveld"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Ameide",
+        "Adres": "De Zodeslagen 2, 4233GK, Ameide"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Amerongen",
+        "Adres": "Industrieweg Noord 16, 3958VT, Amerongen"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Amersfoort-Centrum",
+        "Adres": "Kleine Koppel 112, 3812PG, Amersfoort"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Amersfoort-Noord",
+        "Adres": "Het Hofslot 1, 3823VV, Amersfoort"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Baarn",
+        "Adres": "Plataanlaan 2, 3741EW, Baarn"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Benschop",
+        "Adres": "Dorp 197A, 3405BD, Benschop"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Bilthoven",
+        "Adres": "Leyenseweg 40, 3721BD, Bilthoven"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Breukelen",
+        "Adres": "Brouwerij 5, 3621AD, Breukelen"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Bunnik",
+        "Adres": "Stationsweg 49, 3981AB, Bunnik"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Bunschoten",
+        "Adres": "Bikkersweg 2, 3752WV, Bunschoten"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Cothen-Langbroek",
+        "Adres": "Cotherweg 14, 3945PZ, Langbroek"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "De Bilt",
+        "Adres": "Henri Dunantplein 4c, 3731CL, De Bilt"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "De Meern",
+        "Adres": "Meerndijk 17a, 3454HM, De Meern"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Den Dolder",
+        "Adres": "Dolderseweg 164, 3734BH, Den Dolder"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Doorn",
+        "Adres": "Kampweg 55, 3941HD, Doorn"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Driebergen",
+        "Adres": "Bosstraat 3, 3971XA, Driebergen"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Eemnes",
+        "Adres": "Noordersingel 4a, 3755EZ, Eemnes"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Elst",
+        "Adres": "Rijksstraatweg 104, 3921AL, Elst"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Groenekan",
+        "Adres": "Koningin Wilhelminaweg 439, 3737BE, Groenekan"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Hagestein",
+        "Adres": "Dorpsstraat 28, 4124AM, Hagestein"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Harmelen",
+        "Adres": "Pompersplein 2, 3481EC, Harmelen"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Hoofdkantoor VRU",
+        "Adres": "Archimedeslaan 6, 3584BA, Utrecht"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Houten-Oost",
+        "Adres": "Binnenweg 22, 3994AN, Houten"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Houten-West",
+        "Adres": "De Brug 2, 3991LN, Houten"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Ijsselstein",
+        "Adres": "Jan van der Heydenweg 244, 3401RJ, IJsselstein"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Kamerik",
+        "Adres": "Mijzijde 81, 3471GP, Kamerik"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Kockengen",
+        "Adres": "Sportweg 1a, 3628AZ, Kockengen"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Leerdam",
+        "Adres": "Koningin Emmalaan 30a, 4141EC, Leerdam"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Leersum",
+        "Adres": "Schermlaan 37, 3956VK, Leersum"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Leusden",
+        "Adres": "Burgemeester van der Postlaan 1, 3833VT, Leusden"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Lexmond",
+        "Adres": "Driemolensweg 1, 4128LS, Lexmond"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Linschoten",
+        "Adres": "Van Rietlaan 11, 3461EG, Linschoten"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Loenen aan de Vecht",
+        "Adres": "Keizer Ottolaan 2, 3632BW, Loenen aan de Vecht"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Lopik",
+        "Adres": "M.A. Reinaldaweg 19, 3411MB, Lopik"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Maarn-Maarsbergen",
+        "Adres": "Tuindorpweg 8c, 3953BC, Maarn"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Maarssen",
+        "Adres": "Binnenweg 2, 3604AC, Maarssen"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Maarsseveen-Tienhoven",
+        "Adres": "Laan van Niftarlake 89, 3612BN, Tienhoven"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Maartensdijk",
+        "Adres": "Koningin Wilhelminaweg 9, 3738JZ, Maartensdijk"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Meerkerk",
+        "Adres": "Burggraaf 2a, 4231ZJ, Meerkerk"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Mijdrecht",
+        "Adres": "Industrieweg 2, 3641RM, Mijdrecht"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Montfoort",
+        "Adres": "Anne Franklaan 16, 3417GE, Montfoort"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Nieuwegein-Noord",
+        "Adres": "Nevelgaarde 1, 3436ZZ, Nieuwegein"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Nieuwegein-Zuid",
+        "Adres": "Henri Dunantlaan 1, 3434CH, Nieuwegein"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Nieuwer Ter Aa",
+        "Adres": "Dorpsstraat 19, 3626AC, Nieuwer ter Aa"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Nigtevecht",
+        "Adres": "Dorpsstraat 27, 1393NE, Nigtevecht"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Oudewater",
+        "Adres": "Biezenwal 3, 3421BE, Oudewater"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Renswoude",
+        "Adres": "Dorpsstraat 117, 3927BC, Renswoude"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Rhenen-Achterberg",
+        "Adres": "Achterbergsestraatweg 135, 3911CS, Rhenen"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Schalkwijk",
+        "Adres": "Schalkwijkseweg 32, 3998LZ, Schalkwijk"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Schoonrewoerd",
+        "Adres": "Dorpsstraat 75, 4145KB, Schoonrewoerd"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Soest-Hoofdpost",
+        "Adres": "Lange Brinkweg 71, 3764AB, Soest"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Soest-Nevenpost",
+        "Adres": "Raadhuisplein 33, 3762AV, Soest"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Soesterberg",
+        "Adres": "Koppenlaan 9, 3769BK, Soesterberg"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Utrecht-Leidsche Rijn",
+        "Adres": "Belcampostraat 10, 3544NG, Utrecht"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Utrecht-Schepenbuurt",
+        "Adres": "Vlampijpstraat 100, 3534AR, Utrecht"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Utrecht-Tolsteeg",
+        "Adres": "Helling 20, 3523CC, Utrecht"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Utrecht-Voordorp",
+        "Adres": "Sartreweg 11, 3573PW, Utrecht"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Veenendaal",
+        "Adres": "Industrielaan 18, 3903AC, Veenendaal"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Vianen",
+        "Adres": "Aimé Bonnastraat 22, 4132CD, Vianen"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Vinkeveen",
+        "Adres": "Herenweg 107, 3645DJ, Vinkeveen"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Vleuten",
+        "Adres": "Gouden Koetslaan 97, 3451WE, Vleuten"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Werkhoven",
+        "Adres": "Rode Haan 1, 3985PN, Werkhoven"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Westbroek",
+        "Adres": "Dokter Welfferweg 36, 3615AN, Westbroek"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Wijk bij Duurstede",
+        "Adres": "Hordenweg 4, 3961KC, Wijk bij Duurstede"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Wilnis",
+        "Adres": "Pieter Joostenlaan 26, 3648XR, Wilnis"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Woerden",
+        "Adres": "Boerendijk 34, 3442AH, Woerden"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Woudenberg",
+        "Adres": "Europaweg 4, 3931NJ, Woudenberg"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Zegveld",
+        "Adres": "Hoofdweg 101, 3474JB, Zegveld"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Zeist",
+        "Adres": "Dijnselburgerlaan 5, 3705LP, Zeist"
+    },
+    {
+        "Regio": "09",
+        "Kazerne naam": "Zuilen",
+        "Adres": "Burg. Norbruislaan 45, 3555ED, Utrecht"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Abbekerk",
+        "Adres": "Vekenweg 11, 1657EC, Abbekerk"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Akersloot",
+        "Adres": "Buurtweg 51, 1921CJ, Akersloot"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Alkmaar",
+        "Adres": "Helderseweg 8, 1815AB, Alkmaar"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Andijk",
+        "Adres": "Hoekweg 46, 1619EC, Andijk"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Anna Paulowna",
+        "Adres": "Randweg 2, 1761LR, Kleine Sluis"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Avenhorn",
+        "Adres": " Buitenroede 2, 1633GZ, Avenhorn"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Bergen",
+        "Adres": "Elkshove 1, 1852ED, Bergen"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Berkhout",
+        "Adres": "Kerkebuurt 169, 1647ME, Berkhout"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Blokker",
+        "Adres": "IJsselweg 4, 1628JT, Blokker"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Bovenkarspel",
+        "Adres": "De Tocht 10, 1611HT, Bovenkarspel"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Breezand",
+        "Adres": "Burgemeester Lovinkstraat 4, 1764NL, Breezand"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Callantsoog",
+        "Adres": "Jewelweg 6, 1759HA, Callantsoog"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Castricum",
+        "Adres": "Burgemeester Boreelstraat 1a, 1901BC, Castricum"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "De Cocksdorp",
+        "Adres": "Postweg 211b, 1795JN, De Cocksdorp"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "De Rijp",
+        "Adres": "Driemaster 2, 1483WC, De Rijp"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Den Burg",
+        "Adres": "Pontweg 102, 1791LB, Den Burg"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Den Helder",
+        "Adres": "Bastiondreef 4, 1784MR, Den Helder"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Den Oever",
+        "Adres": "Havenweg 4, 1779XT, Den Oever"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Dirkshorn",
+        "Adres": "Dorpsstraat 55a, 1746AB, Dirkshorn"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Egmond aan Zee",
+        "Adres": "Pieter Schotsmanstraat 10, 1931AR, Egmond aan Zee"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Enkhuizen",
+        "Adres": "Gerard Brandtweg 3, 1602LV, Enkhuizen"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Groet",
+        "Adres": "Gruttoweg 4a, 1873JC, Groet"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Heerhugowaard",
+        "Adres": "Zuidtangent 3, 1702VR, Heerhugowaard"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Heerhugowaard-De Noord",
+        "Adres": "Hasselaarsweg 1a, 1704DW, Heerhugowaard"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Heiloo",
+        "Adres": "Rosendaal 2a, 1851RL, Heiloo"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Hippolytushoef",
+        "Adres": "De Wieken 1, 1777HT, Hippolytushoef"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Hoorn",
+        "Adres": "Nieuwe Wal 1, 1621MB, Hoorn"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Julianadorp",
+        "Adres": "Van Foreestweg 85a, 1787BG, Julianadorp"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Koedijk",
+        "Adres": "Zonneweid 2, 1831BX, Koedijk"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Limmen",
+        "Adres": "Rijksweg 51, 1906BD, Limmen"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Medemblik",
+        "Adres": "Dissel 7a, 1671NG, Medemblik"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Middenmeer",
+        "Adres": "Ir. Wortmanstraat 45, 1775BK, Middenmeer"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Nibbixwoud",
+        "Adres": "Ganker 106e, 1688CW, Nibbixwoud"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Nieuwe Haven",
+        "Adres": "Rijkszee- en Marinehaven 1, 1781ZZ, Den Helder"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Nollenoor",
+        "Adres": "Hertog Aalbrechtweg 36, 1823DL, Alkmaar"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Noord-Scharwoude",
+        "Adres": "De Mossel 59, 1723HX, Noord-Scharwoude"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Obdam",
+        "Adres": "Laan van Meerweijde 104, 1713CA, Obdam"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Opmeer",
+        "Adres": "t Bon 8, 1716DM, Opmeer"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Schagen",
+        "Adres": "Hofstraat 15, 1741CD, Schagen"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Schagerbrug",
+        "Adres": "M. Stolpstraat 2, 1751CZ, Schagerbrug"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Schoorl",
+        "Adres": "Nieuwedam 1-3, 1871BL, Schoorl"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Slootdorp",
+        "Adres": "Schoolstraat 6, 1774AR, Slootdorp"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Stompetoren",
+        "Adres": "Dres 36, 1841EB, Stompetoren"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Ursem",
+        "Adres": "Noorddijkerweg 66A, 1645VG, Ursem"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Venhuizen",
+        "Adres": "Koggeweg 47, 1607MT, Hem"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Warmenhuizen",
+        "Adres": "Sportlaan 30, 1749VB, Warmenhuizen"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Wervershoof",
+        "Adres": "Burgemeester Raatlaan 40a, 1693EE, Wervershoof"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Westwoud",
+        "Adres": "Dr. Nuijensstraat 122, 1617KE, Westwoud"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Wieringerwaard",
+        "Adres": "Noord Zijperweg 23a, 1766HG, Wieringerwaard"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Wieringerwerf",
+        "Adres": "Werfstraat 1b, 1771BC, Wieringerwerf"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Winkel",
+        "Adres": "Zandwilg 23, 1731LS, Winkel"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Wognum",
+        "Adres": "Nieuweweg 2b, 1687BA, Wognum"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Zuid-Scharwoude",
+        "Adres": "Vroedschap 7, 1722GX, Zuid-Scharwoude"
+    },
+    {
+        "Regio": "10",
+        "Kazerne naam": "Zwaag",
+        "Adres": "De Oude Veiling 57, 1689AC, Zwaag"
+    },
+    {
+        "Regio": "11",
+        "Kazerne naam": "Assendelft",
+        "Adres": "Dorpsstraat 395, 1566BE, Assendelft"
+    },
+    {
+        "Regio": "11",
+        "Kazerne naam": "Broek in Waterland",
+        "Adres": "Eilandweg 35, 1151BZ, Broek in Waterland"
+    },
+    {
+        "Regio": "11",
+        "Kazerne naam": "Edam",
+        "Adres": "Nieuwehaven 68, 1135VM, Edam"
+    },
+    {
+        "Regio": "11",
+        "Kazerne naam": "Ilpendam",
+        "Adres": "Nijverheidsweg 1, 1452PA, Ilpendam"
+    },
+    {
+        "Regio": "11",
+        "Kazerne naam": "Krommenie",
+        "Adres": "Kervelstraat 186, 1562AJ, Krommenie"
+    },
+    {
+        "Regio": "11",
+        "Kazerne naam": "Kwadijk",
+        "Adres": "Stationsweg 9, 1471CL, Kwadijk"
+    },
+    {
+        "Regio": "11",
+        "Kazerne naam": "Landsmeer",
+        "Adres": "Fuutstraat 2, 1121BN, Landsmeer"
+    },
+    {
+        "Regio": "11",
+        "Kazerne naam": "Marken",
+        "Adres": "Buurterstraat 37, 1156AP, Marken"
+    },
+    {
+        "Regio": "11",
+        "Kazerne naam": "Middenbeemster",
+        "Adres": "Klaas Hogetoornlaan 5, 1462JM, Middenbeemster"
+    },
+    {
+        "Regio": "11",
+        "Kazerne naam": "Monnickendam",
+        "Adres": "De Werf 5, 1141HL, Monnickendam"
+    },
+    {
+        "Regio": "11",
+        "Kazerne naam": "Oosthuizen",
+        "Adres": "Hoornse Jaagweg 2, 1474HM, Oosthuizen"
+    },
+    {
+        "Regio": "11",
+        "Kazerne naam": "Oostzaan",
+        "Adres": "Kerkstraat 211, 1511EE, Oostzaan"
+    },
+    {
+        "Regio": "11",
+        "Kazerne naam": "Purmerend",
+        "Adres": "Gorslaan 50, 1441RG, Purmerend"
+    },
+    {
+        "Regio": "11",
+        "Kazerne naam": "Spijkerboor",
+        "Adres": "Starnmeerdijk 22, 1458PM, Spijkerboor"
+    },
+    {
+        "Regio": "11",
+        "Kazerne naam": "Volendam",
+        "Adres": "Julianaweg 137B, 1131DH, Volendam"
+    },
+    {
+        "Regio": "11",
+        "Kazerne naam": "Wormer",
+        "Adres": "Koetserstraat 2, 1531NX, Wormer"
+    },
+    {
+        "Regio": "11",
+        "Kazerne naam": "Wormerveer",
+        "Adres": "Industrieweg 1c, 1521NA, Wormerveer"
+    },
+    {
+        "Regio": "11",
+        "Kazerne naam": "Zaandam Botenmakersstraat",
+        "Adres": "Botenmakersstraat 23, 1506TA, Zaandam"
+    },
+    {
+        "Regio": "11",
+        "Kazerne naam": "Zaandam Houtveldweg",
+        "Adres": "Westzanerdijk 74-76, 1507AJ, Zaandam"
+    },
+    {
+        "Regio": "11",
+        "Kazerne naam": "Zaandam Prins Bernhardplein",
+        "Adres": "Prins Bernhardplein 112, 1508XB, Zaandam"
+    },
+    {
+        "Regio": "11",
+        "Kazerne naam": "Zaandam Vermiljoenweg",
+        "Adres": "Jan Bonekampstraat 2, 1501XX, Zaandam"
+    },
+    {
+        "Regio": "11",
+        "Kazerne naam": "Zaandijk",
+        "Adres": "Guisweg 61, 1544AH, Zaandijk"
+    },
+    {
+        "Regio": "11",
+        "Kazerne naam": "Zuidoostbeemster",
+        "Adres": "Zuiderweg 181, 1461GJ, Zuidoostbeemster"
+    },
+    {
+        "Regio": "12",
+        "Kazerne naam": "Badhoevedorp",
+        "Adres": "Zeemanlaan 50, 1171BD, Badhoevedorp"
+    },
+    {
+        "Regio": "12",
+        "Kazerne naam": "Bennebroek",
+        "Adres": "Wilhelminalaan 2, 2121GM, Bennebroek"
+    },
+    {
+        "Regio": "12",
+        "Kazerne naam": "Beverwijk-Oost",
+        "Adres": "Spoorsingel 1, 1947LA, Beverwijk"
+    },
+    {
+        "Regio": "12",
+        "Kazerne naam": "Beverwijk-West",
+        "Adres": "Wijk aan Duinerweg 4, 1944TV, Beverwijk"
+    },
+    {
+        "Regio": "12",
+        "Kazerne naam": "Haarlem-Oost",
+        "Adres": "Floris van Adrichemlaan 90, 2035VD, Haarlem"
+    },
+    {
+        "Regio": "12",
+        "Kazerne naam": "Haarlem-West",
+        "Adres": "Zijlweg 200, 2015CK, Haarlem"
+    },
+    {
+        "Regio": "12",
+        "Kazerne naam": "Halfweg-Zwanenburg",
+        "Adres": "Beatrixstraat 2, 1165GK, Halfweg"
+    },
+    {
+        "Regio": "12",
+        "Kazerne naam": "Heemskerk",
+        "Adres": "Cornelis Groenlandstraat 48, 1962TG, Heemskerk"
+    },
+    {
+        "Regio": "12",
+        "Kazerne naam": "Heemstede",
+        "Adres": "Nijverheidsweg 42, 2102LL, Heemstede"
+    },
+    {
+        "Regio": "12",
+        "Kazerne naam": "Hoofddorp",
+        "Adres": "Adrianahoeve 2, 2131MN, Hoofddorp"
+    },
+    {
+        "Regio": "12",
+        "Kazerne naam": "Ijmuiden",
+        "Adres": "Eenhoornstraat 2b, 1973XT, IJmuiden"
+    },
+    {
+        "Regio": "12",
+        "Kazerne naam": "Lisserbroek",
+        "Adres": "Veenwortelstraat 3, 2165XT, Lisserbroek"
+    },
+    {
+        "Regio": "12",
+        "Kazerne naam": "Nieuw-Vennep",
+        "Adres": "Luzernestraat 5, 2153GM, Nieuw-Vennep"
+    },
+    {
+        "Regio": "12",
+        "Kazerne naam": "Rijsenhout",
+        "Adres": "Schouwstraat 11, 1435KL, Rijsenhout"
+    },
+    {
+        "Regio": "12",
+        "Kazerne naam": "Spaarndam",
+        "Adres": "Ringweg 40, 2064KK, Spaarndam"
+    },
+    {
+        "Regio": "12",
+        "Kazerne naam": "TATA-Steel",
+        "Adres": "Wenkebachstraat 1, 1951JZ, Velsen-Noord"
+    },
+    {
+        "Regio": "12",
+        "Kazerne naam": "Uitgeest",
+        "Adres": "Molenwerf 25, 1911DB, Uitgeest"
+    },
+    {
+        "Regio": "12",
+        "Kazerne naam": "Velsen",
+        "Adres": "`s-Gravenlust 35, 1981AE, Velsen-Zuid"
+    },
+    {
+        "Regio": "12",
+        "Kazerne naam": "Zandvoort-Centrum",
+        "Adres": "Duinstraat 5, 2042HC, Zandvoort"
+    },
+    {
+        "Regio": "12",
+        "Kazerne naam": "Zandvoort-Noord",
+        "Adres": "Linnaeusstraat 2, 2041BR, Zandvoort"
+    },
+    {
+        "Regio": "13",
+        "Kazerne naam": "Aalsmeer",
+        "Adres": "Zwarteweg 77, 1431VJ, Aalsmeer"
+    },
+    {
+        "Regio": "13",
+        "Kazerne naam": "Amstelveen",
+        "Adres": "Oranjebaan 1, 1183NN, Amstelveen"
+    },
+    {
+        "Regio": "13",
+        "Kazerne naam": "Anton",
+        "Adres": "Langbroekdreef 10, 1108EB, Amsterdam"
+    },
+    {
+        "Regio": "13",
+        "Kazerne naam": "Diemen",
+        "Adres": "D.J. Den Hartoglaan 2, 1111ZC, Diemen"
+    },
+    {
+        "Regio": "13",
+        "Kazerne naam": "Dirk",
+        "Adres": "Honthorststraat 27, 1071DC, Amsterdam"
+    },
+    {
+        "Regio": "13",
+        "Kazerne naam": "Driemond",
+        "Adres": "Lentestraat 30, 1109AT, Driemond"
+    },
+    {
+        "Regio": "13",
+        "Kazerne naam": "Duivendrecht",
+        "Adres": "Rijksstraatweg 58, 1115AT, Duivendrecht"
+    },
+    {
+        "Regio": "13",
+        "Kazerne naam": "Hendrik",
+        "Adres": "Marnixstraat 170, 1016TG, Amsterdam"
+    },
+    {
+        "Regio": "13",
+        "Kazerne naam": "Ijsbrand",
+        "Adres": "Displaystraat 1, 1033RZ, Amsterdam"
+    },
+    {
+        "Regio": "13",
+        "Kazerne naam": "Nico",
+        "Adres": "IJ-Tunnel 4, 1011TA, Amsterdam"
+    },
+    {
+        "Regio": "13",
+        "Kazerne naam": "Osdorp",
+        "Adres": "Ookmeerweg 2, 1068ZX, Amsterdam"
+    },
+    {
+        "Regio": "13",
+        "Kazerne naam": "Pier Afrika Logistiek / Wagen Park",
+        "Adres": "Pier Afrika 8, 1013BK, Amsterdam"
+    },
+    {
+        "Regio": "13",
+        "Kazerne naam": "Pieter",
+        "Adres": "Poeldijkstraat 20, 1059VM, Amsterdam"
+    },
+    {
+        "Regio": "13",
+        "Kazerne naam": "Teunis",
+        "Adres": "Vredenhofweg 3, 1051LM, Amsterdam"
+    },
+    {
+        "Regio": "13",
+        "Kazerne naam": "Uithoorn",
+        "Adres": "Zijdelweg 1, 1421TB, Uithoorn"
+    },
+    {
+        "Regio": "13",
+        "Kazerne naam": "Victor",
+        "Adres": "Dapperstraat 325, 1093BS, Amsterdam"
+    },
+    {
+        "Regio": "13",
+        "Kazerne naam": "Willem",
+        "Adres": "Ringdijk 98, 1097AH, Amsterdam"
+    },
+    {
+        "Regio": "13",
+        "Kazerne naam": "Zebra",
+        "Adres": "IJdoornlaan 60, 1024KV, Amsterdam"
+    },
+    {
+        "Regio": "14",
+        "Kazerne naam": "`s-Graveland",
+        "Adres": "Eslaan 2a, 1241XC, Kortenhoef"
+    },
+    {
+        "Regio": "14",
+        "Kazerne naam": "Blaricum",
+        "Adres": "Singel 15a, 1261XP, Blaricum"
+    },
+    {
+        "Regio": "14",
+        "Kazerne naam": "Bussum",
+        "Adres": "Brinklaan 140, 1404GW, Bussum"
+    },
+    {
+        "Regio": "14",
+        "Kazerne naam": "Hilversum",
+        "Adres": "Kamerlingh Onnesweg 148, 1223JN, Hilversum"
+    },
+    {
+        "Regio": "14",
+        "Kazerne naam": "Huizen",
+        "Adres": "Eemlandweg 30, 1271KS, Huizen"
+    },
+    {
+        "Regio": "14",
+        "Kazerne naam": "Laren",
+        "Adres": "Groene Gerritsweg 2, 1251JL, Laren"
+    },
+    {
+        "Regio": "14",
+        "Kazerne naam": "Loosdrecht",
+        "Adres": "Oud-Loosdrechtsedijk 4, 1231NA, Loosdrecht"
+    },
+    {
+        "Regio": "14",
+        "Kazerne naam": "Muiden",
+        "Adres": "Weesperweg 2b, 1398XD, Muiden"
+    },
+    {
+        "Regio": "14",
+        "Kazerne naam": "Muiderberg",
+        "Adres": "Echolaan 1, 1399GZ, Muiderberg"
+    },
+    {
+        "Regio": "14",
+        "Kazerne naam": "Naarden",
+        "Adres": "Energiestraat 15a, 1411AP, Naarden"
+    },
+    {
+        "Regio": "14",
+        "Kazerne naam": "Nederhorst den Berg",
+        "Adres": "Blijklaan 1a, 1394KA, Nederhorst den Berg"
+    },
+    {
+        "Regio": "14",
+        "Kazerne naam": "Weesp",
+        "Adres": "Aetsveldselaan 65, 1381CZ, Weesp"
+    },
+    {
+        "Regio": "15",
+        "Kazerne naam": "`s-Gravenzande",
+        "Adres": "Fultonstraat 2, 2691HA, 's-Gravenzande"
+    },
+    {
+        "Regio": "15",
+        "Kazerne naam": "De Lier",
+        "Adres": "Burgemeester Crezéelaan 32, 2678KX, De Lier"
+    },
+    {
+        "Regio": "15",
+        "Kazerne naam": "Delft",
+        "Adres": "Krakeelpolderweg 51, 2613NW, Delft"
+    },
+    {
+        "Regio": "15",
+        "Kazerne naam": "Den Haag-Archipel",
+        "Adres": "Burg. Van Karnebeeklaan 1a, 2585BA, Den Haag"
+    },
+    {
+        "Regio": "15",
+        "Kazerne naam": "Den Haag-Centrum",
+        "Adres": "Zamenhofstraat 10, 2518PB, Den Haag"
+    },
+    {
+        "Regio": "15",
+        "Kazerne naam": "Den Haag-Laak",
+        "Adres": "Waldorpstraat 555, 2521CK, Den Haag"
+    },
+    {
+        "Regio": "15",
+        "Kazerne naam": "Den Haag-Leidschenveen",
+        "Adres": "Donau 140, 2491BC, Den Haag"
+    },
+    {
+        "Regio": "15",
+        "Kazerne naam": "Den Haag-Loosduinen",
+        "Adres": "Dedemsvaartweg 1, 2545AP, Den Haag"
+    },
+    {
+        "Regio": "15",
+        "Kazerne naam": "Den Hoorn",
+        "Adres": "Woudseweg 7, 2635CG, Den Hoorn"
+    },
+    {
+        "Regio": "15",
+        "Kazerne naam": "Flora Holland",
+        "Adres": "Dijkweg 68, 2675AE, Honselersdijk"
+    },
+    {
+        "Regio": "15",
+        "Kazerne naam": "Honselersdijk",
+        "Adres": "Dijkweg 68, 2675AE, Honselersdijk"
+    },
+    {
+        "Regio": "15",
+        "Kazerne naam": "Leidschendam-Voorburg",
+        "Adres": "Via Donizetti 1, 2272VK, Voorburg"
+    },
+    {
+        "Regio": "15",
+        "Kazerne naam": "Maasdijk",
+        "Adres": "De derde hoeve 11, 2676CR, Maasdijk"
+    },
+    {
+        "Regio": "15",
+        "Kazerne naam": "Maasland",
+        "Adres": "Slot de Houvelaan 7, 3155VP, Maasland"
+    },
+    {
+        "Regio": "15",
+        "Kazerne naam": "Monster",
+        "Adres": "Bach 1, 2681KH, Monster"
+    },
+    {
+        "Regio": "15",
+        "Kazerne naam": "Naaldwijk",
+        "Adres": "`s-Gravenzandseweg 40, 2671JP, Naaldwijk"
+    },
+    {
+        "Regio": "15",
+        "Kazerne naam": "Pijnacker-Nootdorp",
+        "Adres": "Nootdorpseweg 4, 2641BJ, Pijnacker"
+    },
+    {
+        "Regio": "15",
+        "Kazerne naam": "Rijswijk",
+        "Adres": "Burgemeester Elsenlaan 315, 2282NH, Rijswijk"
+    },
+    {
+        "Regio": "15",
+        "Kazerne naam": "Scheveningen",
+        "Adres": "Sloepstraat 76, 2584VW, Scheveningen"
+    },
+    {
+        "Regio": "15",
+        "Kazerne naam": "Schipluiden",
+        "Adres": "Anna van Raesfeltstraat 35, 2636HX, Schipluiden"
+    },
+    {
+        "Regio": "15",
+        "Kazerne naam": "Wassenaar",
+        "Adres": "Johan de Wittstraat 39, 2242LV, Wassenaar"
+    },
+    {
+        "Regio": "15",
+        "Kazerne naam": "Wateringen",
+        "Adres": "Dorpskade 34, 2291HR, Wateringen"
+    },
+    {
+        "Regio": "15",
+        "Kazerne naam": "Zoetermeer-Oosterheem",
+        "Adres": "Olof Palmelaan 1, 2729NA, Zoetermeer"
+    },
+    {
+        "Regio": "15",
+        "Kazerne naam": "Zoetermeer-Stadshart",
+        "Adres": "Brusselstraat 4, 2711AJ, Zoetermeer"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Aarlanderveen",
+        "Adres": "Stationsweg 4b, 2445AH, Aarlanderveen"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Alphen aan den Rijn",
+        "Adres": "Havenstraat 5, 2405BV, Alphen aan den Rijn"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Benthuizen",
+        "Adres": "Bentwoudlaan 3, 2731BS, Benthuizen"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Bergambacht",
+        "Adres": "Veerweg 6, 2861DS, Bergambacht"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Bodegraven",
+        "Adres": "Portugalweg 6, 2411PR, Bodegraven"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Boskoop",
+        "Adres": "Torenpad 29, 2771EP, Boskoop"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Driebruggen",
+        "Adres": "De Groendijck 20, 3465JB, Driebruggen"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Gouda",
+        "Adres": "Keerkring 12, 2801DG, Gouda"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Gouderak",
+        "Adres": "Poten 4, 2831AX, Gouderak"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Haastrecht",
+        "Adres": "Provincialeweg 29, 2851EA, Haastrecht"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Hazerswoude",
+        "Adres": "Klaproos 1, 2391EL, Hazerswoude-Dorp"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Hillegom",
+        "Adres": "Weerlaan 20, 2181HH, Hillegom"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Kaag",
+        "Adres": "Julianalaan 3, 2159LA, Kaag"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Katwijk",
+        "Adres": "Prins Hendrikkade 12, 2225TZ, Katwijk"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Koudekerk aan den Rijn",
+        "Adres": "Hoogewaard 5, 2396AA, Koudekerk aan den Rijn"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Krimpen aan de Lek",
+        "Adres": "Tiendweg 5, 2931LC, Krimpen aan de Lek"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Leiden-Noord",
+        "Adres": "Gooimeerlaan 25, 2317JZ, Leiden"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Leiden-Zuid",
+        "Adres": "Rooseveltstraat 4a, 2321BM, Leiden"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Leiderdorp",
+        "Adres": "Simon Smitweg 11, 2353GA, Leiderdorp"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Leimuiden",
+        "Adres": "Dokter Stapenséastraat 35, 2451AD, Leimuiden"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Lekkerkerk",
+        "Adres": "Twijnstraweg 19, 2941BW, Lekkerkerk"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Lisse",
+        "Adres": "Oranjelaan 77, 2161KC, Lisse"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Moordrecht",
+        "Adres": "Ambachtweg 28a, 2841LZ, Moordrecht"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Nieuwerbrug",
+        "Adres": "Graaf Albrechtstraat 5, 2415AW, Nieuwerbrug aan den Rijn"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Nieuwerkerk aan den IJssel",
+        "Adres": "Prins Alexanderlaan 2, 2912AL, Nieuwerkerk aan den IJssel"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Nieuwkoop",
+        "Adres": "Achterweg 5, 2421EB, Nieuwkoop"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Nieuwveen",
+        "Adres": "Hogendijk 2a, 2441CK, Nieuwveen"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Noordwijk",
+        "Adres": "Duinwetering 102, 2203HM, Noordwijk"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Noordwijkerhout",
+        "Adres": "Herenweg 96, 2211CD, Noordwijkerhout"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Oegstgeest",
+        "Adres": "Dorpsstraat 64, 2343BB, Oegstgeest"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Ouderkerk aan den IJssel",
+        "Adres": "Abelenlaan 2, 2935SB, Ouderkerk aan den IJssel"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Reeuwijk",
+        "Adres": "Raadhuisweg 47, 2811HT, Reeuwijk"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Rijnsburg",
+        "Adres": "Noordeinde 4, 2231LK, Rijnsburg"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Rijpwetering",
+        "Adres": "Oud Adeselaan 36b, 2375XB, Rijpwetering"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Roelofarendsveen",
+        "Adres": "Wilgenstraat 40, 2371XJ, Roelofarendsveen"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Sassenheim",
+        "Adres": "Parklaan 176, 2171EK, Sassenheim"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Schoonhoven",
+        "Adres": "Het Bastion 7, 2871EV, Schoonhoven"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Stolwijk",
+        "Adres": "Bovenkerkseweg 19, 2821XS, Stolwijk"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Ter Aar",
+        "Adres": "Middelweg 1, 2461CB, Ter Aar"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Valkenburg",
+        "Adres": "Torenvlietslaan 12, 2235SM, Valkenburg"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Voorhout",
+        "Adres": "Nijverheidsweg 32a, 2215MH, Voorhout"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Voorschoten",
+        "Adres": "Burgemeester Van der Haarplein 1, 2251CT, Voorschoten"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Waddinxveen",
+        "Adres": "Noordkade 48, 2741EW, Waddinxveen"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Warmond",
+        "Adres": "Van den Woudestraat 1b, 2361VN, Warmond"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Woubrugge",
+        "Adres": "Vrouwgeestweg 1a, 2481KM, Woubrugge"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Zevenhuizen",
+        "Adres": "De Opril 1, 2761VP, Zevenhuizen"
+    },
+    {
+        "Regio": "16",
+        "Kazerne naam": "Zwammerdam",
+        "Adres": "Spoorlaan 21, 2471PB, Zwammerdam"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Albert Plesmanweg",
+        "Adres": "Albert Plesmanweg 9, 3088GA, Rotterdam"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Albrandswaard",
+        "Adres": "Schroeder van der Kolklaan 77a, 3172VJ, Poortugaal"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Baan",
+        "Adres": "Ketelaarsstraat 15, 3011CM, Rotterdam"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Barendrecht",
+        "Adres": "Dr. Kuyperstraat 25, 2991GB, Barendrecht"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Barendrecht (standplaats: Ridderkerk)",
+        "Adres": "Dr. Kuyperstraat 25, 2991GB, Barendrecht / Meester Troelstrastraat 2, 2982AX, Ridderkerk"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Berkel en Rodenrijs",
+        "Adres": "Berkelse Poort 25, 2651JX, Berkel en Rodenrijs"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Bleiswijk",
+        "Adres": "Jan van der Heydenstraat 6, 2665JA, Bleiswijk"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Bosland",
+        "Adres": "Bosland 30, 3063EM, Rotterdam"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Botlekweg",
+        "Adres": "Botlekweg 119, 3197KA, Rotterdam"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Brielle",
+        "Adres": "Krammer 2, 3232HE, Brielle"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Coloradoweg",
+        "Adres": "Coloradoweg 20, 3199LA, Rotterdam"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Den Bommel",
+        "Adres": "Beneden Oostdijk 20a, 3258AB, Den Bommel"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Dirksland",
+        "Adres": "Philipshoofjesweg 57a, 3247XR, Dirksland"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Don Berghuijs",
+        "Adres": "Butaanweg 251, 3196KC, Rotterdam"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Elbeweg",
+        "Adres": "Elbeweg 4, 3198LC, Rotterdam"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Frobenstraat",
+        "Adres": "Frobenstraat 8, 3045RD, Rotterdam"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Goedereede",
+        "Adres": "Provincialeweg 18a, 3252LR, Goedereede"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Groene Tuin",
+        "Adres": "Groene Tuin 321, 3078KG, Rotterdam"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Heenvliet",
+        "Adres": "Polyanderweg 1, 3218XT, Heenvliet"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Hellevoetsluis",
+        "Adres": "Tolweg 45a, 3223CD, Hellevoetsluis"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Herkingen",
+        "Adres": "Februariweg 2, 3249BK, Herkingen"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Hoek van Holland",
+        "Adres": "Planciushof 80, 3151GC, Hoek van Holland"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Hoogvliet",
+        "Adres": "Rietbroek 35, 3191HA, Hoogvliet"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "IBP Depot & Bedrijven",
+        "Adres": "Moezelweg 150, 3198LS, Europoort Rotterdam"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Keyenburg",
+        "Adres": "Keyenburg 351, 3085KA, Rotterdam"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Krimpen aan den IJssel",
+        "Adres": "Nieuwe Tiendweg 19, 2922EN, Krimpen aan den IJssel"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Maassluis",
+        "Adres": "Elektraweg 3, 3144CB, Maassluis"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Melissant",
+        "Adres": "Kerkhofweg 2, 3248AP, Melissant"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Merseyweg",
+        "Adres": "Merseyweg 14, 3197KG, Rotterdam"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Mijnsherenlaan",
+        "Adres": "Mijnsherenlaan 180, 3081CM, Rotterdam"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Moezelweg",
+        "Adres": "Moezelweg 150, 3198LS, Rotterdam"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Nesselande strandwacht",
+        "Adres": "Siciliëboulevard 227, 3059XT, Rotterdam"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Nieuwe-Tonge",
+        "Adres": "Zuidelijke Achterweg 20, 3244AX, Nieuwe-Tonge"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Olympiakazerne",
+        "Adres": "Olympiaweg 38, 3245DL, Sommelsdijk"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Ooltgensplaat",
+        "Adres": "Langeweg 31, 3257KC, Ooltgensplaat"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Oostvoorne",
+        "Adres": "Voorweg 65, 3233SJ, Oostvoorne"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Ouddorp",
+        "Adres": "Hofdijksweg 27, 3253KC, Ouddorp"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Oude Tonge",
+        "Adres": "Tramweg 3, 3255MB, Oude Tonge"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Oudenhoorn",
+        "Adres": "Leuneweg 10a, 3227AP, Oudenhoorn"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Prinses Maximakazerne",
+        "Adres": "Prinses Maximaweg 960, 3199KG, Rotterdam"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Ridderkerk",
+        "Adres": "Meester Troelstrastraat 2, 2982AX, Ridderkerk"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Rockanje",
+        "Adres": "Kerkweg 10, 3235XL, Rockanje"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Rotterdam-Airport",
+        "Adres": "Brandenburgbaan 1, 3045 AK Rotterdam"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Rozenburg",
+        "Adres": "Laan van Nieuw Blankenburg 10, 3191DA, Rozenburg"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Schiedam",
+        "Adres": "`s-Gravelandseweg 551, 3119XT, Schiedam"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Slotlaan",
+        "Adres": "Slotlaan 121, 2902AL, Capelle aan den IJssel"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Spijkenisse",
+        "Adres": "Schenkelweg 90, 3203LE, Spijkenisse"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Stad aan 't Haringvliet",
+        "Adres": "Nieuwstraat 34, 3243AN, Stad aan 't Haringvliet"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Stellendam",
+        "Adres": "Deltastraat 1, 3251AC, Stellendam"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Vlaardingen",
+        "Adres": "Hoogstad 501, 3131KX, Vlaardingen"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Zuidland",
+        "Adres": "Kerkweg 27, 3214VC, Zuidland"
+    },
+    {
+        "Regio": "17",
+        "Kazerne naam": "Zwartewaal",
+        "Adres": "Henry Fordstraat 44, 3238BE, Zwartewaal"
+    },
+    {
+        "Regio": "18",
+        "Kazerne naam": "`s-Gravendeel",
+        "Adres": "Korte Smidsweg 11, 3295BC, 's-Gravendeel"
+    },
+    {
+        "Regio": "18",
+        "Kazerne naam": "Alblasserdam",
+        "Adres": "Dam 4, 2952AB, Alblasserdam"
+    },
+    {
+        "Regio": "18",
+        "Kazerne naam": "Arkel",
+        "Adres": "Vlietskade 1002, 4241WB, Arkel"
+    },
+    {
+        "Regio": "18",
+        "Kazerne naam": "Bleskensgraaf",
+        "Adres": "Van Beukelaarweg 8, 2971VL, Bleskensgraaf"
+    },
+    {
+        "Regio": "18",
+        "Kazerne naam": "Boven-Hardinxveld",
+        "Adres": "Rivierdijk 422, 3372BV, Hardinxveld"
+    },
+    {
+        "Regio": "18",
+        "Kazerne naam": "Brandwijk",
+        "Adres": "Kerkweg 8, 2974LH, Brandwijk"
+    },
+    {
+        "Regio": "18",
+        "Kazerne naam": "Dordrecht-Leerpark",
+        "Adres": "Prof. Kohnstammlaan 10, 3312KL, Dordrecht"
+    },
+    {
+        "Regio": "18",
+        "Kazerne naam": "Dordrecht-Noordendijk",
+        "Adres": "Noordendijk 252, 3311DN, Dordrecht"
+    },
+    {
+        "Regio": "18",
+        "Kazerne naam": "Giessenburg",
+        "Adres": "Sportplein 2a, 3381LL, Giessenburg"
+    },
+    {
+        "Regio": "18",
+        "Kazerne naam": "Gorinchem",
+        "Adres": "Arkelsedijk 22, 4206AC, Gorinchem"
+    },
+    {
+        "Regio": "18",
+        "Kazerne naam": "Goudriaan",
+        "Adres": "Zuidzijde 147, 2977AM, Goudriaan"
+    },
+    {
+        "Regio": "18",
+        "Kazerne naam": "Goudswaard",
+        "Adres": "De Stiel 1, 3267CA, Goudswaard"
+    },
+    {
+        "Regio": "18",
+        "Kazerne naam": "Groot-Ammers",
+        "Adres": "Voorstraat 88, 2964AL, Groot Ammers"
+    },
+    {
+        "Regio": "18",
+        "Kazerne naam": "Hardinxveld-Giessendam",
+        "Adres": "Rijnstraat 1c, 3371ST, Giessendam"
+    },
+    {
+        "Regio": "18",
+        "Kazerne naam": "Heerjansdam",
+        "Adres": "Nijverheidsstraat 2a, 2995AP, Heerjansdam"
+    },
+    {
+        "Regio": "18",
+        "Kazerne naam": "Heinenoord",
+        "Adres": "Julianastraat 1a, 3274AG, Heinenoord"
+    },
+    {
+        "Regio": "18",
+        "Kazerne naam": "Hendrik-Ido-Ambacht",
+        "Adres": "Krommeweg 1, 3343LB, Hendrik-Ido-Ambacht"
+    },
+    {
+        "Regio": "18",
+        "Kazerne naam": "Hoornaar",
+        "Adres": "De Vort 3, 4225SH, Noordeloos"
+    },
+    {
+        "Regio": "18",
+        "Kazerne naam": "Klaaswaal",
+        "Adres": "Berkenlaan 2, 3286XC, Klaaswaal"
+    },
+    {
+        "Regio": "18",
+        "Kazerne naam": "Langerak",
+        "Adres": "Julianastraat 28a, 2967EE, Langerak"
+    },
+    {
+        "Regio": "18",
+        "Kazerne naam": "Maasdam",
+        "Adres": "Sportlaan 26, 3299XG, Maasdam"
+    },
+    {
+        "Regio": "18",
+        "Kazerne naam": "Mijnsheerenland",
+        "Adres": "Laan van Westmolen 92, 3271BK, Mijnsheerenland"
+    },
+    {
+        "Regio": "18",
+        "Kazerne naam": "Nieuw-Beijerland",
+        "Adres": "Handelstraat 13, 3264XZ, Nieuw-Beijerland"
+    },
+    {
+        "Regio": "18",
+        "Kazerne naam": "Nieuw-Lekkerland",
+        "Adres": "Planetenlaan 78, 2957SN, Nieuw-Lekkerland"
+    },
+    {
+        "Regio": "18",
+        "Kazerne naam": "Numansdorp",
+        "Adres": "Wethouder Van der Veldenweg 4, 3281AN, Numansdorp"
+    },
+    {
+        "Regio": "18",
+        "Kazerne naam": "Oud Beijerland",
+        "Adres": "Aston Martinlaan 20, 3261NB, Oud Beijerland"
+    },
+    {
+        "Regio": "18",
+        "Kazerne naam": "Papendrecht",
+        "Adres": "Willem Dreeslaan 2, 3354AW Papendrecht"
+    },
+    {
+        "Regio": "18",
+        "Kazerne naam": "Sliedrecht",
+        "Adres": "Middeldiepstraat 44, 3361VT, Sliedrecht"
+    },
+    {
+        "Regio": "18",
+        "Kazerne naam": "Strijen",
+        "Adres": "Nijverheidstraat 2b, 3291CH, Strijen"
+    },
+    {
+        "Regio": "18",
+        "Kazerne naam": "Zuid-Beijerland",
+        "Adres": "Jan van der Heydenstraat 2, 3284WB, Zuid-Beijerland"
+    },
+    {
+        "Regio": "18",
+        "Kazerne naam": "Zwijndrecht",
+        "Adres": "Develsingel 17, 3333LD, Zwijndrecht"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "`s-Gravenpolder",
+        "Adres": "Goesestraatweg 30, 4431CD, `s-Gravenpolder"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "`s-Heer Arendskerke",
+        "Adres": "Torenring 46, 4458BC, 's-Heer Arendskerke"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Aardenburg",
+        "Adres": "Noordstraat 4, 4527BN, Aardenburg"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Arnemuiden",
+        "Adres": "Arnestraat 18, 4341CL, Arnemuiden"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Axel",
+        "Adres": "Nieuwendijk 19, 4571LG, Axel"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Baarland",
+        "Adres": "Nieuweweg 6, 4435AD, Baarland"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Biervliet",
+        "Adres": "Weststraat 34, 4521AA, Biervliet"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Borssele",
+        "Adres": "Quistenburg 3, 4454PZ, Borssele"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Breskens",
+        "Adres": "Weijkmanlaan 15, 4511CS, Breskens"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Brouwershaven",
+        "Adres": "Slingerbos 1, 4318AK, Brouwershaven"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Bruinisse",
+        "Adres": "Dorpsweg 32a, 4311RL, Bruinisse"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Cadzand",
+        "Adres": "Nieuwleusenerstraat 18, 4506AB, Cadzand"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Colijnsplaat",
+        "Adres": "Colijnsplaatseweg 2b, 4486AX, Colijnsplaat"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Domburg",
+        "Adres": "Roosjesweg 1, 4357ED, Domburg"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Dreischor",
+        "Adres": "Daniël Ockersestraat 7, 4315AR, Dreischor"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Goes-Oranjeweg",
+        "Adres": "Oranjeweg 100, 4461LR, Goes"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Goes-Troelstralaan",
+        "Adres": "Troelstralaan 1, 4463BS, Goes"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Haamstede",
+        "Adres": "Scheepswerfstraat 24, 4328BC, Haamstede"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Heinkenszand",
+        "Adres": "Stenevate 6, 4451KB, Heinkenszand"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Hoek",
+        "Adres": "Mauritsfort 2, 4542LA, Hoek"
+    },
+    { "Regio": "19", "Kazerne naam": "Hulst", "Adres": "Globe 2, 4561PK, Hulst" },
+    {
+        "Regio": "19",
+        "Kazerne naam": "IJzendijke",
+        "Adres": "Oktoberplein 4, 4515CP, IJzendijke"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Kamperland",
+        "Adres": "Het Rip 2, 4493RL, Kamperland"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Kapelle",
+        "Adres": "Mauritsstraat 1a, 4421CJ, Kapelle"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Kerkwerve",
+        "Adres": "Ring 6, 4321AJ, Kerkwerve"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Kloosterzande",
+        "Adres": "Hof te Zandeplein 4, 4587CK, Kloosterzande"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Koewacht",
+        "Adres": "Vlasstraat 8, 4576BB, Koewacht"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Kortgene",
+        "Adres": "Torendijk 45, 4484AT, Kortgene"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Koudekerke",
+        "Adres": "Badhuisstraat 1, 4371EL, Koudekerke"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Krabbendijke",
+        "Adres": "Westweg 42, 4413EG, Krabbendijke"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Kruiningen",
+        "Adres": "Blauwhoefseweg 6, 4416RC, Kruiningen"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Middelburg-Rooseveltlaan",
+        "Adres": "President Rooseveltlaan 11, 4333SC, Middelburg"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Middelburg-Stromenweg",
+        "Adres": "Stromenweg 7, 4335JR, Middelburg"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Middelburg-Torenweg",
+        "Adres": "Torenweg 1, 4337GK, Middelburg"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Nieuwdorp",
+        "Adres": "Hertenweg 65, 4455TK, Nieuwdorp"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Oostburg",
+        "Adres": "Ondernemersweg 100, 4501WD, Oostburg"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Oosterland",
+        "Adres": "Wilgenstraat 4, 4307DA, Oosterland"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Oostkapelle",
+        "Adres": "Domburgseweg 68d, 4356NB, Oostkapelle"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Ovezande",
+        "Adres": "Burgemeester Andriessenstraat 8, 4441AP, Ovezande"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Renesse",
+        "Adres": "Hogezoom 141b, 4325CH, Renesse"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Rilland",
+        "Adres": "Valckenisseweg 13, 4411BN, Rilland"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Sas van Gent",
+        "Adres": "Kerkhoflaan 5, 4551AZ, Sas van Gent"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Scharendijke",
+        "Adres": "Boutlaan 1, 4322DC, Scharendijke"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Serooskerke",
+        "Adres": "Vrouwenpolderseweg 53c, 4353BC, Serooskerke"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Sint Annaland",
+        "Adres": "Veilingweg 22, 4697RR, Sint Annaland"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Sint Philipsland",
+        "Adres": "Schoolstraat 3, 4675BL, Sint Philipsland"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Sint-Maartensdijk",
+        "Adres": "Oostsingel 80, 4695BN, Sint-Maartensdijk"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Sluis",
+        "Adres": "Groote Markt 15, 4524CD, Sluis"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Sluiskil",
+        "Adres": "Bosjesweg 1, 4541AM, Sluiskil"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Stavenisse",
+        "Adres": "Julianastraat 7, 4696BH, Stavenisse"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Terneuzen Zuidlandstraat",
+        "Adres": "Da Costastraat 1a, 4532CP, Terneuzen"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Terneuzen-Koegors",
+        "Adres": "Koegorsstraat 4, 4538PK, Terneuzen"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Tholen",
+        "Adres": "Grindweg 51, 4691ES, Tholen"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Veere",
+        "Adres": "Veerseweg 23, 4351RC, Veere"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Vlissingen-Olympiaweg",
+        "Adres": "Olympiaweg 5, 4383BB, Vlissingen"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Vlissingen-Souburg",
+        "Adres": "Marie Curieweg 3b, 4389WB, Vlissingen"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Vogelwaarde",
+        "Adres": "Bossestraat 30, 4581BE, Vogelwaarde"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Wemeldinge",
+        "Adres": "Noordelijke Achterweg 55, 4424ED, Wemeldinge"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Westdorpe",
+        "Adres": "Molenstraat 54, 4554CH, Westdorpe"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Westkapelle",
+        "Adres": "Oude Zandweg 11a, 4361SK, Westkapelle"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Wolphaartsdijk",
+        "Adres": "Villa-Novastraat 1a, 4471AM, Wolphaartsdijk"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Yerseke",
+        "Adres": "Burenpolderweg 1, 4401KW, Yerseke"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Zaamslag",
+        "Adres": "Bedrijvenstraat 11a, 4543NZ, Zaamslag"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Zierikzee",
+        "Adres": "Regenboogstraat 17, 4301BR, Zierikzee"
+    },
+    {
+        "Regio": "19",
+        "Kazerne naam": "Zoutelande",
+        "Adres": "Langendam 61, 4374AB, Zoutelande"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "`s-Gravenmoer",
+        "Adres": "Molendijk 3, 5109RL, 's-Gravenmoer"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Almkerk",
+        "Adres": "Provincialeweg Noord 36, 4286EB, Almkerk"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Alphen",
+        "Adres": "Chaamseweg 4, 5131NG, Alphen"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Baarle-Nassau",
+        "Adres": "C.A. Bodestraat 2, 5111DP, Baarle-Nassau"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Bergen op Zoom",
+        "Adres": "Havenplein 1, 4612RZ, Bergen op Zoom"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Berkel-Enschot",
+        "Adres": "Burgemeester Panislaan 21, 5056AD, Berkel-Enschot"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Breda",
+        "Adres": "Tramsingel 71, 4814AC, Breda"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Chaam",
+        "Adres": "Florijnstraat 7a, 4861BW, Chaam"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Den Hout",
+        "Adres": "Houtse Pad 1, 4911AS, Den Hout"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Diessen",
+        "Adres": "Heuvelstraat 32, 5087AB, Diessen"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Dinteloord",
+        "Adres": "Westerstraat 49, 4671CH, Dinteloord"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Dongen",
+        "Adres": "Oude Baan 21b, 5104AV, Dongen"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Dorst",
+        "Adres": "Kapelerf 4, 4849BZ, Dorst"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Dussen",
+        "Adres": "Zuideveldlaan 42, 4271XD, Dussen"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Etten-Leur",
+        "Adres": "Wipakker 8, 4872XH, Etten-Leur"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Fijnaart",
+        "Adres": "Langeweg 49, 4793AS, Fijnaart"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Geertruidenberg",
+        "Adres": "Rivierkade 9b, 4931AA, Geertruidenberg"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Genderen",
+        "Adres": "Genderensedijk 7, 4265JJ, Genderen"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Giessen",
+        "Adres": "Handelstraat 7, 4283JK, Giessen"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Gilze",
+        "Adres": "Burgemeester Krollaan 3, 5126PT, Gilze"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Goirle",
+        "Adres": "Kerkstraat 14, 5051LB, Goirle"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Haaren",
+        "Adres": "Helvoirtseweg 6b, 5076PK, Haaren"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Halsteren",
+        "Adres": "Nijverheidsweg 4, 4661VM, Halsteren"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Hank",
+        "Adres": "Stadhoudershoef 12, 4273XZ, Hank"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Hilvarenbeek",
+        "Adres": "Hakvoortseweg 4, 5081HA, Hilvarenbeek"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Hoeven",
+        "Adres": "Bovendonksestraat 58a, 4741EJ, Hoeven"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Hoogerheide",
+        "Adres": "Jan van der Heijdenstraat 6, 4631NH, Hoogerheide"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Huijbergen",
+        "Adres": "Canadaplein 1, 4635AZ, Huijbergen"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Kaatsheuvel",
+        "Adres": "Dodenauweg 4, 5171NG, Kaatsheuvel"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Klundert",
+        "Adres": "Westerstraat 45, 4791HT, Klundert"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Kruisland",
+        "Adres": "Vierlinghstraat 1, 4756AM, Kruisland"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Lage Zwaluwe",
+        "Adres": "Kruisstraat 48j, 4926AH, Lage Zwaluwe"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Loon op Zand",
+        "Adres": "De Hoogt 20, 5175AX, Loon op Zand"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Made",
+        "Adres": "Nieuwelaan 14, 4921ZH, Made"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Moerdijk",
+        "Adres": "Wilhelminaplein 11c, 4782AB, Moerdijk"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Moerdijk Haven",
+        "Adres": "Plaza 21, 4782SL, Moerdijk"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Moerdijk-Haven",
+        "Adres": "Plaza 21, 4782SL, Moerdijk"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Moergestel",
+        "Adres": "Kloosterdreef 2, 5066AA, Moergestel"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Nieuw-Vossemeer",
+        "Adres": "Veerweg 3a, 4681RH, Nieuw-Vossemeer"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Oisterwijk",
+        "Adres": "Blokshekken 4, 5061HA, Oisterwijk"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Oosterhout",
+        "Adres": "Vaartweg 2, 4905BL, Oosterhout"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Ossendrecht",
+        "Adres": "Doktersstraat 7, 4641HS, Ossendrecht"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Oud-Gastel",
+        "Adres": "Wilhelminastraat 2a, 4751CH, Oud-Gastel"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Oudenbosch",
+        "Adres": "Vaartweg 32a, 4731RA, Oudenbosch"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Prinsenbeek",
+        "Adres": "Gertrudislaan 14, 4841XJ, Prinsenbeek"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Putte",
+        "Adres": "Antwerpsestraat 127, 4645BD, Putte"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Raamsdonksveer",
+        "Adres": "Julianalaan 103, 4941JC, Raamsdonksveer"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Riel",
+        "Adres": "Veertels 9, 5133NL, Riel"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Rijen",
+        "Adres": "Rembrandtlaan 52, 5121WL, Rijen"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Rijsbergen",
+        "Adres": "Sint Bavostraat 18, 4891CJ, Rijsbergen"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Roosendaal",
+        "Adres": "Laan van Brabant 16, 4701BK, Roosendaal"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Rucphen",
+        "Adres": "Expeditieweg 3a, 4715RM, Rucphen"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Sleeuwijk",
+        "Adres": "K. van de Sandeplein 21, 4254AA, Sleeuwijk"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Sprang-Capelle",
+        "Adres": "Julianalaan 88, 5161BC, Sprang-Capelle"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Standdaarbuiten",
+        "Adres": "Molendijk 1, 4758SB, Standdaarbuiten"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Steenbergen",
+        "Adres": "Molenweg 50, 4651CM, Steenbergen"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Terheijden",
+        "Adres": "Zeggelaan 131, 4844SE, Terheijden"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Teteringen",
+        "Adres": "Laarakker 2, 4847AM, Teteringen"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Tilburg-Centrum",
+        "Adres": "Fabriekstraat 34, 5038EN, Tilburg"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Tilburg-Vossenberg",
+        "Adres": "Pater Geurtjensweg 1, 5047SL, Tilburg"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Udenhout",
+        "Adres": "Van Heeswijkstraat 25, 5071CT, Udenhout"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Ulvenhout",
+        "Adres": "Chaamse Baan 2, 4851SN, Ulvenhout"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Waalwijk",
+        "Adres": "Groenstraat 25, 5142EB, Waalwijk"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Waspik",
+        "Adres": "Stationslaan 5, 5165TT, Waspik"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Werkendam",
+        "Adres": "Raadhuislaan 17, 4251VS, Werkendam"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Wijk en Aalburg",
+        "Adres": "Bergstraat 50a, 4261BR, Wijk en Aalburg"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Willemstad",
+        "Adres": "Landpoortstraat 47, 4797AM, Willemstad"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Woudrichem",
+        "Adres": "Almkerkseweg 2, 4285WZ, Woudrichem"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Wouw",
+        "Adres": "Donkenweg 1, 4724SN, Wouw"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Zevenbergen",
+        "Adres": "Kristallaan 2, 4761ZD, Zevenbergen"
+    },
+    {
+        "Regio": "20",
+        "Kazerne naam": "Zundert",
+        "Adres": "Hofdreef 20a, 4881DR, Zundert"
+    },
+    {
+        "Regio": "21",
+        "Kazerne naam": "`s-Hertogenbosch",
+        "Adres": "Vogelstraat 45, 5212VL, 's-Hertogenbosch"
+    },
+    {
+        "Regio": "21",
+        "Kazerne naam": "Berghem",
+        "Adres": "Kloosterstraat 30, 5351ER, Berghem"
+    },
+    {
+        "Regio": "21",
+        "Kazerne naam": "Berlicum",
+        "Adres": "Runweg 25, 5258BK, Berlicum"
+    },
+    {
+        "Regio": "21",
+        "Kazerne naam": "Boekel",
+        "Adres": "De Vlonder 64, 5427DE, Boekel"
+    },
+    {
+        "Regio": "21",
+        "Kazerne naam": "Boxmeer",
+        "Adres": "Frans Halsstraat 2, 5831CA, Boxmeer"
+    },
+    {
+        "Regio": "21",
+        "Kazerne naam": "Boxtel",
+        "Adres": "Brederodeweg 25, 5283HA, Boxtel"
+    },
+    {
+        "Regio": "21",
+        "Kazerne naam": "Cromvoirt",
+        "Adres": "Sint Lambertusstraat 27, 5266AC, Cromvoirt"
+    },
+    {
+        "Regio": "21",
+        "Kazerne naam": "Cuijk",
+        "Adres": "Gildekamp 11, 5431SP, Cuijk"
+    },
+    {
+        "Regio": "21",
+        "Kazerne naam": "Drunen",
+        "Adres": "Wilhelminastraat 9, 5151BW, Drunen"
+    },
+    {
+        "Regio": "21",
+        "Kazerne naam": "Erp",
+        "Adres": "Ottenstraat 2, 5469CZ, Erp"
+    },
+    {
+        "Regio": "21",
+        "Kazerne naam": "Geffen",
+        "Adres": "Groenstraat 19, 5386KW, Geffen"
+    },
+    {
+        "Regio": "21",
+        "Kazerne naam": "Grave",
+        "Adres": "Stoofweg 5, 5361HZ, Grave"
+    },
+    {
+        "Regio": "21",
+        "Kazerne naam": "Haps",
+        "Adres": "Oeffeltseweg 9, 5443PJ, Haps"
+    },
+    {
+        "Regio": "21",
+        "Kazerne naam": "Heesch",
+        "Adres": "De La Sallestraat 1, 5384NK, Heesch"
+    },
+    {
+        "Regio": "21",
+        "Kazerne naam": "Heeswijk-Dinther",
+        "Adres": "Jonker Speelmanstraat 2-8, 5473CB, Heeswijk-Dinther"
+    },
+    {
+        "Regio": "21",
+        "Kazerne naam": "Helvoirt",
+        "Adres": "Stationsweg 2, 5268BD, Helvoirt"
+    },
+    {
+        "Regio": "21",
+        "Kazerne naam": "Heusden",
+        "Adres": "Garnizoenstraat 2, 5256EK, Heusden"
+    },
+    {
+        "Regio": "21",
+        "Kazerne naam": "Liempde",
+        "Adres": "Oude Postbaan 10, 5298AT, Liempde"
+    },
+    {
+        "Regio": "21",
+        "Kazerne naam": "Lith",
+        "Adres": "Wiegersmastraat 11a, 5397BH, Lith"
+    },
+    {
+        "Regio": "21",
+        "Kazerne naam": "Megen",
+        "Adres": "Torenstraat 4, 5366BK, Megen"
+    },
+    {
+        "Regio": "21",
+        "Kazerne naam": "Mill",
+        "Adres": "Jochemsweg 2, 5451HW, Mill"
+    },
+    {
+        "Regio": "21",
+        "Kazerne naam": "Nistelrode",
+        "Adres": "Heescheweg 37, 5388RG, Nistelrode"
+    },
+    {
+        "Regio": "21",
+        "Kazerne naam": "Oeffelt",
+        "Adres": "Schoolstraat 4, 5441AM, Oeffelt"
+    },
+    {
+        "Regio": "21",
+        "Kazerne naam": "Oss",
+        "Adres": "Wethouder Van Eschstraat 260, 5342AV, Oss"
+    },
+    {
+        "Regio": "21",
+        "Kazerne naam": "Ravenstein",
+        "Adres": "Veersingel 2, 5371EA, Ravenstein"
+    },
+    {
+        "Regio": "21",
+        "Kazerne naam": "Rosmalen",
+        "Adres": "Burg. Mazairaclaan 131, 5241NE, Rosmalen"
+    },
+    {
+        "Regio": "21",
+        "Kazerne naam": "Schaijk",
+        "Adres": "Schutsboomstraat 94, 5374CD, Schaijk"
+    },
+    {
+        "Regio": "21",
+        "Kazerne naam": "Schijndel",
+        "Adres": "Kerkendijk 57, 5482KG, Schijndel"
+    },
+    {
+        "Regio": "21",
+        "Kazerne naam": "Sint Anthonis",
+        "Adres": "Breestraat 1a, 5845AX, Sint Anthonis"
+    },
+    {
+        "Regio": "21",
+        "Kazerne naam": "Sint-Michielsgestel",
+        "Adres": "Schijndelseweg 38b, 5271SB, Sint-Michielsgestel"
+    },
+    {
+        "Regio": "21",
+        "Kazerne naam": "Sint-Oedenrode",
+        "Adres": "Van Rijckevorsel van Kessellaan 1, 5491GD, Sint-Oedenrode"
+    },
+    {
+        "Regio": "21",
+        "Kazerne naam": "Uden",
+        "Adres": "Leeuweriksweg 4, 5402XD, Uden"
+    },
+    {
+        "Regio": "21",
+        "Kazerne naam": "Veghel",
+        "Adres": "Stadhuisplein 2, 5461KS, Veghel"
+    },
+    {
+        "Regio": "21",
+        "Kazerne naam": "Vierlingsbeek",
+        "Adres": "Molenweg 8c, 5821EA, Vierlingsbeek"
+    },
+    {
+        "Regio": "21",
+        "Kazerne naam": "Vlijmen",
+        "Adres": "Burgemeester Zwaansweg 2a, 5251CJ, Vlijmen"
+    },
+    {
+        "Regio": "21",
+        "Kazerne naam": "Vught",
+        "Adres": "Kettingweg 7a, 5261LG, Vught"
+    },
+    {
+        "Regio": "21",
+        "Kazerne naam": "Wanroij",
+        "Adres": "Peelstraat 2c, 5446PJ, Wanroij"
+    },
+    {
+        "Regio": "21",
+        "Kazerne naam": "Zeeland",
+        "Adres": "Langenboomseweg 71b, 5411AT, Zeeland"
+    },
+    {
+        "Regio": "22",
+        "Kazerne naam": "Aalst",
+        "Adres": "Kerkhoflaan 13, 5582JH, Aalst"
+    },
+    {
+        "Regio": "22",
+        "Kazerne naam": "Aarle-Rixtel",
+        "Adres": "De Duivenaker 72, 5735JB, Aarle-Rixtel"
+    },
+    {
+        "Regio": "22",
+        "Kazerne naam": "Asten",
+        "Adres": "Floralaan 20, 5721CV, Asten"
+    },
+    {
+        "Regio": "22",
+        "Kazerne naam": "Bakel",
+        "Adres": "De Brakken 4, 5761AD, Bakel"
+    },
+    {
+        "Regio": "22",
+        "Kazerne naam": "Bavaria Lieshout",
+        "Adres": "de Stater 5, 5737RV, Lieshout"
+    },
+    {
+        "Regio": "22",
+        "Kazerne naam": "Beek en Donk",
+        "Adres": "Raadhuisplein 3, 5741AX, Beek en Donk"
+    },
+    {
+        "Regio": "22",
+        "Kazerne naam": "Bergeijk",
+        "Adres": "Borkelsedijk 15, 5571GA, Bergeijk"
+    },
+    {
+        "Regio": "22",
+        "Kazerne naam": "Best",
+        "Adres": "Willem de Zwijgerweg 1a, 5684SB, Best"
+    },
+    {
+        "Regio": "22",
+        "Kazerne naam": "Bladel",
+        "Adres": "Isegrim 5, 5531KM, Bladel"
+    },
+    {
+        "Regio": "22",
+        "Kazerne naam": "Budel",
+        "Adres": "Grensweg 11, 6021JW, Budel"
+    },
+    {
+        "Regio": "22",
+        "Kazerne naam": "De Beerzen",
+        "Adres": "Willibrordstraat 14, 5091CD, De Beerzen"
+    },
+    {
+        "Regio": "22",
+        "Kazerne naam": "De Rips",
+        "Adres": "Burgemeester Van de Wildenberglaan 45, 5764RC, De Rips"
+    },
+    {
+        "Regio": "22",
+        "Kazerne naam": "Deurne",
+        "Adres": "Antoon Coolenlaan 2, 5751XM, Deurne"
+    },
+    {
+        "Regio": "22",
+        "Kazerne naam": "Eersel",
+        "Adres": "Dalemsedijk 1, 5521RM, Eersel"
+    },
+    {
+        "Regio": "22",
+        "Kazerne naam": "Eindhoven Airport",
+        "Adres": "Flightforum 1550, 5657EZ, Eindhoven"
+    },
+    {
+        "Regio": "22",
+        "Kazerne naam": "Eindhoven-Centrum",
+        "Adres": "Deken van Somerenstraat 2, 5611KX, Eindhoven"
+    },
+    {
+        "Regio": "22",
+        "Kazerne naam": "Eindhoven-Woensel",
+        "Adres": "Avinonlaan 7, 5627GA, Eindhoven"
+    },
+    {
+        "Regio": "22",
+        "Kazerne naam": "Geldrop",
+        "Adres": "Laan der Vier Heemskinderen 17, 5664TH, Geldrop"
+    },
+    {
+        "Regio": "22",
+        "Kazerne naam": "Gemert",
+        "Adres": "Cortenbachstraat 2b, 5421KJ, Gemert"
+    },
+    {
+        "Regio": "22",
+        "Kazerne naam": "Hapert",
+        "Adres": "Planetenlaan 1, 5527CH, Hapert"
+    },
+    {
+        "Regio": "22",
+        "Kazerne naam": "Heeze",
+        "Adres": "Oude stationstraat 33, 5591JH, Heeze"
+    },
+    {
+        "Regio": "22",
+        "Kazerne naam": "Helmond",
+        "Adres": "Deurneseweg 135, 5701CE, Helmond"
+    },
+    {
+        "Regio": "22",
+        "Kazerne naam": "Leende",
+        "Adres": "Biesven 17, 5595DD, Leende"
+    },
+    {
+        "Regio": "22",
+        "Kazerne naam": "Lieshout",
+        "Adres": "Papenhoef 7, 5737BS, Lieshout"
+    },
+    {
+        "Regio": "22",
+        "Kazerne naam": "Luyksgestel",
+        "Adres": "Zoeferbeemd 14, 5575CE, Luyksgestel"
+    },
+    {
+        "Regio": "22",
+        "Kazerne naam": "Maarheeze",
+        "Adres": "Molenstraat 14, 6026CM, Maarheeze"
+    },
+    {
+        "Regio": "22",
+        "Kazerne naam": "Mierlo",
+        "Adres": "Bijenkorf 15, 5731ST, Mierlo"
+    },
+    {
+        "Regio": "22",
+        "Kazerne naam": "Neerkant",
+        "Adres": "Sint Vincentiusstraat 1, 5758SB, Neerkant"
+    },
+    {
+        "Regio": "22",
+        "Kazerne naam": "Nuenen",
+        "Adres": "Dwerspad 20, 5671GT, Neunen"
+    },
+    {
+        "Regio": "22",
+        "Kazerne naam": "Oirschot",
+        "Adres": "Kempenweg 1, 5688MZ, Oirschot"
+    },
+    {
+        "Regio": "22",
+        "Kazerne naam": "Reusel",
+        "Adres": "Kruisstraat 3a, 5541CH, Reusel"
+    },
+    {
+        "Regio": "22",
+        "Kazerne naam": "ROC Waalre",
+        "Adres": "Engelse Tuin 1, 5583CT, Waalre"
+    },
+    {
+        "Regio": "22",
+        "Kazerne naam": "Someren",
+        "Adres": "Loovebaan 29, 5712JV, Someren"
+    },
+    {
+        "Regio": "22",
+        "Kazerne naam": "Son en Breugel",
+        "Adres": "Rooijseweg 1, 5691PA, Son"
+    },
+    {
+        "Regio": "22",
+        "Kazerne naam": "TU Eindhoven",
+        "Adres": "Den Dolech 2, 5612AZ, Eindhoven"
+    },
+    {
+        "Regio": "22",
+        "Kazerne naam": "Valkenswaard",
+        "Adres": "Maastrichterweg 51, 5554GE, Valkenswaard"
+    },
+    {
+        "Regio": "22",
+        "Kazerne naam": "Veldhoven De Run",
+        "Adres": "De Run 5610, 5504DJ, Veldhoven"
+    },
+    {
+        "Regio": "22",
+        "Kazerne naam": "Veldhoven-Heemweg",
+        "Adres": "Meiveld 1, 5501LA, Veldhoven"
+    },
+    {
+        "Regio": "22",
+        "Kazerne naam": "Vessem",
+        "Adres": "Wilhelminalaan 44, 5512BK, Vessem"
+    },
+    {
+        "Regio": "22",
+        "Kazerne naam": "Waalre",
+        "Adres": "Monseigneur Bannenberglaan 36, 5581AH, Waalre"
+    },
+    {
+        "Regio": "23",
+        "Kazerne naam": "Baarlo",
+        "Adres": "Zuivelstraat 1, 5991AN, Baarlo"
+    },
+    {
+        "Regio": "23",
+        "Kazerne naam": "Belfeld",
+        "Adres": "Craenakker 17, 5951CC, Belffeld"
+    },
+    {
+        "Regio": "23",
+        "Kazerne naam": "Bergen",
+        "Adres": "De Flammert 1026, 5854NA, Bergen"
+    },
+    {
+        "Regio": "23",
+        "Kazerne naam": "Brandweer Limburg-Noord",
+        "Adres": "Nijmeegseweg 42, 5916PT, Venlo"
+    },
+    {
+        "Regio": "23",
+        "Kazerne naam": "Echt",
+        "Adres": "Bandertlaan 28, 9101LZ, Echt"
+    },
+    {
+        "Regio": "23",
+        "Kazerne naam": "Gennep",
+        "Adres": "Paesplasweg 2, 6591MH, Gennep"
+    },
+    {
+        "Regio": "23",
+        "Kazerne naam": "Grathem",
+        "Adres": "Grathemerweg 24, 6037NR, Kelpen-Oler"
+    },
+    {
+        "Regio": "23",
+        "Kazerne naam": "Heythuysen",
+        "Adres": "Meerkamp 6, 6093BZ, Heythuysen"
+    },
+    {
+        "Regio": "23",
+        "Kazerne naam": "Horst",
+        "Adres": "Westsingel 201, 5961DD, Horst"
+    },
+    {
+        "Regio": "23",
+        "Kazerne naam": "Ittervoort",
+        "Adres": "Aziëstraat 11, 6014DA, Ittervoort"
+    },
+    {
+        "Regio": "23",
+        "Kazerne naam": "Kessel",
+        "Adres": "Schijfweg-Zuid 8, 5995BG, Kessel"
+    },
+    {
+        "Regio": "23",
+        "Kazerne naam": "Lomm",
+        "Adres": "Spikweien 68a, 5943AD, Lomm"
+    },
+    {
+        "Regio": "23",
+        "Kazerne naam": "Lottum",
+        "Adres": "Zandterweg 10, 5973RC, Lottum"
+    },
+    {
+        "Regio": "23",
+        "Kazerne naam": "Maasbree",
+        "Adres": "Sevenumseweg 2, 5993NZ, Maasbree"
+    },
+    {
+        "Regio": "23",
+        "Kazerne naam": "Meerlo",
+        "Adres": "Dorpbroekstraat 9a, 5864CP, Meerlo"
+    },
+    {
+        "Regio": "23",
+        "Kazerne naam": "Meijel",
+        "Adres": "Randweg 3, 5768XL, Meijel"
+    },
+    {
+        "Regio": "23",
+        "Kazerne naam": "Montfort",
+        "Adres": "Velvin 11, 6065BJ, Montfort"
+    },
+    { "Regio": "23", "Kazerne naam": "Mook", "Adres": "Veldweg 3, 6585VE, Mook" },
+    {
+        "Regio": "23",
+        "Kazerne naam": "Nederweert",
+        "Adres": "Smisserstraat 64, 6031AD, Nederweert"
+    },
+    {
+        "Regio": "23",
+        "Kazerne naam": "Panningen",
+        "Adres": "John F. Kennedylaan 212, 5981WX, Panningen"
+    },
+    {
+        "Regio": "23",
+        "Kazerne naam": "Reuver",
+        "Adres": "Kappellerweg 16, 5953BZ, Reuver"
+    },
+    {
+        "Regio": "23",
+        "Kazerne naam": "Roermond",
+        "Adres": "Minderbroederssingel 36, 6041KK, Roermond"
+    },
+    {
+        "Regio": "23",
+        "Kazerne naam": "Roggel",
+        "Adres": "Heverstraat 9, 6088BG, Roggel"
+    },
+    {
+        "Regio": "23",
+        "Kazerne naam": "Sevenum",
+        "Adres": "Luttelseweg 20, 5975VW, Sevenum"
+    },
+    {
+        "Regio": "23",
+        "Kazerne naam": "Stevensweert",
+        "Adres": "Sportlaan 30, 6107CM, Stevensweert"
+    },
+    {
+        "Regio": "23",
+        "Kazerne naam": "Stramproy",
+        "Adres": "Bergerothweg 34, 6039AM, Stramproy"
+    },
+    {
+        "Regio": "23",
+        "Kazerne naam": "Susteren",
+        "Adres": "Reinoud van Gelderstraat 38, 6114EC, Susteren"
+    },
+    {
+        "Regio": "23",
+        "Kazerne naam": "Venlo",
+        "Adres": "Ariënsstraat 72, 5912PZ, Venlo"
+    },
+    {
+        "Regio": "23",
+        "Kazerne naam": "Venray",
+        "Adres": "Acaciastraat 15, 5802EK, Venray"
+    },
+    {
+        "Regio": "23",
+        "Kazerne naam": "Weert",
+        "Adres": "De Savornin Lohmanstraat 8, 6004AM, Weert"
+    },
+    {
+        "Regio": "23",
+        "Kazerne naam": "Wessem",
+        "Adres": "Haegstraat 30, 6019BP, Wessem"
+    },
+    {
+        "Regio": "24",
+        "Kazerne naam": "Beek",
+        "Adres": "Sportlaan 1, 6191XC, Beek"
+    },
+    {
+        "Regio": "24",
+        "Kazerne naam": "Bocholtz",
+        "Adres": "Schoolstraat 1, 6351EG, Bocholtz"
+    },
+    {
+        "Regio": "24",
+        "Kazerne naam": "Born",
+        "Adres": "Havenweg 141, 6122EN, Buchten"
+    },
+    {
+        "Regio": "24",
+        "Kazerne naam": "Brunssum",
+        "Adres": "Pijler 34, 6446AX, Brunssumm"
+    },
+    {
+        "Regio": "24",
+        "Kazerne naam": "Cadier en Keer",
+        "Adres": "Limburgerstraat 61, 6267CB, Cadier en Keer"
+    },
+    {
+        "Regio": "24",
+        "Kazerne naam": "Eijsden",
+        "Adres": "Drekkesteeg 1, 6245EX, Eijsden"
+    },
+    {
+        "Regio": "24",
+        "Kazerne naam": "Geleen",
+        "Adres": "Molenstraat 40, 6161CV, Geleen"
+    },
+    {
+        "Regio": "24",
+        "Kazerne naam": "Gulpen",
+        "Adres": "Landsraderweg 1, 6271NT, Gulpen"
+    },
+    {
+        "Regio": "24",
+        "Kazerne naam": "Heerlen",
+        "Adres": "Bekkerweg 44, 6417BW, Heerlen"
+    },
+    {
+        "Regio": "24",
+        "Kazerne naam": "Heerlen-Centrum",
+        "Adres": "Bekkerweg 44, 6417BW, Heerlen"
+    },
+    {
+        "Regio": "24",
+        "Kazerne naam": "Hulsberg",
+        "Adres": "Sportparklaan 2a, 6336AB, Hulsberg"
+    },
+    {
+        "Regio": "24",
+        "Kazerne naam": "Kerkrade",
+        "Adres": "Hammolenweg 4, 6466XV, Kerkrade"
+    },
+    {
+        "Regio": "24",
+        "Kazerne naam": "Maastricht-Noord",
+        "Adres": "Willem Alexanderweg 101, 6222NB, Maastricht"
+    },
+    {
+        "Regio": "24",
+        "Kazerne naam": "Maastricht-Zuid",
+        "Adres": "Molensingel 100, 6229PC, Maastricht"
+    },
+    {
+        "Regio": "24",
+        "Kazerne naam": "Margraten",
+        "Adres": "Holstraat 35a, 6269AW, Margraten"
+    },
+    {
+        "Regio": "24",
+        "Kazerne naam": "Mechelen",
+        "Adres": "Spetsesweide 1a, 6281BV, Mechelen"
+    },
+    {
+        "Regio": "24",
+        "Kazerne naam": "Meerssen",
+        "Adres": "Tunnelweg 1, 6231RL, Bunde"
+    },
+    {
+        "Regio": "24",
+        "Kazerne naam": "Mheer-Banholt",
+        "Adres": "An Mhaerebaom 3, 6261PE, Mheer"
+    },
+    {
+        "Regio": "24",
+        "Kazerne naam": "Nijswiller",
+        "Adres": "Hofstraat 14, 6286CG, Nijswiller"
+    },
+    {
+        "Regio": "24",
+        "Kazerne naam": "Schinnen",
+        "Adres": "Burg. Pijlsstraat 3, 6365CG, Schinnen"
+    },
+    {
+        "Regio": "24",
+        "Kazerne naam": "Schinveld",
+        "Adres": "Leuperweg 2, 6451PP, Schinveld"
+    },
+    {
+        "Regio": "24",
+        "Kazerne naam": "Simpelveld",
+        "Adres": "Doctor Ottenstraat 50, 6369VP, Simpelveld"
+    },
+    {
+        "Regio": "24",
+        "Kazerne naam": "Sitech / Chemelot",
+        "Adres": "Kerenshofweg, 6167AE, Geleen"
+    },
+    {
+        "Regio": "24",
+        "Kazerne naam": "Sittard-Oost",
+        "Adres": "Swentiboldstraat 10, 6137AE, Sittard"
+    },
+    {
+        "Regio": "24",
+        "Kazerne naam": "Sittard-West",
+        "Adres": "Zurichstraat 10, 6135LP, Sittard"
+    },
+    {
+        "Regio": "24",
+        "Kazerne naam": "Stein",
+        "Adres": "Stadhouderslaan 245, 5171KK, Stein"
+    },
+    {
+        "Regio": "24",
+        "Kazerne naam": "Vaals",
+        "Adres": "Randweg 7, 6291DC, Vaals"
+    },
+    {
+        "Regio": "24",
+        "Kazerne naam": "Valkenburg",
+        "Adres": "Koningin Julianalaan 19, 6301GT, Valkenburg"
+    },
+    {
+        "Regio": "25",
+        "Kazerne naam": "Almere Stad",
+        "Adres": "Merkerkant 15-13, 1314AT, Almere"
+    },
+    {
+        "Regio": "25",
+        "Kazerne naam": "Almere Veluwsekant",
+        "Adres": "Veluwezoom 50, 1327AH, Almere"
+    },
+    {
+        "Regio": "25",
+        "Kazerne naam": "Almere-Buiten",
+        "Adres": "Makassarweg 61, 1335HW, Almere"
+    },
+    {
+        "Regio": "25",
+        "Kazerne naam": "Biddinghuizen",
+        "Adres": "Ploegschaar 3, 8256SM, Biddinghuizen"
+    },
+    {
+        "Regio": "25",
+        "Kazerne naam": "Creil",
+        "Adres": "Graaf Florislaan 25, 8312AW, Creil"
+    },
+    {
+        "Regio": "25",
+        "Kazerne naam": "Dronten",
+        "Adres": "Installatieweg 36, 8251KP, Dronten"
+    },
+    {
+        "Regio": "25",
+        "Kazerne naam": "Emmeloord",
+        "Adres": "Nijverheidstraat 34, 8301AD, Emmeloord"
+    },
+    { "Regio": "25", "Kazerne naam": "Ens", "Adres": "Kerkplein 3, 8307AP, Ens" },
+    {
+        "Regio": "25",
+        "Kazerne naam": "Lelystad",
+        "Adres": "Gordiaandreef 101, 8233AB, Lelystad"
+    },
+    {
+        "Regio": "25",
+        "Kazerne naam": "Lelystad-Airport",
+        "Adres": "Arendweg 11, 8218PE, Lelystad"
+    },
+    {
+        "Regio": "25",
+        "Kazerne naam": "Marknesse",
+        "Adres": "Oudeweg 8, 8316AC, Marknesse"
+    },
+    {
+        "Regio": "25",
+        "Kazerne naam": "Nagele",
+        "Adres": "Eggestraat 4, 8308AB, Nagele"
+    },
+    {
+        "Regio": "25",
+        "Kazerne naam": "Rutten",
+        "Adres": "Binnendoor 14, 8313AJ, Rutten"
+    },
+    {
+        "Regio": "25",
+        "Kazerne naam": "Swifterbant",
+        "Adres": "Randweg 11, 8255PS, Swifterbant"
+    },
+    { "Regio": "25", "Kazerne naam": "Urk", "Adres": "De Noord 11, 8321BA, Urk" },
+    {
+        "Regio": "25",
+        "Kazerne naam": "Zeewolde",
+        "Adres": "Mast 1, 3891KE, Zeewolde"
+    }
+]

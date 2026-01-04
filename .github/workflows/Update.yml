@@ -1,0 +1,59 @@
+on:
+  schedule:
+    - cron:  '0 * * * *'
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Log level'
+        required: true
+        default: 'warning'
+        type: choice
+        options:
+        - info
+        - warning
+        - debug
+
+jobs:
+  format:
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        persist-credentials: false
+        fetch-depth: 0
+
+    - name: setup python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: install python packages
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: update
+      run: |
+        python -u Scripts/Update.py
+      env:
+        BRW_URL: ${{ secrets.BRW_URL  }}
+        AMB_URL: ${{ secrets.AMB_URL  }}
+        KAZ_URL: ${{ secrets.KAZ_URL  }}
+        DISCORD: ${{ secrets.DISCORD  }}
+
+    - name: json-syntax-check
+      uses: limitusus/json-syntax-check@v1
+      with:
+        pattern: "\\.json$"
+
+    - name: Prettify code & PUSH
+      uses: creyD/prettier_action@master
+      with:
+        prettier_options: --write **/*.{js,md,json}
+        commit_message: Update Documents
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN  }}  
