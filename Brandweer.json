@@ -2729,8 +2729,10 @@
   {
     "Regio": "02",
     "Roepnummer": "02-4231",
+    "Kenteken": "BB-459-P",
     "Type": "TS-8",
     "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Merk (& Type)": "Volvo FE 320",
     "Kazerne": "Anjum",
     "Adres": "Buorfinne 11, 9133NR, Anjum"
   },
@@ -2783,16 +2785,20 @@
   {
     "Regio": "02",
     "Roepnummer": "02-4331",
-    "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Kenteken": "BB-575-K",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Volvo FE 320",
     "Kazerne": "Damw\u00e2ld",
     "Adres": "De Moarrewei 24, 9104LA, Damw\u00e2ld"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-4332",
-    "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Kenteken": "BB-419-L",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Volvo FE 320",
     "Kazerne": "De Westereen",
     "Adres": "Roazeloane 70, 9271VT, De Westereen"
   },
@@ -3221,8 +3227,10 @@
   {
     "Regio": "02",
     "Roepnummer": "02-5433",
-    "Type": "TS-6",
-    "Omschrijving": "Tankautospuit\u00a06 mans\u00a0bezetting",
+    "Kenteken": "BB-639-J",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Volvo FE 320",
     "Kazerne": "Sloten",
     "Adres": "Wijckelerweg 171b, 8556XB, Sloten"
   },
@@ -4350,8 +4358,10 @@
   {
     "Regio": "02",
     "Roepnummer": "02-6731",
-    "Type": "TS-7",
-    "Omschrijving": "Tankautospuit\u00a07 mans\u00a0bezetting",
+    "Kenteken": "BB-030-J",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Volvo FE 320",
     "Kazerne": "Scherpenzeel",
     "Adres": "Grindweg 135, 8483JL, Scherpenzeel"
   },
@@ -10334,6 +10344,53 @@
   },
   {
     "Regio": "06",
+    "Roepnummer": "06-1641",
+    "Kenteken": "BB-997-J",
+    "Type": "TST-NB",
+    "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
+    "Merk (& Type)": "Volvo FMX 420",
+    "Kazerne": "Nunspeet",
+    "Adres": "Elburgerweg 13, 8071TA, Nunspeet"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-2131",
+    "Kenteken": "BB-364-P",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Volvo FE 320",
+    "Kazerne": "Putten",
+    "Adres": "Kelnarijstraat 10a, 3881CB, Putten"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-2541",
+    "Kenteken": "BB-217-L",
+    "Type": "TST-NB",
+    "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
+    "Merk (& Type)": "Volvo FMX 420",
+    "Kazerne": "Uddel",
+    "Adres": "Uttilochweg 8, 3888LK, Uddel"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-3041",
+    "Kenteken": "BB-908-L",
+    "Type": "TST-NB",
+    "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
+    "Merk (& Type)": "Volvo FMX 420",
+    "Kazerne": "Hoenderloo",
+    "Adres": "Brinkenbergweg 6, 7351BD, Hoenderloo"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-3141",
+    "Kenteken": "BB-570-H",
+    "Type": "TST-NB",
+    "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding"
+  },
+  {
+    "Regio": "06",
     "Roepnummer": "06-4331",
     "Kenteken": "63-BDZ-1",
     "Type": "TS",
@@ -10341,6 +10398,16 @@
     "Merk (& Type)": "Volvo FE 320",
     "Kazerne": "Almen",
     "Adres": "Berkelweg 2a, 7218AS, Almen"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-4531",
+    "Kenteken": "BB-739-R",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Volvo FE 320",
+    "Kazerne": "Barchem",
+    "Adres": "Van Damstraat 2, 7244BJ, Barchem"
   },
   {
     "Regio": "06",
@@ -10918,6 +10985,15 @@
     "Merk (& Type)": "Volkswagen Transporter",
     "Kazerne": "Ermelo",
     "Adres": "Oude Telgterweg 181, 3851EC, Ermelo"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-7334",
+    "Kenteken": "BB-083-R",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Volvo FE 320",
+    "Kazerne": "Regionaal"
   },
   {
     "Regio": "06",
