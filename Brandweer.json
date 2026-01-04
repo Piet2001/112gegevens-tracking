@@ -432,9 +432,9 @@
   {
     "Regio": "01",
     "Roepnummer": "01-1331",
-    "Kenteken": "BP-RH-22",
-    "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Kenteken": "45-BRB-5",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
     "Merk (& Type)": "DAF",
     "Kazerne": "Zuidhorn",
     "Adres": "Boslaan 16, 9801HG, Zuidhorn"
@@ -452,9 +452,9 @@
   {
     "Regio": "01",
     "Roepnummer": "01-1333",
-    "Kenteken": "BV-FG-87",
-    "Type": "TS-9",
-    "Omschrijving": "Tankautospuit\u00a09 mans\u00a0bezetting",
+    "Kenteken": "BV-FG-97",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
     "Merk (& Type)": "MAN",
     "Kazerne": "Grijpskerk",
     "Adres": "Bouwhuisstraat 20, 9843BC, Grijpskerk"
@@ -471,7 +471,7 @@
   {
     "Regio": "01",
     "Roepnummer": "01-1382",
-    "Kenteken": "BX-NZ-89",
+    "Kenteken": "BX-NZ-99",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
     "Merk (& Type)": "Volvo",
@@ -491,10 +491,10 @@
   {
     "Regio": "01",
     "Roepnummer": "01-1401",
-    "Kenteken": "4-XFG-00",
+    "Kenteken": "GJN-66-B",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Merk (& Type)": "Volkswagen Polo",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Zoutkamp",
     "Adres": "Marnestraat 3, 9974RB, Zoutkamp"
   },
@@ -519,9 +519,9 @@
   {
     "Regio": "01",
     "Roepnummer": "01-1411",
-    "Kenteken": "31-VXS-5",
-    "Type": "PM",
-    "Omschrijving": "Personeel/Materieelvoertuig",
+    "Kenteken": "VPF-48-D",
+    "Type": "PM-ORT",
+    "Omschrijving": "Personeel/Materieelvoertuig - Oppervlakte Redding Team",
     "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Zoutkamp",
     "Adres": "Marnestraat 3, 9974RB, Zoutkamp"
@@ -548,10 +548,10 @@
   {
     "Regio": "01",
     "Roepnummer": "01-1432",
-    "Kenteken": "BN-GB-05",
-    "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
-    "Merk (& Type)": "Scania",
+    "Kenteken": "12-BRT-4",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "DAF",
     "Kazerne": "Wehe-den Hoorn",
     "Adres": "W.H. Timersmastraat 7, 9964AZ, Wehe den Hoorn"
   },
@@ -606,6 +606,7 @@
   {
     "Regio": "01",
     "Roepnummer": "01-1562",
+    "Kenteken": "92-WX-ZF",
     "Type": "DPA",
     "Omschrijving": "Dompelpompaanhanger",
     "Kazerne": "Baflo",
@@ -624,9 +625,10 @@
   {
     "Regio": "01",
     "Roepnummer": "01-1600",
-    "Kenteken": "4-ZFG-11",
-    "Type": "DA-CVD",
-    "Omschrijving": "Dienstauto - Commandant Van Dienst",
+    "Kenteken": "4-XFG-11",
+    "Type": "DA",
+    "Omschrijving": "Dienstauto",
+    "Toevoeging": "Regionaal",
     "Merk (& Type)": "Volkswagen Polo",
     "Kazerne": "Bedum",
     "Adres": "Industrieweg 15, 9781AC, Bedum"
@@ -640,6 +642,16 @@
     "Merk (& Type)": "Volkswagen Polo",
     "Kazerne": "Bedum",
     "Adres": "Industrieweg 15, 9781AC, Bedum"
+  },
+  {
+    "Regio": "01",
+    "Roepnummer": "01-1602",
+    "Kenteken": "4-XFG-00",
+    "Type": "DA",
+    "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Volkswagen Polo",
+    "Kazerne": "Zoutkamp",
+    "Adres": "Marnestraat 3, 9974RB, Zoutkamp"
   },
   {
     "Regio": "01",
@@ -696,7 +708,7 @@
     "Roepnummer": "01-1731",
     "Kenteken": "BX-JG-48",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Merk (& Type)": "Volvo FL260",
     "Kazerne": "Ten Boer",
     "Adres": "Boltweg 1, 9791AC, Ten Boer"
@@ -1232,7 +1244,7 @@
     "Roepnummer": "01-2133",
     "Kenteken": "BV-FX-04",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Merk (& Type)": "MAN TGM 15.240BL",
     "Kazerne": "Hoogezand-Sappemeer",
     "Adres": "Rembrandtlaan 8, 9601XC, Hoogezand"
@@ -1406,7 +1418,7 @@
     "Roepnummer": "01-2432",
     "Kenteken": "BT-ZH-28",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Merk (& Type)": "Volvo",
     "Kazerne": "Oude Pekela",
     "Adres": "Burg. Snaterlaan 42, 9665HR, Oude Pekela"
@@ -1488,7 +1500,7 @@
     "Roepnummer": "01-2531",
     "Kenteken": "BV-VB-97",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Merk (& Type)": "Volvo",
     "Kazerne": "Veendam",
     "Adres": "Langeleegte 2, 9641GN, Veendam"
@@ -1498,7 +1510,7 @@
     "Roepnummer": "01-2532",
     "Kenteken": "BT-XZ-37",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Merk (& Type)": "Volvo",
     "Kazerne": "Veendam",
     "Adres": "Langeleegte 2, 9641GN, Veendam"
@@ -1641,7 +1653,7 @@
     "Roepnummer": "01-2631",
     "Kenteken": "BP-FJ-62",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Merk (& Type)": "Scania P94D",
     "Kazerne": "Stadskanaal",
     "Adres": "Veenstraat 8, 9502EZ, Stadskanaal"
@@ -1700,7 +1712,7 @@
     "Roepnummer": "01-2731",
     "Kenteken": "BT-GZ-05",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Merk (& Type)": "Scania",
     "Kazerne": "Vlagtwedde",
     "Adres": "Nieuwe Weg 1, 9541EG, Vlagtwedde"
@@ -1710,7 +1722,7 @@
     "Roepnummer": "01-2732",
     "Kenteken": "BT-GX-96",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Merk (& Type)": "Scania",
     "Kazerne": "Ter Apel",
     "Adres": "Heemker Akkerstraat 1, 9561KD, Ter Apel"
@@ -1856,7 +1868,7 @@
     "Roepnummer": "01-2932",
     "Kenteken": "BP-FZ-53",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Merk (& Type)": "MAN M2000 14.250LLLC",
     "Kazerne": "Winschoten",
     "Adres": "Molenweg 2, 9675JC, Winschoten"
@@ -1866,7 +1878,7 @@
     "Roepnummer": "01-2933",
     "Kenteken": "BV-FV-70",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Merk (& Type)": "MAN TGM 15.240BL",
     "Kazerne": "Scheemda",
     "Adres": "Zwaagsterweg 2e, 9679BH, Scheemda"
@@ -2219,7 +2231,7 @@
     "Roepnummer": "01-3231",
     "Kenteken": "BV-DH-91",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Merk (& Type)": "MAN TGM 15.240BLF",
     "Kazerne": "Middelstum",
     "Adres": "Delleweg 21, 9991CG, Middelstum"
@@ -2229,7 +2241,7 @@
     "Roepnummer": "01-3232",
     "Kenteken": "37-BNL-3",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Merk (& Type)": "DAF",
     "Kazerne": "Loppersum",
     "Adres": "Pomonaweg 3, 9919HS, Loppersum"
@@ -2730,8 +2742,8 @@
     "Regio": "02",
     "Roepnummer": "02-4231",
     "Kenteken": "BB-459-P",
-    "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
     "Merk (& Type)": "Volvo FE 320",
     "Kazerne": "Anjum",
     "Adres": "Buorfinne 11, 9133NR, Anjum"
@@ -3220,7 +3232,7 @@
     "Regio": "02",
     "Roepnummer": "02-5432",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Balk",
     "Adres": "Herman Gorterstraat 12, 8561BS, Balk"
   },
@@ -3369,7 +3381,7 @@
     "Regio": "02",
     "Roepnummer": "02-5632",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Heeg",
     "Adres": "De Draei 17, 8621CZ, Heeg"
   },
@@ -3377,7 +3389,7 @@
     "Regio": "02",
     "Roepnummer": "02-5633",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Ijlst",
     "Adres": "De Finne 1, 8651CW, Ijlst"
   },
@@ -3393,7 +3405,7 @@
     "Regio": "02",
     "Roepnummer": "02-5635",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Makkum",
     "Adres": "Waardwei 1, 8754HB, Makkum"
   },
@@ -3401,7 +3413,7 @@
     "Regio": "02",
     "Roepnummer": "02-5636",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Parrega",
     "Adres": "Trekweg 116a, 8763MH, Parrega"
   },
@@ -3544,7 +3556,7 @@
     "Regio": "02",
     "Roepnummer": "02-5733",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Stavoren",
     "Adres": "Meerweg 10, 8715EK, Stavoren"
   },
@@ -3552,7 +3564,7 @@
     "Regio": "02",
     "Roepnummer": "02-5734",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Witmarsum",
     "Adres": "Ulbe Hiemstrastrjitte 21, 8748DA, Witmarsum"
   },
@@ -3560,7 +3572,7 @@
     "Regio": "02",
     "Roepnummer": "02-5735",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Workum",
     "Adres": "Konvintsdyk 2, 8711GB, Workum"
   },
@@ -3568,7 +3580,7 @@
     "Regio": "02",
     "Roepnummer": "02-5736",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Woudsend",
     "Adres": "Yndyksterleane 1a, 8551NR, Woudsend"
   },
@@ -4034,7 +4046,7 @@
     "Regio": "02",
     "Roepnummer": "02-6434",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Nieuwehorne",
     "Adres": "Schoterlandseweg 69, 8414LP, Nieuwehorne"
   },
@@ -4219,7 +4231,7 @@
     "Roepnummer": "02-6534",
     "Kenteken": "83-BLZ-3",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Merk (& Type)": "Volvo",
     "Kazerne": "Langweer",
     "Adres": "Pontdyk 1, 8525DM, Langweer"
@@ -4319,7 +4331,7 @@
     "Regio": "02",
     "Roepnummer": "02-6631",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Echten",
     "Adres": "Middenweg 21, 8537SN, Echten"
   },
@@ -4327,7 +4339,7 @@
     "Regio": "02",
     "Roepnummer": "02-6632",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Lemmer",
     "Adres": "Albert Koopmanstraat 1, 8531HC, Lemmer"
   },
@@ -4378,7 +4390,7 @@
     "Regio": "02",
     "Roepnummer": "02-6734",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Noordwolde",
     "Adres": "Hellingstraat 2, 8391AD, Noordwolde"
   },
@@ -4440,7 +4452,7 @@
     "Roepnummer": "02-6831",
     "Kenteken": "BX-JS-56",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Merk (& Type)": "MAN",
     "Kazerne": "Haulerwijk",
     "Adres": "Eikensingel 18, 8433JK, Haulerwijk"
@@ -4449,7 +4461,7 @@
     "Regio": "02",
     "Roepnummer": "02-6832",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Oldeberkoop",
     "Adres": "Heerenveenseweg 2b, 8421PJ, Oldeberkoop"
   },
@@ -4528,7 +4540,7 @@
     "Regio": "02",
     "Roepnummer": "02-6932",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Gorredijk",
     "Adres": "Leitswei 3, 8401CL, Gorredijk"
   },
@@ -4537,7 +4549,7 @@
     "Roepnummer": "02-6933",
     "Kenteken": "03-BDL-8",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Merk (& Type)": "MAN",
     "Kazerne": "Ureterp",
     "Adres": "De Gilden 21, 9247CX, Ureterp"
@@ -4675,7 +4687,7 @@
     "Roepnummer": "02-7033",
     "Kenteken": "BJ-TB-14",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Oudega (tijdelijk)"
   },
   {
@@ -4776,7 +4788,7 @@
     "Regio": "02",
     "Roepnummer": "02-7131",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Burgum",
     "Adres": "Mr. W.M. Oppedijk van Veenweg 24a, 9251GA, Burgum"
   },
@@ -5217,7 +5229,7 @@
     "Regio": "03",
     "Roepnummer": "03-8031",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Norg",
     "Adres": "Eenerstraat 69, 9331VE, Norg"
   },
@@ -5225,7 +5237,7 @@
     "Regio": "03",
     "Roepnummer": "03-8032",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Peize",
     "Adres": "De Aanleg 4, 9321DD, Peize"
   },
@@ -5241,7 +5253,7 @@
     "Regio": "03",
     "Roepnummer": "03-8035",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Veenhuizen",
     "Adres": "Oude Gracht 8, 9341AB, Veenhuizen"
   },
@@ -5307,7 +5319,7 @@
     "Regio": "03",
     "Roepnummer": "03-8131",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Eelde",
     "Adres": "Burgemeester J.G. Legroweg 29a, 9761TA, Eelde"
   },
@@ -5315,7 +5327,7 @@
     "Regio": "03",
     "Roepnummer": "03-8132",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Vries",
     "Adres": "Westerstraat 26, 9481CB, Vries"
   },
@@ -5323,7 +5335,7 @@
     "Regio": "03",
     "Roepnummer": "03-8133",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Zuidlaren",
     "Adres": "Havenstraat 6, 9471AM, Zuidlaren"
   },
@@ -5423,7 +5435,7 @@
     "Regio": "03",
     "Roepnummer": "03-8231",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Assen-West",
     "Adres": "Mien Ruysweg 1, 9408KA, Assen"
   },
@@ -5431,7 +5443,7 @@
     "Regio": "03",
     "Roepnummer": "03-8232",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Assen-Oost",
     "Adres": "Stelmakerstraat 28, 9403VB, Assen"
   },
@@ -5542,7 +5554,7 @@
     "Regio": "03",
     "Roepnummer": "03-8333",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Smilde",
     "Adres": "Hoofdweg 27, 9422AG, Smilde"
   },
@@ -5550,7 +5562,7 @@
     "Regio": "03",
     "Roepnummer": "03-8334",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Westerbork",
     "Adres": "Sliemkampen 2, 9431JR, Westerbork"
   },
@@ -5648,7 +5660,7 @@
     "Regio": "03",
     "Roepnummer": "03-8431",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Annen",
     "Adres": "Spijkerboorsdijk 3, 9468CG, Annen"
   },
@@ -5656,7 +5668,7 @@
     "Regio": "03",
     "Roepnummer": "03-8432",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Gasselternijveen",
     "Adres": "Vogelshemweg 20, 9514BT, Gasselternijveen"
   },
@@ -5664,7 +5676,7 @@
     "Regio": "03",
     "Roepnummer": "03-8433",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Gieten",
     "Adres": "Oelenboom 8a, 9461VA, Gieten"
   },
@@ -5672,7 +5684,7 @@
     "Regio": "03",
     "Roepnummer": "03-8434",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Rolde",
     "Adres": "Grote Brink 22, 9451BP, Rolde"
   },
@@ -5705,7 +5717,7 @@
     "Roepnummer": "03-8531",
     "Kenteken": "BZ-VZ-35",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Merk (& Type)": "MAN",
     "Kazerne": "Borger",
     "Adres": "Ijzertijdstraat 1, 9531RA, Borger"
@@ -5714,7 +5726,7 @@
     "Regio": "03",
     "Roepnummer": "03-8541",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Tweede Exlo\u00ebrmond",
     "Adres": "Middenkijl 1, 9571TB, Tweede Exlo\u00ebrmond"
   },
@@ -5972,7 +5984,7 @@
     "Regio": "03",
     "Roepnummer": "03-8731",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Emmer-Compascu\u00fcm",
     "Adres": "Kijlweg 1, 7881JD, Emmer-Compascu\u00fcm"
   },
@@ -6089,7 +6101,7 @@
     "Roepnummer": "03-8831",
     "Kenteken": "BZ-ZN-10",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Merk (& Type)": "MAN",
     "Kazerne": "Coevorden",
     "Adres": "Hulsvoorderdijk 2, 7741CX, Coevorden"
@@ -6108,7 +6120,7 @@
     "Regio": "03",
     "Roepnummer": "03-8833",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Schoonoord",
     "Adres": "Alle Boelensstraat 29, 7848CS, Schoonoord"
   },
@@ -6117,7 +6129,7 @@
     "Roepnummer": "03-8834",
     "Kenteken": "BP-GZ-94",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Merk (& Type)": "MAN",
     "Kazerne": "Regionaal"
   },
@@ -6125,7 +6137,7 @@
     "Regio": "03",
     "Roepnummer": "03-8835",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Zweeloo",
     "Adres": "Burgemeester Tonkensstraat 5, 7851AG, Zweeloo"
   },
@@ -6133,7 +6145,7 @@
     "Regio": "03",
     "Roepnummer": "03-8836",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Zwinderen",
     "Adres": "Brinkweg 5b, 7864TD, Zwinderen"
   },
@@ -6259,7 +6271,7 @@
     "Regio": "03",
     "Roepnummer": "03-8931",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Hoogeveen",
     "Adres": "Industrieweg 2, 7902AA, Hoogeveen"
   },
@@ -6267,7 +6279,7 @@
     "Regio": "03",
     "Roepnummer": "03-8932",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Hoogeveen",
     "Adres": "Industrieweg 2, 7902AA, Hoogeveen"
   },
@@ -6392,7 +6404,7 @@
     "Regio": "03",
     "Roepnummer": "03-9033",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Ruinerwold",
     "Adres": "Gieser Wildemans 1, 7961GD, Ruinerwold"
   },
@@ -6400,7 +6412,7 @@
     "Regio": "03",
     "Roepnummer": "03-9034",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Zuidwolde",
     "Adres": "Industrieweg 34, 7921JP, Zuidwolde"
   },
@@ -6597,7 +6609,7 @@
     "Roepnummer": "03-9231",
     "Kenteken": "51-BKF-8",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Merk (& Type)": "MAN",
     "Kazerne": "Meppel",
     "Adres": "Paradijsweg 1, 7942HB, Meppel"
@@ -6607,7 +6619,7 @@
     "Roepnummer": "03-9232",
     "Kenteken": "49-BKF-8",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Merk (& Type)": "MAN",
     "Kazerne": "Meppel",
     "Adres": "Paradijsweg 1, 7942HB, Meppel"
@@ -6651,7 +6663,7 @@
     "Roepnummer": "03-9334",
     "Kenteken": "BL-HX-68",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Merk (& Type)": "DAF",
     "Kazerne": "Fokker Aircraft Hoogeveen"
   },
@@ -9071,7 +9083,7 @@
     "Regio": "05",
     "Roepnummer": "05-2331",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Denekamp",
     "Adres": "Nordhornsestraat 66, 7591BH, Denekamp"
   },
@@ -9840,7 +9852,7 @@
     "Roepnummer": "05-5531",
     "Kenteken": "BN-XL-89",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Merk (& Type)": "Volvo",
     "Kazerne": "Wierden",
     "Adres": "Tulpenstraat 1, 7641CJ, Wierden"
@@ -10344,6 +10356,26 @@
   },
   {
     "Regio": "06",
+    "Roepnummer": "06-1041",
+    "Kenteken": "BB-199-F",
+    "Type": "TST-NB",
+    "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
+    "Merk (& Type)": "Volvo FMX 420",
+    "Kazerne": "Hierden",
+    "Adres": "Ooster Mheenweg 6, 3849PB, Hierden"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-1441",
+    "Kenteken": "BB-966-G",
+    "Type": "TST-NB",
+    "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
+    "Merk (& Type)": "Volvo FMX 420",
+    "Kazerne": "Heerde",
+    "Adres": "Rhijnsburglaan 52, 8181XT, Heerde"
+  },
+  {
+    "Regio": "06",
     "Roepnummer": "06-1641",
     "Kenteken": "BB-997-J",
     "Type": "TST-NB",
@@ -10374,6 +10406,26 @@
   },
   {
     "Regio": "06",
+    "Roepnummer": "06-2641",
+    "Kenteken": "BB-278-G",
+    "Type": "TST-NB",
+    "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
+    "Merk (& Type)": "Volvo FMX 420",
+    "Kazerne": "Apeldoorn Centrum",
+    "Adres": "Vosselmanstraat 203, 7311CL, Apeldoorn"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-2941",
+    "Kenteken": "BB-527-F",
+    "Type": "TST-NB",
+    "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
+    "Merk (& Type)": "Volvo FMX 420",
+    "Kazerne": "Beekbergen",
+    "Adres": "Van Schaffelaarweg 2, 7361AG, Beekbergen"
+  },
+  {
+    "Regio": "06",
     "Roepnummer": "06-3041",
     "Kenteken": "BB-908-L",
     "Type": "TST-NB",
@@ -10387,7 +10439,20 @@
     "Roepnummer": "06-3141",
     "Kenteken": "BB-570-H",
     "Type": "TST-NB",
-    "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding"
+    "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
+    "Merk (& Type)": "Volvo FMX 420",
+    "Kazerne": "Loenen",
+    "Adres": "Leeuwenbergweg 13, 7371AL, Loenen"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-3441",
+    "Kenteken": "BB-683-B",
+    "Type": "TST-NB",
+    "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
+    "Merk (& Type)": "Volvo FMX 420",
+    "Kazerne": "Klarenbeek",
+    "Adres": "Klarenbeekseweg 127a, 7381BE, Klarenbeek"
   },
   {
     "Regio": "06",
@@ -10398,6 +10463,16 @@
     "Merk (& Type)": "Volvo FE 320",
     "Kazerne": "Almen",
     "Adres": "Berkelweg 2a, 7218AS, Almen"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-4431",
+    "Kenteken": "01-BZS-4",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Volvo FE 320",
+    "Kazerne": "Lochem",
+    "Adres": "Albert Hahnweg 7, 7242EA, Lochem"
   },
   {
     "Regio": "06",
@@ -10421,6 +10496,16 @@
   },
   {
     "Regio": "06",
+    "Roepnummer": "06-5231",
+    "Kenteken": "08-BZS-6",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Volvo FE 320",
+    "Kazerne": "Wehl",
+    "Adres": "Didamseweg 26, 7031AM, Wehl"
+  },
+  {
+    "Regio": "06",
     "Roepnummer": "06-5331",
     "Kenteken": "BB-485-S",
     "Type": "TS",
@@ -10438,6 +10523,16 @@
     "Merk (& Type)": "Volvo FE 320",
     "Kazerne": "Doetinchem",
     "Adres": "Stokhorstweg 1, 7006GA, Doetinchem"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-5431",
+    "Kenteken": "08-BZR-4",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Volvo FE 320",
+    "Kazerne": "Gendringen",
+    "Adres": "Nijverheidsweg 27, 7081AE, Gendringen"
   },
   {
     "Regio": "06",
@@ -10758,6 +10853,15 @@
   },
   {
     "Regio": "06",
+    "Roepnummer": "06-7044",
+    "Kenteken": "57-BXZ-5",
+    "Type": "TST-NB",
+    "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
+    "Merk (& Type)": "Volvo FMX 420",
+    "Kazerne": "Regionaal"
+  },
+  {
+    "Regio": "06",
     "Roepnummer": "06-7061",
     "Type": "WTH",
     "Omschrijving": "Watertankhaakarmbak",
@@ -10819,6 +10923,24 @@
     "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
     "Kazerne": "Elspeet",
     "Adres": "Vierhouterweg 22a, 8075BJ, Elspeet"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-7144",
+    "Kenteken": "88-BZX-8",
+    "Type": "TST-NB",
+    "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
+    "Merk (& Type)": "Volvo FMX 420",
+    "Kazerne": "Regionaal"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-7145",
+    "Kenteken": "BB-222-B",
+    "Type": "TST-NB",
+    "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
+    "Merk (& Type)": "Volvo FMX 420",
+    "Kazerne": "Regionaal"
   },
   {
     "Regio": "06",
@@ -10944,6 +11066,15 @@
   },
   {
     "Regio": "06",
+    "Roepnummer": "06-7244",
+    "Kenteken": "79-BZK-9",
+    "Type": "TST-NB",
+    "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
+    "Merk (& Type)": "Volvo FMX 420",
+    "Kazerne": "Regionaal"
+  },
+  {
+    "Regio": "06",
     "Roepnummer": "06-7251",
     "Kenteken": "76-BHT-5",
     "Type": "HW",
@@ -11019,6 +11150,15 @@
     "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
     "Kazerne": "Ermelo",
     "Adres": "Oude Telgterweg 181, 3851EC, Ermelo"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-7344",
+    "Kenteken": "31-BZZ-4",
+    "Type": "TST-NB",
+    "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
+    "Merk (& Type)": "Volvo FMX 420",
+    "Kazerne": "Regionaal"
   },
   {
     "Regio": "06",
@@ -12463,7 +12603,7 @@
     "Regio": "06",
     "Roepnummer": "06-9132",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Steenderen",
     "Adres": "Dr. Alfons Ari\u00ebnsstraat 33c, 7221CA, Steenderen"
   },
@@ -13494,7 +13634,7 @@
     "Regio": "07",
     "Roepnummer": "07-1231",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Hoevelaken",
     "Adres": "De Wel 5, 3871MT, Hoevelaken"
   },
@@ -13553,7 +13693,7 @@
     "Regio": "07",
     "Roepnummer": "07-1531",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Zwartebroek",
     "Adres": "Eendrachtstraat 48, 3785KV, Zwartebroek"
   },
@@ -13702,7 +13842,7 @@
     "Regio": "07",
     "Roepnummer": "07-1932",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Scherpenzeel",
     "Adres": "t Zwarte Land 27, 3925CK, Scherpenzeel"
   },
@@ -13760,8 +13900,10 @@
   {
     "Regio": "07",
     "Roepnummer": "07-2141",
-    "Type": "TS-6",
-    "Omschrijving": "Tankautospuit\u00a06 mans\u00a0bezetting",
+    "Kenteken": "70-BXZ-5",
+    "Type": "TST-NB",
+    "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
+    "Merk (& Type)": "Volvo FMX 420",
     "Kazerne": "Harskamp",
     "Adres": "Dorpsstraat 106A, 6732AG, Harskamp"
   },
@@ -13805,8 +13947,10 @@
   {
     "Regio": "07",
     "Roepnummer": "07-2341",
-    "Type": "TS-6",
-    "Omschrijving": "Tankautospuit\u00a06 mans\u00a0bezetting",
+    "Kenteken": "76-BXP-5",
+    "Type": "TST-NB",
+    "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
+    "Merk (& Type)": "Volvo FMX 420",
     "Kazerne": "Otterlo",
     "Adres": "Harskamperweg 30a, 6731AB, Otterlo"
   },
@@ -13874,7 +14018,7 @@
     "Regio": "07",
     "Roepnummer": "07-2741",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Ede-Centrum",
     "Adres": "Breelaan 4, 6711MR, Ede"
   },
@@ -13975,7 +14119,7 @@
     "Regio": "07",
     "Roepnummer": "07-2831",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Ede-Stadspoort",
     "Adres": "Willy Brandtlaan 1, 6716RJ, Ede"
   },
@@ -14098,7 +14242,7 @@
     "Regio": "07",
     "Roepnummer": "07-3231",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Wolfheze",
     "Adres": "Parallelweg 2, 6874BJ, Wolfheze"
   },
@@ -14410,7 +14554,7 @@
     "Regio": "07",
     "Roepnummer": "07-4131",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Heteren",
     "Adres": "Polderstraat 1, 6666LD, Heteren"
   },
@@ -14529,7 +14673,7 @@
     "Roepnummer": "07-4431",
     "Kenteken": "82-BPG-2",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Valburg",
     "Adres": "De Vang 1, 6675AC, Valburg"
@@ -14969,7 +15113,7 @@
     "Roepnummer": "07-5531",
     "Kenteken": "BN-TJ-59",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Merk (& Type)": "DAF",
     "Kazerne": "Zevenaar",
     "Adres": "Professor Aalbersestraat 3, 6904CA, Zevenaar"
@@ -15210,7 +15354,7 @@
     "Regio": "07",
     "Roepnummer": "07-8331",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Norske Skog Parenco",
     "Adres": "Veerweg 1, 6871AV, Renkum"
   },
@@ -15218,7 +15362,7 @@
     "Regio": "07",
     "Roepnummer": "07-8332",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Norske Skog Parenco",
     "Adres": "Veerweg 1, 6871AV, Renkum"
   },
@@ -17544,6 +17688,16 @@
   },
   {
     "Regio": "09",
+    "Roepnummer": "09-0344",
+    "Kenteken": "28-BXK-5",
+    "Type": "TST-NB",
+    "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
+    "Merk (& Type)": "Mercedes-Benz Unimog",
+    "Kazerne": "Baarn",
+    "Adres": "Plataanlaan 2, 3741EW, Baarn"
+  },
+  {
+    "Regio": "09",
     "Roepnummer": "09-0374",
     "Type": "HV",
     "Omschrijving": "Hulpverleningsvoertuig",
@@ -18050,6 +18204,16 @@
   },
   {
     "Regio": "09",
+    "Roepnummer": "09-2244",
+    "Kenteken": "36-BXJ-4",
+    "Type": "TST-NB",
+    "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
+    "Merk (& Type)": "Mercedes-Benz Unimog",
+    "Kazerne": "Leusden",
+    "Adres": "Burgemeester van der Postlaan 1, 3833VT, Leusden"
+  },
+  {
+    "Regio": "09",
     "Roepnummer": "09-2261",
     "Type": "DPH",
     "Omschrijving": "Dompelpomphaakarmbak",
@@ -18279,7 +18443,7 @@
     "Regio": "09",
     "Roepnummer": "09-2932",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Oudewater",
     "Adres": "Biezenwal 3, 3421BE, Oudewater"
   },
@@ -18296,6 +18460,16 @@
     "Roepnummer": "09-3041",
     "Type": "TST-NB",
     "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
+    "Kazerne": "Renswoude",
+    "Adres": "Dorpsstraat 117, 3927BC, Renswoude"
+  },
+  {
+    "Regio": "09",
+    "Roepnummer": "09-3044",
+    "Kenteken": "20-BXP-7",
+    "Type": "TST-NB",
+    "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
+    "Merk (& Type)": "Mercedes-Benz Unimog",
     "Kazerne": "Renswoude",
     "Adres": "Dorpsstraat 117, 3927BC, Renswoude"
   },
@@ -18442,6 +18616,16 @@
     "Type": "TST-NB",
     "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
     "Merk (& Type)": "Mercedes-Benz Atego",
+    "Kazerne": "Soesterberg",
+    "Adres": "Koppenlaan 9, 3769BK, Soesterberg"
+  },
+  {
+    "Regio": "09",
+    "Roepnummer": "09-3544",
+    "Kenteken": "09-BXJ-7",
+    "Type": "TST-NB",
+    "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
+    "Merk (& Type)": "Mercedes-Benz Unimog",
     "Kazerne": "Soesterberg",
     "Adres": "Koppenlaan 9, 3769BK, Soesterberg"
   },
@@ -34791,7 +34975,7 @@
     "Regio": "19",
     "Roepnummer": "19-2830",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Brouwershaven",
     "Adres": "Slingerbos 1, 4318AK, Brouwershaven"
   },
@@ -35370,7 +35554,7 @@
     "Regio": "19",
     "Roepnummer": "19-4731",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Borssele",
     "Adres": "Quistenburg 3, 4454PZ, Borssele"
   },
@@ -35378,7 +35562,7 @@
     "Regio": "19",
     "Roepnummer": "19-4734",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "`s-Gravenpolder",
     "Adres": "Goesestraatweg 30, 4431CD, `s-Gravenpolder"
   },
@@ -35858,7 +36042,7 @@
     "Regio": "19",
     "Roepnummer": "19-6633",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Biervliet",
     "Adres": "Weststraat 34, 4521AA, Biervliet"
   },
@@ -36098,7 +36282,7 @@
     "Roepnummer": "19-6730",
     "Kenteken": "BX-NH-38",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Merk (& Type)": "Volvo",
     "Kazerne": "Hulst",
     "Adres": "Globe 2, 4561PK, Hulst"
@@ -41142,7 +41326,7 @@
     "Regio": "21",
     "Roepnummer": "21-6132",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Aspen locatie De Geer"
   },
   {
@@ -42156,7 +42340,7 @@
     "Roepnummer": "22-4341",
     "Kenteken": "BZ-GD-29",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Son en Breugel",
     "Adres": "Rooijseweg 1, 5691PA, Son"
@@ -43830,7 +44014,7 @@
     "Roepnummer": "23-2131",
     "Kenteken": "BV-HH-37",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Meerlo",
     "Adres": "Dorpbroekstraat 9a, 5864CP, Meerlo"
@@ -46780,7 +46964,7 @@
     "Regio": "24",
     "Roepnummer": "24-4631",
     "Type": "TS-8",
-    "Omschrijving": "Tankautospuit\u00a08 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Kazerne": "Sittard-West",
     "Adres": "Zurichstraat 10, 6135LP, Sittard"
   },
