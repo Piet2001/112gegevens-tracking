@@ -2,10 +2,19 @@ import requests
 import os
 
 def webhook(message):
+    color = "9212311"
+    if "added" in message:
+        color = "8388352"
+    elif "removed" in message:
+        color = "16711680"
+    elif "changed" in message:
+        color = "16746496"
+
     webhook_url = os.getenv("DISCORD")
     embed = {
         "title": "Change in 112 gegevens",
         "description": message,
+        "color": color,
     }
     webhookdata = {
         "username": "112data Monitor",
