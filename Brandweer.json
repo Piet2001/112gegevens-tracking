@@ -13,7 +13,7 @@
     "Roepnummer": "01-0002",
     "Kenteken": "VL-199-V",
     "Type": "DV-TD",
-    "Omschrijving": "Dienstvoertuig\u00a0(Medewerker)\u00a0\u00a0Technische\u00a0 dienst",
+    "Omschrijving": "Dienstvoertuig (Medewerker) Technische dienst",
     "Merk (& Type)": "Volkswagen Transporter",
     "Kazerne": "Regionaal"
   },
@@ -22,7 +22,7 @@
     "Roepnummer": "01-0003",
     "Kenteken": "VL-700-X",
     "Type": "DV-TD",
-    "Omschrijving": "Dienstvoertuig\u00a0(Medewerker)\u00a0\u00a0Technische\u00a0 dienst",
+    "Omschrijving": "Dienstvoertuig (Medewerker) Technische dienst",
     "Merk (& Type)": "Volkswagen Transporter",
     "Kazerne": "Regionaal"
   },
@@ -205,7 +205,7 @@
     "Roepnummer": "01-0196",
     "Kenteken": "VBK-41-D",
     "Type": "DV-TBO",
-    "Omschrijving": "Dienstvoertuig\u00a0- Team\u00a0Brand\u00a0Onderzoek",
+    "Omschrijving": "Dienstvoertuig - Team Brand Onderzoek",
     "Merk (& Type)": "Mercedes-Benz Citan",
     "Kazerne": "Regionaal"
   },
@@ -222,7 +222,7 @@
     "Roepnummer": "01-0199",
     "Kenteken": "17-BGK-1",
     "Type": "CO-MU",
-    "Omschrijving": "Multi\u00a0Commando\u00a0Unit",
+    "Omschrijving": "Multi Commando Unit",
     "Merk (& Type)": "MAN TGM 26.290BL",
     "Kazerne": "Groningen Sontweg",
     "Adres": "Sontweg 10, 9723AT, Groningen"
@@ -291,7 +291,7 @@
     "Roepnummer": "01-1031",
     "Kenteken": "BV-FL-78",
     "Type": "TS-9",
-    "Omschrijving": "Tankautospuit\u00a09 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 9 mans bezetting",
     "Merk (& Type)": "MAN",
     "Kazerne": "Leek",
     "Adres": "Tolberterstraat 74, 9351BJ, Leek"
@@ -301,7 +301,7 @@
     "Roepnummer": "01-1032",
     "Kenteken": "BT-VS-39",
     "Type": "TS-9",
-    "Omschrijving": "Tankautospuit\u00a09 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 9 mans bezetting",
     "Merk (& Type)": "Volvo",
     "Kazerne": "Leek",
     "Adres": "Tolberterstraat 74, 9351BJ, Leek"
@@ -367,7 +367,7 @@
     "Roepnummer": "01-1231",
     "Kenteken": "98-BPL-6",
     "Type": "TS-9",
-    "Omschrijving": "Tankautospuit\u00a09 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 9 mans bezetting",
     "Merk (& Type)": "DAF",
     "Kazerne": "Grootegast",
     "Adres": "Rondweg 15, 9861GK, Grootegast"
@@ -444,7 +444,7 @@
     "Roepnummer": "01-1332",
     "Kenteken": "21-BPZ-6",
     "Type": "TS-9",
-    "Omschrijving": "Tankautospuit\u00a09 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 9 mans bezetting",
     "Merk (& Type)": "DAF",
     "Kazerne": "Oldehove",
     "Adres": "Englumstraat 6, 9883PE, Oldehove"
@@ -540,7 +540,7 @@
     "Roepnummer": "01-1431",
     "Kenteken": "BV-ZB-87",
     "Type": "TS-9",
-    "Omschrijving": "Tankautospuit\u00a09 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 9 mans bezetting",
     "Merk (& Type)": "Volvo FM",
     "Kazerne": "Zoutkamp",
     "Adres": "Marnestraat 3, 9974RB, Zoutkamp"
@@ -678,7 +678,7 @@
     "Roepnummer": "01-1631",
     "Kenteken": "67-BPF-3",
     "Type": "TS-9",
-    "Omschrijving": "Tankautospuit\u00a09 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 9 mans bezetting",
     "Merk (& Type)": "DAF LF 320 FA",
     "Kazerne": "Bedum",
     "Adres": "Industrieweg 15, 9781AC, Bedum"
@@ -696,9 +696,9 @@
   {
     "Regio": "01",
     "Roepnummer": "01-1701",
-    "Kenteken": "J-139-DZ",
-    "Type": "PM",
-    "Omschrijving": "Personeel/Materieelvoertuig",
+    "Kenteken": "J-193-DZ",
+    "Type": "DB",
+    "Omschrijving": "Dienstbus",
     "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Ten Boer",
     "Adres": "Boltweg 1, 9791AC, Ten Boer"
@@ -715,21 +715,31 @@
   },
   {
     "Regio": "01",
-    "Roepnummer": "01-1801",
-    "Kenteken": "V-688-LX",
+    "Roepnummer": "01-1800",
+    "Kenteken": "VB-236-P",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
-    "Merk (& Type)": "Mercedes-Benz Sprinter",
+    "Merk (& Type)": "Volkswagen Transporter",
+    "Kazerne": "Groningen Sontweg",
+    "Adres": "Sontweg 10, 9723AT, Groningen"
+  },
+  {
+    "Regio": "01",
+    "Roepnummer": "01-1801",
+    "Kenteken": "4-XFG-13",
+    "Type": "DA",
+    "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Volkswagen Polo",
     "Kazerne": "Groningen Sontweg",
     "Adres": "Sontweg 10, 9723AT, Groningen"
   },
   {
     "Regio": "01",
     "Roepnummer": "01-1802",
-    "Kenteken": "15-LHF-6",
+    "Kenteken": "J-181-DZ",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Volkswagen Transporter",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Groningen Sontweg",
     "Adres": "Sontweg 10, 9723AT, Groningen"
   },
@@ -746,7 +756,7 @@
   {
     "Regio": "01",
     "Roepnummer": "01-1804",
-    "Kenteken": "J-181-DZ",
+    "Kenteken": "V-39-DST",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
     "Merk (& Type)": "Mercedes-Benz Vito",
@@ -883,7 +893,7 @@
     "Regio": "01",
     "Roepnummer": "01-1834",
     "Type": "TS-9",
-    "Omschrijving": "Tankautospuit\u00a09 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 9 mans bezetting",
     "Kazerne": "Groningen Sontweg",
     "Adres": "Sontweg 10, 9723AT, Groningen"
   },
@@ -1352,7 +1362,7 @@
     "Roepnummer": "01-2233",
     "Kenteken": "BV-HD-83",
     "Type": "TS-9",
-    "Omschrijving": "Tankautospuit\u00a09 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 9 mans bezetting",
     "Merk (& Type)": "MAN",
     "Kazerne": "Slochteren",
     "Adres": "Verlengde Veenlaan 1, 9621TP, Slochteren"
@@ -1364,6 +1374,16 @@
     "Omschrijving": "Bijzonder Materieel Aanhanger - Licht Installatie",
     "Kazerne": "Slochteren",
     "Adres": "Verlengde Veenlaan 1, 9621TP, Slochteren"
+  },
+  {
+    "Regio": "01",
+    "Roepnummer": "01-2301",
+    "Kenteken": "15-LHF-6",
+    "Type": "DB",
+    "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Volkswagen Transporter",
+    "Kazerne": "Zuidbroek",
+    "Adres": "Europaweg 6, 9636HT, Zuidbroek"
   },
   {
     "Regio": "01",
@@ -1627,7 +1647,7 @@
     "Roepnummer": "01-2604",
     "Kenteken": "V-792-XZ",
     "Type": "DV-TD",
-    "Omschrijving": "Dienstvoertuig\u00a0(Medewerker)\u00a0\u00a0Technische\u00a0 dienst",
+    "Omschrijving": "Dienstvoertuig (Medewerker) Technische dienst",
     "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Stadskanaal",
     "Adres": "Veenstraat 8, 9502EZ, Stadskanaal"
@@ -2878,7 +2898,7 @@
     "Regio": "02",
     "Roepnummer": "02-4531",
     "Type": "TS-9",
-    "Omschrijving": "Tankautospuit\u00a09 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 9 mans bezetting",
     "Kazerne": "Buitenpost",
     "Adres": "Vaart 4, 9285TX, Buitenpost"
   },
@@ -2886,7 +2906,7 @@
     "Regio": "02",
     "Roepnummer": "02-4532",
     "Type": "TS-9",
-    "Omschrijving": "Tankautospuit\u00a09 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 9 mans bezetting",
     "Kazerne": "Drogeham",
     "Adres": "De Droegehamster Feart 6, 9289HH, Drogeham"
   },
@@ -4212,7 +4232,7 @@
     "Regio": "02",
     "Roepnummer": "02-6531",
     "Type": "TS-9",
-    "Omschrijving": "Tankautospuit\u00a09 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 9 mans bezetting",
     "Kazerne": "Joure",
     "Adres": "Tolh\u00fbswei 6, 8501ZR, Joure"
   },
@@ -4532,7 +4552,7 @@
     "Regio": "02",
     "Roepnummer": "02-6931",
     "Type": "TS-9",
-    "Omschrijving": "Tankautospuit\u00a09 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 9 mans bezetting",
     "Kazerne": "Beetsterzwaag",
     "Adres": "Van Lyndenlaan 1, 9244BV, Beetsterzwaag"
   },
@@ -4731,7 +4751,7 @@
     "Roepnummer": "02-7099",
     "Kenteken": "16-BGX-1",
     "Type": "CO-MU",
-    "Omschrijving": "Multi\u00a0Commando\u00a0Unit",
+    "Omschrijving": "Multi Commando Unit",
     "Merk (& Type)": "MAN",
     "Kazerne": "Drachten",
     "Adres": "Loswal 1, 9206AH, Drachten"
@@ -4804,7 +4824,7 @@
     "Regio": "02",
     "Roepnummer": "02-7133",
     "Type": "TS-9",
-    "Omschrijving": "Tankautospuit\u00a09 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 9 mans bezetting",
     "Kazerne": "Giekerk",
     "Adres": "R. van Nautaweg 4d, 9061AE, Giekerk"
   },
@@ -5163,7 +5183,7 @@
     "Regio": "03",
     "Roepnummer": "03-0399",
     "Type": "CO-MU",
-    "Omschrijving": "Multi\u00a0Commando\u00a0Unit",
+    "Omschrijving": "Multi Commando Unit",
     "Kazerne": "Assen-West",
     "Adres": "Mien Ruysweg 1, 9408KA, Assen"
   },
@@ -5451,7 +5471,7 @@
     "Regio": "03",
     "Roepnummer": "03-8233",
     "Type": "TS-9",
-    "Omschrijving": "Tankautospuit\u00a09 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 9 mans bezetting",
     "Kazerne": "Assen-West",
     "Adres": "Mien Ruysweg 1, 9408KA, Assen"
   },
@@ -6857,7 +6877,7 @@
     "Regio": "04",
     "Roepnummer": "04-1000",
     "Type": "DV-TBO",
-    "Omschrijving": "Dienstvoertuig\u00a0- Team\u00a0Brand\u00a0Onderzoek",
+    "Omschrijving": "Dienstvoertuig - Team Brand Onderzoek",
     "Kazerne": "Zwolle-Zuid",
     "Adres": "Marsweg 39, 8013PE, Zwolle"
   },
@@ -7407,7 +7427,7 @@
     "Regio": "04",
     "Roepnummer": "04-1605",
     "Type": "DV-TBO",
-    "Omschrijving": "Dienstvoertuig\u00a0- Team\u00a0Brand\u00a0Onderzoek",
+    "Omschrijving": "Dienstvoertuig - Team Brand Onderzoek",
     "Kazerne": "Zwolle-Zuid",
     "Adres": "Marsweg 39, 8013PE, Zwolle"
   },
@@ -7974,7 +7994,7 @@
     "Regio": "04",
     "Roepnummer": "04-2304",
     "Type": "DV-TD",
-    "Omschrijving": "Dienstvoertuig\u00a0(Medewerker)\u00a0\u00a0Technische\u00a0 dienst",
+    "Omschrijving": "Dienstvoertuig (Medewerker) Technische dienst",
     "Kazerne": "Hardenberg",
     "Adres": "Europaweg 10, 7771BG, Hardenberg"
   },
@@ -9965,7 +9985,7 @@
     "Regio": "05",
     "Roepnummer": "05-9005",
     "Type": "DV-TBO",
-    "Omschrijving": "Dienstvoertuig\u00a0- Team\u00a0Brand\u00a0Onderzoek",
+    "Omschrijving": "Dienstvoertuig - Team Brand Onderzoek",
     "Kazerne": "Regionaal"
   },
   {
@@ -13986,7 +14006,7 @@
     "Regio": "07",
     "Roepnummer": "07-2531",
     "Type": "TS-9",
-    "Omschrijving": "Tankautospuit\u00a09 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 9 mans bezetting",
     "Kazerne": "Ederveen",
     "Adres": "Sneeuwbesstraat 8, 6744PW, Ederveen"
   },
@@ -14716,7 +14736,7 @@
     "Regio": "07",
     "Roepnummer": "07-4631",
     "Type": "TS-9",
-    "Omschrijving": "Tankautospuit\u00a09 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 9 mans bezetting",
     "Kazerne": "Huissen",
     "Adres": "Kampstuk 21, 6852AC, Huissen"
   },
@@ -15467,7 +15487,7 @@
     "Regio": "07",
     "Roepnummer": "07-9189",
     "Type": "DV-TBO",
-    "Omschrijving": "Dienstvoertuig\u00a0- Team\u00a0Brand\u00a0Onderzoek",
+    "Omschrijving": "Dienstvoertuig - Team Brand Onderzoek",
     "Kazerne": "Regionaal"
   },
   {
@@ -15489,7 +15509,7 @@
     "Regio": "07",
     "Roepnummer": "07-9199",
     "Type": "CO-MU",
-    "Omschrijving": "Multi\u00a0Commando\u00a0Unit",
+    "Omschrijving": "Multi Commando Unit",
     "Kazerne": "Leiding & Co\u00f6rdinatie"
   },
   {
@@ -17301,7 +17321,7 @@
     "Regio": "08",
     "Roepnummer": "08-9292",
     "Type": "CO-MU",
-    "Omschrijving": "Multi\u00a0Commando\u00a0Unit",
+    "Omschrijving": "Multi Commando Unit",
     "Kazerne": "Beek-Ubbergen",
     "Adres": "Nieuwe Rijksweg 1, 6573DH, Beek"
   },
@@ -18128,7 +18148,7 @@
     "Regio": "09",
     "Roepnummer": "09-1891",
     "Type": "CO-MU",
-    "Omschrijving": "Multi\u00a0Commando\u00a0Unit",
+    "Omschrijving": "Multi Commando Unit",
     "Kazerne": "Houten-West",
     "Adres": "De Brug 2, 3991LN, Houten"
   },
@@ -20748,7 +20768,7 @@
     "Regio": "10",
     "Roepnummer": "10-4433",
     "Type": "TS-9",
-    "Omschrijving": "Tankautospuit\u00a09 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 9 mans bezetting",
     "Kazerne": "Julianadorp",
     "Adres": "Van Foreestweg 85a, 1787BG, Julianadorp"
   },
@@ -25743,7 +25763,7 @@
     "Regio": "13",
     "Roepnummer": "13-9298",
     "Type": "CO-MU",
-    "Omschrijving": "Multi\u00a0Commando\u00a0Unit",
+    "Omschrijving": "Multi Commando Unit",
     "Kazerne": "Nico",
     "Adres": "IJ-Tunnel 4, 1011TA, Amsterdam"
   },
@@ -25963,7 +25983,7 @@
     "Regio": "13",
     "Roepnummer": "13-9399",
     "Type": "CO-MU",
-    "Omschrijving": "Multi\u00a0Commando\u00a0Unit",
+    "Omschrijving": "Multi Commando Unit",
     "Kazerne": "Pier Afrika Logistiek / Wagen Park",
     "Adres": "Pier Afrika 8, 1013BK, Amsterdam"
   },
@@ -26837,7 +26857,7 @@
     "Regio": "14",
     "Roepnummer": "14-7096",
     "Type": "CO-MU",
-    "Omschrijving": "Multi\u00a0Commando\u00a0Unit",
+    "Omschrijving": "Multi Commando Unit",
     "Kazerne": "Hilversum",
     "Adres": "Kamerlingh Onnesweg 148, 1223JN, Hilversum"
   },
@@ -27432,7 +27452,7 @@
     "Regio": "15",
     "Roepnummer": "15-6699",
     "Type": "CO-MU",
-    "Omschrijving": "Multi\u00a0Commando\u00a0Unit",
+    "Omschrijving": "Multi Commando Unit",
     "Kazerne": "Honselersdijk",
     "Adres": "Dijkweg 68, 2675AE, Honselersdijk"
   },
@@ -27854,7 +27874,7 @@
     "Regio": "15",
     "Roepnummer": "15-9500",
     "Type": "DV-TBO",
-    "Omschrijving": "Dienstvoertuig\u00a0- Team\u00a0Brand\u00a0Onderzoek",
+    "Omschrijving": "Dienstvoertuig - Team Brand Onderzoek",
     "Kazerne": "Regionaal"
   },
   {
@@ -27918,7 +27938,7 @@
     "Roepnummer": "15-9583",
     "Kenteken": "VGK-34-G",
     "Type": "DV-TD",
-    "Omschrijving": "Dienstvoertuig\u00a0(Medewerker)\u00a0\u00a0Technische\u00a0 dienst",
+    "Omschrijving": "Dienstvoertuig (Medewerker) Technische dienst",
     "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Regionaal"
   },
@@ -31969,7 +31989,7 @@
     "Roepnummer": "17-9081",
     "Kenteken": "VFL-79-G",
     "Type": "DV-TBO",
-    "Omschrijving": "Dienstvoertuig\u00a0- Team\u00a0Brand\u00a0Onderzoek",
+    "Omschrijving": "Dienstvoertuig - Team Brand Onderzoek",
     "Merk (& Type)": "Volkswagen Transporter",
     "Kazerne": "Leiding & Co\u00f6rdinatie"
   },
@@ -34350,7 +34370,7 @@
     "Roepnummer": "18-8331",
     "Kenteken": "BR-XJ-62",
     "Type": "TS-9",
-    "Omschrijving": "Tankautospuit\u00a09 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 9 mans bezetting",
     "Merk (& Type)": "MAN",
     "Kazerne": "Arkel",
     "Adres": "Vlietskade 1002, 4241WB, Arkel"
@@ -35571,7 +35591,7 @@
     "Roepnummer": "19-4736",
     "Kenteken": "BV-PR-92",
     "Type": "TS-9",
-    "Omschrijving": "Tankautospuit\u00a09 mans\u00a0bezetting",
+    "Omschrijving": "Tankautospuit 9 mans bezetting",
     "Merk (& Type)": "Volvo FM",
     "Kazerne": "Heinkenszand",
     "Adres": "Stenevate 6, 4451KB, Heinkenszand"
@@ -35717,7 +35737,7 @@
     "Regio": "19",
     "Roepnummer": "19-4902",
     "Type": "DV-TBO",
-    "Omschrijving": "Dienstvoertuig\u00a0- Team\u00a0Brand\u00a0Onderzoek",
+    "Omschrijving": "Dienstvoertuig - Team Brand Onderzoek",
     "Kazerne": "Goes-Oranjeweg",
     "Adres": "Oranjeweg 100, 4461LR, Goes"
   },
@@ -36684,7 +36704,7 @@
     "Regio": "19",
     "Roepnummer": "19-8582",
     "Type": "DV-TD",
-    "Omschrijving": "Dienstvoertuig\u00a0(Medewerker)\u00a0\u00a0Technische\u00a0 dienst",
+    "Omschrijving": "Dienstvoertuig (Medewerker) Technische dienst",
     "Kazerne": "Middelburg-Stromenweg",
     "Adres": "Stromenweg 7, 4335JR, Middelburg"
   },
@@ -36929,7 +36949,7 @@
     "Regio": "19",
     "Roepnummer": "19-8699",
     "Type": "CO-MU",
-    "Omschrijving": "Multi\u00a0Commando\u00a0Unit",
+    "Omschrijving": "Multi Commando Unit",
     "Kazerne": "Terneuzen-Koegors",
     "Adres": "Koegorsstraat 4, 4538PK, Terneuzen"
   },
@@ -37074,7 +37094,7 @@
     "Regio": "19",
     "Roepnummer": "19-8999",
     "Type": "CO-MU",
-    "Omschrijving": "Multi\u00a0Commando\u00a0Unit",
+    "Omschrijving": "Multi Commando Unit",
     "Kazerne": "Goes-Oranjeweg",
     "Adres": "Oranjeweg 100, 4461LR, Goes"
   },
@@ -37270,7 +37290,7 @@
     "Regio": "20",
     "Roepnummer": "20-0080",
     "Type": "DV-TBO",
-    "Omschrijving": "Dienstvoertuig\u00a0- Team\u00a0Brand\u00a0Onderzoek",
+    "Omschrijving": "Dienstvoertuig - Team Brand Onderzoek",
     "Kazerne": "Breda",
     "Adres": "Tramsingel 71, 4814AC, Breda"
   },
@@ -37381,7 +37401,7 @@
     "Regio": "20",
     "Roepnummer": "20-0093",
     "Type": "CO-MU",
-    "Omschrijving": "Multi\u00a0Commando\u00a0Unit",
+    "Omschrijving": "Multi Commando Unit",
     "Kazerne": "Rucphen",
     "Adres": "Expeditieweg 3a, 4715RM, Rucphen"
   },
@@ -40416,7 +40436,7 @@
     "Regio": "21",
     "Roepnummer": "21-0099",
     "Type": "CO-MU",
-    "Omschrijving": "Multi\u00a0Commando\u00a0Unit",
+    "Omschrijving": "Multi Commando Unit",
     "Kazerne": "Veghel",
     "Adres": "Stadhuisplein 2, 5461KS, Veghel"
   },
@@ -44129,7 +44149,7 @@
     "Regio": "23",
     "Roepnummer": "23-2391",
     "Type": "CO-MU",
-    "Omschrijving": "Multi\u00a0Commando\u00a0Unit",
+    "Omschrijving": "Multi Commando Unit",
     "Kazerne": "Horst",
     "Adres": "Westsingel 201, 5961DD, Horst"
   },
@@ -46097,7 +46117,7 @@
     "Regio": "24",
     "Roepnummer": "24-3092",
     "Type": "CO-MU",
-    "Omschrijving": "Multi\u00a0Commando\u00a0Unit",
+    "Omschrijving": "Multi Commando Unit",
     "Kazerne": "Meerssen",
     "Adres": "Tunnelweg 1, 6231RL, Bunde"
   },
@@ -47930,7 +47950,7 @@
     "Regio": "25",
     "Roepnummer": "25-8096",
     "Type": "CO-MU",
-    "Omschrijving": "Multi\u00a0Commando\u00a0Unit",
+    "Omschrijving": "Multi Commando Unit",
     "Kazerne": "Lelystad",
     "Adres": "Gordiaandreef 101, 8233AB, Lelystad"
   },
