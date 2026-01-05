@@ -348,22 +348,6 @@
   },
   {
     "Regio": "01",
-    "Roepnummer": "01-1224",
-    "Type": "BOH-DC",
-    "Omschrijving": "Basis Ontsmettinghaakarmbak - Ontsmettingsunit Decontaminatie",
-    "Kazerne": "Grootegast",
-    "Adres": "Rondweg 15, 9861GK, Grootegast"
-  },
-  {
-    "Regio": "01",
-    "Roepnummer": "01-1225",
-    "Type": "GSH-LOG",
-    "Omschrijving": "Gevaarlijke Stoffenhaakarmbak - Logistiek",
-    "Kazerne": "Grootegast",
-    "Adres": "Rondweg 15, 9861GK, Grootegast"
-  },
-  {
-    "Regio": "01",
     "Roepnummer": "01-1231",
     "Kenteken": "98-BPL-6",
     "Type": "TS-9",
@@ -2465,6 +2449,23 @@
     "Merk (& Type)": "Peugeot",
     "Kazerne": "Falck (Chemiepark Delfzijl)",
     "Adres": "Oosterhorn 4e, 9936HD, Delfzijl"
+  },
+  {
+    "Regio": "01",
+    "Roepnummer": "26-8182",
+    "Type": "BMH",
+    "Omschrijving": "Bijzonder Materieel Haakarmbak",
+    "Toevoeging": "Grootschalige Ontsmettings Eenheid Warme zone",
+    "Kazerne": "Groningen Sontweg",
+    "Adres": "Sontweg 10, 9723AT, Groningen"
+  },
+  {
+    "Regio": "01",
+    "Roepnummer": "26-8228",
+    "Type": "BMH-NBC",
+    "Omschrijving": "Bijzonder materieelhaakarmbak - NBC Bevoorradingsunit",
+    "Kazerne": "Grootegast",
+    "Adres": "Rondweg 15, 9861GK, Grootegast"
   },
   {
     "Regio": "02",
