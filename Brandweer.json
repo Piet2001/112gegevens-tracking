@@ -407,14 +407,6 @@
   },
   {
     "Regio": "01",
-    "Roepnummer": "01-1322",
-    "Type": "GSH-DCN",
-    "Omschrijving": "Gevaarlijke Stoffenhaakarmbak - Decontaminatie NBC",
-    "Kazerne": "Grijpskerk",
-    "Adres": "Bouwhuisstraat 20, 9843BC, Grijpskerk"
-  },
-  {
-    "Regio": "01",
     "Roepnummer": "01-1331",
     "Kenteken": "45-BRB-5",
     "Type": "TS",
@@ -2449,6 +2441,14 @@
     "Merk (& Type)": "Peugeot",
     "Kazerne": "Falck (Chemiepark Delfzijl)",
     "Adres": "Oosterhorn 4e, 9936HD, Delfzijl"
+  },
+  {
+    "Regio": "01",
+    "Roepnummer": "26-8124",
+    "Type": "BOH-DC",
+    "Omschrijving": "Basis Ontsmettinghaakarmbak - Ontsmettingsunit Decontaminatie",
+    "Kazerne": "Zuidhorn",
+    "Adres": "Boslaan 16, 9801HG, Zuidhorn"
   },
   {
     "Regio": "01",
