@@ -948,14 +948,6 @@
   },
   {
     "Regio": "01",
-    "Roepnummer": "01-1866",
-    "Type": "WTH",
-    "Omschrijving": "Watertankhaakarmbak",
-    "Kazerne": "Groningen Sontweg",
-    "Adres": "Sontweg 10, 9723AT, Groningen"
-  },
-  {
-    "Regio": "01",
     "Roepnummer": "01-1871",
     "Kenteken": "62-BDL-2",
     "Type": "HV-KR",
@@ -1350,8 +1342,10 @@
   {
     "Regio": "01",
     "Roepnummer": "01-2288",
+    "Kenteken": "39-WS-HP",
     "Type": "BMA-LI",
     "Omschrijving": "Bijzonder Materieel Aanhanger - Licht Installatie",
+    "Merk (& Type)": "Hapert",
     "Kazerne": "Slochteren",
     "Adres": "Verlengde Veenlaan 1, 9621TP, Slochteren"
   },
@@ -1377,29 +1371,21 @@
   },
   {
     "Regio": "01",
-    "Roepnummer": "01-2373",
-    "Type": "HV",
-    "Omschrijving": "Hulpverleningsvoertuig",
-    "Kazerne": "Zuidbroek",
-    "Adres": "Europaweg 6, 9636HT, Zuidbroek"
-  },
-  {
-    "Regio": "01",
     "Roepnummer": "01-2401",
-    "Kenteken": "5-VDP-90",
-    "Type": "PM",
-    "Omschrijving": "Personeel/Materieelvoertuig",
-    "Merk (& Type)": "Fiat",
+    "Kenteken": "GJN-65-B",
+    "Type": "DB",
+    "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Nieuwe Pekela",
     "Adres": "Pekelwerk 8, 9663AW, Nieuwe Pekela"
   },
   {
     "Regio": "01",
     "Roepnummer": "01-2402",
-    "Kenteken": "76-VJT-7",
+    "Kenteken": "VTT-69-K",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
-    "Merk (& Type)": "Fiat",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Oude Pekela",
     "Adres": "Burg. Snaterlaan 42, 9665HR, Oude Pekela"
   },
@@ -1462,10 +1448,10 @@
   {
     "Regio": "01",
     "Roepnummer": "01-2503",
-    "Kenteken": "46-VVF-1",
+    "Kenteken": "V-76-DXN",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
-    "Merk (& Type)": "Volkswagen Transporter",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Veendam",
     "Adres": "Langeleegte 2, 9641GN, Veendam"
   },
@@ -1518,10 +1504,10 @@
   {
     "Regio": "01",
     "Roepnummer": "01-2550",
-    "Kenteken": "BH-TZ-16",
+    "Kenteken": "53-BTV-5",
     "Type": "HW",
     "Omschrijving": "Hoogwerker",
-    "Merk (& Type)": "Mercedes-Benz Econic",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "Veendam",
     "Adres": "Langeleegte 2, 9641GN, Veendam"
   },
@@ -1575,7 +1561,7 @@
   {
     "Regio": "01",
     "Roepnummer": "01-2587",
-    "Kenteken": "BX-BN-83",
+    "Kenteken": "BX-BN-53",
     "Type": "VW-LO",
     "Omschrijving": "Vrachtwagen - Logistiek en Ondersteuning",
     "Merk (& Type)": "Volkswagen Crafter",
@@ -1671,10 +1657,10 @@
   {
     "Regio": "01",
     "Roepnummer": "01-2650",
-    "Kenteken": "BR-PN-94",
+    "Kenteken": "67-BVK-8",
     "Type": "HW",
     "Omschrijving": "Hoogwerker",
-    "Merk (& Type)": "Scania P94C",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "Stadskanaal",
     "Adres": "Veenstraat 8, 9502EZ, Stadskanaal"
   },
@@ -1730,8 +1716,10 @@
   {
     "Regio": "01",
     "Roepnummer": "01-2788",
+    "Kenteken": "36-WS-HP",
     "Type": "BMA-LI",
     "Omschrijving": "Bijzonder Materieel Aanhanger - Licht Installatie",
+    "Merk (& Type)": "Hapert",
     "Kazerne": "Vlagtwedde",
     "Adres": "Nieuwe Weg 1, 9541EG, Vlagtwedde"
   },
@@ -1748,10 +1736,10 @@
   {
     "Regio": "01",
     "Roepnummer": "01-2831",
-    "Kenteken": "BH-TR-01",
-    "Type": "TS-7",
-    "Omschrijving": "Tankautospuit 7 mans bezetting",
-    "Merk (& Type)": "Scania",
+    "Kenteken": "35-BPR-5",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "DAF",
     "Kazerne": "Bellingwolde",
     "Adres": "Blijhamsterweg 34a, 9695BA, Bellingwolde"
   },
@@ -1768,10 +1756,10 @@
   {
     "Regio": "01",
     "Roepnummer": "01-2901",
-    "Kenteken": "57-ZL-NV",
+    "Kenteken": "X-337-RN",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Ford Tourneo",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Winschoten",
     "Adres": "Molenweg 2, 9675JC, Winschoten"
   },
@@ -1788,20 +1776,30 @@
   {
     "Regio": "01",
     "Roepnummer": "01-2903",
-    "Kenteken": "65-NP-PL",
+    "Kenteken": "N-385-ZZ",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Ford Tourneo",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Scheemda",
     "Adres": "Zwaagsterweg 2e, 9679BH, Scheemda"
   },
   {
     "Regio": "01",
+    "Roepnummer": "01-2904",
+    "Kenteken": "VTT-90-K",
+    "Type": "PM",
+    "Omschrijving": "Personeel/Materieelvoertuig",
+    "Merk (& Type)": "Mercedes-Benz",
+    "Kazerne": "Finsterwolde",
+    "Adres": "Bospad 1, 9684AW, Finsterwolde"
+  },
+  {
+    "Regio": "01",
     "Roepnummer": "01-2905",
-    "Kenteken": "47-PK-ZD",
+    "Kenteken": "N-386-ZZ",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Ford Tourneo",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Bad Nieuweschans",
     "Adres": "Noorseweg 2, 9693BM, Bad Nieuweschans"
   },
@@ -1818,10 +1816,10 @@
   {
     "Regio": "01",
     "Roepnummer": "01-2908",
-    "Kenteken": "70-HPN-5",
+    "Kenteken": "R-450-LT",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Merk (& Type)": "Opel Corsa",
+    "Merk (& Type)": "Ford",
     "Kazerne": "Winschoten",
     "Adres": "Molenweg 2, 9675JC, Winschoten"
   },
@@ -1838,7 +1836,7 @@
   {
     "Regio": "01",
     "Roepnummer": "01-2916",
-    "Kenteken": "WS-NF-11",
+    "Kenteken": "98-48-YL",
     "Type": "WOV",
     "Omschrijving": "Waterongevallenvaartuig",
     "Merk (& Type)": "Marlin 1500",
@@ -1866,10 +1864,10 @@
   {
     "Regio": "01",
     "Roepnummer": "01-2932",
-    "Kenteken": "BP-FZ-53",
-    "Type": "TS-8",
-    "Omschrijving": "Tankautospuit 8 mans bezetting",
-    "Merk (& Type)": "MAN M2000 14.250LLLC",
+    "Kenteken": "70-BRT-7",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "DAF",
     "Kazerne": "Winschoten",
     "Adres": "Molenweg 2, 9675JC, Winschoten"
   },
@@ -1906,20 +1904,36 @@
   {
     "Regio": "01",
     "Roepnummer": "01-2950",
-    "Kenteken": "BR-TV-08",
+    "Kenteken": "69-BVL-5",
     "Type": "HW",
     "Omschrijving": "Hoogwerker",
-    "Merk (& Type)": "Mercedes-Benz Econic",
+    "Merk (& Type)": "Volvo",
+    "Kazerne": "Winschoten",
+    "Adres": "Molenweg 2, 9675JC, Winschoten"
+  },
+  {
+    "Regio": "01",
+    "Roepnummer": "01-2966",
+    "Type": "WTH",
+    "Omschrijving": "Watertankhaakarmbak",
+    "Kazerne": "Winschoten",
+    "Adres": "Molenweg 2, 9675JC, Winschoten"
+  },
+  {
+    "Regio": "01",
+    "Roepnummer": "01-2969",
+    "Type": "WTH-SV",
+    "Omschrijving": "Watertankhaakarmbak - Schuimvormend Middel",
     "Kazerne": "Winschoten",
     "Adres": "Molenweg 2, 9675JC, Winschoten"
   },
   {
     "Regio": "01",
     "Roepnummer": "01-2982",
-    "Kenteken": "BN-LZ-28",
+    "Kenteken": "BB-537-J",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
-    "Merk (& Type)": "Iveco Tector",
+    "Merk (& Type)": "DAF",
     "Kazerne": "Winschoten",
     "Adres": "Molenweg 2, 9675JC, Winschoten"
   },
@@ -1952,10 +1966,10 @@
   {
     "Regio": "01",
     "Roepnummer": "01-3001",
-    "Kenteken": "82-RZP-9",
+    "Kenteken": "R-492-XS",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Merk (& Type)": "Volkswagen Polo",
+    "Merk (& Type)": "Ford",
     "Kazerne": "Delfzijl",
     "Adres": "Hogelandsterweg 1, 9934RM, Delfzijl"
   },
@@ -2032,6 +2046,7 @@
   {
     "Regio": "01",
     "Roepnummer": "01-3012",
+    "Kenteken": "40-WH-NG",
     "Type": "WOA",
     "Omschrijving": "Waterongevallenaanhanger met boot",
     "Kazerne": "Delfzijl",
@@ -2048,7 +2063,7 @@
   {
     "Regio": "01",
     "Roepnummer": "01-3031",
-    "Kenteken": "BX-VV-39",
+    "Kenteken": "BX-VV-29",
     "Type": "TS-7",
     "Omschrijving": "Tankautospuit 7 mans bezetting",
     "Merk (& Type)": "Volvo FL260",
@@ -2088,10 +2103,10 @@
   {
     "Regio": "01",
     "Roepnummer": "01-3050",
-    "Kenteken": "BS-GJ-54",
+    "Kenteken": "12-BVR-4",
     "Type": "HW",
     "Omschrijving": "Hoogwerker",
-    "Merk (& Type)": "DAF AS75PC",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "Delfzijl",
     "Adres": "Hogelandsterweg 1, 9934RM, Delfzijl"
   },
@@ -2116,6 +2131,7 @@
   {
     "Regio": "01",
     "Roepnummer": "01-3062",
+    "Kenteken": "87-WX-ZB",
     "Type": "DPA",
     "Omschrijving": "Dompelpompaanhanger",
     "Kazerne": "Delfzijl",
@@ -2151,12 +2167,10 @@
   {
     "Regio": "01",
     "Roepnummer": "01-3082",
-    "Kenteken": "94-BBP-8",
+    "Kenteken": "86-BTZ-4",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
-    "Merk (& Type)": "Volvo FE300",
-    "Kazerne": "Delfzijl",
-    "Adres": "Hogelandsterweg 1, 9934RM, Delfzijl"
+    "Merk (& Type)": "DAF"
   },
   {
     "Regio": "01",
@@ -2165,14 +2179,6 @@
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
     "Merk (& Type)": "DAF AE65NC",
-    "Kazerne": "Delfzijl",
-    "Adres": "Hogelandsterweg 1, 9934RM, Delfzijl"
-  },
-  {
-    "Regio": "01",
-    "Roepnummer": "01-3097",
-    "Type": "WTH-SV",
-    "Omschrijving": "Watertankhaakarmbak - Schuimvormend Middel",
     "Kazerne": "Delfzijl",
     "Adres": "Hogelandsterweg 1, 9934RM, Delfzijl"
   },
@@ -2299,7 +2305,7 @@
   {
     "Regio": "01",
     "Roepnummer": "01-3493",
-    "Kenteken": "8-SRT-19",
+    "Kenteken": "J-169-ZR",
     "Type": "DB-OVD",
     "Omschrijving": "Dienstbus - Officier van Dienst",
     "Merk (& Type)": "Volkswagen Transporter",
