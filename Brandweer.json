@@ -437,15 +437,6 @@
   },
   {
     "Regio": "01",
-    "Roepnummer": "01-1361",
-    "Type": "DPH",
-    "Omschrijving": "Dompelpomphaakarmbak",
-    "Merk (& Type)": "LeeBur",
-    "Kazerne": "Zuidhorn",
-    "Adres": "Boslaan 16, 9801HG, Zuidhorn"
-  },
-  {
-    "Regio": "01",
     "Roepnummer": "01-1382",
     "Kenteken": "BX-NZ-99",
     "Type": "HA",
@@ -481,14 +472,6 @@
     "Type": "DB",
     "Omschrijving": "Dienstbus",
     "Merk (& Type)": "Volkswagen Transporter",
-    "Kazerne": "Wehe-den Hoorn",
-    "Adres": "W.H. Timersmastraat 7, 9964AZ, Wehe den Hoorn"
-  },
-  {
-    "Regio": "01",
-    "Roepnummer": "01-1404",
-    "Type": "DB",
-    "Omschrijving": "Dienstbus",
     "Kazerne": "Wehe-den Hoorn",
     "Adres": "W.H. Timersmastraat 7, 9964AZ, Wehe den Hoorn"
   },
@@ -544,10 +527,10 @@
   {
     "Regio": "01",
     "Roepnummer": "01-1502",
-    "Kenteken": "8-VBK-37",
-    "Type": "PM",
-    "Omschrijving": "Personeel/Materieelvoertuig",
-    "Merk (& Type)": "Opel Vivaro",
+    "Kenteken": "GFP-79-J",
+    "Type": "DB",
+    "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Winsum",
     "Adres": "Meeden 2, 9951HT, Winsum"
   },
@@ -632,12 +615,12 @@
   {
     "Regio": "01",
     "Roepnummer": "01-1604",
-    "Kenteken": "33-VFR-4",
-    "Type": "PM",
-    "Omschrijving": "Personeel/Materieelvoertuig",
-    "Merk (& Type)": "Volkswagen Caddy",
-    "Kazerne": "Bedum",
-    "Adres": "Industrieweg 15, 9781AC, Bedum"
+    "Kenteken": "5-SPX-72",
+    "Type": "DB",
+    "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Volkswagen Transporter",
+    "Kazerne": "Wehe-den Hoorn",
+    "Adres": "W.H. Timersmastraat 7, 9964AZ, Wehe den Hoorn"
   },
   {
     "Regio": "01",
@@ -722,12 +705,11 @@
   {
     "Regio": "01",
     "Roepnummer": "01-1803",
-    "Kenteken": "01-GKF-9",
+    "Kenteken": "JH-389-V",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
     "Merk (& Type)": "Volkswagen Polo",
-    "Kazerne": "Groningen Sontweg",
-    "Adres": "Sontweg 10, 9723AT, Groningen"
+    "Kazerne": "Regionaal"
   },
   {
     "Regio": "01",
@@ -761,31 +743,11 @@
   },
   {
     "Regio": "01",
-    "Roepnummer": "01-1807",
-    "Kenteken": "82-XB-VP",
-    "Type": "DA",
-    "Omschrijving": "Dienstauto",
-    "Merk (& Type)": "Volkswagen Polo",
-    "Kazerne": "Groningen Sontweg",
-    "Adres": "Sontweg 10, 9723AT, Groningen"
-  },
-  {
-    "Regio": "01",
     "Roepnummer": "01-1808",
     "Kenteken": "J-466-JD",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
     "Merk (& Type)": "Volkswagen Up",
-    "Kazerne": "Groningen Sontweg",
-    "Adres": "Sontweg 10, 9723AT, Groningen"
-  },
-  {
-    "Regio": "01",
-    "Roepnummer": "01-1809",
-    "Kenteken": "85-XB-VP",
-    "Type": "DA",
-    "Omschrijving": "Dienstauto",
-    "Merk (& Type)": "Volkswagen Polo",
     "Kazerne": "Groningen Sontweg",
     "Adres": "Sontweg 10, 9723AT, Groningen"
   },
@@ -815,14 +777,6 @@
     "Type": "BOH-DC",
     "Omschrijving": "Basis Ontsmettinghaakarmbak - Ontsmettingsunit Decontaminatie",
     "Merk (& Type)": "LeeBur",
-    "Kazerne": "Groningen Sontweg",
-    "Adres": "Sontweg 10, 9723AT, Groningen"
-  },
-  {
-    "Regio": "01",
-    "Roepnummer": "01-1823",
-    "Type": "GSH",
-    "Omschrijving": "Gevaarlijke Stoffenhaakarmbak",
     "Kazerne": "Groningen Sontweg",
     "Adres": "Sontweg 10, 9723AT, Groningen"
   },
@@ -862,14 +816,6 @@
     "Type": "TS-7",
     "Omschrijving": "Tankautospuit 7 mans bezetting",
     "Merk (& Type)": "DAF",
-    "Kazerne": "Groningen Sontweg",
-    "Adres": "Sontweg 10, 9723AT, Groningen"
-  },
-  {
-    "Regio": "01",
-    "Roepnummer": "01-1834",
-    "Type": "TS-9",
-    "Omschrijving": "Tankautospuit 9 mans bezetting",
     "Kazerne": "Groningen Sontweg",
     "Adres": "Sontweg 10, 9723AT, Groningen"
   },
@@ -921,23 +867,6 @@
   },
   {
     "Regio": "01",
-    "Roepnummer": "01-1863",
-    "Type": "SLH",
-    "Omschrijving": "Slangenhaakarmbak",
-    "Merk (& Type)": "LeeBur",
-    "Kazerne": "Groningen Sontweg",
-    "Adres": "Sontweg 10, 9723AT, Groningen"
-  },
-  {
-    "Regio": "01",
-    "Roepnummer": "01-1864",
-    "Type": "DPA",
-    "Omschrijving": "Dompelpompaanhanger",
-    "Kazerne": "Groningen Sontweg",
-    "Adres": "Sontweg 10, 9723AT, Groningen"
-  },
-  {
-    "Regio": "01",
     "Roepnummer": "01-1865",
     "Kenteken": "WZ-GG-20",
     "Type": "ABA",
@@ -953,16 +882,6 @@
     "Type": "HV-KR",
     "Omschrijving": "Hulpverleningsvoertuig met Kraan",
     "Merk (& Type)": "DAF FAN CF",
-    "Kazerne": "Groningen Sontweg",
-    "Adres": "Sontweg 10, 9723AT, Groningen"
-  },
-  {
-    "Regio": "01",
-    "Roepnummer": "01-1873",
-    "Kenteken": "BJ-RN-04",
-    "Type": "HV-K",
-    "Omschrijving": "Hulpverleningsvoertuig-Klein ",
-    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Groningen Sontweg",
     "Adres": "Sontweg 10, 9723AT, Groningen"
   },
@@ -1017,41 +936,11 @@
   },
   {
     "Regio": "01",
-    "Roepnummer": "01-1887",
-    "Kenteken": "BX-BN-17",
-    "Type": "VW-LO",
-    "Omschrijving": "Vrachtwagen - Logistiek en Ondersteuning",
-    "Merk (& Type)": "Volkswagen Crafter",
-    "Kazerne": "Groningen Sontweg",
-    "Adres": "Sontweg 10, 9723AT, Groningen"
-  },
-  {
-    "Regio": "01",
-    "Roepnummer": "01-1890",
-    "Kenteken": "10-GNJ-7",
-    "Type": "DA-CVD",
-    "Omschrijving": "Dienstauto - Commandant Van Dienst",
-    "Merk (& Type)": "Volkswagen Golf",
-    "Kazerne": "Groningen Sontweg",
-    "Adres": "Sontweg 10, 9723AT, Groningen"
-  },
-  {
-    "Regio": "01",
     "Roepnummer": "01-1901",
     "Kenteken": "ZG-286-B",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
     "Toevoeging": "tbv Teamleider STH",
-    "Merk (& Type)": "Volkswagen Polo",
-    "Kazerne": "Groningen Sontweg",
-    "Adres": "Sontweg 10, 9723AT, Groningen"
-  },
-  {
-    "Regio": "01",
-    "Roepnummer": "01-1904",
-    "Kenteken": "09-TGZ-4",
-    "Type": "DA",
-    "Omschrijving": "Dienstauto",
     "Merk (& Type)": "Volkswagen Polo",
     "Kazerne": "Groningen Sontweg",
     "Adres": "Sontweg 10, 9723AT, Groningen"
@@ -1113,15 +1002,8 @@
     "Kenteken": "96-ZTH-9",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Toevoeging": "01-2028 DB-VK",
     "Merk (& Type)": "Volkswagen Transporter",
-    "Kazerne": "Haren",
-    "Adres": "Felland Noord 2, 9753TB, Haren"
-  },
-  {
-    "Regio": "01",
-    "Roepnummer": "01-2002",
-    "Type": "PM",
-    "Omschrijving": "Personeel/Materieelvoertuig",
     "Kazerne": "Haren",
     "Adres": "Felland Noord 2, 9753TB, Haren"
   },
@@ -1130,14 +1012,6 @@
     "Roepnummer": "01-2016",
     "Type": "WOV",
     "Omschrijving": "Waterongevallenvaartuig",
-    "Kazerne": "Haren",
-    "Adres": "Felland Noord 2, 9753TB, Haren"
-  },
-  {
-    "Regio": "01",
-    "Roepnummer": "01-2028",
-    "Type": "VEB",
-    "Omschrijving": "Verkenningseenheid Brandweer (Meetploeg)",
     "Kazerne": "Haren",
     "Adres": "Felland Noord 2, 9753TB, Haren"
   },
@@ -1411,32 +1285,6 @@
   },
   {
     "Regio": "01",
-    "Roepnummer": "01-2472",
-    "Kenteken": "BN-ZH-09",
-    "Type": "HV",
-    "Omschrijving": "Hulpverleningsvoertuig",
-    "Merk (& Type)": "Mercedes-Benz Vario",
-    "Kazerne": "Nieuwe Pekela",
-    "Adres": "Pekelwerk 8, 9663AW, Nieuwe Pekela"
-  },
-  {
-    "Regio": "01",
-    "Roepnummer": "01-24VI",
-    "Type": "VI",
-    "Omschrijving": "Veetakel Installatie",
-    "Kazerne": "Oude Pekela",
-    "Adres": "Burg. Snaterlaan 42, 9665HR, Oude Pekela"
-  },
-  {
-    "Regio": "01",
-    "Roepnummer": "01-2500",
-    "Type": "DA",
-    "Omschrijving": "Dienstauto",
-    "Kazerne": "Veendam",
-    "Adres": "Langeleegte 2, 9641GN, Veendam"
-  },
-  {
-    "Regio": "01",
     "Roepnummer": "01-2501",
     "Kenteken": "7-ZLP-99",
     "Type": "DA",
@@ -1452,16 +1300,6 @@
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
     "Merk (& Type)": "Mercedes-Benz",
-    "Kazerne": "Veendam",
-    "Adres": "Langeleegte 2, 9641GN, Veendam"
-  },
-  {
-    "Regio": "01",
-    "Roepnummer": "01-2504",
-    "Kenteken": "51-SFG-7",
-    "Type": "DA",
-    "Omschrijving": "Dienstauto",
-    "Merk (& Type)": "Volkswagen Golf",
     "Kazerne": "Veendam",
     "Adres": "Langeleegte 2, 9641GN, Veendam"
   },
@@ -2308,39 +2146,35 @@
     "Kenteken": "J-169-ZR",
     "Type": "DB-OVD",
     "Omschrijving": "Dienstbus - Officier van Dienst",
-    "Merk (& Type)": "Volkswagen Transporter",
-    "Kazerne": "Groningen Sontweg",
-    "Adres": "Sontweg 10, 9723AT, Groningen"
+    "Merk (& Type)": "Mercedes-Benz Vito",
+    "Kazerne": "Regionaal"
   },
   {
     "Regio": "01",
     "Roepnummer": "01-3593",
-    "Kenteken": "1-SPD-87",
+    "Kenteken": "J-486-VN",
     "Type": "DB-OVD",
     "Omschrijving": "Dienstbus - Officier van Dienst",
-    "Merk (& Type)": "Volkswagen Trransporter",
-    "Kazerne": "Groningen Sontweg",
-    "Adres": "Sontweg 10, 9723AT, Groningen"
+    "Merk (& Type)": "Mercedes-Benz Vito",
+    "Kazerne": "Regionaal"
   },
   {
     "Regio": "01",
     "Roepnummer": "01-3693",
-    "Kenteken": "2-STR-36",
+    "Kenteken": "J-473-VN",
     "Type": "DB-OVD",
     "Omschrijving": "Dienstbus - Officier van Dienst",
-    "Merk (& Type)": "Volkswagen Transporter",
-    "Kazerne": "Groningen Sontweg",
-    "Adres": "Sontweg 10, 9723AT, Groningen"
+    "Merk (& Type)": "Mercedes-Benz Vito",
+    "Kazerne": "Regionaal"
   },
   {
     "Regio": "01",
     "Roepnummer": "01-3793",
-    "Kenteken": "5-SPX-72",
+    "Kenteken": "J-474-VN",
     "Type": "DB-OVD",
     "Omschrijving": "Dienstbus - Officier van Dienst",
-    "Merk (& Type)": "Volkswagen Transporter",
-    "Kazerne": "Groningen Sontweg",
-    "Adres": "Sontweg 10, 9723AT, Groningen"
+    "Merk (& Type)": "Mercedes-Benz Vito",
+    "Kazerne": "Regionaal"
   },
   {
     "Regio": "01",
@@ -2405,8 +2239,10 @@
   {
     "Regio": "01",
     "Roepnummer": "01-3952",
+    "Kenteken": "81-BDX-2",
     "Type": "AL",
     "Omschrijving": "Autoladder",
+    "Merk (& Type)": "Iveco",
     "Kazerne": "Bosbrandweer",
     "Adres": "Jacob Hansens de Boerstraat 35, 9365PL, Niebert"
   },
