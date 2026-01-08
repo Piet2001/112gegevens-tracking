@@ -2,7 +2,7 @@ import json
 import requests
 import os
 import time
-from Functions import discord
+from Functions import discord, changelog
 
 print("open old Lists")
 brw = json.load(open(f"Brandweer.json", encoding="utf8"))
@@ -18,17 +18,20 @@ print("Check brandweer")
 for x in brw_new:
     if next((False for y in brw if y["Roepnummer"] == x["Roepnummer"]), True):
         discord.webhook(f'{x["Roepnummer"]} has been added ```{x}```')
+        changelog.update_changelog(f'Added {x["Roepnummer"]}')
         time.sleep(10)
         continue
     old = [z for z in brw if z["Roepnummer"]==x["Roepnummer"]]
     if not old[0] == x:
         discord.webhook(f"Entry Changed:\n ```{old[0]}```\nHas been changed to: ```{x}```")
+        changelog.update_changelog(f'Changed {old[0]}')
         time.sleep(10)
         continue
 
 for x in brw:
     if next((False for y in brw_new if y["Roepnummer"] == x["Roepnummer"]), True):
         discord.webhook(f'{x["Roepnummer"]} has been removed ```{x}```')
+        changelog.update_changelog(f'Removed {x["Roepnummer"]}')
         time.sleep(10)
         continue
 
