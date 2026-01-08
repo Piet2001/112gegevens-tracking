@@ -377,6 +377,15 @@
   },
   {
     "Regio": "01",
+    "Roepnummer": "01-12OMA",
+    "Type": "BMA",
+    "Omschrijving": "Bijzonder materieel Aanhanger",
+    "Toevoeging": "Opleidingen",
+    "Kazerne": "Grootegast",
+    "Adres": "Rondweg 15, 9861GK, Grootegast"
+  },
+  {
+    "Regio": "01",
     "Roepnummer": "01-1301",
     "Kenteken": "ZB-106-K",
     "Type": "DB",
@@ -1583,6 +1592,14 @@
   },
   {
     "Regio": "01",
+    "Roepnummer": "01-28WOA",
+    "Type": "WOA",
+    "Omschrijving": "Waterongevallenaanhanger met boot",
+    "Kazerne": "Bellingwolde",
+    "Adres": "Blijhamsterweg 34a, 9695BA, Bellingwolde"
+  },
+  {
+    "Regio": "01",
     "Roepnummer": "01-2900",
     "Kenteken": "3-XFG-99",
     "Type": "DA",
@@ -2195,6 +2212,16 @@
     "Merk (& Type)": "Iveco",
     "Kazerne": "Bosbrandweer",
     "Adres": "Jacob Hansens de Boerstraat 35, 9365PL, Niebert"
+  },
+  {
+    "Regio": "01",
+    "Roepnummer": "01-3903",
+    "Kenteken": "VNZ-30-H",
+    "Type": "PM",
+    "Omschrijving": "Personeel/Materieelvoertuig",
+    "Merk (& Type)": "Ford",
+    "Kazerne": "Falck (Chemiepark Delfzijl)",
+    "Adres": "Oosterhorn 4e, 9936HD, Delfzijl"
   },
   {
     "Regio": "01",
