@@ -24,7 +24,7 @@ for x in brw_new:
     old = [z for z in brw if z["Roepnummer"]==x["Roepnummer"]]
     if not old[0] == x:
         discord.webhook(f"Entry Changed:\n ```{old[0]}```\nHas been changed to: ```{x}```")
-        changelog.update_changelog(f'Changed {old[0]}')
+        changelog.update_changelog(f'Updated {x["Roepnummer"]}')
         time.sleep(10)
         continue
 
