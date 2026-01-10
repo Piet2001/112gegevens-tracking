@@ -2249,16 +2249,6 @@
   },
   {
     "Regio": "01",
-    "Roepnummer": "01-3890",
-    "Kenteken": "27-SFR-2",
-    "Type": "DA-CVD",
-    "Omschrijving": "Dienstauto - Commandant Van Dienst",
-    "Merk (& Type)": "Volkswagen Golf",
-    "Kazerne": "Groningen Sontweg",
-    "Adres": "Sontweg 10, 9723AT, Groningen"
-  },
-  {
-    "Regio": "01",
     "Roepnummer": "01-3901",
     "Kenteken": "4-VFD-37",
     "Type": "PM",
@@ -2819,8 +2809,11 @@
   {
     "Regio": "02",
     "Roepnummer": "02-4501",
+    "Kenteken": "J-482-VN",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
+    "Toevoeging": "02-4528 VKE",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Buitenpost",
     "Adres": "Vaart 4, 9285TX, Buitenpost"
   },
@@ -2837,70 +2830,77 @@
   {
     "Regio": "02",
     "Roepnummer": "02-4503",
+    "Kenteken": "HFR-75-T",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Surhuisterveen",
     "Adres": "Lauwersweg 20, 9231GR, Surhuisterveen"
   },
   {
     "Regio": "02",
-    "Roepnummer": "02-4528",
-    "Type": "DB-VEB",
-    "Omschrijving": "Dienstbus - Verkenningseenheid Brandweer",
-    "Kazerne": "Buitenpost",
-    "Adres": "Vaart 4, 9285TX, Buitenpost"
-  },
-  {
-    "Regio": "02",
     "Roepnummer": "02-4531",
-    "Type": "TS-9",
-    "Omschrijving": "Tankautospuit 9 mans bezetting",
+    "Kenteken": "64-BXH-7",
+    "Type": "TS-7",
+    "Omschrijving": "Tankautospuit 7 mans bezetting",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "Buitenpost",
     "Adres": "Vaart 4, 9285TX, Buitenpost"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-4532",
-    "Type": "TS-9",
-    "Omschrijving": "Tankautospuit 9 mans bezetting",
+    "Kenteken": "04-BTR-5",
+    "Type": "TS-7",
+    "Omschrijving": "Tankautospuit 7 mans bezetting",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "Drogeham",
     "Adres": "De Droegehamster Feart 6, 9289HH, Drogeham"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-4533",
+    "Kenteken": "81-BLZ-3",
     "Type": "TS-7",
     "Omschrijving": "Tankautospuit 7 mans bezetting",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "Surhuisterveen",
     "Adres": "Lauwersweg 20, 9231GR, Surhuisterveen"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-4601",
+    "Kenteken": "N-693-RX",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Harlingen",
     "Adres": "Westerzeedijk 11, 8862PK, Harlingen"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-4611",
+    "Kenteken": "V-347-TG",
     "Type": "ORT",
     "Omschrijving": "Oppervlakte Redding Team",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Harlingen",
     "Adres": "Westerzeedijk 11, 8862PK, Harlingen"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-4616",
-    "Type": "WOA",
-    "Omschrijving": "Waterongevallenaanhanger met boot",
+    "Kenteken": "5-YB-786",
+    "Type": "WOV-K",
+    "Omschrijving": "Waterongevallenvaartuig - Klein",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Harlingen",
     "Adres": "Westerzeedijk 11, 8862PK, Harlingen"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-4631",
+    "Kenteken": "BZ-LN-78",
     "Type": "TS-7",
     "Omschrijving": "Tankautospuit 7 mans bezetting",
     "Kazerne": "Harlingen",
@@ -2909,32 +2909,36 @@
   {
     "Regio": "02",
     "Roepnummer": "02-4650",
+    "Kenteken": "89-BLS-9",
     "Type": "HW",
     "Omschrijving": "Hoogwerker",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "Harlingen",
     "Adres": "Westerzeedijk 11, 8862PK, Harlingen"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-4661",
-    "Type": "WTS",
-    "Omschrijving": "Watertransportsysteem",
+    "Type": "DPH-GW",
+    "Omschrijving": "Dompelpomp haakarmbak voor grootschalige watervoorziening",
     "Kazerne": "Harlingen",
     "Adres": "Westerzeedijk 11, 8862PK, Harlingen"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-4662",
-    "Type": "SLH",
-    "Omschrijving": "Slangenhaakarmbak",
+    "Type": "DPH-GW",
+    "Omschrijving": "Dompelpomp haakarmbak voor grootschalige watervoorziening",
     "Kazerne": "Harlingen",
     "Adres": "Westerzeedijk 11, 8862PK, Harlingen"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-4682",
+    "Kenteken": "79-BXS-9",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
+    "Merk (& Type)": "DAF",
     "Kazerne": "Harlingen",
     "Adres": "Westerzeedijk 11, 8862PK, Harlingen"
   },
