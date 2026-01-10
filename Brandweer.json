@@ -2430,24 +2430,30 @@
   {
     "Regio": "02",
     "Roepnummer": "02-0203",
+    "Kenteken": "84-ZK-GT",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Kazerne": "Leeuwarden-Hoofdpost",
-    "Adres": "Aldl\u00e2nsdijk 11, 8934AA, Leeuwarden"
+    "Merk (& Type)": "Volkswagen Touran",
+    "Kazerne": "Dokkum",
+    "Adres": "Rondweg Noord 28, 9101AD, Dokkum"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-0204",
+    "Kenteken": "26-ZJ-LH",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Volkswagen Golf",
     "Kazerne": "Leeuwarden-Hoofdpost",
     "Adres": "Aldl\u00e2nsdijk 11, 8934AA, Leeuwarden"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-0205",
+    "Kenteken": "J-265-ZN",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Volkswagen Polo",
     "Kazerne": "Leeuwarden-Hoofdpost",
     "Adres": "Aldl\u00e2nsdijk 11, 8934AA, Leeuwarden"
   },
@@ -2494,20 +2500,22 @@
   {
     "Regio": "02",
     "Roepnummer": "02-0230",
-    "Kenteken": "BJ-DJ-89",
+    "Kenteken": "04-BSP-1",
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
-    "Merk (& Type)": "MAN",
-    "Kazerne": "Drachten",
-    "Adres": "Loswal 1, 9206AH, Drachten"
+    "Merk (& Type)": "Volvo",
+    "Kazerne": "Leeuwarden-Hoofdpost",
+    "Adres": "Aldl\u00e2nsdijk 11, 8934AA, Leeuwarden"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-0231",
+    "Kenteken": "BV-JZ-01",
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
-    "Kazerne": "Drachten",
-    "Adres": "Loswal 1, 9206AH, Drachten"
+    "Merk (& Type)": "MAN",
+    "Kazerne": "Burgum",
+    "Adres": "Mr. W.M. Oppedijk van Veenweg 24a, 9251GA, Burgum"
   },
   {
     "Regio": "02",
@@ -2522,33 +2530,42 @@
   {
     "Regio": "02",
     "Roepnummer": "02-0233",
+    "Kenteken": "46-BDK-1",
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
-    "Kazerne": "Harlingen",
-    "Adres": "Westerzeedijk 11, 8862PK, Harlingen"
+    "Merk (& Type)": "MAN",
+    "Kazerne": "Leeuwarden-Hoofdpost",
+    "Adres": "Aldl\u00e2nsdijk 11, 8934AA, Leeuwarden"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-0234",
+    "Kenteken": "BZ-LN-77",
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Leeuwarden-Hoofdpost",
     "Adres": "Aldl\u00e2nsdijk 11, 8934AA, Leeuwarden"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-0235",
+    "Kenteken": "BS-JG-31",
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Heerenveen",
     "Adres": "It Hege Stik 8, 8445PZ, Heerenveen"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-0236",
+    "Kenteken": "02-BDK-6",
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
-    "Kazerne": "Regionaal"
+    "Merk (& Type)": "MAN",
+    "Kazerne": "Heerenveen",
+    "Adres": "It Hege Stik 8, 8445PZ, Heerenveen"
   },
   {
     "Regio": "02",
@@ -2557,7 +2574,8 @@
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
     "Merk (& Type)": "Volvo FE 320 4x2",
-    "Kazerne": "Regionaal"
+    "Kazerne": "Sneek",
+    "Adres": "Malta 1, 8601GW, Sneek"
   },
   {
     "Regio": "02",
@@ -2572,80 +2590,80 @@
   },
   {
     "Regio": "02",
-    "Roepnummer": "02-0241",
-    "Type": "TST-NB-RES",
-    "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding Reserve",
-    "Kazerne": "Heerenveen",
-    "Adres": "It Hege Stik 8, 8445PZ, Heerenveen"
-  },
-  {
-    "Regio": "02",
     "Roepnummer": "02-0291",
-    "Type": "DA-AGS",
-    "Omschrijving": "Dienstauto - Adviseur Gevaarlijke Stoffen",
+    "Kenteken": "R-988-LR",
+    "Type": "DB-HOD",
+    "Omschrijving": "Dienstbus - Hoofd Officier van Dienst",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Regionaal"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-4001",
+    "Kenteken": "VXT-89-X",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Hollum",
     "Adres": "Fabrieksweg 30, 9161CG, Hollum"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-4002",
-    "Type": "DA",
-    "Omschrijving": "Dienstauto",
+    "Kenteken": "VTD-43-Z",
+    "Type": "PM",
+    "Omschrijving": "Personeel/Materieelvoertuig",
+    "Merk (& Type)": "Ford",
     "Kazerne": "Nes",
     "Adres": "Ballumerweg 38, 9163GB, Nes"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-4031",
-    "Type": "TST-8",
-    "Omschrijving": "Tankautospuit-Terreinvaardig 8 mans bezetting",
+    "Kenteken": "BZ-VH-64",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Hollum",
     "Adres": "Fabrieksweg 30, 9161CG, Hollum"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-4032",
+    "Kenteken": "17-BNG-8",
     "Type": "TST-7",
     "Omschrijving": "Tankautospuit-Terreinvaardig 7 mans bezetting",
-    "Kazerne": "Nes",
-    "Adres": "Ballumerweg 38, 9163GB, Nes"
-  },
-  {
-    "Regio": "02",
-    "Roepnummer": "02-4033",
-    "Type": "TS-6",
-    "Omschrijving": "Tankautospuit 6 mans bezetting",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "Nes",
     "Adres": "Ballumerweg 38, 9163GB, Nes"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-4101",
+    "Kenteken": "VRD-87-D",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Schiermonnikoog",
     "Adres": "Knuppeldam 6, 9166NZ, Schiermonnikoog"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-4102",
+    "Kenteken": "07-KJH-4",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Volkswagen Polo",
     "Kazerne": "Schiermonnikoog",
     "Adres": "Knuppeldam 6, 9166NZ, Schiermonnikoog"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-4131",
+    "Kenteken": "66-BGN-7",
     "Type": "TST",
     "Omschrijving": "Tankautospuit-Terreinvaardig",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Schiermonnikoog",
     "Adres": "Knuppeldam 6, 9166NZ, Schiermonnikoog"
   },
@@ -2662,26 +2680,30 @@
   {
     "Regio": "02",
     "Roepnummer": "02-4201",
-    "Type": "PM",
-    "Omschrijving": "Personeel/Materieelvoertuig",
+    "Kenteken": "J-498-XV",
+    "Type": "DB",
+    "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Anjum",
     "Adres": "Buorfinne 11, 9133NR, Anjum"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-4202",
-    "Kenteken": "41-NFS-8",
+    "Kenteken": "HFR-69-T",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Volkswagen Transporter",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Dokkum",
     "Adres": "Rondweg Noord 28, 9101AD, Dokkum"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-4204",
-    "Type": "PM",
-    "Omschrijving": "Personeel/Materieelvoertuig",
+    "Kenteken": "N-694-RX",
+    "Type": "DA",
+    "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Ternaard",
     "Adres": "Gysbert Japiksstrjitte 10, 9145RW, Ternaard"
   },
@@ -2728,16 +2750,20 @@
   {
     "Regio": "02",
     "Roepnummer": "02-4301",
+    "Kenteken": "XZ-547-T",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Damw\u00e2ld",
     "Adres": "De Moarrewei 24, 9104LA, Damw\u00e2ld"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-4302",
+    "Kenteken": "XZ-545-T",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "De Westereen",
     "Adres": "Roazeloane 70, 9271VT, De Westereen"
   },
@@ -2764,8 +2790,10 @@
   {
     "Regio": "02",
     "Roepnummer": "02-4401",
-    "Type": "PM",
-    "Omschrijving": "Personeel/Materieelvoertuig",
+    "Kenteken": "J-499-XV",
+    "Type": "DB",
+    "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Kollum",
     "Adres": "Tochmalaan 3, 9291BV, Kollum"
   },
@@ -2781,9 +2809,10 @@
   },
   {
     "Regio": "02",
-    "Roepnummer": "02-44VI",
-    "Type": "VI",
-    "Omschrijving": "Veetakel Installatie",
+    "Roepnummer": "02-44VIA",
+    "Kenteken": "71-WV-HX",
+    "Type": "VIA",
+    "Omschrijving": "Veetakelinstallatie aanhanger",
     "Kazerne": "Kollum",
     "Adres": "Tochmalaan 3, 9291BV, Kollum"
   },
@@ -4950,6 +4979,17 @@
     "Roepnummer": "02-7306",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Kazerne": "Leeuwarden-Hoofdpost",
+    "Adres": "Aldl\u00e2nsdijk 11, 8934AA, Leeuwarden"
+  },
+  {
+    "Regio": "02",
+    "Roepnummer": "02-7337",
+    "Kenteken": "BS-VV-64",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Toevoeging": "T.b.v. Vakbekwaamheid",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Leeuwarden-Hoofdpost",
     "Adres": "Aldl\u00e2nsdijk 11, 8934AA, Leeuwarden"
   },
