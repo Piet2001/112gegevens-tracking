@@ -2948,22 +2948,36 @@
   {
     "Regio": "02",
     "Roepnummer": "02-4701",
+    "Kenteken": "GGF-59-H",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
+    "Merk (& Type)": "Ford",
     "Kazerne": "Vlieland",
     "Adres": "Willem de Vlaminghweg 43, 8899AT, Vlieland"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-4731",
+    "Kenteken": "BN-LD-38",
     "Type": "TST",
     "Omschrijving": "Tankautospuit-Terreinvaardig",
+    "Merk (& Type)": "Scania",
     "Kazerne": "Vlieland",
     "Adres": "Willem de Vlaminghweg 43, 8899AT, Vlieland"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-47MSA1",
+    "Kenteken": "WS-29-LV",
+    "Type": "MSA",
+    "Omschrijving": "Motorspuitaanhanger",
+    "Kazerne": "Vlieland",
+    "Adres": "Willem de Vlaminghweg 43, 8899AT, Vlieland"
+  },
+  {
+    "Regio": "02",
+    "Roepnummer": "02-47MSA2",
+    "Kenteken": "WS-30-LV",
     "Type": "MSA",
     "Omschrijving": "Motorspuitaanhanger",
     "Kazerne": "Vlieland",
@@ -2972,8 +2986,10 @@
   {
     "Regio": "02",
     "Roepnummer": "02-4801",
+    "Kenteken": "J-495-XV",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Franeker",
     "Adres": "Burgemeester J. Dijkstraweg 13, 8801PG, Franeker"
   },
@@ -2990,10 +3006,10 @@
   {
     "Regio": "02",
     "Roepnummer": "02-4869",
-    "Kenteken": "BG-JH-15",
+    "Kenteken": "BS-JS-52",
     "Type": "TS-JB",
     "Omschrijving": "Tankautospuit t.b.v. Jeugdbrandweer",
-    "Merk (& Type)": "Iveco",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Franeker",
     "Adres": "Burgemeester J. Dijkstraweg 13, 8801PG, Franeker"
   },
@@ -3010,30 +3026,46 @@
   {
     "Regio": "02",
     "Roepnummer": "02-4901",
+    "Kenteken": "VRD-95-D",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "West-Terschelling",
     "Adres": "Burgemeester Eschauzierstraat 51, 8881AS, West-Terschelling"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-4902",
+    "Kenteken": "VRD-85-D",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Terschelling Midsland",
     "Adres": "Midslander Hoofdweg 9, 8891GG, Midsland"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-4931",
+    "Kenteken": "95-BDL-7",
     "Type": "TST",
     "Omschrijving": "Tankautospuit-Terreinvaardig",
+    "Merk (& Type)": "MAN",
     "Kazerne": "West-Terschelling",
     "Adres": "Burgemeester Eschauzierstraat 51, 8881AS, West-Terschelling"
   },
   {
     "Regio": "02",
-    "Roepnummer": "02-49MSA1",
+    "Roepnummer": "02-4967",
+    "Kenteken": "WS-31-LV",
+    "Type": "MSA",
+    "Omschrijving": "Motorspuitaanhanger",
+    "Kazerne": "West-Terschelling",
+    "Adres": "Burgemeester Eschauzierstraat 51, 8881AS, West-Terschelling"
+  },
+  {
+    "Regio": "02",
+    "Roepnummer": "02-49MSA2",
+    "Kenteken": "WS-32-LV",
     "Type": "MSA",
     "Omschrijving": "Motorspuitaanhanger",
     "Kazerne": "Terschelling Midsland",
@@ -3042,80 +3074,81 @@
   {
     "Regio": "02",
     "Roepnummer": "02-5001",
-    "Type": "GM",
-    "Omschrijving": "Gereedschap/Materieelwagen",
-    "Kazerne": "Sint Annaparochie",
-    "Adres": "Warmoesstraat 61, 9076DM, Sint Annaparochie"
-  },
-  {
-    "Regio": "02",
-    "Roepnummer": "02-5028",
-    "Type": "DA-VEB",
-    "Omschrijving": "Dienstauto - Verkenningseenheid Brandweer",
+    "Kenteken": "J-481-VN",
+    "Type": "DB",
+    "Omschrijving": "Dienstbus",
+    "Toevoeging": "02-5028 VKE",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Sint Annaparochie",
     "Adres": "Warmoesstraat 61, 9076DM, Sint Annaparochie"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-5031",
+    "Kenteken": "36-BKX-2",
     "Type": "TS-7",
     "Omschrijving": "Tankautospuit 7 mans bezetting",
-    "Kazerne": "Sint Annaparochie",
-    "Adres": "Warmoesstraat 61, 9076DM, Sint Annaparochie"
-  },
-  {
-    "Regio": "02",
-    "Roepnummer": "02-50VI",
-    "Type": "VI",
-    "Omschrijving": "Veetakel Installatie",
+    "Merk (& Type)": "Volvo FL",
     "Kazerne": "Sint Annaparochie",
     "Adres": "Warmoesstraat 61, 9076DM, Sint Annaparochie"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-5101",
-    "Type": "PM",
-    "Omschrijving": "Personeel/Materieelvoertuig",
+    "Kenteken": "J-480-VN",
+    "Type": "DB",
+    "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Marsum",
     "Adres": "Sasker van Heringawei 41, 9034GC, Marsum"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-5102",
+    "Kenteken": "HFR-74-T",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Menaam",
     "Adres": "Bitgumerdyk 17, 9036VS, Menaam"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-5131",
+    "Kenteken": "35-BKN-8",
     "Type": "TS-7",
     "Omschrijving": "Tankautospuit 7 mans bezetting",
+    "Merk (& Type)": "Volvo FL",
     "Kazerne": "Marsum",
     "Adres": "Sasker van Heringawei 41, 9034GC, Marsum"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-5132",
+    "Kenteken": "35-BKX-2",
     "Type": "TS-7",
     "Omschrijving": "Tankautospuit 7 mans bezetting",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "Menaam",
     "Adres": "Bitgumerdyk 17, 9036VS, Menaam"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-5201",
+    "Kenteken": "J-171-ZR",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Stiens",
     "Adres": "It Noarderfjild 28, 9051BM, Stiens"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-5231",
-    "Type": "TS-6",
-    "Omschrijving": "Tankautospuit 6 mans bezetting",
+    "Kenteken": "13-BXN-2",
+    "Type": "TS-7",
+    "Omschrijving": "Tankautospuit 7 mans bezetting",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "Stiens",
     "Adres": "It Noarderfjild 28, 9051BM, Stiens"
   },
