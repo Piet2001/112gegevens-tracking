@@ -2079,7 +2079,9 @@
     "Kenteken": "86-BTZ-4",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
-    "Merk (& Type)": "DAF"
+    "Merk (& Type)": "DAF",
+    "Kazerne": "Delfzijl",
+    "Adres": "Hogelandsterweg 1, 9934RM, Delfzijl"
   },
   {
     "Regio": "01",
@@ -2903,6 +2905,7 @@
     "Kenteken": "BZ-LN-78",
     "Type": "TS-7",
     "Omschrijving": "Tankautospuit 7 mans bezetting",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Harlingen",
     "Adres": "Westerzeedijk 11, 8862PK, Harlingen"
   },
