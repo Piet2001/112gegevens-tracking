@@ -3155,16 +3155,20 @@
   {
     "Regio": "02",
     "Roepnummer": "02-5301",
+    "Kenteken": "ZB-195-G",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Ferwert",
     "Adres": "Prof. Heymansstraat 2, 9172NV, Ferwert"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-5302",
+    "Kenteken": "ZB-194-G",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Hallum",
     "Adres": "It Blikkelan 15, 9074CM, Hallum"
   },
@@ -3181,64 +3185,80 @@
   {
     "Regio": "02",
     "Roepnummer": "02-5332",
+    "Kenteken": "01-BSZ-5",
     "Type": "TS-7",
     "Omschrijving": "Tankautospuit 7 mans bezetting",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "Hallum",
     "Adres": "It Blikkelan 15, 9074CM, Hallum"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-5401",
+    "Kenteken": "HFR-73-T",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Balk",
     "Adres": "Herman Gorterstraat 12, 8561BS, Balk"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-5402",
+    "Kenteken": "XX-991-R",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Bakhuizen",
     "Adres": "Teeuwes de Boerstraat 23, 8574SC, Bakhuizen"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-5403",
+    "Kenteken": "J-493-XV",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Sloten",
     "Adres": "Wijckelerweg 171b, 8556XB, Sloten"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-5411",
+    "Kenteken": "V-348-TG",
     "Type": "PM-ORT",
     "Omschrijving": "Personeel/Materieelvoertuig - Oppervlakte Redding Team",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Balk",
     "Adres": "Herman Gorterstraat 12, 8561BS, Balk"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-5414",
-    "Type": "WOV",
-    "Omschrijving": "Waterongevallenvaartuig",
+    "Kenteken": "3-YF-679",
+    "Type": "WOV-M",
+    "Omschrijving": "Waterongevallenvaartuig - Middel",
+    "Merk (& Type)": "Bullit",
     "Kazerne": "Balk",
     "Adres": "Herman Gorterstraat 12, 8561BS, Balk"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-5431",
+    "Kenteken": "47-BKG-8",
     "Type": "TS-7",
     "Omschrijving": "Tankautospuit 7 mans bezetting",
+    "Merk (& Type)": "Volvo FL",
     "Kazerne": "Bakhuizen",
     "Adres": "Teeuwes de Boerstraat 23, 8574SC, Bakhuizen"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-5432",
+    "Kenteken": "41-BBG-8",
     "Type": "TS-8",
     "Omschrijving": "Tankautospuit 8 mans bezetting",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Balk",
     "Adres": "Herman Gorterstraat 12, 8561BS, Balk"
   },
@@ -3255,123 +3275,119 @@
   {
     "Regio": "02",
     "Roepnummer": "02-5461",
-    "Type": "DPH",
-    "Omschrijving": "Dompelpomphaakarmbak",
-    "Kazerne": "Bakhuizen",
-    "Adres": "Teeuwes de Boerstraat 23, 8574SC, Bakhuizen"
-  },
-  {
-    "Regio": "02",
-    "Roepnummer": "02-5462",
-    "Type": "SLH",
-    "Omschrijving": "Slangenhaakarmbak",
+    "Type": "DPH-GW",
+    "Omschrijving": "Dompelpomp haakarmbak voor grootschalige watervoorziening",
     "Kazerne": "Bakhuizen",
     "Adres": "Teeuwes de Boerstraat 23, 8574SC, Bakhuizen"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-5482",
+    "Kenteken": "51-BXR-2",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Bakhuizen",
     "Adres": "Teeuwes de Boerstraat 23, 8574SC, Bakhuizen"
   },
   {
     "Regio": "02",
-    "Roepnummer": "02-54MSA1",
-    "Type": "MSA",
-    "Omschrijving": "Motorspuitaanhanger",
-    "Kazerne": "Balk",
-    "Adres": "Herman Gorterstraat 12, 8561BS, Balk"
-  },
-  {
-    "Regio": "02",
     "Roepnummer": "02-5601",
-    "Type": "PM",
-    "Omschrijving": "Personeel/Materieelvoertuig",
+    "Kenteken": "J-478-VN",
+    "Type": "DB",
+    "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Bolsward",
     "Adres": "Hichtumerweg 17, 8701PG, Bolsward"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-5603",
-    "Type": "PM",
-    "Omschrijving": "Personeel/Materieelvoertuig",
+    "Kenteken": "XZ-497-R",
+    "Type": "DB",
+    "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Ijlst",
     "Adres": "De Finne 1, 8651CW, Ijlst"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-5604",
+    "Kenteken": "RD-068-N",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Volkswagen Touran",
     "Kazerne": "Sneek",
     "Adres": "Malta 1, 8601GW, Sneek"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-5605",
+    "Kenteken": "XZ-606-G",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Makkum",
     "Adres": "Waardwei 1, 8754HB, Makkum"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-5606",
+    "Kenteken": "XZ-608-G",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Parrega",
     "Adres": "Trekweg 116a, 8763MH, Parrega"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-5607",
+    "Kenteken": "XX-773-N",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Koudum",
     "Adres": "Tjalke van der Walstraat 32, 8723CA, Koudum"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-5609",
-    "Type": "DB",
-    "Omschrijving": "Dienstbus",
-    "Toevoeging": "Electrisch",
+    "Kenteken": "V-181-SH",
+    "Type": "PM",
+    "Omschrijving": "Personeel/Materieelvoertuig",
+    "Merk (& Type)": "Renault",
     "Kazerne": "Sneek",
     "Adres": "Malta 1, 8601GW, Sneek"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-5611",
+    "Kenteken": "V-345-TG",
     "Type": "ORT",
     "Omschrijving": "Oppervlakte Redding Team",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Heeg",
     "Adres": "De Draei 17, 8621CZ, Heeg"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-5612",
+    "Kenteken": "V-343-TG",
     "Type": "ORT",
     "Omschrijving": "Oppervlakte Redding Team",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Koudum",
     "Adres": "Tjalke van der Walstraat 32, 8723CA, Koudum"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-5614",
-    "Type": "WOV",
-    "Omschrijving": "Waterongevallenvaartuig",
+    "Kenteken": "3-YF-680",
+    "Type": "BRV",
+    "Omschrijving": "Brandweervaartuig",
     "Kazerne": "Heeg",
     "Adres": "De Draei 17, 8621CZ, Heeg"
-  },
-  {
-    "Regio": "02",
-    "Roepnummer": "02-5628",
-    "Type": "DA-VEB",
-    "Omschrijving": "Dienstauto - Verkenningseenheid Brandweer",
-    "Kazerne": "Bolsward",
-    "Adres": "Hichtumerweg 17, 8701PG, Bolsward"
   },
   {
     "Regio": "02",
@@ -3386,49 +3402,61 @@
   {
     "Regio": "02",
     "Roepnummer": "02-5632",
+    "Kenteken": "59-BGN-7",
     "Type": "TS-8",
     "Omschrijving": "Tankautospuit 8 mans bezetting",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Heeg",
     "Adres": "De Draei 17, 8621CZ, Heeg"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-5633",
+    "Kenteken": "71-BSX-5",
     "Type": "TS-8",
     "Omschrijving": "Tankautospuit 8 mans bezetting",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "Ijlst",
     "Adres": "De Finne 1, 8651CW, Ijlst"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-5634",
+    "Kenteken": "36-BXR-3",
     "Type": "TS-7",
     "Omschrijving": "Tankautospuit 7 mans bezetting",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "Koudum",
     "Adres": "Tjalke van der Walstraat 32, 8723CA, Koudum"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-5635",
-    "Type": "TS-8",
-    "Omschrijving": "Tankautospuit 8 mans bezetting",
+    "Kenteken": "44-BTL-3",
+    "Type": "TS-7",
+    "Omschrijving": "Tankautospuit 7 mans bezetting",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "Makkum",
     "Adres": "Waardwei 1, 8754HB, Makkum"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-5636",
+    "Kenteken": "65-BGN-7",
     "Type": "TS-8",
     "Omschrijving": "Tankautospuit 8 mans bezetting",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Parrega",
     "Adres": "Trekweg 116a, 8763MH, Parrega"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-5650",
+    "Kenteken": "09-BPH-9",
     "Type": "HW",
     "Omschrijving": "Hoogwerker",
     "Toevoeging": "Reserve",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "Bolsward",
     "Adres": "Hichtumerweg 17, 8701PG, Bolsward"
   },
@@ -3443,8 +3471,18 @@
   {
     "Regio": "02",
     "Roepnummer": "02-5682",
+    "Kenteken": "41-BLS-6",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
+    "Merk (& Type)": "Mercedes-Benz",
+    "Kazerne": "Bolsward",
+    "Adres": "Hichtumerweg 17, 8701PG, Bolsward"
+  },
+  {
+    "Regio": "02",
+    "Roepnummer": "02-5687",
+    "Type": "VZH",
+    "Omschrijving": "Verzorgingshaakarmbak",
     "Kazerne": "Bolsward",
     "Adres": "Hichtumerweg 17, 8701PG, Bolsward"
   },
@@ -3460,15 +3498,8 @@
   },
   {
     "Regio": "02",
-    "Roepnummer": "02-5697",
-    "Type": "VZH",
-    "Omschrijving": "Verzorgingshaakarmbak",
-    "Kazerne": "Bolsward",
-    "Adres": "Hichtumerweg 17, 8701PG, Bolsward"
-  },
-  {
-    "Regio": "02",
-    "Roepnummer": "02-56MSA1",
+    "Roepnummer": "02-56MSA",
+    "Kenteken": "26-WK-ZK",
     "Type": "MSA",
     "Omschrijving": "Motorspuitaanhanger",
     "Kazerne": "Bolsward",
@@ -3477,40 +3508,41 @@
   {
     "Regio": "02",
     "Roepnummer": "02-5702",
-    "Type": "PM",
-    "Omschrijving": "Personeel/Materieelvoertuig",
+    "Kenteken": "J-479-VN",
+    "Type": "DB",
+    "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Woudsend",
     "Adres": "Yndyksterleane 1a, 8551NR, Woudsend"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-5703",
-    "Type": "PM",
-    "Omschrijving": "Personeel/Materieelvoertuig",
+    "Kenteken": "KK-392-B",
+    "Type": "DB",
+    "Omschrijving": "Dienstbus",
+    "Toevoeging": "02-5728 VKE",
+    "Merk (& Type)": "Volkswagen Transporter",
     "Kazerne": "Witmarsum",
     "Adres": "Ulbe Hiemstrastrjitte 21, 8748DA, Witmarsum"
   },
   {
     "Regio": "02",
-    "Roepnummer": "02-5704",
-    "Type": "PM",
-    "Omschrijving": "Personeel/Materieelvoertuig",
-    "Kazerne": "Sneek",
-    "Adres": "Malta 1, 8601GW, Sneek"
-  },
-  {
-    "Regio": "02",
     "Roepnummer": "02-5705",
+    "Kenteken": "XX-775-N",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Sneek",
     "Adres": "Malta 1, 8601GW, Sneek"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-5706",
+    "Kenteken": "N-389-FL",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Ford",
     "Kazerne": "Sneek",
     "Adres": "Malta 1, 8601GW, Sneek"
   },
@@ -3527,24 +3559,30 @@
   {
     "Regio": "02",
     "Roepnummer": "02-5708",
+    "Kenteken": "J-268-ZN",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Volkswagen Polo",
     "Kazerne": "Sneek",
     "Adres": "Malta 1, 8601GW, Sneek"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-5710",
+    "Kenteken": "36-BRJ-6",
     "Type": "WO",
     "Omschrijving": "Waterongevallenvoertuig",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Sneek",
     "Adres": "Malta 1, 8601GW, Sneek"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-5714",
-    "Type": "WOV",
-    "Omschrijving": "Waterongevallenvaartuig",
+    "Kenteken": "68-94-YL",
+    "Type": "BRV",
+    "Omschrijving": "Brandweervaartuig",
+    "Merk (& Type)": "Buster",
     "Kazerne": "Sneek",
     "Adres": "Malta 1, 8601GW, Sneek"
   },
@@ -3561,8 +3599,10 @@
   {
     "Regio": "02",
     "Roepnummer": "02-5733",
+    "Kenteken": "58-BGN-7",
     "Type": "TS-8",
     "Omschrijving": "Tankautospuit 8 mans bezetting",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Stavoren",
     "Adres": "Meerweg 10, 8715EK, Stavoren"
   },
@@ -4646,7 +4686,7 @@
   {
     "Regio": "02",
     "Roepnummer": "02-7004",
-    "Kenteken": "84-NLB-9",
+    "Kenteken": "ZF-802-R",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
     "Merk (& Type)": "Volkswagen Polo",
@@ -4937,8 +4977,10 @@
   {
     "Regio": "02",
     "Roepnummer": "02-7267",
+    "Kenteken": "BR-BV-82",
     "Type": "TS-OTO",
     "Omschrijving": "Tankautospuit-Opleiden Trainen Oefenen",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Drachten",
     "Adres": "Loswal 1, 9206AH, Drachten"
   },
@@ -5035,6 +5077,16 @@
   },
   {
     "Regio": "02",
+    "Roepnummer": "02-7338",
+    "Kenteken": "BS-VH-53",
+    "Type": "TS-OTO",
+    "Omschrijving": "Tankautospuit-Opleiden Trainen Oefenen",
+    "Merk (& Type)": "MAN",
+    "Kazerne": "Leeuwarden-Hoofdpost",
+    "Adres": "Aldl\u00e2nsdijk 11, 8934AA, Leeuwarden"
+  },
+  {
+    "Regio": "02",
     "Roepnummer": "02-7365",
     "Type": "TS-7",
     "Omschrijving": "Tankautospuit 7 mans bezetting",
@@ -5116,6 +5168,16 @@
     "Omschrijving": "Dienstbus",
     "Kazerne": "Workum",
     "Adres": "Konvintsdyk 2, 8711GB, Workum"
+  },
+  {
+    "Regio": "02",
+    "Roepnummer": "02-7537",
+    "Kenteken": "BX-DJ-17",
+    "Type": "TS-OTO",
+    "Omschrijving": "Tankautospuit-Opleiden Trainen Oefenen",
+    "Merk (& Type)": "MAN",
+    "Kazerne": "Joure",
+    "Adres": "Tolh\u00fbswei 6, 8501ZR, Joure"
   },
   {
     "Regio": "02",
