@@ -45714,6 +45714,16 @@
   },
   {
     "Regio": "24",
+    "Roepnummer": "24-2331",
+    "Kenteken": "BB-072-T",
+    "Type": "TS-7",
+    "Omschrijving": "Tankautospuit 7 mans bezetting",
+    "Merk (& Type)": "Mercedes-Benz Atego",
+    "Kazerne": "Maastricht-Zuid",
+    "Adres": "Molensingel 100, 6229PC, Maastricht"
+  },
+  {
+    "Regio": "24",
     "Roepnummer": "24-2500",
     "Type": "VW",
     "Omschrijving": "Vrachtwagen",
