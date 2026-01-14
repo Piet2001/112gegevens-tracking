@@ -3609,42 +3609,52 @@
   {
     "Regio": "02",
     "Roepnummer": "02-5734",
+    "Kenteken": "63-BGN-7",
     "Type": "TS-8",
     "Omschrijving": "Tankautospuit 8 mans bezetting",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Witmarsum",
     "Adres": "Ulbe Hiemstrastrjitte 21, 8748DA, Witmarsum"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-5735",
+    "Kenteken": "60-BGN-7",
     "Type": "TS-8",
     "Omschrijving": "Tankautospuit 8 mans bezetting",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Workum",
     "Adres": "Konvintsdyk 2, 8711GB, Workum"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-5736",
+    "Kenteken": "61-BGN-7",
     "Type": "TS-8",
     "Omschrijving": "Tankautospuit 8 mans bezetting",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Woudsend",
     "Adres": "Yndyksterleane 1a, 8551NR, Woudsend"
   },
   {
     "Regio": "02",
-    "Roepnummer": "02-5737",
-    "Type": "TS",
-    "Omschrijving": "Tankautospuit",
-    "Kazerne": "Workum",
-    "Adres": "Konvintsdyk 2, 8711GB, Workum"
+    "Roepnummer": "02-5751",
+    "Kenteken": "BT-XT-01",
+    "Type": "HW",
+    "Omschrijving": "Hoogwerker",
+    "Merk (& Type)": "MAN",
+    "Kazerne": "Sneek",
+    "Adres": "Malta 1, 8601GW, Sneek"
   },
   {
     "Regio": "02",
-    "Roepnummer": "02-5751",
-    "Type": "HW",
-    "Omschrijving": "Hoogwerker",
-    "Kazerne": "Sneek",
-    "Adres": "Malta 1, 8601GW, Sneek"
+    "Roepnummer": "02-5760",
+    "Kenteken": "BV-ND-46",
+    "Type": "SB",
+    "Omschrijving": "Schuimblusvoertuig",
+    "Merk (& Type)": "Iveco",
+    "Kazerne": "Workum",
+    "Adres": "Konvintsdyk 2, 8711GB, Workum"
   },
   {
     "Regio": "02",
