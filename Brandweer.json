@@ -4668,10 +4668,10 @@
   {
     "Regio": "02",
     "Roepnummer": "02-7001",
-    "Kenteken": "36-ZHV-5",
+    "Kenteken": "HFR-68-T",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Volkswagen Transporter",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Drachten",
     "Adres": "Loswal 1, 9206AH, Drachten"
   },
@@ -4708,9 +4708,12 @@
   {
     "Regio": "02",
     "Roepnummer": "02-7007",
-    "Type": "PM",
-    "Omschrijving": "Personeel/Materieelvoertuig",
-    "Kazerne": "Oudega (tijdelijk)"
+    "Kenteken": "HFR-70-T",
+    "Type": "DB",
+    "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz",
+    "Kazerne": "Oudega",
+    "Adres": "Gariperwei 30, 9216VK, Oudega"
   },
   {
     "Regio": "02",
@@ -4736,7 +4739,8 @@
     "Kenteken": "BJ-TB-14",
     "Type": "TS-8",
     "Omschrijving": "Tankautospuit 8 mans bezetting",
-    "Kazerne": "Oudega (tijdelijk)"
+    "Kazerne": "Oudega",
+    "Adres": "Gariperwei 30, 9216VK, Oudega"
   },
   {
     "Regio": "02",
