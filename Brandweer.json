@@ -4326,14 +4326,6 @@
   },
   {
     "Regio": "02",
-    "Roepnummer": "02-6580",
-    "Type": "HA-KR",
-    "Omschrijving": "Haakarmvoertuig met Kraan",
-    "Kazerne": "Joure",
-    "Adres": "Tolh\u00fbswei 6, 8501ZR, Joure"
-  },
-  {
-    "Regio": "02",
     "Roepnummer": "02-6581",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
@@ -4351,8 +4343,10 @@
   {
     "Regio": "02",
     "Roepnummer": "02-6601",
+    "Kenteken": "XX-990-R",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Echten",
     "Adres": "Middenweg 21, 8537SN, Echten"
   },
@@ -32733,11 +32727,11 @@
   {
     "Regio": "17",
     "Roepnummer": "17-9993",
-    "Kenteken": "NB-113-H",
+    "Kenteken": "JHN-40-G",
     "Type": "DA-IM",
     "Omschrijving": "Dienstauto - Informatie Manager",
     "Toevoeging": "CoPI",
-    "Merk (& Type)": "Skoda",
+    "Merk (& Type)": "Kia",
     "Kazerne": "Leiding & Co\u00f6rdinatie"
   },
   {
