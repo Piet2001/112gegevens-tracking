@@ -10511,6 +10511,16 @@
   },
   {
     "Regio": "06",
+    "Roepnummer": "06-3401",
+    "Kenteken": "JTP-37-H",
+    "Type": "DB",
+    "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Volkswagen",
+    "Kazerne": "Klarenbeek",
+    "Adres": "Klarenbeekseweg 127a, 7381BE, Klarenbeek"
+  },
+  {
+    "Regio": "06",
     "Roepnummer": "06-3441",
     "Kenteken": "BB-683-B",
     "Type": "TST-NB",
