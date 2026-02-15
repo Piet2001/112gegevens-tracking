@@ -4718,8 +4718,10 @@
   {
     "Regio": "02",
     "Roepnummer": "02-7009",
+    "Kenteken": "TJ-245-H",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Volkswagen Golf",
     "Kazerne": "Drachten",
     "Adres": "Loswal 1, 9206AH, Drachten"
   },
@@ -4736,9 +4738,10 @@
   {
     "Regio": "02",
     "Roepnummer": "02-7033",
-    "Kenteken": "BJ-TB-14",
+    "Kenteken": "58-BXP-3",
     "Type": "TS-8",
     "Omschrijving": "Tankautospuit 8 mans bezetting",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "Oudega",
     "Adres": "Gariperwei 30, 9216VK, Oudega"
   },
@@ -4765,18 +4768,21 @@
   {
     "Regio": "02",
     "Roepnummer": "02-7082",
+    "Kenteken": "BX-RV-95",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "Drachten",
     "Adres": "Loswal 1, 9206AH, Drachten"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-7093",
+    "Kenteken": "Z-798-BV",
     "Type": "DA-OVD",
     "Omschrijving": "Dienstauto - Officier van Dienst",
-    "Kazerne": "Drachten",
-    "Adres": "Loswal 1, 9206AH, Drachten"
+    "Merk (& Type)": "Mercedes-Bez",
+    "Kazerne": "Regionaal"
   },
   {
     "Regio": "02",
@@ -10558,6 +10564,16 @@
     "Merk (& Type)": "Volvo FE 320",
     "Kazerne": "Barchem",
     "Adres": "Van Damstraat 2, 7244BJ, Barchem"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-4831",
+    "Kenteken": "BB-560-Z",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Volvo FE 320",
+    "Kazerne": "Eibergen",
+    "Adres": "Nijverheidsstraat 2, 7151HN, Eibergen"
   },
   {
     "Regio": "06",
