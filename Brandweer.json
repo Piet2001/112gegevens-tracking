@@ -10537,6 +10537,16 @@
   },
   {
     "Regio": "06",
+    "Roepnummer": "06-4032",
+    "Kenteken": "BD-026-D",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Volvo FE 320",
+    "Kazerne": "Zutphen",
+    "Adres": "Gerard Doustraat 129, 7204EW, Zutphen"
+  },
+  {
+    "Regio": "06",
     "Roepnummer": "06-4331",
     "Kenteken": "63-BDZ-1",
     "Type": "TS",
@@ -32467,8 +32477,10 @@
   {
     "Regio": "17",
     "Roepnummer": "17-9232",
+    "Kenteken": "91-BFV-5",
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
+    "Merk (& Type)": "DAF",
     "Kazerne": "Regionaal"
   },
   {
@@ -43664,6 +43676,27 @@
     "Omschrijving": "Decontaminatiehaakarmbak",
     "Kazerne": "Bergeijk",
     "Adres": "Borkelsedijk 15, 5571GA, Bergeijk"
+  },
+  {
+    "Regio": "22",
+    "Roepnummer": "28-4935",
+    "Kenteken": "LM-14-91",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Mercedes-Benz",
+    "Kazerne": "Eindhoven Airport",
+    "Adres": "Flightforum 1550, 5657EZ, Eindhoven"
+  },
+  {
+    "Regio": "22",
+    "Roepnummer": "28-4951",
+    "Kenteken": "DM-603-R",
+    "Type": "BM",
+    "Omschrijving": "Bijzonder materieel",
+    "Toevoeging": "Rescue Escape Stairs",
+    "Merk (& Type)": "MAN",
+    "Kazerne": "Eindhoven Airport",
+    "Adres": "Flightforum 1550, 5657EZ, Eindhoven"
   },
   {
     "Regio": "22",
