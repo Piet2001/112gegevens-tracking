@@ -40997,8 +40997,10 @@
   {
     "Regio": "21",
     "Roepnummer": "21-2641",
+    "Kenteken": "47-BJB-3",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Mill",
     "Adres": "Jochemsweg 2, 5451HW, Mill"
   },
@@ -41042,7 +41044,7 @@
     "Kenteken": "54-BJX-6",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Oeffelt",
     "Adres": "Schoolstraat 4, 5441AM, Oeffelt"
   },
