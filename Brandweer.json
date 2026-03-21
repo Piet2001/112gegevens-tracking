@@ -10457,6 +10457,16 @@
   },
   {
     "Regio": "06",
+    "Roepnummer": "06-2001",
+    "Kenteken": "JTP-25-H",
+    "Type": "DB",
+    "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Volkswagen E-Transporter",
+    "Kazerne": "Hattem",
+    "Adres": "Verlengde Parklaan 36, 8051VB, Hattem"
+  },
+  {
+    "Regio": "06",
     "Roepnummer": "06-2131",
     "Kenteken": "BB-364-P",
     "Type": "TS",
@@ -10521,7 +10531,7 @@
     "Kenteken": "JTP-37-H",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Volkswagen",
+    "Merk (& Type)": "Volkswagen E-Transporter",
     "Kazerne": "Klarenbeek",
     "Adres": "Klarenbeekseweg 127a, 7381BE, Klarenbeek"
   },
