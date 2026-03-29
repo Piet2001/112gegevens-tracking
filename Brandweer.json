@@ -10577,6 +10577,16 @@
   },
   {
     "Regio": "06",
+    "Roepnummer": "06-4401",
+    "Kenteken": "JTP-31-H",
+    "Type": "DB",
+    "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Volkswagen E-Transporter",
+    "Kazerne": "Lochem",
+    "Adres": "Albert Hahnweg 7, 7242EA, Lochem"
+  },
+  {
+    "Regio": "06",
     "Roepnummer": "06-4431",
     "Kenteken": "01-BZS-4",
     "Type": "TS",
@@ -10642,6 +10652,16 @@
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
     "Merk (& Type)": "Volvo FE 320",
+    "Kazerne": "Doetinchem",
+    "Adres": "Stokhorstweg 1, 7006GA, Doetinchem"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-5364",
+    "Kenteken": "05-NNL-4",
+    "Type": "DB",
+    "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Volkswagen",
     "Kazerne": "Doetinchem",
     "Adres": "Stokhorstweg 1, 7006GA, Doetinchem"
   },
@@ -13069,6 +13089,15 @@
   },
   {
     "Regio": "06",
+    "Roepnummer": "06-9591",
+    "Kenteken": "RD-775-V",
+    "Type": "DA-OVD",
+    "Omschrijving": "Dienstauto - Officier van Dienst",
+    "Merk (& Type)": "Toyota",
+    "Kazerne": "Regionaal"
+  },
+  {
+    "Regio": "06",
     "Roepnummer": "06-9601",
     "Type": "DB-LO",
     "Omschrijving": "Dienstbus - Logistiek",
@@ -13354,6 +13383,15 @@
     "Omschrijving": "Mobiele Commando Unit",
     "Kazerne": "Doetinchem",
     "Adres": "Stokhorstweg 1, 7006GA, Doetinchem"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-9793",
+    "Kenteken": "RK-402-V",
+    "Type": "DA-HOD",
+    "Omschrijving": "Dienstauto - Hoofd Officier van Dienst",
+    "Merk (& Type)": "Volkswagen",
+    "Kazerne": "Regionaal"
   },
   {
     "Regio": "06",
@@ -30226,10 +30264,10 @@
   {
     "Regio": "17",
     "Roepnummer": "17-0631",
-    "Kenteken": "91-BFV-5",
+    "Kenteken": "69-BTZ-5",
     "Type": "TS-7",
     "Omschrijving": "Tankautospuit 7 mans bezetting",
-    "Merk (& Type)": "DAF LF",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Baan",
     "Adres": "Ketelaarsstraat 15, 3011CM, Rotterdam"
   },
