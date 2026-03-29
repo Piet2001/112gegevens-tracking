@@ -10557,6 +10557,16 @@
   },
   {
     "Regio": "06",
+    "Roepnummer": "06-4301",
+    "Kenteken": "R-353-BN",
+    "Type": "DB",
+    "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Vito",
+    "Kazerne": "Almen",
+    "Adres": "Berkelweg 2a, 7218AS, Almen"
+  },
+  {
+    "Regio": "06",
     "Roepnummer": "06-4331",
     "Kenteken": "63-BDZ-1",
     "Type": "TS",
@@ -10644,6 +10654,26 @@
     "Merk (& Type)": "Volvo FE 320",
     "Kazerne": "Gendringen",
     "Adres": "Nijverheidsweg 27, 7081AE, Gendringen"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-5801",
+    "Kenteken": "JTP-08-H",
+    "Type": "DB",
+    "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Volkswagen E-Transporter",
+    "Kazerne": "Steenderen",
+    "Adres": "Dr. Alfons Ari\u00ebnsstraat 33c, 7221CA, Steenderen"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-5831",
+    "Kenteken": "22-BNH-6",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Iveco",
+    "Kazerne": "Steenderen",
+    "Adres": "Dr. Alfons Ari\u00ebnsstraat 33c, 7221CA, Steenderen"
   },
   {
     "Regio": "06",
@@ -10858,6 +10888,25 @@
     "Omschrijving": "Hulpverleningsvoertuig",
     "Kazerne": "Heerde",
     "Adres": "Rhijnsburglaan 52, 8181XT, Heerde"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-6883",
+    "Kenteken": "BV-NH-22",
+    "Type": "VW-LO",
+    "Omschrijving": "Vrachtwagen - Logistiek en Ondersteuning",
+    "Toevoeging": "Oost",
+    "Merk (& Type)": "DAF LF",
+    "Kazerne": "Regionaal"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-6897",
+    "Kenteken": "GSX-62-N",
+    "Type": "DV-PCL",
+    "Omschrijving": "Dienstvoertuig\u00a0\u00a0Pelotonscommandant\u00a0Logistiek",
+    "Merk (& Type)": "Ford",
+    "Kazerne": "Regionaal"
   },
   {
     "Regio": "06",
@@ -15849,6 +15898,17 @@
   },
   {
     "Regio": "07",
+    "Roepnummer": "28-2101",
+    "Kenteken": "D-086-MD",
+    "Type": "DB-OVD",
+    "Omschrijving": "Dienstbus - Officier van Dienst",
+    "Toevoeging": "Commando Landstrijdkrachten",
+    "Merk (& Type)": "Mercedes-Benz Vito",
+    "Kazerne": "Schietkamp ASK `t Harde",
+    "Adres": "Eperweg 149, 8084HE, Het Harde"
+  },
+  {
+    "Regio": "07",
     "Roepnummer": "28-2131",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
@@ -15889,6 +15949,16 @@
   },
   {
     "Regio": "07",
+    "Roepnummer": "28-2145",
+    "Kenteken": "DM-609-N",
+    "Type": "TST",
+    "Omschrijving": "Tankautospuit-Terreinvaardig",
+    "Merk (& Type)": "Volvo",
+    "Kazerne": "Schietkamp ASK `t Harde",
+    "Adres": "Eperweg 149, 8084HE, Het Harde"
+  },
+  {
+    "Regio": "07",
     "Roepnummer": "28-2161",
     "Type": "WT",
     "Omschrijving": "Watertankwagen",
@@ -15914,8 +15984,11 @@
   {
     "Regio": "07",
     "Roepnummer": "28-2191",
+    "Kenteken": "D-775-MB",
     "Type": "DAT-OVD",
     "Omschrijving": "Dienstauto-Terreinvaardig - Officier van Dienst",
+    "Toevoeging": "Commando Landstrijdskrachten",
+    "Merk (& Type)": "Land Rover",
     "Kazerne": "Schietkamp ASK `t Harde",
     "Adres": "Eperweg 149, 8084HE, Het Harde"
   },
