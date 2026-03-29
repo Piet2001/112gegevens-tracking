@@ -10547,6 +10547,16 @@
   },
   {
     "Regio": "06",
+    "Roepnummer": "06-3601",
+    "Kenteken": "JTP-21-H",
+    "Type": "DB",
+    "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Volkswagen E-Transporter",
+    "Kazerne": "Twello",
+    "Adres": "Jupiter 4, 7391RK, Twello"
+  },
+  {
+    "Regio": "06",
     "Roepnummer": "06-4032",
     "Kenteken": "BD-026-D",
     "Type": "TS",
@@ -10674,6 +10684,16 @@
     "Merk (& Type)": "Volvo FE 320",
     "Kazerne": "Gendringen",
     "Adres": "Nijverheidsweg 27, 7081AE, Gendringen"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-5631",
+    "Kenteken": "BD-077-G",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Volvo FE 320",
+    "Kazerne": "Varsseveld",
+    "Adres": "Klaproosstraat 28, 7051ZH, Varsseveld"
   },
   {
     "Regio": "06",
@@ -11165,8 +11185,10 @@
   {
     "Regio": "06",
     "Roepnummer": "06-7201",
+    "Kenteken": "JTL-81-Z",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Volkswagen",
     "Kazerne": "Harderwijk",
     "Adres": "Maltezerlaan 1, 3842AZ, Harderwijk"
   },
@@ -11857,10 +11879,12 @@
   {
     "Regio": "06",
     "Roepnummer": "06-8101",
+    "Kenteken": "8-XJD-87",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Kazerne": "Zutphen",
-    "Adres": "Gerard Doustraat 129, 7204EW, Zutphen"
+    "Merk (& Type)": "Volkswagen Golf",
+    "Kazerne": "Doetinchem",
+    "Adres": "Stokhorstweg 1, 7006GA, Doetinchem"
   },
   {
     "Regio": "06",
@@ -16406,6 +16430,16 @@
   },
   {
     "Regio": "08",
+    "Roepnummer": "08-4001",
+    "Kenteken": "KH-582-L",
+    "Type": "DA",
+    "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Volkswagen",
+    "Kazerne": "Beuningen",
+    "Adres": "Van Heemstraweg 95, 6641AC, Beuningen"
+  },
+  {
+    "Regio": "08",
     "Roepnummer": "08-4005",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
@@ -16880,6 +16914,16 @@
   },
   {
     "Regio": "08",
+    "Roepnummer": "08-7003",
+    "Kenteken": "TR-684-N",
+    "Type": "DA",
+    "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Volkswagen",
+    "Kazerne": "Culemborg",
+    "Adres": "Triosingel 34, 4101XC, Culemborg"
+  },
+  {
+    "Regio": "08",
     "Roepnummer": "08-7006",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
@@ -17036,8 +17080,10 @@
   {
     "Regio": "08",
     "Roepnummer": "08-7531",
+    "Kenteken": "BZ-XT-98",
     "Type": "TS-7",
     "Omschrijving": "Tankautospuit 7 mans bezetting",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Maurik",
     "Adres": "Homoetsestraat 12, 4021HH, Maurik"
   },
