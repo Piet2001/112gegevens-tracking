@@ -4805,16 +4805,20 @@
   {
     "Regio": "02",
     "Roepnummer": "02-7101",
+    "Kenteken": "SJ-527-V",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Burgum",
     "Adres": "Mr. W.M. Oppedijk van Veenweg 24a, 9251GA, Burgum"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-7103",
+    "Kenteken": "XX-774-N",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Giekerk",
     "Adres": "R. van Nautaweg 4d, 9061AE, Giekerk"
   },
