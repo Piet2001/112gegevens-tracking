@@ -1463,10 +1463,10 @@
   {
     "Regio": "01",
     "Roepnummer": "01-2587",
-    "Kenteken": "BX-BN-53",
+    "Kenteken": "61-BRD-6",
     "Type": "VW-LO",
     "Omschrijving": "Vrachtwagen - Logistiek en Ondersteuning",
-    "Merk (& Type)": "Volkswagen Crafter",
+    "Merk (& Type)": "DAF",
     "Kazerne": "Veendam",
     "Adres": "Langeleegte 2, 9641GN, Veendam"
   },
@@ -4270,7 +4270,7 @@
   {
     "Regio": "02",
     "Roepnummer": "02-6511",
-    "Kenteken": "\tV-342-TG",
+    "Kenteken": "V-342-TG",
     "Type": "ORT",
     "Omschrijving": "Oppervlakte Redding Team",
     "Merk (& Type)": "Mercedes-Benz Sprinter",
