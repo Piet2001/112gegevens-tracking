@@ -4825,8 +4825,10 @@
   {
     "Regio": "02",
     "Roepnummer": "02-7111",
+    "Kenteken": "8-VSZ-24",
     "Type": "ORT",
     "Omschrijving": "Oppervlakte Redding Team",
+    "Merk (& Type)": "Volkswagen Crafter",
     "Kazerne": "Burgum",
     "Adres": "Mr. W.M. Oppedijk van Veenweg 24a, 9251GA, Burgum"
   },
@@ -12658,16 +12660,6 @@
     "Omschrijving": "Watertankhaakarmbak",
     "Kazerne": "Eibergen",
     "Adres": "Nijverheidsstraat 2, 7151HN, Eibergen"
-  },
-  {
-    "Regio": "06",
-    "Roepnummer": "06-8991",
-    "Kenteken": "RD-775-V",
-    "Type": "DA-OVD",
-    "Omschrijving": "Dienstauto - Officier van Dienst",
-    "Toevoeging": "Achterhoek Oost",
-    "Merk (& Type)": "Toyota",
-    "Kazerne": "Leiding & Co\u00f6rdinatie"
   },
   {
     "Regio": "06",
