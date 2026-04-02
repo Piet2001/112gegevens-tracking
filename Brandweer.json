@@ -96,10 +96,10 @@
   {
     "Regio": "01",
     "Roepnummer": "01-0108",
-    "Kenteken": "V-791-XZ",
-    "Type": "PM",
-    "Omschrijving": "Personeel/Materieelvoertuig",
-    "Merk (& Type)": "Mercedes-Benz Vito",
+    "Kenteken": "JVZ-38-H",
+    "Type": "DA",
+    "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Opel",
     "Kazerne": "Groningen Sontweg",
     "Adres": "Sontweg 10, 9723AT, Groningen"
   },
@@ -3678,6 +3678,16 @@
   },
   {
     "Regio": "02",
+    "Roepnummer": "02-5789",
+    "Kenteken": "21-PLT-7",
+    "Type": "PM-LO",
+    "Omschrijving": "Personeel/Materieelvoertuig - Logistiek&Verzorging",
+    "Merk (& Type)": "Volkswagen Caddy",
+    "Kazerne": "Sneek",
+    "Adres": "Malta 1, 8601GW, Sneek"
+  },
+  {
+    "Regio": "02",
     "Roepnummer": "02-5793",
     "Kenteken": "GLS-64-V",
     "Type": "DB-OVD",
@@ -4835,8 +4845,10 @@
   {
     "Regio": "02",
     "Roepnummer": "02-7114",
+    "Kenteken": "04-09-YP",
     "Type": "WOV",
     "Omschrijving": "Waterongevallenvaartuig",
+    "Merk (& Type)": "TSL content",
     "Kazerne": "Burgum",
     "Adres": "Mr. W.M. Oppedijk van Veenweg 24a, 9251GA, Burgum"
   },
@@ -4851,40 +4863,28 @@
   {
     "Regio": "02",
     "Roepnummer": "02-7131",
+    "Kenteken": "79-BLZ-3",
     "Type": "TS-8",
     "Omschrijving": "Tankautospuit 8 mans bezetting",
-    "Kazerne": "Burgum",
-    "Adres": "Mr. W.M. Oppedijk van Veenweg 24a, 9251GA, Burgum"
-  },
-  {
-    "Regio": "02",
-    "Roepnummer": "02-7132",
-    "Type": "TS",
-    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "Burgum",
     "Adres": "Mr. W.M. Oppedijk van Veenweg 24a, 9251GA, Burgum"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-7133",
+    "Kenteken": "77-BLZ-3",
     "Type": "TS-9",
     "Omschrijving": "Tankautospuit 9 mans bezetting",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "Giekerk",
     "Adres": "R. van Nautaweg 4d, 9061AE, Giekerk"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-7161",
-    "Type": "WTS",
-    "Omschrijving": "Watertransportsysteem",
-    "Kazerne": "Burgum",
-    "Adres": "Mr. W.M. Oppedijk van Veenweg 24a, 9251GA, Burgum"
-  },
-  {
-    "Regio": "02",
-    "Roepnummer": "02-7162",
-    "Type": "SLH",
-    "Omschrijving": "Slangenhaakarmbak",
+    "Type": "DPH-GW",
+    "Omschrijving": "Dompelpomp haakarmbak voor grootschalige watervoorziening",
     "Kazerne": "Burgum",
     "Adres": "Mr. W.M. Oppedijk van Veenweg 24a, 9251GA, Burgum"
   },
@@ -4903,14 +4903,6 @@
     "Omschrijving": "Hulpverleningshaakarmbak-Instorting",
     "Kazerne": "Burgum",
     "Adres": "Mr. W.M. Oppedijk van Veenweg 24a, 9251GA, Burgum"
-  },
-  {
-    "Regio": "02",
-    "Roepnummer": "02-7201",
-    "Type": "DA",
-    "Omschrijving": "Dienstauto",
-    "Kazerne": "Drachten",
-    "Adres": "Loswal 1, 9206AH, Drachten"
   },
   {
     "Regio": "02",
@@ -4965,10 +4957,10 @@
   {
     "Regio": "02",
     "Roepnummer": "02-7208",
-    "Kenteken": "21-PLT-7",
-    "Type": "DA",
-    "Omschrijving": "Dienstauto",
-    "Merk (& Type)": "Volkswagen Caddy",
+    "Kenteken": "X-266-VX",
+    "Type": "PM",
+    "Omschrijving": "Personeel/Materieelvoertuig",
+    "Merk (& Type)": "Mercedes-Benz Citan",
     "Kazerne": "Dokkum",
     "Adres": "Rondweg Noord 28, 9101AD, Dokkum"
   },
@@ -18387,6 +18379,16 @@
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
     "Merk (& Type)": "MAN",
+    "Kazerne": "Houten-West",
+    "Adres": "De Brug 2, 3991LN, Houten"
+  },
+  {
+    "Regio": "09",
+    "Roepnummer": "09-1863",
+    "Kenteken": "BB-081-V",
+    "Type": "SB",
+    "Omschrijving": "Schuimblusvoertuig",
+    "Merk (& Type)": "Mercedes-Benz Arocs 8x4/4",
     "Kazerne": "Houten-West",
     "Adres": "De Brug 2, 3991LN, Houten"
   },
