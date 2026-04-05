@@ -629,33 +629,42 @@
   {
     "Regio": "01",
     "Roepnummer": "01-1600",
-    "Kenteken": "4-XFG-11",
+    "Kenteken": "JXK-57-V",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Toevoeging": "Regionaal",
-    "Merk (& Type)": "Volkswagen Polo",
+    "Merk (& Type)": "Opel",
     "Kazerne": "Bedum",
     "Adres": "Industrieweg 15, 9781AC, Bedum"
   },
   {
     "Regio": "01",
     "Roepnummer": "01-1601",
-    "Kenteken": "9-XRR-26",
-    "Type": "DA",
-    "Omschrijving": "Dienstauto",
-    "Merk (& Type)": "Volkswagen Polo",
+    "Kenteken": "HFR-02-G",
+    "Type": "DB",
+    "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Bedum",
     "Adres": "Industrieweg 15, 9781AC, Bedum"
   },
   {
     "Regio": "01",
     "Roepnummer": "01-1602",
-    "Kenteken": "4-XFG-00",
+    "Kenteken": "JXK-56-V",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Merk (& Type)": "Volkswagen Polo",
-    "Kazerne": "Zoutkamp",
-    "Adres": "Marnestraat 3, 9974RB, Zoutkamp"
+    "Merk (& Type)": "Opel Corsa-Electric",
+    "Kazerne": "Bedum",
+    "Adres": "Industrieweg 15, 9781AC, Bedum"
+  },
+  {
+    "Regio": "01",
+    "Roepnummer": "01-1603",
+    "Kenteken": "HFR-03-G",
+    "Type": "DB",
+    "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Vito",
+    "Kazerne": "Bedum",
+    "Adres": "Industrieweg 15, 9781AC, Bedum"
   },
   {
     "Regio": "01",
