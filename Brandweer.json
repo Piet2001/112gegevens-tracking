@@ -5005,16 +5005,10 @@
   {
     "Regio": "02",
     "Roepnummer": "02-7301",
+    "Kenteken": "3-SGZ-58",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Kazerne": "Franeker",
-    "Adres": "Burgemeester J. Dijkstraweg 13, 8801PG, Franeker"
-  },
-  {
-    "Regio": "02",
-    "Roepnummer": "02-7302",
-    "Type": "DA",
-    "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Volkswagen Polo",
     "Kazerne": "Franeker",
     "Adres": "Burgemeester J. Dijkstraweg 13, 8801PG, Franeker"
   },
@@ -5031,8 +5025,10 @@
   {
     "Regio": "02",
     "Roepnummer": "02-7304",
+    "Kenteken": "97-SLD-6",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Volkswagen Polo",
     "Kazerne": "Franeker",
     "Adres": "Burgemeester J. Dijkstraweg 13, 8801PG, Franeker"
   },
@@ -5043,14 +5039,6 @@
     "Type": "DA",
     "Omschrijving": "Dienstauto",
     "Merk (& Type)": "Volkswagen Polo",
-    "Kazerne": "Leeuwarden-Hoofdpost",
-    "Adres": "Aldl\u00e2nsdijk 11, 8934AA, Leeuwarden"
-  },
-  {
-    "Regio": "02",
-    "Roepnummer": "02-7306",
-    "Type": "DB",
-    "Omschrijving": "Dienstbus",
     "Kazerne": "Leeuwarden-Hoofdpost",
     "Adres": "Aldl\u00e2nsdijk 11, 8934AA, Leeuwarden"
   },
@@ -5096,42 +5084,39 @@
   {
     "Regio": "02",
     "Roepnummer": "02-7393",
-    "Kenteken": "98-JXB-9",
+    "Kenteken": "H-401-PL",
     "Type": "DV-OVD",
     "Omschrijving": "Dienstvoertuig - Officier van Dienst",
     "Merk (& Type)": "Volkswagen Touran",
-    "Kazerne": "Franeker",
-    "Adres": "Burgemeester J. Dijkstraweg 13, 8801PG, Franeker"
-  },
-  {
-    "Regio": "02",
-    "Roepnummer": "02-73WBH",
-    "Type": "WBH",
-    "Omschrijving": "Waterbassinhaakarmbak",
-    "Kazerne": "Franeker",
-    "Adres": "Burgemeester J. Dijkstraweg 13, 8801PG, Franeker"
+    "Kazerne": "Regionaal"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-7401",
+    "Kenteken": "ZK-167-B",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Jubbega",
     "Adres": "Siemen Brinksmaweg 26, 8411XH, Jubbega"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-7402",
+    "Kenteken": "ZK-166-B",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Nieuwehorne",
     "Adres": "Schoterlandseweg 69, 8414LP, Nieuwehorne"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-7403",
+    "Kenteken": "XX-776-N",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Tjalleberd",
     "Adres": "De Kluft 1, 8458CW, Tjalleberd"
   },
