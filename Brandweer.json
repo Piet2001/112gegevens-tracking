@@ -5122,25 +5122,21 @@
   },
   {
     "Regio": "02",
-    "Roepnummer": "02-7467",
-    "Type": "TS",
-    "Omschrijving": "Tankautospuit",
-    "Kazerne": "Heerenveen",
-    "Adres": "It Hege Stik 8, 8445PZ, Heerenveen"
-  },
-  {
-    "Regio": "02",
     "Roepnummer": "02-7501",
+    "Kenteken": "XZ-498-R",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Stavoren",
     "Adres": "Meerweg 10, 8715EK, Stavoren"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-7502",
+    "Kenteken": "XZ-549-T",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Workum",
     "Adres": "Konvintsdyk 2, 8711GB, Workum"
   },
@@ -5242,56 +5238,61 @@
   {
     "Regio": "03",
     "Roepnummer": "03-8001",
+    "Kenteken": "J-484-VN",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
+    "Toevoeging": "tevens 03-8028 VKE",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Norg",
     "Adres": "Eenerstraat 69, 9331VE, Norg"
   },
   {
     "Regio": "03",
     "Roepnummer": "03-8002",
+    "Kenteken": "K-456-NS",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Peize",
     "Adres": "De Aanleg 4, 9321DD, Peize"
   },
   {
     "Regio": "03",
     "Roepnummer": "03-8003",
+    "Kenteken": "39-BBT-7",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Roden",
     "Adres": "Westeresch 20, 9301ZW, Roden"
   },
   {
     "Regio": "03",
     "Roepnummer": "03-8004",
+    "Kenteken": "62-BDP-9",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Veenhuizen",
     "Adres": "Oude Gracht 8, 9341AB, Veenhuizen"
   },
   {
     "Regio": "03",
-    "Roepnummer": "03-8028",
-    "Type": "DB-VEB",
-    "Omschrijving": "Dienstbus - Verkenningseenheid Brandweer",
-    "Kazerne": "Norg",
-    "Adres": "Eenerstraat 69, 9331VE, Norg"
-  },
-  {
-    "Regio": "03",
     "Roepnummer": "03-8031",
+    "Kenteken": "89-BBF-5",
     "Type": "TS-8",
     "Omschrijving": "Tankautospuit 8 mans bezetting",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Norg",
     "Adres": "Eenerstraat 69, 9331VE, Norg"
   },
   {
     "Regio": "03",
     "Roepnummer": "03-8032",
+    "Kenteken": "28-BXX-2",
     "Type": "TS-8",
     "Omschrijving": "Tankautospuit 8 mans bezetting",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Peize",
     "Adres": "De Aanleg 4, 9321DD, Peize"
   },
