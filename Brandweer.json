@@ -5290,8 +5290,8 @@
     "Regio": "03",
     "Roepnummer": "03-8032",
     "Kenteken": "28-BXX-2",
-    "Type": "TS-8",
-    "Omschrijving": "Tankautospuit 8 mans bezetting",
+    "Type": "TS-7",
+    "Omschrijving": "Tankautospuit 7 mans bezetting",
     "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Peize",
     "Adres": "De Aanleg 4, 9321DD, Peize"
@@ -5299,40 +5299,50 @@
   {
     "Regio": "03",
     "Roepnummer": "03-8033",
-    "Type": "TS-6",
-    "Omschrijving": "Tankautospuit 6 mans bezetting",
+    "Kenteken": "54-BHX-9",
+    "Type": "TS-8",
+    "Omschrijving": "Tankautospuit 8 mans bezetting",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Roden",
     "Adres": "Westeresch 20, 9301ZW, Roden"
   },
   {
     "Regio": "03",
     "Roepnummer": "03-8035",
-    "Type": "TS-8",
-    "Omschrijving": "Tankautospuit 8 mans bezetting",
+    "Kenteken": "33-BXZ-5",
+    "Type": "TS-7",
+    "Omschrijving": "Tankautospuit 7 mans bezetting",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Veenhuizen",
     "Adres": "Oude Gracht 8, 9341AB, Veenhuizen"
   },
   {
     "Regio": "03",
     "Roepnummer": "03-8065",
+    "Kenteken": "11-BDV-6",
     "Type": "WT",
     "Omschrijving": "Watertankwagen",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Norg",
     "Adres": "Eenerstraat 69, 9331VE, Norg"
   },
   {
     "Regio": "03",
     "Roepnummer": "03-8066",
+    "Kenteken": "28-BDV-1",
     "Type": "WT",
     "Omschrijving": "Watertankwagen",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Roden",
     "Adres": "Westeresch 20, 9301ZW, Roden"
   },
   {
     "Regio": "03",
     "Roepnummer": "03-8067",
+    "Kenteken": "59-BDX-2",
     "Type": "WT",
     "Omschrijving": "Watertankwagen",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Veenhuizen",
     "Adres": "Oude Gracht 8, 9341AB, Veenhuizen"
   },
@@ -41729,10 +41739,10 @@
   {
     "Regio": "22",
     "Roepnummer": "22-1501",
-    "Kenteken": "53-KGR-7",
+    "Kenteken": "GLS-40-V",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Mercedes-Benz",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Bladel",
     "Adres": "Isegrim 5, 5531KM, Bladel"
   },
@@ -41903,16 +41913,6 @@
     "Type": "HV",
     "Omschrijving": "Hulpverleningsvoertuig",
     "Merk (& Type)": "MAN",
-    "Kazerne": "Eersel",
-    "Adres": "Dalemsedijk 1, 5521RM, Eersel"
-  },
-  {
-    "Regio": "22",
-    "Roepnummer": "22-2191",
-    "Kenteken": "24-PTS-7",
-    "Type": "DA",
-    "Omschrijving": "Dienstauto",
-    "Merk (& Type)": "FiatFiat Doblo 1,6D",
     "Kazerne": "Eersel",
     "Adres": "Dalemsedijk 1, 5521RM, Eersel"
   },
@@ -42224,16 +42224,6 @@
     "Type": "DA",
     "Omschrijving": "Dienstauto",
     "Merk (& Type)": "Volkswagen Polo",
-    "Kazerne": "Helmond",
-    "Adres": "Deurneseweg 135, 5701CE, Helmond"
-  },
-  {
-    "Regio": "22",
-    "Roepnummer": "22-3204",
-    "Kenteken": "79-XF-HJ",
-    "Type": "DA",
-    "Omschrijving": "Dienstauto",
-    "Merk (& Type)": "Ford Focus",
     "Kazerne": "Helmond",
     "Adres": "Deurneseweg 135, 5701CE, Helmond"
   },
@@ -42795,10 +42785,10 @@
   {
     "Regio": "22",
     "Roepnummer": "22-4981",
-    "Kenteken": "09-BK-KG",
+    "Kenteken": "VTK-86-B",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
-    "Merk (& Type)": "Mercedes-Benz Sprinter",
+    "Merk (& Type)": "Peugeot",
     "Kazerne": "TU Eindhoven",
     "Adres": "Den Dolech 2, 5612AZ, Eindhoven"
   },
@@ -43426,10 +43416,10 @@
   {
     "Regio": "22",
     "Roepnummer": "22-5182",
-    "Kenteken": "BX-HT-36",
+    "Kenteken": "BB-762-D",
     "Type": "HA-T",
     "Omschrijving": "Haakarmbakvoertuig-Terreinvaardig",
-    "Merk (& Type)": "Volvo FM9.330(6x4)",
+    "Merk (& Type)": "DAF",
     "Kazerne": "Bergeijk",
     "Adres": "Borkelsedijk 15, 5571GA, Bergeijk"
   },
@@ -43681,10 +43671,10 @@
   {
     "Regio": "22",
     "Roepnummer": "22-5380",
-    "Kenteken": "BH-XJ-20",
+    "Kenteken": "BX-HT-36",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
-    "Merk (& Type)": "DAF",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "ROC Waalre",
     "Adres": "Engelse Tuin 1, 5583CT, Waalre"
   },
