@@ -4717,10 +4717,10 @@
   {
     "Regio": "02",
     "Roepnummer": "02-7005",
-    "Kenteken": "3-SGZ-55",
+    "Kenteken": "KBF-17-V",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Merk (& Type)": "Volkswagen Polo",
+    "Merk (& Type)": "Opel",
     "Kazerne": "Drachten",
     "Adres": "Loswal 1, 9206AH, Drachten"
   },
@@ -5358,8 +5358,11 @@
   {
     "Regio": "03",
     "Roepnummer": "03-8101",
+    "Kenteken": "BZ-GB-17",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
+    "Toevoeging": "Tevens 03-8128 VKE",
+    "Merk (& Type)": "Renault",
     "Kazerne": "Eelde",
     "Adres": "Burgemeester J.G. Legroweg 29a, 9761TA, Eelde"
   },
@@ -5376,40 +5379,30 @@
   {
     "Regio": "03",
     "Roepnummer": "03-8103",
+    "Kenteken": "BZ-ZH-83",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
+    "Merk (& Type)": "Renault",
     "Kazerne": "Zuidlaren",
     "Adres": "Havenstraat 6, 9471AM, Zuidlaren"
   },
   {
     "Regio": "03",
-    "Roepnummer": "03-8128",
-    "Type": "DB-VEB",
-    "Omschrijving": "Dienstbus - Verkenningseenheid Brandweer",
-    "Kazerne": "Eelde",
-    "Adres": "Burgemeester J.G. Legroweg 29a, 9761TA, Eelde"
-  },
-  {
-    "Regio": "03",
     "Roepnummer": "03-8131",
+    "Kenteken": "69-BVD-1",
     "Type": "TS-8",
     "Omschrijving": "Tankautospuit 8 mans bezetting",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Eelde",
     "Adres": "Burgemeester J.G. Legroweg 29a, 9761TA, Eelde"
-  },
-  {
-    "Regio": "03",
-    "Roepnummer": "03-8132",
-    "Type": "TS-8",
-    "Omschrijving": "Tankautospuit 8 mans bezetting",
-    "Kazerne": "Vries",
-    "Adres": "Westerstraat 26, 9481CB, Vries"
   },
   {
     "Regio": "03",
     "Roepnummer": "03-8133",
+    "Kenteken": "49-BDT-4",
     "Type": "TS-8",
     "Omschrijving": "Tankautospuit 8 mans bezetting",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Zuidlaren",
     "Adres": "Havenstraat 6, 9471AM, Zuidlaren"
   },
@@ -5426,16 +5419,20 @@
   {
     "Regio": "03",
     "Roepnummer": "03-8165",
+    "Kenteken": "09-BDV-6",
     "Type": "WT",
     "Omschrijving": "Watertankwagen",
+    "Merk (& Type)": "MAN TGS",
     "Kazerne": "Eelde",
     "Adres": "Burgemeester J.G. Legroweg 29a, 9761TA, Eelde"
   },
   {
     "Regio": "03",
     "Roepnummer": "03-8166",
+    "Kenteken": "55-BDX-2",
     "Type": "WT",
     "Omschrijving": "Watertankwagen",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Zuidlaren",
     "Adres": "Havenstraat 6, 9471AM, Zuidlaren"
   },
@@ -5452,82 +5449,80 @@
   {
     "Regio": "03",
     "Roepnummer": "03-8201",
+    "Kenteken": "KB-191-R",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Volkswagen Polo",
     "Kazerne": "Assen-West",
     "Adres": "Mien Ruysweg 1, 9408KA, Assen"
   },
   {
     "Regio": "03",
     "Roepnummer": "03-8202",
+    "Kenteken": "KB-193-R",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Volkswagen Polo",
     "Kazerne": "Assen-West",
     "Adres": "Mien Ruysweg 1, 9408KA, Assen"
   },
   {
     "Regio": "03",
     "Roepnummer": "03-8203",
+    "Kenteken": "K-445-NS",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Assen-West",
     "Adres": "Mien Ruysweg 1, 9408KA, Assen"
   },
   {
     "Regio": "03",
     "Roepnummer": "03-8204",
+    "Kenteken": "G-819-KV",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Assen-Oost",
     "Adres": "Stelmakerstraat 28, 9403VB, Assen"
   },
   {
     "Regio": "03",
     "Roepnummer": "03-8205",
-    "Type": "GM",
-    "Omschrijving": "Gereedschap/Materieelwagen",
-    "Kazerne": "Assen-West",
-    "Adres": "Mien Ruysweg 1, 9408KA, Assen"
-  },
-  {
-    "Regio": "03",
-    "Roepnummer": "03-8210",
-    "Type": "WO",
-    "Omschrijving": "Waterongevallenvoertuig",
+    "Kenteken": "8-VHP-97",
+    "Type": "PM",
+    "Omschrijving": "Personeel/Materieelvoertuig",
+    "Merk (& Type)": "Volkswagen Caddy",
     "Kazerne": "Assen-West",
     "Adres": "Mien Ruysweg 1, 9408KA, Assen"
   },
   {
     "Regio": "03",
     "Roepnummer": "03-8214",
-    "Type": "WOA",
-    "Omschrijving": "Waterongevallenaanhanger met boot",
+    "Type": "BRV",
+    "Omschrijving": "Brandweervaartuig",
     "Kazerne": "Assen-West",
     "Adres": "Mien Ruysweg 1, 9408KA, Assen"
   },
   {
     "Regio": "03",
     "Roepnummer": "03-8231",
-    "Type": "TS-8",
-    "Omschrijving": "Tankautospuit 8 mans bezetting",
+    "Kenteken": "20-BTS-9",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Assen-West",
     "Adres": "Mien Ruysweg 1, 9408KA, Assen"
   },
   {
     "Regio": "03",
     "Roepnummer": "03-8232",
+    "Kenteken": "05-BNV-1",
     "Type": "TS-8",
     "Omschrijving": "Tankautospuit 8 mans bezetting",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Assen-Oost",
     "Adres": "Stelmakerstraat 28, 9403VB, Assen"
-  },
-  {
-    "Regio": "03",
-    "Roepnummer": "03-8233",
-    "Type": "TS-9",
-    "Omschrijving": "Tankautospuit 9 mans bezetting",
-    "Kazerne": "Assen-West",
-    "Adres": "Mien Ruysweg 1, 9408KA, Assen"
   },
   {
     "Regio": "03",
@@ -48346,5 +48341,15 @@
     "Merk (& Type)": "Volkswagen Touran",
     "Kazerne": "Lelystad",
     "Adres": "Gordiaandreef 101, 8233AB, Lelystad"
+  },
+  {
+    "Regio": "26",
+    "Roepnummer": "26-8276",
+    "Kenteken": "VTD-51-N",
+    "Type": "PMT",
+    "Omschrijving": "Personeel/Materieelvoertuig - Terreinvaardig",
+    "Merk (& Type)": "Ford",
+    "Kazerne": "IFV Zoetermeer",
+    "Adres": "Chroomstraat 151, 2718RJ Zoetermeer"
   }
 ]
