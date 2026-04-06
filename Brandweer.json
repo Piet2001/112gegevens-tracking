@@ -6873,8 +6873,10 @@
   {
     "Regio": "03",
     "Roepnummer": "03-9887",
+    "Kenteken": "55-BGR-5",
     "Type": "VW",
     "Omschrijving": "Vrachtwagen",
+    "Merk (& Type)": "Volkswagen Crafter",
     "Kazerne": "Emmen",
     "Adres": "Nijbracht 43a, 7821CB, Emmen"
   },
