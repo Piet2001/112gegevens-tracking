@@ -10684,6 +10684,16 @@
   },
   {
     "Regio": "06",
+    "Roepnummer": "06-5131",
+    "Kenteken": "BD-173-H",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Volvo FE 320",
+    "Kazerne": "Bergh",
+    "Adres": "Zeddamseweg 77b, 7041CN, 's-Heerenberg"
+  },
+  {
+    "Regio": "06",
     "Roepnummer": "06-5231",
     "Kenteken": "08-BZS-6",
     "Type": "TS",
