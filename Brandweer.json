@@ -40771,11 +40771,12 @@
   {
     "Regio": "21",
     "Roepnummer": "21-0101",
-    "Kenteken": "34-RKS-9",
+    "Kenteken": "27-TTX-7",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Merk (& Type)": "Hyundai",
-    "Kazerne": "Regionaal"
+    "Merk (& Type)": "Skoda",
+    "Kazerne": "Sint-Michielsgestel",
+    "Adres": "Schijndelseweg 38b, 5271SB, Sint-Michielsgestel"
   },
   {
     "Regio": "21",
@@ -40784,7 +40785,8 @@
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
     "Merk (& Type)": "Scania",
-    "Kazerne": "Regionaal"
+    "Kazerne": "Sint-Michielsgestel",
+    "Adres": "Schijndelseweg 38b, 5271SB, Sint-Michielsgestel"
   },
   {
     "Regio": "21",
@@ -41418,8 +41420,10 @@
   {
     "Regio": "21",
     "Roepnummer": "21-3631",
+    "Kenteken": "75-BNG-8",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Sint-Michielsgestel",
     "Adres": "Schijndelseweg 38b, 5271SB, Sint-Michielsgestel"
   },
@@ -41434,8 +41438,10 @@
   {
     "Regio": "21",
     "Roepnummer": "21-3681",
-    "Type": "GM",
-    "Omschrijving": "Gereedschap/Materieelwagen",
+    "Kenteken": "S-025-LR",
+    "Type": "DB",
+    "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Sint-Michielsgestel",
     "Adres": "Schijndelseweg 38b, 5271SB, Sint-Michielsgestel"
   },
