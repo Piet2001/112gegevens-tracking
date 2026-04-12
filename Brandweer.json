@@ -37075,8 +37075,8 @@
   {
     "Regio": "19",
     "Roepnummer": "19-8597",
-    "Type": "DV\u2010IMC",
-    "Omschrijving": "Omschrijving NOT FOUND",
+    "Type": "DV-IMC",
+    "Omschrijving": "Dienstvoertuig Informatie Manger CoPI",
     "Toevoeging": "COPI",
     "Kazerne": "Middelburg"
   },
@@ -38763,9 +38763,11 @@
   {
     "Regio": "20",
     "Roepnummer": "20-3093",
-    "Type": "DA-OVD",
-    "Omschrijving": "Dienstauto - Officier van Dienst",
+    "Kenteken": "JFV-44-G",
+    "Type": "DB-OVD",
+    "Omschrijving": "Dienstbus - Officier van Dienst",
     "Toevoeging": "West",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Breda",
     "Adres": "Tramsingel 71, 4814AC, Breda"
   },
@@ -39629,10 +39631,10 @@
   {
     "Regio": "20",
     "Roepnummer": "20-7092",
-    "Kenteken": "KP-433-D",
-    "Type": "DA-OVD",
-    "Omschrijving": "Dienstauto - Officier van Dienst",
-    "Merk (& Type)": "Volkswagen Transporter",
+    "Kenteken": "JFV-46-G",
+    "Type": "DB-OVD",
+    "Omschrijving": "Dienstbus - Officier van Dienst",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Waalwijk",
     "Adres": "Groenstraat 25, 5142EB, Waalwijk"
   },
