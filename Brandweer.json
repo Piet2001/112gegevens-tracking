@@ -163,6 +163,15 @@
   },
   {
     "Regio": "01",
+    "Roepnummer": "01-0136",
+    "Kenteken": "BD-239-H",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Volvo FE 320",
+    "Kazerne": "Regionaal"
+  },
+  {
+    "Regio": "01",
     "Roepnummer": "01-0185",
     "Kenteken": "V-688-LX",
     "Type": "PM",
@@ -20711,6 +20720,15 @@
   },
   {
     "Regio": "09",
+    "Roepnummer": "09-9494",
+    "Kenteken": "L-123-DD",
+    "Type": "DA-QRT",
+    "Omschrijving": "Dienstauto - Quick Response Team",
+    "Merk (& Type)": "Volkswagen Polo 1,0TSi",
+    "Kazerne": "Regionaal"
+  },
+  {
+    "Regio": "09",
     "Roepnummer": "09-9701",
     "Kenteken": "43-VJ-HV",
     "Type": "PM",
@@ -21163,8 +21181,20 @@
   {
     "Regio": "10",
     "Roepnummer": "10-4601",
+    "Kenteken": "JTT-60-D",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
+    "Kazerne": "Enkhuizen",
+    "Adres": "Gerard Brandtweg 3, 1602LV, Enkhuizen"
+  },
+  {
+    "Regio": "10",
+    "Roepnummer": "10-4631",
+    "Kenteken": "39-BZB-8",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Enkhuizen",
     "Adres": "Gerard Brandtweg 3, 1602LV, Enkhuizen"
   },
@@ -21205,8 +21235,10 @@
   {
     "Regio": "10",
     "Roepnummer": "10-4731",
-    "Type": "TS-6",
-    "Omschrijving": "Tankautospuit 6 mans bezetting",
+    "Kenteken": "13-BLK-1",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "De Rijp",
     "Adres": "Driemaster 2, 1483WC, De Rijp"
   },
@@ -26389,8 +26421,10 @@
   {
     "Regio": "14",
     "Roepnummer": "14-1202",
+    "Kenteken": "1-SGH-73",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Volkswagen Transporter T5-Kombi 2,0TDi",
     "Kazerne": "Bussum",
     "Adres": "Brinklaan 140, 1404GW, Bussum"
   },
@@ -26404,11 +26438,31 @@
   },
   {
     "Regio": "14",
+    "Roepnummer": "14-1231",
+    "Kenteken": "BB-087-B",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Mercedes-Benz Atego",
+    "Kazerne": "Bussum",
+    "Adres": "Brinklaan 140, 1404GW, Bussum"
+  },
+  {
+    "Regio": "14",
     "Roepnummer": "14-1232",
     "Kenteken": "BN-HF-19",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
     "Merk (& Type)": "MAN",
+    "Kazerne": "Bussum",
+    "Adres": "Brinklaan 140, 1404GW, Bussum"
+  },
+  {
+    "Regio": "14",
+    "Roepnummer": "14-1252",
+    "Kenteken": "19-BZD-3",
+    "Type": "AL",
+    "Omschrijving": "Autoladder",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Bussum",
     "Adres": "Brinklaan 140, 1404GW, Bussum"
   },
@@ -26440,8 +26494,10 @@
   {
     "Regio": "14",
     "Roepnummer": "14-1303",
+    "Kenteken": "H-332-HS",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Huizen",
     "Adres": "Eemlandweg 30, 1271KS, Huizen"
   },
@@ -26560,10 +26616,12 @@
   {
     "Regio": "14",
     "Roepnummer": "14-2091",
+    "Kenteken": "R-616-LZ",
     "Type": "DA-OVD",
     "Omschrijving": "Dienstauto - Officier van Dienst",
     "Toevoeging": "Cluster Zuid",
-    "Kazerne": "Leiding & Co\u00f6rdinatie"
+    "Merk (& Type)": "Toyota Land Cruiser 2,8D",
+    "Kazerne": "Regionaal"
   },
   {
     "Regio": "14",
@@ -27159,9 +27217,11 @@
   {
     "Regio": "14",
     "Roepnummer": "14-7095",
+    "Kenteken": "S-148-TF\r",
     "Type": "DA-VL",
     "Omschrijving": "Dienstauto - Voorlichter",
     "Toevoeging": "COPI",
+    "Merk (& Type)": "Ford Kuga 1,5PHEF",
     "Kazerne": "Leiding & Co\u00f6rdinatie"
   },
   {
@@ -27217,8 +27277,10 @@
   {
     "Regio": "14",
     "Roepnummer": "14-7181",
+    "Kenteken": "BX-XF-86",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
+    "Merk (& Type)": "Volvo FM 330 6x6",
     "Kazerne": "Bussum",
     "Adres": "Brinklaan 140, 1404GW, Bussum"
   },
@@ -27268,6 +27330,24 @@
     "Omschrijving": "Snel Interventie Voertuig 2 mans bezetting",
     "Kazerne": "Huizen",
     "Adres": "Eemlandweg 30, 1271KS, Huizen"
+  },
+  {
+    "Regio": "14",
+    "Roepnummer": "14-7231",
+    "Kenteken": "BB-932-D",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Mercedes-Benz Atego",
+    "Kazerne": "Regionaal"
+  },
+  {
+    "Regio": "14",
+    "Roepnummer": "14-7331",
+    "Kenteken": "BB-942-D",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Mercedes-Benz Atego",
+    "Kazerne": "Regionaal"
   },
   {
     "Regio": "14",
@@ -47640,6 +47720,16 @@
     "Type": "DB-OVD",
     "Omschrijving": "Dienstbus - Officier van Dienst",
     "Kazerne": "Regionaal"
+  },
+  {
+    "Regio": "25",
+    "Roepnummer": "25-4101",
+    "Kenteken": "HHN-52-D",
+    "Type": "DA",
+    "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Renault 5ETech-Electric",
+    "Kazerne": "Almere-Poort",
+    "Adres": "Argonweg 107, 1362AD, Almere"
   },
   {
     "Regio": "25",
