@@ -20720,15 +20720,6 @@
   },
   {
     "Regio": "09",
-    "Roepnummer": "09-9494",
-    "Kenteken": "L-123-DD",
-    "Type": "DA-QRT",
-    "Omschrijving": "Dienstauto - Quick Response Team",
-    "Merk (& Type)": "Volkswagen Polo 1,0TSi",
-    "Kazerne": "Regionaal"
-  },
-  {
-    "Regio": "09",
     "Roepnummer": "09-9701",
     "Kenteken": "43-VJ-HV",
     "Type": "PM",
@@ -26370,6 +26361,26 @@
   },
   {
     "Regio": "14",
+    "Roepnummer": "09-9474",
+    "Kenteken": "51-BRS-2",
+    "Type": "PM-QRT",
+    "Omschrijving": "Personeel/Materiaalwagen - Quick Response Team",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
+    "Kazerne": "Hilversum",
+    "Adres": "Kamerlingh Onnesweg 148, 1223JN, Hilversum"
+  },
+  {
+    "Regio": "14",
+    "Roepnummer": "09-9494",
+    "Kenteken": "L-123-DD",
+    "Type": "TL-QRT",
+    "Omschrijving": "Teamleider - Quick ResponseTeam",
+    "Merk (& Type)": "Volkswagen Polo 1,0TSi",
+    "Kazerne": "Hilversum",
+    "Adres": "Kamerlingh Onnesweg 148, 1223JN, Hilversum"
+  },
+  {
+    "Regio": "14",
     "Roepnummer": "14-1091",
     "Type": "DA-OVD",
     "Omschrijving": "Dienstauto - Officier van Dienst",
@@ -26634,16 +26645,20 @@
   {
     "Regio": "14",
     "Roepnummer": "14-2101",
+    "Kenteken": "HJP-47-J",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Renault",
     "Kazerne": "Hilversum",
     "Adres": "Kamerlingh Onnesweg 148, 1223JN, Hilversum"
   },
   {
     "Regio": "14",
     "Roepnummer": "14-2102",
+    "Kenteken": "HJP-49-J",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Renault",
     "Kazerne": "Hilversum",
     "Adres": "Kamerlingh Onnesweg 148, 1223JN, Hilversum"
   },
@@ -26694,16 +26709,20 @@
   {
     "Regio": "14",
     "Roepnummer": "14-2108",
+    "Kenteken": "H-337-HS",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Hilversum",
     "Adres": "Kamerlingh Onnesweg 148, 1223JN, Hilversum"
   },
   {
     "Regio": "14",
     "Roepnummer": "14-2109",
+    "Kenteken": "62-SRT-5",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Volkswagen Transporter",
     "Kazerne": "Hilversum",
     "Adres": "Kamerlingh Onnesweg 148, 1223JN, Hilversum"
   },
@@ -27139,8 +27158,10 @@
   {
     "Regio": "14",
     "Roepnummer": "14-7071",
+    "Kenteken": "BJ-PD-65",
     "Type": "HV",
     "Omschrijving": "Hulpverleningsvoertuig",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "Hilversum",
     "Adres": "Kamerlingh Onnesweg 148, 1223JN, Hilversum"
   },
@@ -27287,8 +27308,10 @@
   {
     "Regio": "14",
     "Roepnummer": "14-7182",
+    "Kenteken": "BX-ZF-92",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
+    "Merk (& Type)": "Volvo FM 330 6x6",
     "Kazerne": "Hilversum",
     "Adres": "Kamerlingh Onnesweg 148, 1223JN, Hilversum"
   },
@@ -27319,9 +27342,12 @@
   {
     "Regio": "14",
     "Roepnummer": "14-7186",
+    "Kenteken": "BZ-LF-66",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
-    "Kazerne": "Regionaal"
+    "Merk (& Type)": "Volvo FM 330 6x6",
+    "Kazerne": "Hilversum",
+    "Adres": "Kamerlingh Onnesweg 148, 1223JN, Hilversum"
   },
   {
     "Regio": "14",
