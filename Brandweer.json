@@ -20701,16 +20701,6 @@
   },
   {
     "Regio": "09",
-    "Roepnummer": "09-9474",
-    "Kenteken": "51-BRS-2",
-    "Type": "DB-QRT",
-    "Omschrijving": "Dienstbus - Quick Response Team",
-    "Merk (& Type)": "Mercedes-Benz Sprinter",
-    "Kazerne": "Utrecht-Leidsche Rijn",
-    "Adres": "Belcampostraat 10, 3544NG, Utrecht"
-  },
-  {
-    "Regio": "09",
     "Roepnummer": "09-9492",
     "Kenteken": "L-125-DD",
     "Type": "DA-QRT",
@@ -26363,8 +26353,8 @@
     "Regio": "14",
     "Roepnummer": "09-9474",
     "Kenteken": "51-BRS-2",
-    "Type": "PM-QRT",
-    "Omschrijving": "Personeel/Materiaalwagen - Quick Response Team",
+    "Type": "DB-QRT",
+    "Omschrijving": "Dienstbus - Quick Response Team",
     "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Hilversum",
     "Adres": "Kamerlingh Onnesweg 148, 1223JN, Hilversum"
@@ -48430,10 +48420,10 @@
   {
     "Regio": "25",
     "Roepnummer": "25-8184",
-    "Kenteken": "BZ-LF-66",
+    "Kenteken": "95-BKF-9",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
-    "Merk (& Type)": "Volvo",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Lelystad",
     "Adres": "Gordiaandreef 101, 8233AB, Lelystad"
   },
