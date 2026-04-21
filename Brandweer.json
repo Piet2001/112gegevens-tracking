@@ -5838,8 +5838,10 @@
   {
     "Regio": "03",
     "Roepnummer": "03-8567",
+    "Kenteken": "28-BBZ-3",
     "Type": "WT",
     "Omschrijving": "Watertankwagen",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Tweede Exlo\u00ebrmond",
     "Adres": "Middenkijl 1, 9571TB, Tweede Exlo\u00ebrmond"
   },
@@ -5892,32 +5894,40 @@
   {
     "Regio": "03",
     "Roepnummer": "03-8603",
+    "Kenteken": "VZ-962-J",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
+    "Merk (& Type)": "Volkswagen Caddy",
     "Kazerne": "Emmen",
     "Adres": "Nijbracht 43a, 7821CB, Emmen"
   },
   {
     "Regio": "03",
     "Roepnummer": "03-8604",
+    "Kenteken": "31-ZGH-1",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Volkswagen Polo",
     "Kazerne": "Emmen",
     "Adres": "Nijbracht 43a, 7821CB, Emmen"
   },
   {
     "Regio": "03",
     "Roepnummer": "03-8605",
+    "Kenteken": "PH-481-F",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Volkswagen Polo",
     "Kazerne": "Emmen",
     "Adres": "Nijbracht 43a, 7821CB, Emmen"
   },
   {
     "Regio": "03",
     "Roepnummer": "03-8606",
+    "Kenteken": "JD-143-P",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Volkswagen Transporter",
     "Kazerne": "Emmen",
     "Adres": "Nijbracht 43a, 7821CB, Emmen"
   },
@@ -5934,8 +5944,10 @@
   {
     "Regio": "03",
     "Roepnummer": "03-8614",
-    "Type": "WOA",
-    "Omschrijving": "Waterongevallenaanhanger met boot",
+    "Kenteken": "51-57-UV",
+    "Type": "BRV",
+    "Omschrijving": "Brandweervaartuig",
+    "Toevoeging": "Aanhanger 53-WP-TT",
     "Kazerne": "Emmen",
     "Adres": "Nijbracht 43a, 7821CB, Emmen"
   },
@@ -5950,32 +5962,30 @@
   {
     "Regio": "03",
     "Roepnummer": "03-8631",
-    "Type": "TS-7",
-    "Omschrijving": "Tankautospuit 7 mans bezetting",
-    "Kazerne": "Emmen",
-    "Adres": "Nijbracht 43a, 7821CB, Emmen"
-  },
-  {
-    "Regio": "03",
-    "Roepnummer": "03-8632",
-    "Type": "TS-7",
-    "Omschrijving": "Tankautospuit 7 mans bezetting",
+    "Kenteken": "BR-RD-15",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Emmen",
     "Adres": "Nijbracht 43a, 7821CB, Emmen"
   },
   {
     "Regio": "03",
     "Roepnummer": "03-8633",
-    "Type": "TS-7",
-    "Omschrijving": "Tankautospuit 7 mans bezetting",
+    "Kenteken": "49-BKF-8",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Emmen",
     "Adres": "Nijbracht 43a, 7821CB, Emmen"
   },
   {
     "Regio": "03",
     "Roepnummer": "03-8650",
+    "Kenteken": "17-BJS-2",
     "Type": "HW",
     "Omschrijving": "Hoogwerker",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Emmen",
     "Adres": "Nijbracht 43a, 7821CB, Emmen"
   },
@@ -6012,16 +6022,19 @@
   {
     "Regio": "03",
     "Roepnummer": "03-8674",
+    "Kenteken": "14-WJ-XP",
     "Type": "MSA",
     "Omschrijving": "Motorspuitaanhanger",
+    "Merk (& Type)": "Mercedes-Benz Antos",
     "Kazerne": "Emmen",
     "Adres": "Nijbracht 43a, 7821CB, Emmen"
   },
   {
     "Regio": "03",
     "Roepnummer": "03-8682",
-    "Type": "HA-KR",
-    "Omschrijving": "Haakarmvoertuig met Kraan",
+    "Kenteken": "54-BNN-1",
+    "Type": "HA",
+    "Omschrijving": "Haakarmvoertuig",
     "Kazerne": "Emmen",
     "Adres": "Nijbracht 43a, 7821CB, Emmen"
   },
@@ -6038,8 +6051,10 @@
   {
     "Regio": "03",
     "Roepnummer": "03-8693",
+    "Kenteken": "G-018-GN",
     "Type": "DB-OVD",
     "Omschrijving": "Dienstbus - Officier van Dienst",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Emmen",
     "Adres": "Nijbracht 43a, 7821CB, Emmen"
   },
