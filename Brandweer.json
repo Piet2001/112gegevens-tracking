@@ -5818,8 +5818,10 @@
   {
     "Regio": "03",
     "Roepnummer": "03-8541",
+    "Kenteken": "BZ-VZ-36",
     "Type": "TS-8",
     "Omschrijving": "Tankautospuit 8 mans bezetting",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Tweede Exlo\u00ebrmond",
     "Adres": "Middenkijl 1, 9571TB, Tweede Exlo\u00ebrmond"
   },
@@ -42873,10 +42875,10 @@
   {
     "Regio": "22",
     "Roepnummer": "22-4581",
-    "Kenteken": "90-HTN-5",
+    "Kenteken": "GLS-43-V",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Mercedes-Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Veldhoven De Run",
     "Adres": "De Run 5610, 5504DJ, Veldhoven"
   },
