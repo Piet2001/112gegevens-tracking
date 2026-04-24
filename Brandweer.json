@@ -2114,10 +2114,10 @@
   {
     "Regio": "01",
     "Roepnummer": "01-3131",
-    "Kenteken": "BX-HB-42",
-    "Type": "TS-6",
-    "Omschrijving": "Tankautospuit 6 mans bezetting",
-    "Merk (& Type)": "Volvo FL260",
+    "Kenteken": "BD-792-J",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Volvo FE320",
     "Kazerne": "Appingedam",
     "Adres": "Dijkhuizenweg 28, 9903AC, Appingedam"
   },
@@ -8989,8 +8989,10 @@
   {
     "Regio": "05",
     "Roepnummer": "05-1431",
+    "Kenteken": "91-BSN-1",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Iveco 160E32",
     "Kazerne": "Goor",
     "Adres": "Van Kollaan 19, 7471DP, Goor"
   },
@@ -11352,10 +11354,10 @@
   {
     "Regio": "06",
     "Roepnummer": "06-7244",
-    "Kenteken": "79-BZK-9",
+    "Kenteken": "BD-488-J",
     "Type": "TST-NB",
     "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
-    "Merk (& Type)": "Volvo FMX 420",
+    "Merk (& Type)": "Volvo FMX 420 4x4",
     "Kazerne": "Regionaal"
   },
   {
