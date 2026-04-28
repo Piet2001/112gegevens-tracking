@@ -6727,10 +6727,10 @@
   {
     "Regio": "03",
     "Roepnummer": "03-9232",
-    "Kenteken": "49-BKF-8",
+    "Kenteken": "21-BXR-4",
     "Type": "TS-8",
     "Omschrijving": "Tankautospuit 8 mans bezetting",
-    "Merk (& Type)": "MAN",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Meppel",
     "Adres": "Paradijsweg 1, 7942HB, Meppel"
   },
@@ -34066,8 +34066,10 @@
   {
     "Regio": "18",
     "Roepnummer": "18-6702",
+    "Kenteken": "VSN-81-R",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
+    "Merk (& Type)": "Ford",
     "Kazerne": "Alblasserdam",
     "Adres": "Dam 4, 2952AB, Alblasserdam"
   },
@@ -34082,16 +34084,20 @@
   {
     "Regio": "18",
     "Roepnummer": "18-6731",
+    "Kenteken": "BB-284-T",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Alblasserdam",
     "Adres": "Dam 4, 2952AB, Alblasserdam"
   },
   {
     "Regio": "18",
     "Roepnummer": "18-6732",
+    "Kenteken": "BB-334-T",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Alblasserdam",
     "Adres": "Dam 4, 2952AB, Alblasserdam"
   },
@@ -34114,6 +34120,7 @@
   {
     "Regio": "18",
     "Roepnummer": "18-6765",
+    "Kenteken": "5-YD-085",
     "Type": "BRV-K",
     "Omschrijving": "Brandweervaartuig-Klein",
     "Kazerne": "Alblasserdam",
@@ -34132,6 +34139,7 @@
   {
     "Regio": "18",
     "Roepnummer": "18-6782",
+    "Kenteken": "96-BNT-4",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
     "Kazerne": "Alblasserdam",
@@ -34151,6 +34159,7 @@
     "Roepnummer": "18-6810",
     "Type": "ORT",
     "Omschrijving": "Oppervlakte Redding Team",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Nieuw-Lekkerland",
     "Adres": "Planetenlaan 78, 2957SN, Nieuw-Lekkerland"
   },
