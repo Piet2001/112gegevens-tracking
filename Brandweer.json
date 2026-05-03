@@ -374,10 +374,10 @@
   {
     "Regio": "01",
     "Roepnummer": "01-1131",
-    "Kenteken": "BZ-RD-90",
-    "Type": "TS-7",
-    "Omschrijving": "Tankautospuit 7 mans bezetting",
-    "Merk (& Type)": "Volvo FL",
+    "Kenteken": "BV-VF-11",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Marum",
     "Adres": "Kruisweg 40, 9363AE, Marum"
   },
@@ -1501,10 +1501,10 @@
   {
     "Regio": "01",
     "Roepnummer": "01-2601",
-    "Kenteken": "9-XRR-39",
+    "Kenteken": "KBF-20-V",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Merk (& Type)": "Volkswagen Polo",
+    "Merk (& Type)": "Opel",
     "Kazerne": "Stadskanaal",
     "Adres": "Veenstraat 8, 9502EZ, Stadskanaal"
   },
@@ -6846,12 +6846,12 @@
   {
     "Regio": "03",
     "Roepnummer": "03-9783",
-    "Kenteken": "54-BNN-1",
-    "Type": "HA-T",
-    "Omschrijving": "Haakarmbakvoertuig-Terreinvaardig",
-    "Merk (& Type)": "Mercedes-Benz Antos",
-    "Kazerne": "Vries",
-    "Adres": "Westerstraat 26, 9481CB, Vries"
+    "Kenteken": "BN-LT-64",
+    "Type": "HA",
+    "Omschrijving": "Haakarmvoertuig",
+    "Merk (& Type)": "Mercedes-Benz",
+    "Kazerne": "Assen-West",
+    "Adres": "Mien Ruysweg 1, 9408KA, Assen"
   },
   {
     "Regio": "03",
@@ -43855,12 +43855,11 @@
   {
     "Regio": "22",
     "Roepnummer": "22-5291",
-    "Kenteken": "GG-486-T",
-    "Type": "DA-TBO",
-    "Omschrijving": "Dienstauto - Team incidenten & Brand Onderzoek",
-    "Merk (& Type)": "Volkswagen Touran",
-    "Kazerne": "Helmond",
-    "Adres": "Deurneseweg 135, 5701CE, Helmond"
+    "Kenteken": "VTJ-25-G",
+    "Type": "DB-TBO",
+    "Omschrijving": "Dienstbus -Team Brandonderzoek",
+    "Merk (& Type)": "Mercedes-Benz Vito",
+    "Kazerne": "Regionaal"
   },
   {
     "Regio": "22",
