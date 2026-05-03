@@ -35321,6 +35321,14 @@
   },
   {
     "Regio": "19",
+    "Roepnummer": "18-8168",
+    "Type": "SBH",
+    "Omschrijving": "Schuimblushaakarmbak",
+    "Kazerne": "DOW Terneuzen",
+    "Adres": "Herbert H. Dowweg, 4542NM, Hoek"
+  },
+  {
+    "Regio": "19",
     "Roepnummer": "19-2200",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
@@ -36480,8 +36488,10 @@
   {
     "Regio": "19",
     "Roepnummer": "19-6610",
+    "Kenteken": "BR-HP-99",
     "Type": "WO",
     "Omschrijving": "Waterongevallenvoertuig",
+    "Merk (& Type)": "Mercedes-Benz Vario",
     "Kazerne": "Terneuzen-Koegors",
     "Adres": "Koegorsstraat 4, 4538PK, Terneuzen"
   },
@@ -36614,10 +36624,10 @@
   {
     "Regio": "19",
     "Roepnummer": "19-6650",
-    "Kenteken": "BN-LS-64",
+    "Kenteken": "BB-174-S",
     "Type": "HW",
     "Omschrijving": "Hoogwerker",
-    "Merk (& Type)": "DAF",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "Terneuzen Zuidlandstraat",
     "Adres": "Da Costastraat 1a, 4532CP, Terneuzen"
   },
@@ -36634,8 +36644,10 @@
   {
     "Regio": "19",
     "Roepnummer": "19-6661",
+    "Kenteken": "BN-ZB-82",
     "Type": "SB",
     "Omschrijving": "Schuimblusvoertuig",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Terneuzen-Koegors",
     "Adres": "Koegorsstraat 4, 4538PK, Terneuzen"
   },
@@ -36724,8 +36736,10 @@
   {
     "Regio": "19",
     "Roepnummer": "19-6681",
+    "Kenteken": "BN-TF-13",
     "Type": "HA-KR",
     "Omschrijving": "Haakarmvoertuig met Kraan",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Terneuzen-Koegors",
     "Adres": "Koegorsstraat 4, 4538PK, Terneuzen"
   },
@@ -36942,7 +36956,7 @@
     "Kenteken": "30-BBH-9",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Toevoeging": "Noord",
+    "Toevoeging": "Vakbekwaamheid",
     "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Borssele",
     "Adres": "Quistenburg 3, 4454PZ, Borssele"
@@ -37000,6 +37014,34 @@
   },
   {
     "Regio": "19",
+    "Roepnummer": "19-8101",
+    "Kenteken": "S-655-FJ",
+    "Type": "DA",
+    "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Peugeot",
+    "Kazerne": "DOW Terneuzen",
+    "Adres": "Herbert H. Dowweg, 4542NM, Hoek"
+  },
+  {
+    "Regio": "19",
+    "Roepnummer": "19-8108",
+    "Kenteken": "V-16-KSV",
+    "Type": "GM",
+    "Omschrijving": "Gereedschap/Materieelwagen",
+    "Merk (& Type)": "MAN",
+    "Kazerne": "DOW Terneuzen",
+    "Adres": "Herbert H. Dowweg, 4542NM, Hoek"
+  },
+  {
+    "Regio": "19",
+    "Roepnummer": "19-8120",
+    "Type": "BOH-DC",
+    "Omschrijving": "Basis Ontsmettinghaakarmbak - Ontsmettingsunit Decontaminatie",
+    "Kazerne": "DOW Terneuzen",
+    "Adres": "Herbert H. Dowweg, 4542NM, Hoek"
+  },
+  {
+    "Regio": "19",
     "Roepnummer": "19-8136",
     "Kenteken": "79-BRN-5",
     "Type": "TS",
@@ -37009,12 +37051,122 @@
   },
   {
     "Regio": "19",
+    "Roepnummer": "19-8160",
+    "Kenteken": "91-BPB-1",
+    "Type": "SB-BA",
+    "Omschrijving": "Schuimblusvoertuig met blusarm",
+    "Merk (& Type)": "Scania",
+    "Kazerne": "DOW Terneuzen",
+    "Adres": "Herbert H. Dowweg, 4542NM, Hoek"
+  },
+  {
+    "Regio": "19",
+    "Roepnummer": "19-8161",
+    "Kenteken": "13-BBZ-9",
+    "Type": "AS",
+    "Omschrijving": "Autospuit",
+    "Merk (& Type)": "Mercedes-Benz Actros",
+    "Kazerne": "DOW Terneuzen",
+    "Adres": "Herbert H. Dowweg, 4542NM, Hoek"
+  },
+  {
+    "Regio": "19",
+    "Roepnummer": "19-8162",
+    "Kenteken": "83-BBX-3",
+    "Type": "AS",
+    "Omschrijving": "Autospuit",
+    "Merk (& Type)": "Mercedes-Benz Actros",
+    "Kazerne": "DOW Terneuzen",
+    "Adres": "Herbert H. Dowweg, 4542NM, Hoek"
+  },
+  {
+    "Regio": "19",
+    "Roepnummer": "19-8163",
+    "Kenteken": "78-BPG-7",
+    "Type": "SB-BA",
+    "Omschrijving": "Schuimblusvoertuig met blusarm",
+    "Merk (& Type)": "Scania",
+    "Kazerne": "DOW Terneuzen",
+    "Adres": "Herbert H. Dowweg, 4542NM, Hoek"
+  },
+  {
+    "Regio": "19",
     "Roepnummer": "19-8165",
     "Kenteken": "BX-FP-11",
     "Type": "SB",
     "Omschrijving": "Schuimblusvoertuig",
     "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Terneuzen Oil Tanking"
+  },
+  {
+    "Regio": "19",
+    "Roepnummer": "19-8173",
+    "Kenteken": "79-BXG-4",
+    "Type": "GM",
+    "Omschrijving": "Gereedschap/Materieelwagen",
+    "Merk (& Type)": "DAF",
+    "Kazerne": "DOW Terneuzen",
+    "Adres": "Herbert H. Dowweg, 4542NM, Hoek"
+  },
+  {
+    "Regio": "19",
+    "Roepnummer": "19-8180",
+    "Kenteken": "BV-SH-91",
+    "Type": "HA",
+    "Omschrijving": "Haakarmvoertuig",
+    "Merk (& Type)": "DAF",
+    "Kazerne": "DOW Terneuzen",
+    "Adres": "Herbert H. Dowweg, 4542NM, Hoek"
+  },
+  {
+    "Regio": "19",
+    "Roepnummer": "19-8181",
+    "Kenteken": "83-BBZ-7",
+    "Type": "HA",
+    "Omschrijving": "Haakarmvoertuig",
+    "Merk (& Type)": "Mercedes-Benz Actros",
+    "Kazerne": "DOW Terneuzen",
+    "Adres": "Herbert H. Dowweg, 4542NM, Hoek"
+  },
+  {
+    "Regio": "19",
+    "Roepnummer": "19-8182",
+    "Kenteken": "74-BNL-1",
+    "Type": "HA",
+    "Omschrijving": "Haakarmvoertuig",
+    "Merk (& Type)": "MAN",
+    "Kazerne": "DOW Terneuzen",
+    "Adres": "Herbert H. Dowweg, 4542NM, Hoek"
+  },
+  {
+    "Regio": "19",
+    "Roepnummer": "19-8183",
+    "Kenteken": "75-BNL-1",
+    "Type": "HA",
+    "Omschrijving": "Haakarmvoertuig",
+    "Merk (& Type)": "MAN",
+    "Kazerne": "DOW Terneuzen",
+    "Adres": "Herbert H. Dowweg, 4542NM, Hoek"
+  },
+  {
+    "Regio": "19",
+    "Roepnummer": "19-8184",
+    "Kenteken": "76-BNL-1",
+    "Type": "HA",
+    "Omschrijving": "Haakarmvoertuig",
+    "Merk (& Type)": "MAN",
+    "Kazerne": "DOW Terneuzen",
+    "Adres": "Herbert H. Dowweg, 4542NM, Hoek"
+  },
+  {
+    "Regio": "19",
+    "Roepnummer": "19-8190",
+    "Kenteken": "VVT-73-V",
+    "Type": "DV-OVD",
+    "Omschrijving": "Dienstvoertuig - Officier van Dienst",
+    "Merk (& Type)": "Mercedes-Benz",
+    "Kazerne": "DOW Terneuzen",
+    "Adres": "Herbert H. Dowweg, 4542NM, Hoek"
   },
   {
     "Regio": "19",
@@ -37380,17 +37532,21 @@
   {
     "Regio": "19",
     "Roepnummer": "19-8681",
+    "Kenteken": "BR-PB-24",
     "Type": "VW",
     "Omschrijving": "Vrachtwagen",
     "Toevoeging": "tbv. vervoer twee opleggers met watertank en SVM",
+    "Merk (& Type)": "Renault",
     "Kazerne": "Terneuzen-Koegors",
     "Adres": "Koegorsstraat 4, 4538PK, Terneuzen"
   },
   {
     "Regio": "19",
     "Roepnummer": "19-8682",
+    "Kenteken": "BZ-LR-45",
     "Type": "HA-T",
     "Omschrijving": "Haakarmbakvoertuig-Terreinvaardig",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "Terneuzen-Koegors",
     "Adres": "Koegorsstraat 4, 4538PK, Terneuzen"
   },
