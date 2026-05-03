@@ -6061,56 +6061,61 @@
   {
     "Regio": "03",
     "Roepnummer": "03-8701",
+    "Kenteken": "14-ZGH-1",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Volkswagen Transporter",
     "Kazerne": "Emmer-Compascu\u00fcm",
     "Adres": "Kijlweg 1, 7881JD, Emmer-Compascu\u00fcm"
   },
   {
     "Regio": "03",
     "Roepnummer": "03-8702",
+    "Kenteken": "55-ZFD-7",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Kazerne": "Klazienaveen",
-    "Adres": "Derksweg 267, 7891PR, Klazienaveen"
-  },
-  {
-    "Regio": "03",
-    "Roepnummer": "03-8703",
-    "Type": "DAT-NB",
-    "Omschrijving": "Dienstauto-Terreinvaardig-Natuurbrand Bestrijding",
+    "Toevoeging": "Tevens 03-8728 VKE",
+    "Merk (& Type)": "Volkswagen Transporter",
     "Kazerne": "Klazienaveen",
     "Adres": "Derksweg 267, 7891PR, Klazienaveen"
   },
   {
     "Regio": "03",
     "Roepnummer": "03-8704",
+    "Kenteken": "54-ZFD-7",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Volkswagen Transporter",
     "Kazerne": "Schoonebeek",
     "Adres": "De Pienhoek 16, 7761CB, Schoonebeek"
   },
   {
     "Regio": "03",
     "Roepnummer": "03-8731",
+    "Kenteken": "69-BHX-4",
     "Type": "TS-8",
     "Omschrijving": "Tankautospuit 8 mans bezetting",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Emmer-Compascu\u00fcm",
     "Adres": "Kijlweg 1, 7881JD, Emmer-Compascu\u00fcm"
   },
   {
     "Regio": "03",
     "Roepnummer": "03-8732",
+    "Kenteken": "98-BXS-3",
     "Type": "TS-7",
     "Omschrijving": "Tankautospuit 7 mans bezetting",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Klazienaveen",
     "Adres": "Derksweg 267, 7891PR, Klazienaveen"
   },
   {
     "Regio": "03",
     "Roepnummer": "03-8733",
-    "Type": "TS-6",
-    "Omschrijving": "Tankautospuit 6 mans bezetting",
+    "Kenteken": "73-BVD-1",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Schoonebeek",
     "Adres": "De Pienhoek 16, 7761CB, Schoonebeek"
   },
@@ -6125,24 +6130,30 @@
   {
     "Regio": "03",
     "Roepnummer": "03-8765",
+    "Kenteken": "29-BBZ-3",
     "Type": "WT",
     "Omschrijving": "Watertankwagen",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Emmer-Compascu\u00fcm",
     "Adres": "Kijlweg 1, 7881JD, Emmer-Compascu\u00fcm"
   },
   {
     "Regio": "03",
     "Roepnummer": "03-8767",
+    "Kenteken": "22-BBZ-3",
     "Type": "WT",
     "Omschrijving": "Watertankwagen",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Schoonebeek",
     "Adres": "De Pienhoek 16, 7761CB, Schoonebeek"
   },
   {
     "Regio": "03",
     "Roepnummer": "03-8768",
+    "Kenteken": "90-BKX-8",
     "Type": "WT",
     "Omschrijving": "Watertankwagen",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Klazienaveen",
     "Adres": "Derksweg 267, 7891PR, Klazienaveen"
   },
