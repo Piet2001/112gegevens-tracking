@@ -827,9 +827,9 @@
   {
     "Regio": "01",
     "Roepnummer": "01-1812",
-    "Kenteken": "33-WJ-VD",
-    "Type": "WOA",
-    "Omschrijving": "Waterongevallenaanhanger met boot",
+    "Kenteken": "67-20-YS",
+    "Type": "BRV-M",
+    "Omschrijving": "Brandweervaartuig - Middel",
     "Merk (& Type)": "PEGA",
     "Kazerne": "Groningen Sontweg",
     "Adres": "Sontweg 10, 9723AT, Groningen"
@@ -1501,7 +1501,7 @@
   {
     "Regio": "01",
     "Roepnummer": "01-2601",
-    "Kenteken": "KBF-20-V",
+    "Kenteken": "KBF-20-F",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
     "Merk (& Type)": "Opel",
@@ -1980,10 +1980,10 @@
   {
     "Regio": "01",
     "Roepnummer": "01-3031",
-    "Kenteken": "BX-VV-29",
-    "Type": "TS-7",
-    "Omschrijving": "Tankautospuit 7 mans bezetting",
-    "Merk (& Type)": "Volvo FL260",
+    "Kenteken": "BD-665-K",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Volvo FE 320",
     "Kazerne": "Bierum",
     "Adres": "Spijksterweg 5, 9906PA, Bierum"
   },
@@ -10547,6 +10547,16 @@
   },
   {
     "Regio": "06",
+    "Roepnummer": "06-1113",
+    "Kenteken": "39-BZX-1",
+    "Type": "WO",
+    "Omschrijving": "Waterongevallenvoertuig",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
+    "Kazerne": "Harderwijk",
+    "Adres": "Maltezerlaan 1, 3842AZ, Harderwijk"
+  },
+  {
+    "Regio": "06",
     "Roepnummer": "06-1441",
     "Kenteken": "BB-966-G",
     "Type": "TST-NB",
@@ -10674,6 +10684,16 @@
     "Merk (& Type)": "Volvo FE 320",
     "Kazerne": "Zutphen",
     "Adres": "Gerard Doustraat 129, 7204EW, Zutphen"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-4131",
+    "Kenteken": "BD-203-K",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Volvo FE 320",
+    "Kazerne": "Gorssel",
+    "Adres": "Hoofdstraat 14A, 7213CV, Gorssel"
   },
   {
     "Regio": "06",
@@ -41171,8 +41191,10 @@
   {
     "Regio": "21",
     "Roepnummer": "21-0531",
+    "Kenteken": "BD-100-H",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Boekel",
     "Adres": "De Vlonder 64, 5427DE, Boekel"
   },
