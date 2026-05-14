@@ -2285,6 +2285,14 @@
   },
   {
     "Regio": "17",
+    "Roepnummer": "17-121",
+    "Kenteken": "N-496-VK",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Barendrecht"
+  },
+  {
+    "Regio": "17",
     "Roepnummer": "17-123",
     "Kenteken": "KB-835-Z",
     "Omschrijving": "Ambulance",
@@ -2296,6 +2304,14 @@
     "Kenteken": "4-TLJ-53",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter"
+  },
+  {
+    "Regio": "17",
+    "Roepnummer": "17-127",
+    "Kenteken": "N-495-VK",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Rotterdam"
   },
   {
     "Regio": "17",

@@ -7062,8 +7062,10 @@
   {
     "Regio": "04",
     "Roepnummer": "04-1020",
+    "Kenteken": "V-122-TR",
     "Type": "DB-AGS",
     "Omschrijving": "Dienstbus - Adviseur Gevaarlijke Stoffen",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Regionaal"
   },
   {
@@ -7118,6 +7120,15 @@
     "Regio": "04",
     "Roepnummer": "04-1086",
     "Kenteken": "V-823-JS",
+    "Type": "VW-LO",
+    "Omschrijving": "Vrachtwagen - Logistiek en Ondersteuning",
+    "Merk (& Type)": "Mercedes-Benz",
+    "Kazerne": "Regionaal"
+  },
+  {
+    "Regio": "04",
+    "Roepnummer": "04-1088",
+    "Kenteken": "BB-362-T",
     "Type": "VW-LO",
     "Omschrijving": "Vrachtwagen - Logistiek en Ondersteuning",
     "Merk (& Type)": "Mercedes-Benz",
@@ -7247,8 +7258,10 @@
   {
     "Regio": "04",
     "Roepnummer": "04-1199",
+    "Kenteken": "PG-728-J",
     "Type": "DA-VL",
     "Omschrijving": "Dienstauto - Voorlichter",
+    "Merk (& Type)": "Volkswagen Polo",
     "Kazerne": "Zwolle-Zuid",
     "Adres": "Marsweg 39, 8013PE, Zwolle"
   },
@@ -7589,8 +7602,10 @@
   {
     "Regio": "04",
     "Roepnummer": "04-1608",
+    "Kenteken": "RS-234-F",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Zwolle-Noord",
     "Adres": "Middelweg 235, 8021CN, Zwolle"
   },
@@ -7663,8 +7678,10 @@
   {
     "Regio": "04",
     "Roepnummer": "04-1650",
+    "Kenteken": "06-BSP-4",
     "Type": "HW",
     "Omschrijving": "Hoogwerker",
+    "Merk (& Type)": "Scania",
     "Kazerne": "Zwolle-Zuid",
     "Adres": "Marsweg 39, 8013PE, Zwolle"
   },
@@ -8491,10 +8508,10 @@
   {
     "Regio": "04",
     "Roepnummer": "04-2634",
-    "Kenteken": "BR-FH-17",
+    "Kenteken": "84-BPS-7",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Volvo",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Heino",
     "Adres": "Marktstraat 72, 8141GC, Heino"
   },
@@ -8561,8 +8578,10 @@
   {
     "Regio": "04",
     "Roepnummer": "04-2681",
+    "Kenteken": "P-678-N\r\n",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Heino",
     "Adres": "Marktstraat 72, 8141GC, Heino"
   },
@@ -9997,8 +10016,10 @@
   {
     "Regio": "05",
     "Roepnummer": "05-5461",
-    "Type": "WT",
-    "Omschrijving": "Watertankwagen",
+    "Kenteken": "05-BVN-8",
+    "Type": "SB",
+    "Omschrijving": "Schuimblusvoertuig",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "Nijverdal",
     "Adres": "Kerkstraat 138B, 7442EH, Nijverdal"
   },
@@ -10644,6 +10665,16 @@
     "Merk (& Type)": "Volvo FMX 420",
     "Kazerne": "Loenen",
     "Adres": "Leeuwenbergweg 13, 7371AL, Loenen"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-3301",
+    "Kenteken": "JTP-29-H",
+    "Type": "DB",
+    "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Volkswagen E-Transporter",
+    "Kazerne": "Apeldoorn-Zuid",
+    "Adres": "Saba 6, 7332BH, Apeldoorn"
   },
   {
     "Regio": "06",
@@ -13937,8 +13968,10 @@
   {
     "Regio": "07",
     "Roepnummer": "07-1151",
+    "Kenteken": "87-BLV-4",
     "Type": "HW",
     "Omschrijving": "Hoogwerker",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Nijkerk",
     "Adres": "Havenstraat 5, 3861VS, Nijkerk"
   },
@@ -35648,8 +35681,10 @@
   {
     "Regio": "19",
     "Roepnummer": "19-4232",
+    "Kenteken": "BX-GS-80",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Kruiningen",
     "Adres": "Blauwhoefseweg 6, 4416RC, Kruiningen"
   },
@@ -44584,10 +44619,10 @@
   {
     "Regio": "23",
     "Roepnummer": "23-1469",
-    "Kenteken": "VG-631-N",
-    "Type": "SI-2",
-    "Omschrijving": "Snel Interventie Voertuig 2 mans bezetting",
-    "Merk (& Type)": "Mercedes-Benz Sprinter",
+    "Kenteken": "V-98-LTJ",
+    "Type": "SI",
+    "Omschrijving": "Snel Inzetbaar Voertuig",
+    "Merk (& Type)": "Toyota",
     "Kazerne": "Venray",
     "Adres": "Acaciastraat 15, 5802EK, Venray"
   },
