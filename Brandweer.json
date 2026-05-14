@@ -8157,6 +8157,16 @@
   },
   {
     "Regio": "04",
+    "Roepnummer": "04-2305",
+    "Kenteken": "V-62-JJS",
+    "Type": "PM",
+    "Omschrijving": "Personeel/Materieelvoertuig",
+    "Merk (& Type)": "Mercedes-Benz Vito",
+    "Kazerne": "Hardenberg",
+    "Adres": "Europaweg 10, 7771BG, Hardenberg"
+  },
+  {
+    "Regio": "04",
     "Roepnummer": "04-2306",
     "Kenteken": "K-402-VZ",
     "Type": "DB",
@@ -8578,7 +8588,7 @@
   {
     "Regio": "04",
     "Roepnummer": "04-2681",
-    "Kenteken": "P-678-N\r\n",
+    "Kenteken": "P-678-N",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
     "Merk (& Type)": "Mercedes-Benz Sprinter",
