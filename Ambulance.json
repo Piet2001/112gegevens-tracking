@@ -2275,6 +2275,13 @@
   },
   {
     "Regio": "17",
+    "Roepnummer": "17-108",
+    "Kenteken": "K-299-VT",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter"
+  },
+  {
+    "Regio": "17",
     "Roepnummer": "17-111",
     "Omschrijving": "Ambulance"
   },
