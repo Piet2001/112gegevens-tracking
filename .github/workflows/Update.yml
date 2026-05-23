@@ -39,7 +39,7 @@ jobs:
     - name: update
       run: |
         python -u Scripts/Update.py
-        python -u Scripts/Check_apk_expiry_batch.py
+        python -u Scripts/Check_apk_expiry.py
       env:
         BRW_URL: ${{ secrets.BRW_URL  }}
         AMB_URL: ${{ secrets.AMB_URL  }}
