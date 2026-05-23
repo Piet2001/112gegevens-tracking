@@ -87,8 +87,16 @@ def main():
     week_ago = today.fromordinal(today.toordinal() - 7)
     # Check all unknown kentekens (never checked or not checked in 7+ days)
     unknowns = [k for k, v in status.items() if v["unknown"] and (not v.get("last_check_date") or datetime.strptime(v["last_check_date"], "%Y-%m-%d").date() <= week_ago)]
-    # Check all expired kentekens
-    expired = [k for k, v in status.items() if v["expiry"] and v["expiry"] not in [None, "None", "null", ""] and datetime.strptime(v["expiry"], "%Y-%m-%d").date() < today]
+    # Check all expired kentekens, but only if not checked today
+    expired = [
+        k for k, v in status.items()
+        if v["expiry"] and v["expiry"] not in [None, "None", "null", ""]
+        and datetime.strptime(v["expiry"], "%Y-%m-%d").date() < today
+        and (
+            not v.get("last_check_date")
+            or datetime.strptime(v["last_check_date"], "%Y-%m-%d").date() < today
+        )
+    ]
     # Combine and deduplicate
     to_check = list(dict.fromkeys(unknowns + expired))
     output_lines = []
@@ -127,13 +135,13 @@ def main():
             if verlengt:
                 print(f"  {kenteken}: APK verlengt tot {expiry}")
                 msg = f"{kenteken}{roep_str}: APK verlengt tot {expiry}"
-                # discord.webhook_APK(msg)
-                # time.sleep(10)
+                discord.webhook_APK(msg)
+                time.sleep(10)
             elif not valid:
                 print(f"  {kenteken}: verlopen op {expiry}")
                 msg = f"{kenteken}{roep_str}: APK verlopen op {expiry}"
-                # discord.webhook_APK(msg)
-                # time.sleep(10)
+                discord.webhook_APK(msg)
+                time.sleep(10)
             else:
                 print(f"  {kenteken}: APK geldig tot {expiry}")
     save_kenteken_status(status)
@@ -159,10 +167,10 @@ def main():
     expired_lines = sorted(set(expired_lines))
     unknown_lines = sorted(set(unknown_lines))
     with open(REPORT_FILE, "w", encoding="utf-8") as f:
-        f.write("Expired:\n")
+        f.write(f"Expired ({len(expired_lines)}):\n")
         for line in expired_lines:
             f.write(line + "\n")
-        f.write("\nUnknown:\n")
+        f.write(f"\nUnknown ({len(unknown_lines)}):\n")
         for line in unknown_lines:
             f.write(line + "\n")
     print(f"Rapport bijgewerkt in {REPORT_FILE}")
