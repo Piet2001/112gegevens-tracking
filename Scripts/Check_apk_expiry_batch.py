@@ -5,8 +5,8 @@ import time
 import os
 from Functions import discord
 
-KENTEKEN_STATUS_FILE = "Scripts/apk_kenteken_status.json"
-REPORT_FILE = "Scripts/apk_expiry_report.txt"
+KENTEKEN_STATUS_FILE = "apk_kenteken_status.json"
+REPORT_FILE = "apk_expiry_report.txt"
 
 # 1. Collect all kentekens from the relevant JSON files
 def collect_kentekens_with_roepnummer():
