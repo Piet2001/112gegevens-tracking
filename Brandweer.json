@@ -42851,16 +42851,6 @@
   },
   {
     "Regio": "22",
-    "Roepnummer": "22-3283",
-    "Kenteken": "61-ZVJ-1",
-    "Type": "DB",
-    "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Volkswagen Transporter",
-    "Kazerne": "Helmond",
-    "Adres": "Deurneseweg 135, 5701CE, Helmond"
-  },
-  {
-    "Regio": "22",
     "Roepnummer": "22-3284",
     "Type": "PBA",
     "Omschrijving": "Poederblusaanhanger",
@@ -43111,10 +43101,10 @@
   {
     "Regio": "22",
     "Roepnummer": "22-4282",
-    "Kenteken": "1-SKR-81",
+    "Kenteken": "GRB-44-J",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Volkswagen Transporter",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Someren",
     "Adres": "Loovebaan 29, 5712JV, Someren"
   },
@@ -43493,6 +43483,16 @@
     "Merk (& Type)": "Mercedes-Benz Citan",
     "Kazerne": "Veldhoven De Run",
     "Adres": "De Run 5610, 5504DJ, Veldhoven"
+  },
+  {
+    "Regio": "22",
+    "Roepnummer": "22-5022",
+    "Kenteken": "VTX-46-L",
+    "Type": "DA-VK",
+    "Omschrijving": "Dienstauto - Verkenning",
+    "Merk (& Type)": "Mercedes-Benz Citan",
+    "Kazerne": "Someren",
+    "Adres": "Loovebaan 29, 5712JV, Someren"
   },
   {
     "Regio": "22",
@@ -44078,6 +44078,15 @@
     "Merk (& Type)": "Volkswagen Transporter",
     "Kazerne": "ROC Waalre",
     "Adres": "Engelse Tuin 1, 5583CT, Waalre"
+  },
+  {
+    "Regio": "22",
+    "Roepnummer": "22-5206",
+    "Kenteken": "61-ZVJ-1",
+    "Type": "DB",
+    "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Volkswagen Transporter",
+    "Kazerne": "Regionaal"
   },
   {
     "Regio": "22",
