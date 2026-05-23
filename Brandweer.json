@@ -1010,6 +1010,16 @@
   },
   {
     "Regio": "01",
+    "Roepnummer": "01-1902",
+    "Kenteken": "KFD-91-B",
+    "Type": "DA",
+    "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Opel Corsa Electric",
+    "Kazerne": "Groningen Sontweg",
+    "Adres": "Sontweg 10, 9723AT, Groningen"
+  },
+  {
+    "Regio": "01",
     "Roepnummer": "01-1905",
     "Kenteken": "2-VNH-80",
     "Type": "PM",
@@ -1141,9 +1151,9 @@
   {
     "Regio": "01",
     "Roepnummer": "01-2116",
-    "Kenteken": "59-WJ-GX",
-    "Type": "WOA",
-    "Omschrijving": "Waterongevallenaanhanger met boot",
+    "Kenteken": "12-24-YE",
+    "Type": "BRV-M",
+    "Omschrijving": "Brandweervaartuig - Middel",
     "Merk (& Type)": "Marlin 1300",
     "Kazerne": "Hoogezand-Sappemeer",
     "Adres": "Rembrandtlaan 8, 9601XC, Hoogezand"
@@ -2418,16 +2428,6 @@
     "Omschrijving": "Bijzonder materieelhaakarmbak - NBC Bevoorradingsunit",
     "Kazerne": "Grootegast",
     "Adres": "Rondweg 15, 9861GK, Grootegast"
-  },
-  {
-    "Regio": "02",
-    "Roepnummer": "01-1902",
-    "Kenteken": "05-SBL-9",
-    "Type": "DA",
-    "Omschrijving": "Dienstauto",
-    "Merk (& Type)": "Volkswagen Polo",
-    "Kazerne": "Drachten",
-    "Adres": "Loswal 1, 9206AH, Drachten"
   },
   {
     "Regio": "02",
@@ -5577,10 +5577,10 @@
   {
     "Regio": "03",
     "Roepnummer": "03-8293",
-    "Kenteken": "SV-790-P",
-    "Type": "DA-OVD",
-    "Omschrijving": "Dienstauto - Officier van Dienst",
-    "Merk (& Type)": "Volkswagen Tiguan",
+    "Kenteken": "JND-48-S",
+    "Type": "DV-OVD",
+    "Omschrijving": "Dienstvoertuig - Officier van Dienst",
+    "Merk (& Type)": "Toyota",
     "Kazerne": "Assen-West",
     "Adres": "Mien Ruysweg 1, 9408KA, Assen"
   },
@@ -6051,10 +6051,10 @@
   {
     "Regio": "03",
     "Roepnummer": "03-8693",
-    "Kenteken": "G-018-GN",
-    "Type": "DB-OVD",
-    "Omschrijving": "Dienstbus - Officier van Dienst",
-    "Merk (& Type)": "Mercedes-Benz Vito",
+    "Kenteken": "JND-49-S",
+    "Type": "DV-OVD",
+    "Omschrijving": "Dienstvoertuig - Officier van Dienst",
+    "Merk (& Type)": "Toyota",
     "Kazerne": "Emmen",
     "Adres": "Nijbracht 43a, 7821CB, Emmen"
   },
@@ -6360,6 +6360,7 @@
     "Kenteken": "X-982-BT",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Toevoeging": "Tevens 03-8928 VKE",
     "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Hoogeveen",
     "Adres": "Industrieweg 2, 7902AA, Hoogeveen"
@@ -6397,6 +6398,7 @@
   {
     "Regio": "03",
     "Roepnummer": "03-8914",
+    "Kenteken": "71-WG-SG",
     "Type": "WOV",
     "Omschrijving": "Waterongevallenvaartuig",
     "Kazerne": "Hoogeveen",
@@ -6404,25 +6406,21 @@
   },
   {
     "Regio": "03",
-    "Roepnummer": "03-8928",
-    "Type": "DB-VEB",
-    "Omschrijving": "Dienstbus - Verkenningseenheid Brandweer",
-    "Kazerne": "Hoogeveen",
-    "Adres": "Industrieweg 2, 7902AA, Hoogeveen"
-  },
-  {
-    "Regio": "03",
     "Roepnummer": "03-8931",
-    "Type": "TS-8",
-    "Omschrijving": "Tankautospuit 8 mans bezetting",
+    "Kenteken": "50-BVD-1",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Hoogeveen",
     "Adres": "Industrieweg 2, 7902AA, Hoogeveen"
   },
   {
     "Regio": "03",
     "Roepnummer": "03-8932",
+    "Kenteken": "86-BDF-2",
     "Type": "TS-8",
     "Omschrijving": "Tankautospuit 8 mans bezetting",
+    "Merk (& Type)": "Merdedes-Benz",
     "Kazerne": "Hoogeveen",
     "Adres": "Industrieweg 2, 7902AA, Hoogeveen"
   },
@@ -10618,6 +10616,16 @@
   },
   {
     "Regio": "06",
+    "Roepnummer": "06-2101",
+    "Kenteken": "JTV-11-J",
+    "Type": "DB",
+    "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Volkswagen E-Transporter",
+    "Kazerne": "Apeldoorn Centrum",
+    "Adres": "Vosselmanstraat 203, 7311CL, Apeldoorn"
+  },
+  {
+    "Regio": "06",
     "Roepnummer": "06-2131",
     "Kenteken": "BB-364-P",
     "Type": "TS",
@@ -11537,7 +11545,7 @@
   {
     "Regio": "06",
     "Roepnummer": "06-7344",
-    "Kenteken": "31-BZZ-4",
+    "Kenteken": "BD-202-K",
     "Type": "TST-NB",
     "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
     "Merk (& Type)": "Volvo FMX 420",
@@ -18170,8 +18178,9 @@
   {
     "Regio": "09",
     "Roepnummer": "09-0412",
-    "Type": "WOV",
-    "Omschrijving": "Waterongevallenvaartuig",
+    "Kenteken": "52-09-YN",
+    "Type": "BRV-M",
+    "Omschrijving": "Brandweervaartuig - Middel",
     "Kazerne": "Bunschoten",
     "Adres": "Bikkersweg 2, 3752WV, Bunschoten"
   },
@@ -18248,8 +18257,8 @@
   {
     "Regio": "09",
     "Roepnummer": "09-0667",
-    "Type": "RBA",
-    "Omschrijving": "Rietenkap Brandbestrijdingaanhanger",
+    "Type": "RI",
+    "Omschrijving": "Rietdak brandbestrijding voertuig",
     "Kazerne": "Werkhoven",
     "Adres": "Rode Haan 1, 3985PN, Werkhoven"
   },
@@ -18638,6 +18647,14 @@
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
     "Merk (& Type)": "Mercedes-Benz",
+    "Kazerne": "Achterveld",
+    "Adres": "Meester van Bergenweg 3, 3791AW, Achterveld"
+  },
+  {
+    "Regio": "09",
+    "Roepnummer": "09-2168",
+    "Type": "MSA",
+    "Omschrijving": "Motorspuitaanhanger",
     "Kazerne": "Achterveld",
     "Adres": "Meester van Bergenweg 3, 3791AW, Achterveld"
   },
@@ -20165,6 +20182,15 @@
   },
   {
     "Regio": "09",
+    "Roepnummer": "09-8006",
+    "Kenteken": "23-TPP-2",
+    "Type": "DB",
+    "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Volkswagen Transporter",
+    "Kazerne": "Regionaal"
+  },
+  {
+    "Regio": "09",
     "Roepnummer": "09-8030",
     "Kenteken": "BL-XZ-96",
     "Type": "TS-RES",
@@ -20289,10 +20315,13 @@
   {
     "Regio": "09",
     "Roepnummer": "09-8131",
-    "Type": "TS-RES",
-    "Omschrijving": "Tankautospuit-Reserve",
-    "Kazerne": "Loenen aan de Vecht",
-    "Adres": "Keizer Ottolaan 2, 3632BW, Loenen aan de Vecht"
+    "Kenteken": "08-BVD-8",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Toevoeging": "Reserve",
+    "Merk (& Type)": "Mercedes-Benz Atego",
+    "Kazerne": "Utrecht-Leidsche Rijn",
+    "Adres": "Belcampostraat 10, 3544NG, Utrecht"
   },
   {
     "Regio": "09",
@@ -20341,10 +20370,12 @@
   {
     "Regio": "09",
     "Roepnummer": "09-8231",
-    "Type": "TS-RES",
-    "Omschrijving": "Tankautospuit-Reserve",
-    "Kazerne": "Woerden",
-    "Adres": "Boerendijk 34, 3442AH, Woerden"
+    "Kenteken": "44-BNT-5",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Toevoeging": "Reserve",
+    "Kazerne": "Utrecht-Leidsche Rijn",
+    "Adres": "Belcampostraat 10, 3544NG, Utrecht"
   },
   {
     "Regio": "09",
@@ -20385,6 +20416,16 @@
     "Regio": "09",
     "Roepnummer": "09-8305",
     "Kenteken": "24-BPF-9",
+    "Type": "GM",
+    "Omschrijving": "Gereedschap/Materieelwagen",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
+    "Kazerne": "Utrecht-Leidsche Rijn",
+    "Adres": "Belcampostraat 10, 3544NG, Utrecht"
+  },
+  {
+    "Regio": "09",
+    "Roepnummer": "09-8307",
+    "Kenteken": "79-BPG-3",
     "Type": "GM",
     "Omschrijving": "Gereedschap/Materieelwagen",
     "Merk (& Type)": "Mercedes-Benz Sprinter",
@@ -20491,9 +20532,12 @@
   {
     "Regio": "09",
     "Roepnummer": "09-8694",
+    "Kenteken": "55-ZVV-6",
     "Type": "DAT-OVD",
     "Omschrijving": "Dienstauto-Terreinvaardig - Officier van Dienst",
-    "Kazerne": "Leiding & Co\u00f6rdinatie"
+    "Toevoeging": "Reserve",
+    "Merk (& Type)": "Nissan",
+    "Kazerne": "Regionaal"
   },
   {
     "Regio": "09",
@@ -20788,6 +20832,15 @@
   },
   {
     "Regio": "09",
+    "Roepnummer": "09-9309",
+    "Kenteken": "65-GZS-9",
+    "Type": "DA-HOD",
+    "Omschrijving": "Dienstauto - Hoofd Officier van Dienst",
+    "Merk (& Type)": "Volkswagen Golf",
+    "Kazerne": "Regionaal"
+  },
+  {
+    "Regio": "09",
     "Roepnummer": "09-9471",
     "Kenteken": "46-BRS-2",
     "Type": "PM-QRT",
@@ -20845,6 +20898,16 @@
     "Toevoeging": "Vakbekwaamheid",
     "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Regionaal"
+  },
+  {
+    "Regio": "09",
+    "Roepnummer": "09-9704",
+    "Kenteken": "VH-173-D",
+    "Type": "OR",
+    "Omschrijving": "Oppervlakte Redteam",
+    "Merk (& Type)": "Ford",
+    "Kazerne": "Utrecht-Leidsche Rijn",
+    "Adres": "Belcampostraat 10, 3544NG, Utrecht"
   },
   {
     "Regio": "09",
@@ -39953,6 +40016,7 @@
   {
     "Regio": "20",
     "Roepnummer": "20-7031",
+    "Kenteken": "BV-JN-38",
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
     "Toevoeging": "Cluster Midden",
