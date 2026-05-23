@@ -44,6 +44,7 @@ jobs:
         AMB_URL: ${{ secrets.AMB_URL  }}
         KAZ_URL: ${{ secrets.KAZ_URL  }}
         DISCORD: ${{ secrets.DISCORD  }}
+        DISCORD_APK : ${{ secrets.DISCORD_APK  }}
 
     - name: json-syntax-check
       uses: limitusus/json-syntax-check@v1
