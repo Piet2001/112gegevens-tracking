@@ -1,8 +1,7 @@
-Expired (167):
+Expired (163):
 1-VPJ-15 (19-6502): verlopen op 2022-07-10
 1-ZLF-11 (20-7102): verlopen op 2026-03-23
 17-BGK-1 (01-0199): verlopen op 2025-10-27
-18-ZPB-1 (01-205): verlopen op 2026-04-01
 19-KGK-5 (21-802): verlopen op 2025-04-03
 2-KBX-97 (14-192): verlopen op 2025-06-19
 2-KJR-36 (08-126): verlopen op 2025-06-01
@@ -47,7 +46,6 @@ Expired (167):
 80-RD-XX (23-5502): verlopen op 2025-02-23
 83-TS-PR (24-2540): verlopen op 2025-01-16
 84-ZK-GT (02-0203): verlopen op 2026-04-11
-86-SFX-3 (01-209): verlopen op 2025-11-28
 88-HRG-6 (09-8098): verlopen op 2026-05-02
 9-KJR-80 (24-3891): verlopen op 2026-03-27
 91-ZJ-KB (02-5693): verlopen op 2025-06-11
@@ -142,7 +140,7 @@ PN-990-T (01-151): verlopen op 2023-08-18
 PS-053-P (07-105): verlopen op 2024-09-04
 PS-271-P (21-101): verlopen op 2025-06-20
 PS-576-V (13-176): verlopen op 2025-09-20
-PS-588-N (01-144): verlopen op 2025-09-04
+PS-588-N (01-210): verlopen op 2025-09-04
 PS-879-N (07-107): verlopen op 2024-07-04
 RF-714-K (17-139): verlopen op 2025-12-05
 RF-775-Z (11-128): verlopen op 2025-11-09
@@ -153,8 +151,6 @@ TF-681-R (18-177): verlopen op 2024-07-16
 TH-538-P (06-123): verlopen op 2025-10-03
 TJ-999-B (07-120): verlopen op 2025-09-02
 TL-535-F (06-124): verlopen op 2025-10-02
-TZ-212-J (01-405): verlopen op 2025-11-14
-TZ-213-J (01-147): verlopen op 2025-11-14
 TZ-215-J (01-123): verlopen op 2025-11-14
 VG-117-R (14-7164): verlopen op 2025-12-27
 VG-225-L (08-9087): verlopen op 2025-02-28
@@ -167,7 +163,7 @@ VZ-962-J (03-8603): verlopen op 2025-09-12
 XH-095-S (15-9601): verlopen op 2026-02-27
 ZL-714-H (20-708): verlopen op 2026-04-30
 
-Unknown (302):
+Unknown (300):
 03-BNZ-7 (09-2931)
 03-RN-KJ (09-3101)
 03-VHP-6 (17-2381)
@@ -290,7 +286,6 @@ Unknown (302):
 85-TFS-6 (07-7002)
 86-DMT-7 (28-6402)
 86-WF-LD/96-12-YN (23-2211)
-87-SFX-3 (01-210)
 88-HJP-5 (18-5406)
 88-WZ-BJ (08-9669)
 9-TZG-68 (09-148)
@@ -382,7 +377,6 @@ GB-717-V (01-162)
 GD-415-P (03-172)
 GH-561-T (22-5198)
 GP-521-H (13-120)
-GT-928-P (01-145)
 GV-082-P (24-123)
 GZ-465-G (11-137)
 HB-044-N (01-702)
