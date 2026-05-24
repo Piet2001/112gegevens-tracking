@@ -5550,13 +5550,6 @@
     "roepnummers": ["07-1180"],
     "last_check_date": "2026-05-24"
   },
-  "13-XVK-9\r": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": ["07-1421"],
-    "last_check_date": "2026-05-23"
-  },
   "V-584-NS": {
     "expiry": null,
     "checked": true,
@@ -5778,7 +5771,7 @@
     "expiry": "2027-01-24",
     "checked": true,
     "unknown": false,
-    "roepnummers": ["07-5912", "09-9704"],
+    "roepnummers": ["09-9704"],
     "last_check_date": "2026-05-23"
   },
   "85-TFS-6": {
@@ -8642,7 +8635,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["15-7140"],
-    "last_check_date": "2026-05-21"
+    "last_check_date": "2026-05-24"
   },
   "BX-NB-06": {
     "expiry": "2026-04-20",
@@ -14823,7 +14816,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["08-803"],
-    "last_check_date": "2026-05-21"
+    "last_check_date": "2026-05-24"
   },
   "TZ-216-J": {
     "expiry": "2026-11-14",
@@ -17470,5 +17463,12 @@
     "unknown": false,
     "roepnummers": ["25-702"],
     "last_check_date": "2026-05-23"
+  },
+  "13-XVK-9": {
+    "expiry": "2027-02-10",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["07-1421"],
+    "last_check_date": "2026-05-24"
   }
 }

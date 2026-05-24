@@ -14078,7 +14078,7 @@
   {
     "Regio": "07",
     "Roepnummer": "07-1421",
-    "Kenteken": "13-XVK-9\r",
+    "Kenteken": "13-XVK-9",
     "Type": "DB-VEB",
     "Omschrijving": "Dienstbus - Verkenningseenheid Brandweer",
     "Toevoeging": "+ FRB (07-1480)",
@@ -15680,16 +15680,6 @@
     "Roepnummer": "07-5911",
     "Type": "WOV",
     "Omschrijving": "Waterongevallenvaartuig",
-    "Kazerne": "Lobith",
-    "Adres": "Industrieweg 1a, 6915SH, Lobith"
-  },
-  {
-    "Regio": "07",
-    "Roepnummer": "07-5912",
-    "Kenteken": "VH-173-D",
-    "Type": "DA",
-    "Omschrijving": "Dienstauto",
-    "Toevoeging": "Trekkend voertuig 07-5911 + FRB(5980)",
     "Kazerne": "Lobith",
     "Adres": "Industrieweg 1a, 6915SH, Lobith"
   },
