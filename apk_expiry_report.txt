@@ -1,4 +1,4 @@
-Expired (178):
+Expired (167):
 1-VPJ-15 (19-6502): verlopen op 2022-07-10
 1-ZLF-11 (20-7102): verlopen op 2026-03-23
 17-BGK-1 (01-0199): verlopen op 2025-10-27
@@ -14,8 +14,6 @@ Expired (178):
 22-TSP-7 (13-178): verlopen op 2021-04-03
 3-KPG-70 (13-302): verlopen op 2024-05-31
 3-SHG-46 (20-1504): verlopen op 2025-11-27
-3-TKS-82 (22-703): verlopen op 2026-02-24
-3-TNJ-36 (22-802): verlopen op 2024-12-11
 31-ZGH-1 (03-8604): verlopen op 2025-01-29
 33-ZL-DK (08-803): verlopen op 2026-05-22
 4-SJP-37 (04-1095): verlopen op 2025-07-02
@@ -24,7 +22,6 @@ Expired (178):
 43-BT-NN (09-8201): verlopen op 2025-06-29
 44-PRS-7 (25-6105): verlopen op 2026-03-25
 45-PRS-7 (25-6106): verlopen op 2026-01-17
-46-XSL-1 (22-1381): verlopen op 2025-08-09
 48-PRS-7 (25-6107): verlopen op 2026-03-25
 5-SRD-07 (16-251): verlopen op 2025-12-03
 5-TLZ-78 (22-899): verlopen op 2025-05-31
@@ -43,7 +40,6 @@ Expired (178):
 7-ZPX-56 (07-0101): verlopen op 2026-05-12
 7-ZSL-98 (07-3403): verlopen op 2026-03-19
 72-NFG-7 (01-806): verlopen op 2024-08-27
-72-TNG-3 (22-341): verlopen op 2025-07-25
 76-PK-GK (06-9882): verlopen op 2026-03-20
 8-KGS-30 (24-3291): verlopen op 2025-05-17
 8-KNN-06 (14-502): verlopen op 2025-07-24
@@ -124,7 +120,6 @@ JT-036-V (04-804): verlopen op 2025-06-22
 KF-794-S (01-131): verlopen op 2023-08-17
 KH-970-P (24-3491): verlopen op 2025-08-02
 KR-644-R (24-113): verlopen op 2024-12-20
-KV-454-S (22-129): verlopen op 2025-12-07
 KZ-237-B (17-9094): verlopen op 2026-03-09
 KZ-272-R (15-840): verlopen op 2026-02-24
 KZ-710-L (17-9904): verlopen op 2026-04-18
@@ -149,9 +144,6 @@ PS-271-P (21-101): verlopen op 2025-06-20
 PS-576-V (13-176): verlopen op 2025-09-20
 PS-588-N (01-144): verlopen op 2025-09-04
 PS-879-N (07-107): verlopen op 2024-07-04
-PZ-991-G (22-104): verlopen op 2024-11-12
-RD-285-G (22-125): verlopen op 2024-11-12
-RD-306-G (22-122): verlopen op 2024-11-20
 RF-714-K (17-139): verlopen op 2025-12-05
 RF-775-Z (11-128): verlopen op 2025-11-09
 RF-829-K (17-132): verlopen op 2024-11-01
@@ -168,17 +160,14 @@ VG-117-R (14-7164): verlopen op 2025-12-27
 VG-225-L (08-9087): verlopen op 2025-02-28
 VG-611-N (23-2669): verlopen op 2025-12-13
 VG-622-N (23-3269): verlopen op 2025-12-13
-VG-977-D (22-5124): verlopen op 2025-11-13
 VL-064-L (05-9001): verlopen op 2026-01-30
 VP-728-H (10-6062): verlopen op 2025-11-14
-VX-10-YH (22-5031): verlopen op 2020-11-15
 VX-25-NJ (01-3981): verlopen op 2025-02-11
 VZ-962-J (03-8603): verlopen op 2025-09-12
 XH-095-S (15-9601): verlopen op 2026-02-27
-ZL-159-B (22-120): verlopen op 2026-03-05
 ZL-714-H (20-708): verlopen op 2026-04-30
 
-Unknown (303):
+Unknown (302):
 03-BNZ-7 (09-2931)
 03-RN-KJ (09-3101)
 03-VHP-6 (17-2381)
@@ -246,7 +235,6 @@ Unknown (303):
 47-TSV-1 (13-179)
 48-TSV-1 (13-159)
 49-WJ-LP (02-57MSA)
-49-XDS-5 (22-310)
 5-KNL-06 (17-106)
 5-LXG-2 (20-504)
 5-TKK-35 (23-103)

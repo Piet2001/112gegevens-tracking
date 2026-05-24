@@ -42253,10 +42253,10 @@
   {
     "Regio": "22",
     "Roepnummer": "22-1381",
-    "Kenteken": "46-XSL-1",
+    "Kenteken": "GKX-47-S",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Volkswagen Transporter",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Best",
     "Adres": "Willem de Zwijgerweg 1a, 5684SB, Best"
   },
@@ -43505,16 +43505,6 @@
   },
   {
     "Regio": "22",
-    "Roepnummer": "22-5031",
-    "Kenteken": "VX-10-YH",
-    "Type": "TS",
-    "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "DAF",
-    "Kazerne": "ROC Waalre",
-    "Adres": "Engelse Tuin 1, 5583CT, Waalre"
-  },
-  {
-    "Regio": "22",
     "Roepnummer": "22-5041",
     "Kenteken": "BZ-BH-64",
     "Type": "TST-NB",
@@ -43829,16 +43819,6 @@
     "Omschrijving": "Chemische Biologische of Radiologische Nucleaire stoffen - Bevoorradings Unit",
     "Kazerne": "Lieshout",
     "Adres": "Papenhoef 7, 5737BS, Lieshout"
-  },
-  {
-    "Regio": "22",
-    "Roepnummer": "22-5124",
-    "Kenteken": "VG-977-D",
-    "Type": "GS-SI",
-    "Omschrijving": "Gevaarlijke Stoffen-Snel Interventie voertuig",
-    "Merk (& Type)": "Volkswagen Crafter",
-    "Kazerne": "Eindhoven-Centrum",
-    "Adres": "Deken van Somerenstraat 2, 5611KX, Eindhoven"
   },
   {
     "Regio": "22",

@@ -3388,7 +3388,7 @@
   {
     "Regio": "22",
     "Roepnummer": "22-104",
-    "Kenteken": "PZ-991-G",
+    "Kenteken": "T-550-NH",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Eindhoven-Noord"
@@ -3508,7 +3508,7 @@
   {
     "Regio": "22",
     "Roepnummer": "22-120",
-    "Kenteken": "ZL-159-B",
+    "Kenteken": "T-863-VG",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Leende"
@@ -3524,7 +3524,7 @@
   {
     "Regio": "22",
     "Roepnummer": "22-122",
-    "Kenteken": "RD-306-G",
+    "Kenteken": "T-285-PL",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Leende"
@@ -3548,7 +3548,7 @@
   {
     "Regio": "22",
     "Roepnummer": "22-125",
-    "Kenteken": "RD-285-G",
+    "Kenteken": "T-862-VG",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Helmond"
@@ -3580,7 +3580,7 @@
   {
     "Regio": "22",
     "Roepnummer": "22-129",
-    "Kenteken": "KV-454-S",
+    "Kenteken": "T-801-VB",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Helmond"
@@ -3636,17 +3636,17 @@
   {
     "Regio": "22",
     "Roepnummer": "22-310",
-    "Kenteken": "49-XDS-5",
+    "Kenteken": "HLB-72-S",
     "Omschrijving": "Babylance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "MMC Veldhoven"
   },
   {
     "Regio": "22",
-    "Roepnummer": "22-341",
-    "Kenteken": "72-TNG-3",
+    "Roepnummer": "22-340",
+    "Kenteken": "T-805-JS",
     "Omschrijving": "Rapid Responder",
-    "Merk": "Volkswagen Touran",
+    "Merk": "Kia Sportage",
     "Locatie indien vast": "Eindhoven-Zuid"
   },
   {
@@ -3701,14 +3701,6 @@
   },
   {
     "Regio": "22",
-    "Roepnummer": "22-703",
-    "Kenteken": "3-TKS-82",
-    "Omschrijving": "Huisartsenpostvoertuig",
-    "Merk": "Volkswagen Touran",
-    "Locatie indien vast": "Elkerliekziekenhuis Helmond"
-  },
-  {
-    "Regio": "22",
     "Roepnummer": "22-704",
     "Kenteken": "6-TJT-56",
     "Omschrijving": "Huisartsenpostvoertuig",
@@ -3742,14 +3734,6 @@
     "Regio": "22",
     "Roepnummer": "22-801",
     "Kenteken": "ZH-577-B",
-    "Omschrijving": "Officier van Dienst Geneeskunde",
-    "Merk": "Volkswagen Touran",
-    "Locatie indien vast": "Eindhoven-Noord"
-  },
-  {
-    "Regio": "22",
-    "Roepnummer": "22-802",
-    "Kenteken": "3-TNJ-36",
     "Omschrijving": "Officier van Dienst Geneeskunde",
     "Merk": "Volkswagen Touran",
     "Locatie indien vast": "Eindhoven-Noord"
