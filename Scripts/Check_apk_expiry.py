@@ -99,6 +99,10 @@ def main():
     ]
     # Combine and deduplicate
     to_check = list(dict.fromkeys(unknowns + expired))
+    # Limit to max 1000 per run
+    if len(to_check) > 1000:
+        print(f"Let op: er zijn {len(to_check)} kentekens om te checken, maar maximaal 1000 worden nu verwerkt.")
+        to_check = to_check[:1000]
     output_lines = []
     print(f"Start batch check van {len(to_check)} kentekens...")
     for idx, kenteken in enumerate(to_check, 1):
