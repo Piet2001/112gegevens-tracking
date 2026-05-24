@@ -21711,8 +21711,10 @@
   {
     "Regio": "10",
     "Roepnummer": "10-5231",
+    "Kenteken": "32-BZD-4",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Avenhorn",
     "Adres": " Buitenroede 2, 1633GZ, Avenhorn"
   },
@@ -23673,8 +23675,10 @@
   {
     "Regio": "11",
     "Roepnummer": "11-6031",
+    "Kenteken": "53-BZX-6",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Monnickendam",
     "Adres": "De Werf 5, 1141HL, Monnickendam"
   },
@@ -39207,8 +39211,10 @@
   {
     "Regio": "20",
     "Roepnummer": "20-3103",
+    "Kenteken": "T-514-NK",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Citro\u00ebn \u00cb-Jumpy",
     "Kazerne": "Teteringen",
     "Adres": "Laarakker 2, 4847AM, Teteringen"
   },
@@ -44898,14 +44904,6 @@
   {
     "Regio": "23",
     "Roepnummer": "23-2601",
-    "Type": "DA",
-    "Omschrijving": "Dienstauto",
-    "Kazerne": "Panningen",
-    "Adres": "John F. Kennedylaan 212, 5981WX, Panningen"
-  },
-  {
-    "Regio": "23",
-    "Roepnummer": "23-2602",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
     "Kazerne": "Panningen",

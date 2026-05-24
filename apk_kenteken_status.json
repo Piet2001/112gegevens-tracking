@@ -17407,5 +17407,33 @@
     "unknown": false,
     "roepnummers": ["01-211"],
     "last_check_date": "2026-05-24"
+  },
+  "32-BZD-4": {
+    "expiry": "2026-08-16",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["10-5231"],
+    "last_check_date": "2026-05-24"
+  },
+  "53-BZX-6": {
+    "expiry": "2027-01-21",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["11-6031"],
+    "last_check_date": "2026-05-24"
+  },
+  "T-514-NK": {
+    "expiry": "2027-07-31",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["20-3103"],
+    "last_check_date": "2026-05-24"
+  },
+  "H-202-ZG": {
+    "expiry": "2026-07-01",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["19-101"],
+    "last_check_date": "2026-05-24"
   }
 }
