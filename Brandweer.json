@@ -32,8 +32,10 @@
     "Kenteken": "VL-196-V",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
+    "Toevoeging": "Technische Dienst",
     "Merk (& Type)": "Volkswagen Transporter",
-    "Kazerne": "Regionaal"
+    "Kazerne": "Veendam",
+    "Adres": "Langeleegte 2, 9641GN, Veendam"
   },
   {
     "Regio": "01",
@@ -139,8 +141,8 @@
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
     "Merk (& Type)": "DAF",
-    "Kazerne": "Groningen Sontweg",
-    "Adres": "Sontweg 10, 9723AT, Groningen"
+    "Kazerne": "Veendam",
+    "Adres": "Langeleegte 2, 9641GN, Veendam"
   },
   {
     "Regio": "01",
@@ -46707,8 +46709,20 @@
   {
     "Regio": "24",
     "Roepnummer": "24-2595",
+    "Kenteken": "Z-208-KT",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Kia Niro",
+    "Kazerne": "Sitech / Chemelot",
+    "Adres": "Kerenshofweg, 6167AE, Geleen"
+  },
+  {
+    "Regio": "24",
+    "Roepnummer": "24-2597",
+    "Kenteken": "V-16-LHT",
+    "Type": "GM",
+    "Omschrijving": "Gereedschap/Materieelwagen",
+    "Merk (& Type)": "Opel",
     "Kazerne": "Sitech / Chemelot",
     "Adres": "Kerenshofweg, 6167AE, Geleen"
   },
