@@ -1,7 +1,4 @@
-Expired (182):
-00-BBJ-4 (01-1673): verlopen op 2025-07-24
-06-LHZ-5 (22-3181): verlopen op 2026-04-27
-1-TPK-86 (16-271): verlopen op 2026-03-06
+Expired (178):
 1-VPJ-15 (19-6502): verlopen op 2022-07-10
 1-ZLF-11 (20-7102): verlopen op 2026-03-23
 17-BGK-1 (01-0199): verlopen op 2025-10-27
@@ -176,7 +173,6 @@ VL-064-L (05-9001): verlopen op 2026-01-30
 VP-728-H (10-6062): verlopen op 2025-11-14
 VX-10-YH (22-5031): verlopen op 2020-11-15
 VX-25-NJ (01-3981): verlopen op 2025-02-11
-VX-45-NN (02-6183): verlopen op 2024-07-11
 VZ-962-J (03-8603): verlopen op 2025-09-12
 XH-095-S (15-9601): verlopen op 2026-02-27
 ZL-159-B (22-120): verlopen op 2026-03-05

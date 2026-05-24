@@ -707,16 +707,6 @@
   },
   {
     "Regio": "01",
-    "Roepnummer": "01-1673",
-    "Kenteken": "00-BBJ-4",
-    "Type": "GM",
-    "Omschrijving": "Gereedschap/Materieelwagen",
-    "Merk (& Type)": "Volkswagen Crafter",
-    "Kazerne": "Bedum",
-    "Adres": "Industrieweg 15, 9781AC, Bedum"
-  },
-  {
-    "Regio": "01",
     "Roepnummer": "01-1701",
     "Kenteken": "J-193-DZ",
     "Type": "DB",
@@ -3900,16 +3890,6 @@
     "Type": "HA-KR",
     "Omschrijving": "Haakarmvoertuig met Kraan",
     "Merk (& Type)": "Vovlo",
-    "Kazerne": "Leeuwarden-Hoofdpost",
-    "Adres": "Aldl\u00e2nsdijk 11, 8934AA, Leeuwarden"
-  },
-  {
-    "Regio": "02",
-    "Roepnummer": "02-6183",
-    "Kenteken": "VX-45-NN",
-    "Type": "HA",
-    "Omschrijving": "Haakarmvoertuig",
-    "Merk (& Type)": "DAF",
     "Kazerne": "Leeuwarden-Hoofdpost",
     "Adres": "Aldl\u00e2nsdijk 11, 8934AA, Leeuwarden"
   },
@@ -42752,10 +42732,10 @@
   {
     "Regio": "22",
     "Roepnummer": "22-3181",
-    "Kenteken": "06-LHZ-5",
+    "Kenteken": "GKX-48-S",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Citro\u00ebn Jumper",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Leende",
     "Adres": "Biesven 17, 5595DD, Leende"
   },
