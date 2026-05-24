@@ -139,9 +139,11 @@ def main():
                 time.sleep(10)
             elif not valid:
                 print(f"  {kenteken}: verlopen op {expiry}")
-                msg = f"{kenteken}{roep_str}: APK verlopen op {expiry}"
-                discord.webhook_APK(msg)
-                time.sleep(10)
+                # Only send Discord message if expiry was a week or more ago
+                if expiry <= today.fromordinal(today.toordinal() - 7):
+                    msg = f"{kenteken}{roep_str}: APK verlopen op {expiry}"
+                    discord.webhook_APK(msg)
+                    time.sleep(10)
             else:
                 print(f"  {kenteken}: APK geldig tot {expiry}")
     save_kenteken_status(status)

@@ -3357,7 +3357,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["03-8003"],
-    "last_check_date": "2026-05-23"
+    "last_check_date": "2026-05-21"
   },
   "62-BDP-9": {
     "expiry": "2027-02-28",
@@ -8642,7 +8642,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["15-7140"],
-    "last_check_date": "2026-05-24"
+    "last_check_date": "2026-05-21"
   },
   "BX-NB-06": {
     "expiry": "2026-04-20",
@@ -14823,7 +14823,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["08-803"],
-    "last_check_date": "2026-05-24"
+    "last_check_date": "2026-05-21"
   },
   "TZ-216-J": {
     "expiry": "2026-11-14",
