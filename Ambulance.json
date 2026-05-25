@@ -3126,7 +3126,7 @@
   {
     "Regio": "21",
     "Roepnummer": "21-101",
-    "Kenteken": "PS-271-P",
+    "Kenteken": "Z-688-RH",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "\u2019s Hertogenbosch"
@@ -3134,7 +3134,9 @@
   {
     "Regio": "21",
     "Roepnummer": "21-102",
+    "Kenteken": "Z-659-BF",
     "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "\u2019s Hertogenbosch"
   },
   {
@@ -3146,25 +3148,31 @@
   {
     "Regio": "21",
     "Roepnummer": "21-104",
+    "Kenteken": "T-263-JB",
     "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "\u2019s Hertogenbosch"
   },
   {
     "Regio": "21",
     "Roepnummer": "21-105",
+    "Kenteken": "T-829-JJ",
     "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "\u2019s Hertogenbosch"
   },
   {
     "Regio": "21",
     "Roepnummer": "21-107",
+    "Kenteken": "T-834-JJ",
     "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "\u2019s Hertogenbosch"
   },
   {
     "Regio": "21",
     "Roepnummer": "21-108",
-    "Kenteken": "G-773-HN",
+    "Kenteken": "JXX-23-G",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "\u2019s Hertogenbosch"
@@ -3172,31 +3180,39 @@
   {
     "Regio": "21",
     "Roepnummer": "21-109",
+    "Kenteken": "T-833-JJ",
     "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "\u2019s Hertogenbosch"
   },
   {
     "Regio": "21",
-    "Roepnummer": "21-112",
-    "Omschrijving": "Ambulance",
-    "Locatie indien vast": "Oss"
-  },
-  {
-    "Regio": "21",
     "Roepnummer": "21-113",
+    "Kenteken": "P-233-HH",
     "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Oss"
   },
   {
     "Regio": "21",
     "Roepnummer": "21-114",
+    "Kenteken": "P-230-HH",
     "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Oss"
   },
   {
     "Regio": "21",
     "Roepnummer": "21-115",
-    "Kenteken": "G-777-HN",
+    "Kenteken": "JXP-99-R",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Oss"
+  },
+  {
+    "Regio": "21",
+    "Roepnummer": "21-116",
+    "Kenteken": "T-955-JN",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Oss"
@@ -3204,37 +3220,49 @@
   {
     "Regio": "21",
     "Roepnummer": "21-121",
+    "Kenteken": "T-831-JJ",
     "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Uden"
   },
   {
     "Regio": "21",
     "Roepnummer": "21-122",
+    "Kenteken": "Z-691-RH",
     "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Uden"
   },
   {
     "Regio": "21",
     "Roepnummer": "21-123",
+    "Kenteken": "GFF-06-F",
     "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Uden"
   },
   {
     "Regio": "21",
     "Roepnummer": "21-124",
+    "Kenteken": "T-832-JJ",
     "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Uden"
   },
   {
     "Regio": "21",
     "Roepnummer": "21-125",
+    "Kenteken": "Z-103-BJ",
     "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Uden"
   },
   {
     "Regio": "21",
     "Roepnummer": "21-126",
+    "Kenteken": "X-794-RN",
     "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Uden"
   },
   {
@@ -3254,65 +3282,170 @@
   {
     "Regio": "21",
     "Roepnummer": "21-129",
+    "Kenteken": "P-236-HH",
     "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Haps"
   },
   {
     "Regio": "21",
     "Roepnummer": "21-131",
+    "Kenteken": "P-237-HH",
     "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Haps"
   },
   {
     "Regio": "21",
     "Roepnummer": "21-132",
+    "Kenteken": "L-436-VS",
     "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Haps"
   },
   {
     "Regio": "21",
+    "Roepnummer": "21-133",
+    "Kenteken": "GDT-50-N",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Haps"
+  },
+  {
+    "Regio": "21",
+    "Roepnummer": "21-241",
+    "Kenteken": "Z-076-PS",
+    "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "\u2019s Hertogenbosch"
+  },
+  {
+    "Regio": "21",
+    "Roepnummer": "21-242",
+    "Kenteken": "H-267-BN",
+    "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "\u2019s Hertogenbosch"
+  },
+  {
+    "Regio": "21",
+    "Roepnummer": "21-243",
+    "Kenteken": "K-197-PZ",
+    "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "\u2019s Hertogenbosch"
+  },
+  {
+    "Regio": "21",
+    "Roepnummer": "21-244",
+    "Kenteken": "Z-074-PS",
+    "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "\u2019s Hertogenbosch"
+  },
+  {
+    "Regio": "21",
+    "Roepnummer": "21-245",
+    "Kenteken": "JLS-01-T",
+    "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "\u2019s Hertogenbosch"
+  },
+  {
+    "Regio": "21",
+    "Roepnummer": "21-246",
+    "Kenteken": "G-776-HN",
+    "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "\u2019s Hertogenbosch"
+  },
+  {
+    "Regio": "21",
     "Roepnummer": "21-341",
-    "Omschrijving": "Rapid Responder",
+    "Kenteken": "X-149-HG",
+    "Omschrijving": "Verpleegkundig specialist",
+    "Merk": "Mercedes-Benz Vito",
     "Locatie indien vast": "\u2019s Hertogenbosch"
   },
   {
     "Regio": "21",
     "Roepnummer": "21-342",
+    "Kenteken": "X-156-HG",
     "Omschrijving": "Rapid Responder",
+    "Merk": "Mercedes-Benz Vito",
     "Locatie indien vast": "\u2019s Hertogenbosch"
   },
   {
     "Regio": "21",
     "Roepnummer": "21-343",
+    "Kenteken": "X-155-HG",
     "Omschrijving": "Rapid Responder",
+    "Merk": "Mercedes-Benz Vito",
     "Locatie indien vast": "Uden"
   },
   {
     "Regio": "21",
     "Roepnummer": "21-344",
+    "Kenteken": "X-148-HG",
     "Omschrijving": "Rapid Responder",
+    "Merk": "Mercedes-Benz Vito",
     "Locatie indien vast": "Uden"
   },
   {
     "Regio": "21",
-    "Roepnummer": "21-441",
-    "Omschrijving": "Zorgambulance",
+    "Roepnummer": "21-501",
+    "Kenteken": "2-SXS-64",
+    "Omschrijving": "Dienstauto",
+    "Merk": "Volkswagen Up",
     "Locatie indien vast": "\u2019s Hertogenbosch"
   },
   {
     "Regio": "21",
-    "Roepnummer": "21-442",
-    "Kenteken": "H-267-BN",
-    "Omschrijving": "Zorgambulance",
+    "Roepnummer": "21-502",
+    "Kenteken": "2-SXS-51",
+    "Omschrijving": "Dienstauto",
+    "Merk": "Volkswagen Up",
+    "Locatie indien vast": "\u2019s Hertogenbosch"
+  },
+  {
+    "Regio": "21",
+    "Roepnummer": "21-503",
+    "Kenteken": "2-SXS-53",
+    "Omschrijving": "Dienstauto",
+    "Merk": "Volkswagen Up",
+    "Locatie indien vast": "Oss"
+  },
+  {
+    "Regio": "21",
+    "Roepnummer": "21-505",
+    "Kenteken": "V-169-RN",
+    "Omschrijving": "Rijopleiding",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Uden"
+  },
+  {
+    "Regio": "21",
+    "Roepnummer": "21-522",
+    "Kenteken": "2-SXS-63",
+    "Omschrijving": "Dienstauto",
+    "Merk": "Volkswagen Up",
+    "Locatie indien vast": "Haps"
+  },
+  {
+    "Regio": "21",
+    "Roepnummer": "21-590",
+    "Kenteken": "VP-141-F",
+    "Omschrijving": "Grootschalige Geneeskundige Bijstand",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "\u2019s Hertogenbosch"
   },
   {
     "Regio": "21",
     "Roepnummer": "21-701",
     "Kenteken": "N-929-FX",
     "Omschrijving": "Huisartsenpostvoertuig",
-    "Merk": "Volvo XC40 (Hybride)"
+    "Merk": "Volvo XC40 (Hybride)",
+    "Locatie indien vast": "HAP Den Bosch"
   },
   {
     "Regio": "21",
@@ -3328,7 +3461,15 @@
     "Kenteken": "L-266-HV",
     "Omschrijving": "Huisartsenpostvoertuig",
     "Merk": "Volvo XC40 (Hybride)",
-    "Locatie indien vast": "HAP Oss"
+    "Locatie indien vast": "HAP Uden"
+  },
+  {
+    "Regio": "21",
+    "Roepnummer": "21-704",
+    "Kenteken": "N-894-FX",
+    "Omschrijving": "Huisartsenpostvoertuig",
+    "Merk": "Volvo XC40 (Hybride)",
+    "Locatie indien vast": "HAP Uden"
   },
   {
     "Regio": "21",
@@ -3341,38 +3482,10 @@
   {
     "Regio": "21",
     "Roepnummer": "21-802",
-    "Kenteken": "19-KGK-5",
+    "Kenteken": "J-561-GV",
     "Omschrijving": "Officier van Dienst Geneeskunde",
-    "Merk": "Nissan Qashqai",
+    "Merk": "Volkswagen Tiguan",
     "Locatie indien vast": "Noord"
-  },
-  {
-    "Regio": "21",
-    "Roepnummer": "21-803",
-    "Omschrijving": "Officier van Dienst Geneeskunde",
-    "Locatie indien vast": "Zuid"
-  },
-  {
-    "Regio": "21",
-    "Roepnummer": "21-804",
-    "Omschrijving": "Officier van Dienst Geneeskunde",
-    "Locatie indien vast": "Zuid"
-  },
-  {
-    "Regio": "21",
-    "Roepnummer": "21-805",
-    "Kenteken": "73-LRL-6",
-    "Omschrijving": "Officier van Dienst Geneeskunde",
-    "Merk": "Volkswagen Golf",
-    "Locatie indien vast": "Reserve"
-  },
-  {
-    "Regio": "21",
-    "Roepnummer": "21-806",
-    "Kenteken": "74-LRL-6",
-    "Omschrijving": "Officier van Dienst Geneeskunde",
-    "Merk": "Volkswagen Golf",
-    "Locatie indien vast": "Reserve"
   },
   {
     "Regio": "21",
