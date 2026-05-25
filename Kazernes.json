@@ -2686,6 +2686,11 @@
   },
   {
     "Regio": "13",
+    "Kazerne naam": "Weesp",
+    "Adres": "Aetsveldselaan 65, 1381CZ, Weesp"
+  },
+  {
+    "Regio": "13",
     "Kazerne naam": "Willem",
     "Adres": "Ringdijk 98, 1097AH, Amsterdam"
   },
@@ -2748,11 +2753,6 @@
     "Regio": "14",
     "Kazerne naam": "Nederhorst den Berg",
     "Adres": "Blijklaan 1a, 1394KA, Nederhorst den Berg"
-  },
-  {
-    "Regio": "14",
-    "Kazerne naam": "Weesp",
-    "Adres": "Aetsveldselaan 65, 1381CZ, Weesp"
   },
   {
     "Regio": "15",

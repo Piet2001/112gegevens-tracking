@@ -13953,6 +13953,7 @@
     "Kenteken": "VBP-30-V",
     "Type": "DB-OVR",
     "Omschrijving": "Dienstbus -Oppervlakteredding",
+    "Toevoeging": "Tevens 07-1180 FR-B",
     "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Nijkerk",
     "Adres": "Havenstraat 5, 3861VS, Nijkerk"
@@ -13996,16 +13997,6 @@
     "Roepnummer": "07-1171",
     "Type": "HV",
     "Omschrijving": "Hulpverleningsvoertuig",
-    "Kazerne": "Nijkerk",
-    "Adres": "Havenstraat 5, 3861VS, Nijkerk"
-  },
-  {
-    "Regio": "07",
-    "Roepnummer": "07-1180",
-    "Kenteken": "21-JFF-3",
-    "Type": "DA-FRB",
-    "Omschrijving": "Dienstauto - First\u00a0Responder\u00a0Brandweer",
-    "Merk (& Type)": "Volkswagen",
     "Kazerne": "Nijkerk",
     "Adres": "Havenstraat 5, 3861VS, Nijkerk"
   },
@@ -22151,16 +22142,6 @@
   },
   {
     "Regio": "10",
-    "Roepnummer": "10-6065",
-    "Kenteken": "20-VNH-1",
-    "Type": "SI-2 RES",
-    "Omschrijving": "Snel Interventie Voertuig 2 mans bezetting Reserve",
-    "Merk (& Type)": "Mercedes-Benz Sprinter",
-    "Kazerne": "Heerhugowaard",
-    "Adres": "Zuidtangent 3, 1702VR, Heerhugowaard"
-  },
-  {
-    "Regio": "10",
     "Roepnummer": "10-6302",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
@@ -25474,8 +25455,10 @@
   {
     "Regio": "13",
     "Roepnummer": "13-2231",
+    "Kenteken": "15-BDJ-8",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Zebra",
     "Adres": "IJdoornlaan 60, 1024KV, Amsterdam"
   },
@@ -25608,7 +25591,7 @@
   {
     "Regio": "13",
     "Roepnummer": "13-3331",
-    "Kenteken": "41-BND-4",
+    "Kenteken": "09-BZB-8",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
     "Merk (& Type)": "Mercedes-Benz Atego",
@@ -25800,10 +25783,54 @@
   },
   {
     "Regio": "13",
+    "Roepnummer": "13-4501",
+    "Kenteken": "GB-082-V",
+    "Type": "DB",
+    "Omschrijving": "Dienstbus",
+    "Toevoeging": "Tevens 13-4521 VKE",
+    "Merk (& Type)": "Volkswagen Transporter",
+    "Kazerne": "Weesp",
+    "Adres": "Aetsveldselaan 65, 1381CZ, Weesp"
+  },
+  {
+    "Regio": "13",
+    "Roepnummer": "13-4502",
+    "Kenteken": "HST-41-L",
+    "Type": "DB",
+    "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Ford",
+    "Kazerne": "Weesp",
+    "Adres": "Aetsveldselaan 65, 1381CZ, Weesp"
+  },
+  {
+    "Regio": "13",
     "Roepnummer": "13-4531",
-    "Type": "TS-6",
-    "Omschrijving": "Tankautospuit 6 mans bezetting",
-    "Kazerne": "Weesp"
+    "Kenteken": "41-BND-4",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Mercedes-Benz Atego",
+    "Kazerne": "Weesp",
+    "Adres": "Aetsveldselaan 65, 1381CZ, Weesp"
+  },
+  {
+    "Regio": "13",
+    "Roepnummer": "13-4531",
+    "Kenteken": "41-BND-4",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Mercedes-Benz Atego",
+    "Kazerne": "Weesp",
+    "Adres": "Aetsveldselaan 65, 1381CZ, Weesp"
+  },
+  {
+    "Regio": "13",
+    "Roepnummer": "13-4532",
+    "Kenteken": "BV-VL-80",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Mercedes-Benz Atego",
+    "Kazerne": "Weesp",
+    "Adres": "Aetsveldselaan 65, 1381CZ, Weesp"
   },
   {
     "Regio": "13",
@@ -26083,8 +26110,8 @@
     "Type": "MCU",
     "Omschrijving": "Mobiele Commando Unit",
     "Merk (& Type)": "Mercedes-Benz",
-    "Kazerne": "Diemen",
-    "Adres": "D.J. Den Hartoglaan 2, 1111ZC, Diemen"
+    "Kazerne": "Weesp",
+    "Adres": "Aetsveldselaan 65, 1381CZ, Weesp"
   },
   {
     "Regio": "13",
@@ -26121,6 +26148,15 @@
     "Type": "DA",
     "Omschrijving": "Dienstauto",
     "Kazerne": "Hoofdkantoor"
+  },
+  {
+    "Regio": "13",
+    "Roepnummer": "13-9097",
+    "Kenteken": "Z-846-NR",
+    "Type": "DB-IM",
+    "Omschrijving": "Dienstbus - Informatie Manager",
+    "Merk (& Type)": "Volkswagen Transporter",
+    "Kazerne": "Regionaal"
   },
   {
     "Regio": "13",
@@ -26227,6 +26263,16 @@
     "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Pier Afrika Logistiek / Wagen Park",
     "Adres": "Pier Afrika 8, 1013BK, Amsterdam"
+  },
+  {
+    "Regio": "13",
+    "Roepnummer": "13-9235",
+    "Kenteken": "BZ-PZ-41",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Mercedes-Benz Atego",
+    "Kazerne": "Weesp",
+    "Adres": "Aetsveldselaan 65, 1381CZ, Weesp"
   },
   {
     "Regio": "13",
@@ -26748,30 +26794,6 @@
   },
   {
     "Regio": "14",
-    "Roepnummer": "14-1701",
-    "Type": "PM",
-    "Omschrijving": "Personeel/Materieelvoertuig",
-    "Kazerne": "Weesp",
-    "Adres": "Aetsveldselaan 65, 1381CZ, Weesp"
-  },
-  {
-    "Regio": "14",
-    "Roepnummer": "14-1702",
-    "Type": "DB",
-    "Omschrijving": "Dienstbus",
-    "Kazerne": "Weesp",
-    "Adres": "Aetsveldselaan 65, 1381CZ, Weesp"
-  },
-  {
-    "Regio": "14",
-    "Roepnummer": "14-1732",
-    "Type": "TS",
-    "Omschrijving": "Tankautospuit",
-    "Kazerne": "Weesp",
-    "Adres": "Aetsveldselaan 65, 1381CZ, Weesp"
-  },
-  {
-    "Regio": "14",
     "Roepnummer": "14-2091",
     "Kenteken": "R-616-LZ",
     "Type": "DA-OVD",
@@ -27186,14 +27208,6 @@
   },
   {
     "Regio": "14",
-    "Roepnummer": "14-7032",
-    "Type": "TS-RES",
-    "Omschrijving": "Tankautospuit-Reserve",
-    "Kazerne": "Weesp",
-    "Adres": "Aetsveldselaan 65, 1381CZ, Weesp"
-  },
-  {
-    "Regio": "14",
     "Roepnummer": "14-7033",
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
@@ -27263,10 +27277,11 @@
   {
     "Regio": "14",
     "Roepnummer": "14-7054",
+    "Kenteken": "BP-BN-44",
     "Type": "HW",
     "Omschrijving": "Hoogwerker",
-    "Kazerne": "Weesp",
-    "Adres": "Aetsveldselaan 65, 1381CZ, Weesp"
+    "Merk (& Type)": "Scania",
+    "Kazerne": "Regionaal"
   },
   {
     "Regio": "14",
@@ -27310,14 +27325,6 @@
     "Merk (& Type)": "Volvo",
     "Kazerne": "Hilversum",
     "Adres": "Kamerlingh Onnesweg 148, 1223JN, Hilversum"
-  },
-  {
-    "Regio": "14",
-    "Roepnummer": "14-7072",
-    "Type": "HV",
-    "Omschrijving": "Hulpverleningsvoertuig",
-    "Kazerne": "Weesp",
-    "Adres": "Aetsveldselaan 65, 1381CZ, Weesp"
   },
   {
     "Regio": "14",
@@ -27580,6 +27587,14 @@
     "Type": "DA-HOD",
     "Omschrijving": "Dienstauto - Hoofd Officier van Dienst",
     "Kazerne": "Leiding & Co\u00f6rdinatie"
+  },
+  {
+    "Regio": "14",
+    "Roepnummer": "14-9094",
+    "Kenteken": "H-334-HS",
+    "Type": "DB-IM",
+    "Omschrijving": "Dienstbus - Informatie Manager",
+    "Kazerne": "Regionaal"
   },
   {
     "Regio": "14",
@@ -28384,10 +28399,10 @@
   {
     "Regio": "15",
     "Roepnummer": "15-8035",
-    "Kenteken": "BL-HG-50",
+    "Kenteken": "BZ-VT-41",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "DAF FF-65",
+    "Merk (& Type)": "DAF",
     "Kazerne": "Flora Holland",
     "Adres": "Dijkweg 68, 2675AE, Honselersdijk"
   },
@@ -34106,14 +34121,6 @@
   },
   {
     "Regio": "18",
-    "Roepnummer": "18-6602",
-    "Type": "DA",
-    "Omschrijving": "Dienstauto",
-    "Kazerne": "Dordrecht-Leerpark",
-    "Adres": "Prof. Kohnstammlaan 10, 3312KL, Dordrecht"
-  },
-  {
-    "Regio": "18",
     "Roepnummer": "18-6603",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
@@ -35204,12 +35211,12 @@
   {
     "Regio": "18",
     "Roepnummer": "18-9501",
-    "Kenteken": "21-NJS-4",
+    "Kenteken": "K-544-KP",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
     "Merk (& Type)": "Volkswagen Polo",
-    "Kazerne": "Dordrecht-Noordendijk",
-    "Adres": "Noordendijk 252, 3311DN, Dordrecht"
+    "Kazerne": "Oud Beijerland",
+    "Adres": "Aston Martinlaan 20, 3261NB, Oud Beijerland"
   },
   {
     "Regio": "18",
