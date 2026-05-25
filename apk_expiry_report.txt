@@ -1,41 +1,10 @@
-Expired (126):
+Expired (95):
 1-VPJ-15 (19-6502): verlopen op 2022-07-10
 17-BGK-1 (01-0199): verlopen op 2025-10-27
 21-TTT-8 (01-1002): verlopen op 2026-05-22
 31-ZGH-1 (03-8604): verlopen op 2025-01-29
 42-BDZ-4 (06-4931): verlopen op 2025-05-19
 5-TLZ-78 (22-899): verlopen op 2025-05-31
-7-ZSL-98 (07-3403): verlopen op 2026-03-19
-72-NFG-7 (01-806): verlopen op 2024-08-27
-76-PK-GK (06-9882): verlopen op 2026-03-20
-8-KGS-30 (24-3291): verlopen op 2025-05-17
-8-KNN-06 (14-502): verlopen op 2025-07-24
-8-TKN-52 (16-272): verlopen op 2025-04-15
-80-RD-XX (23-5502): verlopen op 2025-02-23
-83-TS-PR (24-2540): verlopen op 2025-01-16
-84-ZK-GT (02-0203): verlopen op 2026-04-11
-88-HRG-6 (09-8098): verlopen op 2026-05-02
-9-KJR-80 (24-3891): verlopen op 2026-03-27
-91-ZJ-KB (02-5693): verlopen op 2025-06-11
-BG-PR-05 (06-8433): verlopen op 2025-10-04
-BG-XH-03 (06-9431): verlopen op 2025-05-24
-BG-ZB-82 (10-4633): verlopen op 2025-07-19
-BG-ZF-37 (01-3083): verlopen op 2026-01-08
-BJ-NZ-67 (20-1045): verlopen op 2026-04-24
-BL-XZ-54 (09-8032): verlopen op 2024-03-30
-BL-ZZ-99 (14-2331): verlopen op 2025-07-05
-BN-HZ-11 (04-2072): verlopen op 2025-04-27
-BN-LH-48 (14-7052): verlopen op 2026-04-08
-BN-LT-64 (03-9783): verlopen op 2026-03-12
-BN-RN-99 (09-2432): verlopen op 2025-10-01
-BN-RR-02 (06-8131): verlopen op 2025-02-17
-BN-XR-49 (15-6831): verlopen op 2026-03-13
-BP-BV-99 (09-5532): verlopen op 2025-03-20
-BP-GZ-94 (03-8834): verlopen op 2025-05-31
-BP-RN-71 (08-9331): verlopen op 2024-11-11
-BP-RX-36 (03-8960): verlopen op 2024-10-12
-BP-SJ-86 (24-5231): verlopen op 2024-08-25
-BP-TS-14 (08-9051): verlopen op 2025-09-19
 BP-ZX-10 (15-7140): verlopen op 2026-03-22
 BR-BV-82 (02-7267): verlopen op 2026-04-20
 BR-DZ-17 (23-5181): verlopen op 2026-05-20
@@ -126,7 +95,7 @@ XH-095-S (15-9601): verlopen op 2026-02-27
 Z-074-PS (21-244): verlopen op 2026-05-24
 ZL-714-H (20-708): verlopen op 2026-04-30
 
-Unknown (290):
+Unknown (289):
 03-BNZ-7 (09-2931)
 03-RN-KJ (09-3101)
 03-VHP-6 (17-2381)
@@ -217,7 +186,6 @@ Unknown (290):
 7-TVD-49 (20-343)
 7-TZG-33 (09-146)
 70-WV-HX (02-64VI)
-71-NFG-7 (01-805)
 71-WG-SG (03-8914)
 71-WV-HX (02-44VIA)
 73-XZL-8 (09-112)

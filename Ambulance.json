@@ -518,6 +518,7 @@
   {
     "Regio": "01",
     "Roepnummer": "01-705",
+    "Kenteken": "H-353-BJ",
     "Omschrijving": "Huisartsenpostvoertuig",
     "Merk": "Mercedes-Benz V-Klasse",
     "Locatie indien vast": "Groningen"
@@ -548,14 +549,15 @@
   {
     "Regio": "01",
     "Roepnummer": "01-802",
-    "Kenteken": "42-KTT-2",
+    "Kenteken": "G-952-RL",
     "Omschrijving": "Officier van Dienst Geneeskunde",
-    "Merk": "Skoda Fabia Combi",
+    "Merk": "Volkswagen T-ROC",
     "Locatie indien vast": "Groningen"
   },
   {
     "Regio": "01",
     "Roepnummer": "01-803",
+    "Kenteken": "G-948-RL",
     "Omschrijving": "Officier van Dienst Geneeskunde",
     "Merk": "Volkswagen T-ROC",
     "Locatie indien vast": "Groningen"
@@ -571,18 +573,10 @@
   {
     "Regio": "01",
     "Roepnummer": "01-805",
-    "Kenteken": "71-NFG-7",
+    "Kenteken": "HB-048-N",
     "Omschrijving": "Officier van Dienst Geneeskunde",
-    "Merk": "Skoda Fabia Combi",
+    "Merk": "Mercedes-Benz V-Klasse",
     "Locatie indien vast": "Groningen"
-  },
-  {
-    "Regio": "01",
-    "Roepnummer": "01-806",
-    "Kenteken": "72-NFG-7",
-    "Omschrijving": "Officier van Dienst Geneeskunde",
-    "Merk": "Skoda Fabia Combi",
-    "Locatie indien vast": "Stadskanaal"
   },
   {
     "Regio": "01",
@@ -1448,6 +1442,14 @@
   },
   {
     "Regio": "10",
+    "Roepnummer": "10-344",
+    "Kenteken": "JTG-50-B",
+    "Omschrijving": "Rapid Responder",
+    "Merk": "BMW X1",
+    "Locatie indien vast": "Den Burg"
+  },
+  {
+    "Regio": "10",
     "Roepnummer": "10-345",
     "Kenteken": "74-TNS-7",
     "Omschrijving": "Rapid Responder",
@@ -1915,13 +1917,6 @@
   },
   {
     "Regio": "14",
-    "Roepnummer": "14-502",
-    "Kenteken": "8-KNN-06",
-    "Omschrijving": "Piketauto",
-    "Merk": "Volkswagen Touran"
-  },
-  {
-    "Regio": "14",
     "Roepnummer": "14-503",
     "Kenteken": "VZD-13-X",
     "Omschrijving": "Rijopleiding",
@@ -2376,14 +2371,6 @@
     "Roepnummer": "16-270",
     "Kenteken": "G-940-GV",
     "Omschrijving": "Zorgambulance",
-    "Merk": "Mercedes-Benz Sprinter",
-    "Locatie indien vast": "Leiden"
-  },
-  {
-    "Regio": "16",
-    "Roepnummer": "16-272",
-    "Kenteken": "8-TKN-52",
-    "Omschrijving": "Middencomplexe Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Leiden"
   },
@@ -4737,14 +4724,6 @@
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Landgraaf"
-  },
-  {
-    "Regio": "24",
-    "Roepnummer": "24-2540",
-    "Kenteken": "83-TS-PR",
-    "Omschrijving": "Brambulance",
-    "Merk": "Mercedes-Benz Sprinter",
-    "Locatie indien vast": "Chemelot Geleen"
   },
   {
     "Regio": "24",
