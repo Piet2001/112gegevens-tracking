@@ -39985,6 +39985,36 @@
   },
   {
     "Regio": "20",
+    "Roepnummer": "20-7001",
+    "Kenteken": "HVB-21-D",
+    "Type": "DA",
+    "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Citro\u00ebn E-C3",
+    "Kazerne": "Waalwijk",
+    "Adres": "Groenstraat 25, 5142EB, Waalwijk"
+  },
+  {
+    "Regio": "20",
+    "Roepnummer": "20-7002",
+    "Kenteken": "HXJ-68-Z",
+    "Type": "DA",
+    "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Citro\u00ebn E-C3",
+    "Kazerne": "Waalwijk",
+    "Adres": "Groenstraat 25, 5142EB, Waalwijk"
+  },
+  {
+    "Regio": "20",
+    "Roepnummer": "20-7003",
+    "Kenteken": "JBK-43-G",
+    "Type": "DB",
+    "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Merdeces-Benz Vito",
+    "Kazerne": "Waalwijk",
+    "Adres": "Groenstraat 25, 5142EB, Waalwijk"
+  },
+  {
+    "Regio": "20",
     "Roepnummer": "20-7004",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
@@ -40017,6 +40047,16 @@
     "Omschrijving": "Tankautospuit-Reserve",
     "Kazerne": "Baarle-Nassau",
     "Adres": "C.A. Bodestraat 2, 5111DP, Baarle-Nassau"
+  },
+  {
+    "Regio": "20",
+    "Roepnummer": "20-7034",
+    "Kenteken": "BP-HF-06",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Mercedes-Benz Atego",
+    "Kazerne": "Waalwijk",
+    "Adres": "Groenstraat 25, 5142EB, Waalwijk"
   },
   {
     "Regio": "20",
@@ -40088,10 +40128,8 @@
   {
     "Regio": "20",
     "Roepnummer": "20-7102",
-    "Kenteken": "1-ZLF-11",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Volkswagen Transporter",
     "Kazerne": "Waalwijk",
     "Adres": "Groenstraat 25, 5142EB, Waalwijk"
   },
@@ -40735,18 +40773,22 @@
   {
     "Regio": "20",
     "Roepnummer": "20-9403",
-    "Type": "PM-VEB",
-    "Omschrijving": "Personeel/Materieelvoertuig - Verkennings Eenheid Brandweer",
-    "Kazerne": "Hilvarenbeek",
-    "Adres": "Hakvoortseweg 4, 5081HA, Hilvarenbeek"
+    "Kenteken": "X-737-BL",
+    "Type": "DA",
+    "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Volvo XC40-Full Electric\r\n",
+    "Kazerne": "Waalwijk",
+    "Adres": "Groenstraat 25, 5142EB, Waalwijk"
   },
   {
     "Regio": "20",
     "Roepnummer": "20-9405",
+    "Kenteken": "VN-782-B",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
-    "Kazerne": "Tilburg-Vossenberg",
-    "Adres": "Pater Geurtjensweg 1, 5047SL, Tilburg"
+    "Merk (& Type)": "Volkswagen Caddy",
+    "Kazerne": "Waalwijk",
+    "Adres": "Groenstraat 25, 5142EB, Waalwijk"
   },
   {
     "Regio": "20",

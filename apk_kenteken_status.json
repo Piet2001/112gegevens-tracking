@@ -10912,13 +10912,6 @@
     "roepnummers": ["20-7101"],
     "last_check_date": "2026-05-23"
   },
-  "1-ZLF-11": {
-    "expiry": "2026-03-23",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": ["20-7102"],
-    "last_check_date": "2026-05-25"
-  },
   "1-ZLF-12": {
     "expiry": "2027-03-23",
     "checked": true,
@@ -17484,5 +17477,47 @@
     "unknown": true,
     "roepnummers": ["20-187"],
     "last_check_date": "2026-05-24"
+  },
+  "HVB-21-D": {
+    "expiry": "2029-06-30",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["20-7001"],
+    "last_check_date": "2026-05-25"
+  },
+  "HXJ-68-Z": {
+    "expiry": "2029-07-31",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["20-7002"],
+    "last_check_date": "2026-05-25"
+  },
+  "JBK-43-G": {
+    "expiry": "2028-09-03",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["20-7003"],
+    "last_check_date": "2026-05-25"
+  },
+  "BP-HF-06": {
+    "expiry": "2027-02-26",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["20-7034"],
+    "last_check_date": "2026-05-25"
+  },
+  "X-737-BL": {
+    "expiry": "2027-11-09",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["20-9403"],
+    "last_check_date": "2026-05-25"
+  },
+  "VN-782-B": {
+    "expiry": "2026-02-24",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["20-9405"],
+    "last_check_date": "2026-05-25"
   }
 }
