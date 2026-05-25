@@ -1,19 +1,9 @@
-Expired (154):
+Expired (144):
 1-VPJ-15 (19-6502): verlopen op 2022-07-10
 17-BGK-1 (01-0199): verlopen op 2025-10-27
 21-TTT-8 (01-1002): verlopen op 2026-05-22
-3-KPG-70 (13-302): verlopen op 2024-05-31
-3-SHG-46 (20-1504): verlopen op 2025-11-27
 31-ZGH-1 (03-8604): verlopen op 2025-01-29
-33-ZL-DK (08-803): verlopen op 2026-05-22
-4-SJP-37 (04-1095): verlopen op 2025-07-02
-42-BBS-8 (17-2131): verlopen op 2026-05-17
 42-BDZ-4 (06-4931): verlopen op 2025-05-19
-43-BT-NN (09-8201): verlopen op 2025-06-29
-44-PRS-7 (25-6105): verlopen op 2026-03-25
-45-PRS-7 (25-6106): verlopen op 2026-01-17
-48-PRS-7 (25-6107): verlopen op 2026-03-25
-5-SRD-07 (16-251): verlopen op 2025-12-03
 5-TLZ-78 (22-899): verlopen op 2025-05-31
 50-BJF-7 (15-5481): verlopen op 2025-02-20
 52-GJX-9 (02-7203): verlopen op 2025-07-18
@@ -154,7 +144,7 @@ Z-074-PS (21-244): verlopen op 2026-05-24
 ZG-420-Z (23-119): verlopen op 2026-05-24
 ZL-714-H (20-708): verlopen op 2026-04-30
 
-Unknown (302):
+Unknown (301):
 03-BNZ-7 (09-2931)
 03-RN-KJ (09-3101)
 03-VHP-6 (17-2381)
@@ -185,7 +175,6 @@ Unknown (302):
 25-MH-TH (01-322)
 25-NLK-1 (18-9407)
 26-WK-ZK (02-56MSA)
-27-PBV-5 (13-301)
 27-TGL-5 (09-124)
 29-TVK-4 (24-712)
 3-KJV-50 (17-107)

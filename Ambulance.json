@@ -332,7 +332,7 @@
     "Roepnummer": "01-206",
     "Kenteken": "K-966-PL",
     "Omschrijving": "Middencomplexe Ambulance",
-    "Merk": "Mercedes-Benz Spritn"
+    "Merk": "Mercedes-Benz Sprinter"
   },
   {
     "Regio": "01",
@@ -1129,9 +1129,9 @@
   {
     "Regio": "08",
     "Roepnummer": "08-803",
-    "Kenteken": "33-ZL-DK",
+    "Kenteken": "P-558-HL",
     "Omschrijving": "Officier van Dienst Geneeskunde",
-    "Merk": "Nissan"
+    "Merk": "Mercedes-Benz Vito"
   },
   {
     "Regio": "09",
@@ -1703,22 +1703,18 @@
   {
     "Regio": "13",
     "Roepnummer": "13-301",
-    "Kenteken": "27-PBV-5",
+    "Kenteken": "N-579-BK",
     "Omschrijving": "Mobiele Intensive Care Unit",
-    "Merk": "Volvo"
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Amsterdam"
   },
   {
     "Regio": "13",
-    "Roepnummer": "13-302",
-    "Kenteken": "3-KPG-70",
-    "Omschrijving": "Mobiele Intensive Care Unit",
-    "Merk": "Volvo"
-  },
-  {
-    "Regio": "13",
-    "Roepnummer": "13-340",
-    "Omschrijving": "Special Operations Respons Team",
-    "Merk": "Ford"
+    "Roepnummer": "13-341",
+    "Kenteken": "J-154-HP",
+    "Omschrijving": "Rapid Responder",
+    "Merk": "Mercedes-Benz Vito",
+    "Locatie indien vast": "Amsterdam"
   },
   {
     "Regio": "13",
@@ -1727,6 +1723,14 @@
     "Omschrijving": "Rapid Responder",
     "Merk": "Mercedes-Benz Vito",
     "Locatie indien vast": "Karperweg"
+  },
+  {
+    "Regio": "13",
+    "Roepnummer": "13-343",
+    "Kenteken": "J-705-JS",
+    "Omschrijving": "Rapid Responder",
+    "Merk": "Mercedes-Benz Vito",
+    "Locatie indien vast": "Amsterdam"
   },
   {
     "Regio": "13",
@@ -1765,6 +1769,14 @@
     "Regio": "13",
     "Roepnummer": "13-415",
     "Omschrijving": "Zorgambulance"
+  },
+  {
+    "Regio": "13",
+    "Roepnummer": "13-591",
+    "Kenteken": "J-704-JS",
+    "Omschrijving": "Special Operations Respons Team",
+    "Merk": "Ford",
+    "Locatie indien vast": "Statenjachtstraat "
   },
   {
     "Regio": "13",
@@ -2354,15 +2366,7 @@
   {
     "Regio": "16",
     "Roepnummer": "16-250",
-    "Kenteken": "G-473-LN",
-    "Omschrijving": "Middencomplexe Ambulance",
-    "Merk": "Mercedes-Benz Vito",
-    "Locatie indien vast": "Gouda"
-  },
-  {
-    "Regio": "16",
-    "Roepnummer": "16-251",
-    "Kenteken": "5-SRD-07",
+    "Kenteken": "HKZ-35-G",
     "Omschrijving": "Middencomplexe Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Gouda"
@@ -2382,6 +2386,14 @@
     "Omschrijving": "Middencomplexe Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Leiden"
+  },
+  {
+    "Regio": "16",
+    "Roepnummer": "16-281",
+    "Kenteken": "G-473-LN",
+    "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Leiderdorp"
   },
   {
     "Regio": "16",

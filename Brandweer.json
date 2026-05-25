@@ -7157,11 +7157,11 @@
   {
     "Regio": "04",
     "Roepnummer": "04-1095",
-    "Kenteken": "4-SJP-37",
-    "Type": "DAT-OVD",
-    "Omschrijving": "Dienstauto-Terreinvaardig - Officier van Dienst",
+    "Kenteken": "H-237-ZL",
+    "Type": "DV-OVD",
+    "Omschrijving": "Dienstvoertuig - Officier van Dienst",
     "Toevoeging": "Oost",
-    "Merk (& Type)": "Toyota",
+    "Merk (& Type)": "Volkswagen Tiguan",
     "Kazerne": "Regionaal"
   },
   {
@@ -20303,7 +20303,7 @@
   {
     "Regio": "09",
     "Roepnummer": "09-8201",
-    "Kenteken": "43-BT-NN",
+    "Kenteken": "65-SXX-1",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
     "Merk (& Type)": "Volkswagen Caddy",
@@ -31535,10 +31535,10 @@
   {
     "Regio": "17",
     "Roepnummer": "17-2131",
-    "Kenteken": "42-BBS-8",
+    "Kenteken": "BB-248-V",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Volvo",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Don Berghuijs",
     "Adres": "Butaanweg 251, 3196KC, Rotterdam"
   },
@@ -38878,10 +38878,10 @@
   {
     "Regio": "20",
     "Roepnummer": "20-1504",
-    "Kenteken": "3-SHG-46",
+    "Kenteken": "HJG-10-L",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Volkswagen Transporter",
+    "Merk (& Type)": "Citro\u00ebn",
     "Kazerne": "Halsteren",
     "Adres": "Nijverheidsweg 4, 4661VM, Halsteren"
   },
@@ -48532,30 +48532,20 @@
   {
     "Regio": "25",
     "Roepnummer": "25-6105",
-    "Kenteken": "44-PRS-7",
+    "Kenteken": "JD-161-P",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Merk (& Type)": "Ford",
+    "Merk (& Type)": "Volkswagen Polo",
     "Kazerne": "Nagele",
     "Adres": "Eggestraat 4, 8308AB, Nagele"
   },
   {
     "Regio": "25",
-    "Roepnummer": "25-6106",
-    "Kenteken": "45-PRS-7",
-    "Type": "DA",
-    "Omschrijving": "Dienstauto",
-    "Merk (& Type)": "Ford",
-    "Kazerne": "Creil",
-    "Adres": "Graaf Florislaan 25, 8312AW, Creil"
-  },
-  {
-    "Regio": "25",
     "Roepnummer": "25-6107",
-    "Kenteken": "48-PRS-7",
+    "Kenteken": "1-KLH-08",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Merk (& Type)": "Ford",
+    "Merk (& Type)": "Volkswagen Polo",
     "Kazerne": "Rutten",
     "Adres": "Binnendoor 14, 8313AJ, Rutten"
   },
