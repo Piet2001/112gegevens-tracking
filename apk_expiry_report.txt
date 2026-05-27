@@ -1,4 +1,5 @@
 Expired (43):
+12-BVR-4 (01-3050): verlopen op 2026-05-26
 17-BGK-1 (01-0199): verlopen op 2025-10-27
 21-TTT-8 (01-1002): verlopen op 2026-05-22
 42-BDZ-4 (06-4931): verlopen op 2025-05-19
@@ -40,7 +41,6 @@ TH-538-P (06-123): verlopen op 2025-10-03
 TJ-999-B (07-120): verlopen op 2025-09-02
 TL-535-F (06-124): verlopen op 2025-10-02
 TZ-215-J (01-123): verlopen op 2025-11-14
-Z-074-PS (21-244): verlopen op 2026-05-24
 ZL-714-H (20-708): verlopen op 2026-04-30
 
 Unknown (287):
