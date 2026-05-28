@@ -88,10 +88,10 @@
   {
     "Regio": "01",
     "Roepnummer": "01-0107",
-    "Kenteken": "VH-381-J",
+    "Kenteken": "V-44-PGT",
     "Type": "PM-LO",
     "Omschrijving": "Personeel/Materieelvoertuig - Logistiek&Verzorging",
-    "Merk (& Type)": "Volkswagen Crafter",
+    "Merk (& Type)": "Toyota Pro Ace-Max",
     "Kazerne": "Groningen Sontweg",
     "Adres": "Sontweg 10, 9723AT, Groningen"
   },
@@ -31252,6 +31252,25 @@
     "Roepnummer": "17-2331",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
+    "Kazerne": "Rockanje",
+    "Adres": "Kerkweg 10, 3235XL, Rockanje"
+  },
+  {
+    "Regio": "17",
+    "Roepnummer": "17-2340",
+    "Kenteken": "66-WN-HV",
+    "Type": "BMA-NWS",
+    "Omschrijving": "Bijzonder Materieel Aanhanger - Natuurbrandbestrijding Waterscherm",
+    "Kazerne": "Rockanje",
+    "Adres": "Kerkweg 10, 3235XL, Rockanje"
+  },
+  {
+    "Regio": "17",
+    "Roepnummer": "17-2341",
+    "Kenteken": "V-04-PHL",
+    "Type": "VKT-NB",
+    "Omschrijving": "Verkenningsvoertuig Terreinvaardig - Natuurbrandbestrijding",
+    "Merk (& Type)": "Toyota",
     "Kazerne": "Rockanje",
     "Adres": "Kerkweg 10, 3235XL, Rockanje"
   },

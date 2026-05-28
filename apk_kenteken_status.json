@@ -62,13 +62,6 @@
     "roepnummers": ["01-0106"],
     "last_check_date": "2026-05-23"
   },
-  "VH-381-J": {
-    "expiry": "2027-02-26",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": ["01-0107"],
-    "last_check_date": "2026-05-23"
-  },
   "JVZ-38-H": {
     "expiry": "2030-02-04",
     "checked": true,
@@ -17610,5 +17603,26 @@
     "unknown": false,
     "roepnummers": ["23-2131"],
     "last_check_date": "2026-05-26"
+  },
+  "V-44-PGT": {
+    "expiry": "2029-04-08",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["01-0107"],
+    "last_check_date": "2026-05-28"
+  },
+  "66-WN-HV": {
+    "expiry": "None",
+    "checked": true,
+    "unknown": true,
+    "roepnummers": ["17-2340"],
+    "last_check_date": "2026-05-28"
+  },
+  "V-04-PHL": {
+    "expiry": "2029-05-04",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["17-2341"],
+    "last_check_date": "2026-05-28"
   }
 }
