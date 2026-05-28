@@ -45171,8 +45171,10 @@
   {
     "Regio": "23",
     "Roepnummer": "23-4451",
+    "Kenteken": "BV-HR-55",
     "Type": "AL",
     "Omschrijving": "Autoladder",
+    "Merk (& Type)": "DAF",
     "Kazerne": "Weert",
     "Adres": "De Savornin Lohmanstraat 8, 6004AM, Weert"
   },
@@ -45305,7 +45307,7 @@
   {
     "Regio": "23",
     "Roepnummer": "23-4631",
-    "Kenteken": "BX-NB-03",
+    "Kenteken": "BB-483-Z",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
     "Merk (& Type)": "Mercedes-Benz",

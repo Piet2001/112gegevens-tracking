@@ -688,6 +688,13 @@
   },
   {
     "Regio": "03",
+    "Roepnummer": "03-138",
+    "Kenteken": "R-847-FK",
+    "Omschrijving": "Ambulance",
+    "Merk": "MAN"
+  },
+  {
+    "Regio": "03",
     "Roepnummer": "03-172",
     "Kenteken": "GD-415-P",
     "Omschrijving": "Reserve ambulance",

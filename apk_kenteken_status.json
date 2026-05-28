@@ -12375,13 +12375,6 @@
     "roepnummers": ["23-4602"],
     "last_check_date": "2026-05-23"
   },
-  "BX-NB-03": {
-    "expiry": "2027-05-27",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": ["23-4631"],
-    "last_check_date": "2026-05-23"
-  },
   "45-BPR-3": {
     "expiry": "2026-07-10",
     "checked": true,
@@ -17623,6 +17616,27 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["17-2341"],
+    "last_check_date": "2026-05-28"
+  },
+  "BV-HR-55": {
+    "expiry": "2026-08-28",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["23-4451"],
+    "last_check_date": "2026-05-28"
+  },
+  "BB-483-Z": {
+    "expiry": "2026-12-17",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["23-4631"],
+    "last_check_date": "2026-05-28"
+  },
+  "R-847-FK": {
+    "expiry": "2026-08-09",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["03-138"],
     "last_check_date": "2026-05-28"
   }
 }
