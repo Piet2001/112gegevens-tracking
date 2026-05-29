@@ -1,5 +1,4 @@
-Expired (43):
-12-BVR-4 (01-3050): verlopen op 2026-05-26
+Expired (42):
 17-BGK-1 (01-0199): verlopen op 2025-10-27
 21-TTT-8 (01-1002): verlopen op 2026-05-22
 42-BDZ-4 (06-4931): verlopen op 2025-05-19
