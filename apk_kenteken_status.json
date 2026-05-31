@@ -17687,5 +17687,12 @@
     "unknown": false,
     "roepnummers": ["25-127"],
     "last_check_date": "2026-05-30"
+  },
+  "BD-098-H": {
+    "expiry": "2027-03-19",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["04-1234"],
+    "last_check_date": "2026-05-31"
   }
 }

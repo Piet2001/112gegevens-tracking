@@ -7143,8 +7143,10 @@
   {
     "Regio": "04",
     "Roepnummer": "04-1234",
+    "Kenteken": "BD-098-H",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Giethoorn",
     "Adres": "Bartus Warnersweg 1, 8355CZ, Giethoorn"
   },
