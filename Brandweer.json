@@ -14193,8 +14193,10 @@
   {
     "Regio": "07",
     "Roepnummer": "07-2771",
+    "Kenteken": "BB-781-Z",
     "Type": "HV",
     "Omschrijving": "Hulpverleningsvoertuig",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Ede-Centrum",
     "Adres": "Breelaan 4, 6711MR, Ede"
   },
@@ -16037,10 +16039,10 @@
   {
     "Regio": "07",
     "Roepnummer": "28-2291",
-    "Kenteken": "18-KP-17",
+    "Kenteken": "D-774-MB",
     "Type": "DA-OVD",
     "Omschrijving": "Dienstauto - Officier van Dienst",
-    "Merk (& Type)": "Nissan Pathfinder 4WD",
+    "Merk (& Type)": "Landrover Defender",
     "Kazerne": "ISK Harskamp",
     "Adres": "Otterloseweg, 6732BS, Harskamp"
   },
@@ -25390,8 +25392,10 @@
   {
     "Regio": "13",
     "Roepnummer": "13-4131",
+    "Kenteken": "BB-608-Z",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Anton",
     "Adres": "Langbroekdreef 10, 1108EB, Amsterdam"
   },
@@ -32445,10 +32449,10 @@
   {
     "Regio": "17",
     "Roepnummer": "17-9180",
-    "Kenteken": "BN-SH-98",
+    "Kenteken": "BZ-HJ-23",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
-    "Merk (& Type)": "Volvo FM9.340",
+    "Merk (& Type)": "DAF",
     "Kazerne": "Frobenstraat",
     "Adres": "Frobenstraat 8, 3045RD, Rotterdam"
   },
@@ -32475,7 +32479,7 @@
   {
     "Regio": "17",
     "Roepnummer": "17-9184",
-    "Kenteken": "BZ-HJ-23",
+    "Kenteken": "50-BSF-7",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
     "Merk (& Type)": "Volvo",
@@ -32718,9 +32722,19 @@
   },
   {
     "Regio": "17",
+    "Roepnummer": "17-9280",
+    "Type": "SA-H",
+    "Omschrijving": "(Nood)Stroom\u00a0Aggregaat\u00a0(haakarmbak)",
+    "Kazerne": "Frobenstraat",
+    "Adres": "Frobenstraat 8, 3045RD, Rotterdam"
+  },
+  {
+    "Regio": "17",
     "Roepnummer": "17-9281",
+    "Kenteken": "BP-TB-89",
     "Type": "HA-KR",
     "Omschrijving": "Haakarmvoertuig met Kraan",
+    "Merk (& Type)": "DAF LF",
     "Kazerne": "Frobenstraat",
     "Adres": "Frobenstraat 8, 3045RD, Rotterdam"
   },
@@ -45034,8 +45048,10 @@
   {
     "Regio": "23",
     "Roepnummer": "23-4231",
+    "Kenteken": "38-BBG-6",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Roggel",
     "Adres": "Heverstraat 9, 6088BG, Roggel"
   },

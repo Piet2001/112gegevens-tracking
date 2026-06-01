@@ -5669,13 +5669,6 @@
     "roepnummers": ["28-2281"],
     "last_check_date": "2026-05-30"
   },
-  "18-KP-17": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": ["28-2291"],
-    "last_check_date": "2026-05-30"
-  },
   "KK-792-Z": {
     "expiry": "2026-11-14",
     "checked": true,
@@ -8763,13 +8756,6 @@
     "roepnummers": ["17-9099"],
     "last_check_date": "2026-05-23"
   },
-  "BN-SH-98": {
-    "expiry": "2026-07-08",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": ["17-9180"],
-    "last_check_date": "2026-05-23"
-  },
   "BZ-HL-69": {
     "expiry": "2026-07-21",
     "checked": true,
@@ -8788,7 +8774,7 @@
     "expiry": "2027-07-13",
     "checked": true,
     "unknown": false,
-    "roepnummers": ["17-9184"],
+    "roepnummers": ["17-9180"],
     "last_check_date": "2026-05-23"
   },
   "VX-39-NN": {
@@ -17694,5 +17680,47 @@
     "unknown": false,
     "roepnummers": ["04-1234"],
     "last_check_date": "2026-05-31"
+  },
+  "BB-781-Z": {
+    "expiry": "2027-01-28",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["07-2771"],
+    "last_check_date": "2026-06-01"
+  },
+  "D-774-MB": {
+    "expiry": null,
+    "checked": true,
+    "unknown": true,
+    "roepnummers": ["28-2291"],
+    "last_check_date": "2026-06-01"
+  },
+  "BB-608-Z": {
+    "expiry": "2026-12-18",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["13-4131"],
+    "last_check_date": "2026-06-01"
+  },
+  "50-BSF-7": {
+    "expiry": "2026-10-29",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["17-9184"],
+    "last_check_date": "2026-06-01"
+  },
+  "BP-TB-89": {
+    "expiry": "2027-05-08",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["17-9281"],
+    "last_check_date": "2026-06-01"
+  },
+  "38-BBG-6": {
+    "expiry": "2026-10-31",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["23-4231"],
+    "last_check_date": "2026-06-01"
   }
 }
