@@ -179,7 +179,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["01-0199"],
-    "last_check_date": "2026-06-02"
+    "last_check_date": "2026-06-03"
   },
   "J-922-SX": {
     "expiry": "2027-10-24",
@@ -214,7 +214,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["01-1002"],
-    "last_check_date": "2026-06-02"
+    "last_check_date": "2026-06-03"
   },
   "ZB-105-K": {
     "expiry": "2027-05-29",
@@ -1894,14 +1894,14 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["02-4901"],
-    "last_check_date": "2026-05-23"
+    "last_check_date": "2026-06-03"
   },
   "VRD-85-D": {
     "expiry": "2026-06-02",
     "checked": true,
     "unknown": false,
     "roepnummers": ["02-4902"],
-    "last_check_date": "2026-05-23"
+    "last_check_date": "2026-06-03"
   },
   "95-BDL-7": {
     "expiry": "2026-12-21",
@@ -4680,7 +4680,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["06-3141"],
-    "last_check_date": "2026-05-23"
+    "last_check_date": "2026-06-03"
   },
   "JTP-29-H": {
     "expiry": "2030-03-26",
@@ -4771,7 +4771,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["06-4931"],
-    "last_check_date": "2026-06-02"
+    "last_check_date": "2026-06-03"
   },
   "BD-173-H": {
     "expiry": "2027-04-07",
@@ -5933,7 +5933,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["08-9014"],
-    "last_check_date": "2026-05-23"
+    "last_check_date": "2026-06-03"
   },
   "48-VX-KG": {
     "expiry": "2026-07-08",
@@ -8796,7 +8796,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["17-9198"],
-    "last_check_date": "2026-05-23"
+    "last_check_date": "2026-06-03"
   },
   "91-BFV-5": {
     "expiry": "2027-01-23",
@@ -13941,7 +13941,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["10-135"],
-    "last_check_date": "2026-06-02"
+    "last_check_date": "2026-06-03"
   },
   "JZ-236-N": {
     "expiry": null,
@@ -14630,11 +14630,11 @@
     "last_check_date": "2026-05-23"
   },
   "J-358-HR": {
-    "expiry": "2026-06-02",
+    "expiry": "2027-06-02",
     "checked": true,
     "unknown": false,
     "roepnummers": ["17-408"],
-    "last_check_date": "2026-05-23"
+    "last_check_date": "2026-06-03"
   },
   "J-370-HR": {
     "expiry": "2026-08-04",
@@ -14865,7 +14865,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["20-708"],
-    "last_check_date": "2026-06-02"
+    "last_check_date": "2026-06-03"
   },
   "ZL-716-H": {
     "expiry": "2027-04-04",
@@ -15243,7 +15243,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["22-899"],
-    "last_check_date": "2026-06-02"
+    "last_check_date": "2026-06-03"
   },
   "K-281-HP": {
     "expiry": "2026-12-23",
@@ -16153,7 +16153,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["21-122"],
-    "last_check_date": "2026-06-02"
+    "last_check_date": "2026-06-03"
   },
   "GFF-06-F": {
     "expiry": "2027-03-31",
