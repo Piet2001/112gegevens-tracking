@@ -535,9 +535,9 @@
   {
     "Regio": "01",
     "Roepnummer": "01-707",
-    "Kenteken": "15-XS-GZ",
+    "Kenteken": "HB-046-N",
     "Omschrijving": "Huisartsenpostvoertuig",
-    "Merk": "Mercedes-Benz Vario"
+    "Merk": "Mercedes-Benz V-Klasse"
   },
   {
     "Regio": "01",
@@ -1749,7 +1749,7 @@
   {
     "Regio": "13",
     "Roepnummer": "13-177",
-    "Kenteken": "08-TGN-10",
+    "Kenteken": "H-879-TG",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Amstelveen"
@@ -2214,7 +2214,7 @@
   {
     "Regio": "15",
     "Roepnummer": "15-211",
-    "Kenteken": "12-ZJS-2",
+    "Kenteken": "P-002-DV",
     "Omschrijving": "Middencomplexe Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Waldorpstraat"

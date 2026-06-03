@@ -18617,7 +18617,7 @@
   {
     "Regio": "09",
     "Roepnummer": "09-2931",
-    "Kenteken": "03-BNZ-7",
+    "Kenteken": "03-BNX-7",
     "Type": "TS-7",
     "Omschrijving": "Tankautospuit 7 mans bezetting",
     "Merk (& Type)": "Mercedes-Benz",
@@ -18669,10 +18669,10 @@
   {
     "Regio": "09",
     "Roepnummer": "09-3101",
-    "Kenteken": "03-RN-KJ",
+    "Kenteken": "P-343-JF",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Volkswagen Transporter",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Elst",
     "Adres": "Rijksstraatweg 104, 3921AL, Elst"
   },
@@ -31272,16 +31272,6 @@
   },
   {
     "Regio": "17",
-    "Roepnummer": "17-2381",
-    "Kenteken": "03-VHP-6",
-    "Type": "DB",
-    "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Hyundai H1 Starex",
-    "Kazerne": "Rockanje",
-    "Adres": "Kerkweg 10, 3235XL, Rockanje"
-  },
-  {
-    "Regio": "17",
     "Roepnummer": "17-2431",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
@@ -33419,16 +33409,6 @@
     "Type": "DB",
     "Omschrijving": "Dienstbus",
     "Merk (& Type)": "Mercedes-Benz Sprinter Tourer",
-    "Kazerne": "Zwijndrecht",
-    "Adres": "Develsingel 17, 3333LD, Zwijndrecht"
-  },
-  {
-    "Regio": "18",
-    "Roepnummer": "18-6302",
-    "Kenteken": "08-ZR-KD",
-    "Type": "DB",
-    "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Volkswagen Transporter",
     "Kazerne": "Zwijndrecht",
     "Adres": "Develsingel 17, 3333LD, Zwijndrecht"
   },
@@ -42616,16 +42596,6 @@
     "Merk (& Type)": "Volkswagen Transporter",
     "Kazerne": "Nuenen",
     "Adres": "Dwerspad 20, 5671GT, Neunen"
-  },
-  {
-    "Regio": "22",
-    "Roepnummer": "22-3801",
-    "Kenteken": "17-TFG-4",
-    "Type": "DA",
-    "Omschrijving": "Dienstauto",
-    "Merk (& Type)": "Volkswagen Touran",
-    "Kazerne": "Oirschot",
-    "Adres": "Kempenweg 1, 5688MZ, Oirschot"
   },
   {
     "Regio": "22",
