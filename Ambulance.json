@@ -1421,13 +1421,6 @@
   },
   {
     "Regio": "10",
-    "Roepnummer": "10-135",
-    "Kenteken": "TD-469-Z",
-    "Omschrijving": "Ambulance",
-    "Merk": "Mercedes-Benz Sprinter"
-  },
-  {
-    "Regio": "10",
     "Roepnummer": "10-181",
     "Omschrijving": "Ambulance",
     "Locatie indien vast": "Alkmaar / De Mossel"
@@ -3308,9 +3301,7 @@
   {
     "Regio": "20",
     "Roepnummer": "20-708",
-    "Kenteken": "ZL-714-H",
     "Omschrijving": "Huisartsenpostvoertuig",
-    "Merk": "Volvo XC40",
     "Locatie indien vast": "HAP Tilburg-Noord"
   },
   {
@@ -4125,14 +4116,6 @@
     "Omschrijving": "Officier van Dienst Geneeskunde",
     "Merk": "Volkswagen Touran",
     "Locatie indien vast": "Helmond"
-  },
-  {
-    "Regio": "22",
-    "Roepnummer": "22-899",
-    "Kenteken": "5-TLZ-78",
-    "Omschrijving": "Co\u00f6rdinatie GHOR",
-    "Merk": "Volkswagen Touran",
-    "Locatie indien vast": "Eindhoven-Noord"
   },
   {
     "Regio": "23",

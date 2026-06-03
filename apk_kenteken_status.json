@@ -174,13 +174,6 @@
     "roepnummers": ["01-0196"],
     "last_check_date": "2026-05-23"
   },
-  "17-BGK-1": {
-    "expiry": "2025-10-27",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": ["01-0199"],
-    "last_check_date": "2026-06-03"
-  },
   "J-922-SX": {
     "expiry": "2027-10-24",
     "checked": true,
@@ -208,13 +201,6 @@
     "unknown": false,
     "roepnummers": ["01-1001"],
     "last_check_date": "2026-05-23"
-  },
-  "21-TTT-8": {
-    "expiry": "2026-05-22",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": ["01-1002"],
-    "last_check_date": "2026-06-03"
   },
   "ZB-105-K": {
     "expiry": "2027-05-29",
@@ -4765,13 +4751,6 @@
     "unknown": false,
     "roepnummers": ["06-4831"],
     "last_check_date": "2026-05-23"
-  },
-  "42-BDZ-4": {
-    "expiry": "2025-05-19",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": ["06-4931"],
-    "last_check_date": "2026-06-03"
   },
   "BD-173-H": {
     "expiry": "2027-04-07",
@@ -13936,13 +13915,6 @@
     "roepnummers": ["10-101"],
     "last_check_date": "2026-05-23"
   },
-  "TD-469-Z": {
-    "expiry": "2025-09-26",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": ["10-135"],
-    "last_check_date": "2026-06-03"
-  },
   "JZ-236-N": {
     "expiry": null,
     "checked": true,
@@ -14860,13 +14832,6 @@
     "roepnummers": ["20-704"],
     "last_check_date": "2026-05-30"
   },
-  "ZL-714-H": {
-    "expiry": "2026-04-30",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": ["20-708"],
-    "last_check_date": "2026-06-03"
-  },
   "ZL-716-H": {
     "expiry": "2027-04-04",
     "checked": true,
@@ -15237,13 +15202,6 @@
     "unknown": true,
     "roepnummers": ["22-807"],
     "last_check_date": "2026-05-30"
-  },
-  "5-TLZ-78": {
-    "expiry": "2025-05-31",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": ["22-899"],
-    "last_check_date": "2026-06-03"
   },
   "K-281-HP": {
     "expiry": "2026-12-23",
@@ -17722,5 +17680,19 @@
     "unknown": false,
     "roepnummers": ["23-4231"],
     "last_check_date": "2026-06-01"
+  },
+  "17-BGX-1": {
+    "expiry": "2027-02-17",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["01-0199"],
+    "last_check_date": "2026-06-03"
+  },
+  "42-BZD-4": {
+    "expiry": "2026-07-31",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["06-4931"],
+    "last_check_date": "2026-06-03"
   }
 }

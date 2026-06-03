@@ -258,7 +258,7 @@
   {
     "Regio": "01",
     "Roepnummer": "01-0199",
-    "Kenteken": "17-BGK-1",
+    "Kenteken": "17-BGX-1",
     "Type": "CO-MU",
     "Omschrijving": "Multi Commando Unit",
     "Merk (& Type)": "MAN TGM 26.290BL",
@@ -297,16 +297,6 @@
     "Regio": "01",
     "Roepnummer": "01-1001",
     "Kenteken": "08-SLT-4",
-    "Type": "DA",
-    "Omschrijving": "Dienstauto",
-    "Merk (& Type)": "Volkswagen Golf",
-    "Kazerne": "Leek",
-    "Adres": "Tolberterstraat 74, 9351BJ, Leek"
-  },
-  {
-    "Regio": "01",
-    "Roepnummer": "01-1002",
-    "Kenteken": "21-TTT-8",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
     "Merk (& Type)": "Volkswagen Golf",
@@ -10600,7 +10590,7 @@
   {
     "Regio": "06",
     "Roepnummer": "06-4931",
-    "Kenteken": "42-BDZ-4",
+    "Kenteken": "42-BZD-4",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
     "Merk (& Type)": "Volvo FE 320",

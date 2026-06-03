@@ -1,16 +1,10 @@
-Expired (12):
-17-BGK-1 (01-0199): verlopen op 2025-10-27
-21-TTT-8 (01-1002): verlopen op 2026-05-22
-42-BDZ-4 (06-4931): verlopen op 2025-05-19
-5-TLZ-78 (22-899): verlopen op 2025-05-31
+Expired (6):
 62-VJD-9 (08-9014): verlopen op 2026-06-02
 BB-570-H (06-3141): verlopen op 2026-06-02
 NZ-913-T (17-9198): verlopen op 2026-06-02
-TD-469-Z (10-135): verlopen op 2025-09-26
 VRD-85-D (02-4902): verlopen op 2026-06-02
 VRD-95-D (02-4901): verlopen op 2026-06-02
 Z-691-RH (21-122): verlopen op 2026-05-30
-ZL-714-H (20-708): verlopen op 2026-04-30
 
 Unknown (286):
 03-BNZ-7 (09-2931)
