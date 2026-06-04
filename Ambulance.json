@@ -535,7 +535,6 @@
   {
     "Regio": "01",
     "Roepnummer": "01-707",
-    "Kenteken": "HB-046-N",
     "Omschrijving": "Huisartsenpostvoertuig",
     "Merk": "Mercedes-Benz V-Klasse"
   },
@@ -3887,7 +3886,7 @@
   {
     "Regio": "22",
     "Roepnummer": "22-125",
-    "Kenteken": "T-862-VG",
+    "Kenteken": "T-899-PH",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Helmond"
