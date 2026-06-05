@@ -1880,14 +1880,14 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["02-4901"],
-    "last_check_date": "2026-06-04"
+    "last_check_date": "2026-06-05"
   },
   "VRD-85-D": {
     "expiry": "2026-06-02",
     "checked": true,
     "unknown": false,
     "roepnummers": ["02-4902"],
-    "last_check_date": "2026-06-04"
+    "last_check_date": "2026-06-05"
   },
   "95-BDL-7": {
     "expiry": "2026-12-21",
@@ -8754,7 +8754,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["17-9198"],
-    "last_check_date": "2026-06-04"
+    "last_check_date": "2026-06-05"
   },
   "91-BFV-5": {
     "expiry": "2027-01-23",
@@ -16044,11 +16044,11 @@
     "last_check_date": "2026-05-25"
   },
   "Z-691-RH": {
-    "expiry": "2026-05-30",
+    "expiry": "2027-06-03",
     "checked": true,
     "unknown": false,
     "roepnummers": ["21-122"],
-    "last_check_date": "2026-06-04"
+    "last_check_date": "2026-06-05"
   },
   "GFF-06-F": {
     "expiry": "2027-03-31",
