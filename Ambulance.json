@@ -917,6 +917,14 @@
   },
   {
     "Regio": "06",
+    "Roepnummer": "06-141",
+    "Kenteken": "HZR-68-G",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Winterswijk"
+  },
+  {
+    "Regio": "06",
     "Roepnummer": "06-155",
     "Omschrijving": "Ambulance"
   },

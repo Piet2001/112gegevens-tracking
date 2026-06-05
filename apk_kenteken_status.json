@@ -17673,5 +17673,12 @@
     "unknown": false,
     "roepnummers": ["19-6535"],
     "last_check_date": "2026-06-05"
+  },
+  "HZR-68-G": {
+    "expiry": "2026-08-20",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["06-141"],
+    "last_check_date": "2026-06-05"
   }
 }
