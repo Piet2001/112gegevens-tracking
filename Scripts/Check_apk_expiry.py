@@ -38,20 +38,28 @@ def load_kenteken_status(kenteken_map):
             status = json.load(f)
     else:
         status = {}
+    original_status = {k: v.copy() for k, v in status.items()}
+    removed_kentekens = []
+    added_kentekens = []
     # Remove kentekens that are no longer in the lists
     to_remove = [k for k in status if k not in kenteken_map]
     for k in to_remove:
+        removed_kentekens.append({"kenteken": k, "roepnummers": status[k].get("roepnummers", [])})
         del status[k]
     # Ensure all kentekens are present and update roepnummers
     for k, roepnummers in kenteken_map.items():
         if k not in status:
             status[k] = {"expiry": None, "checked": False, "unknown": True, "roepnummers": roepnummers, "last_check_date": None}
+            added_kentekens.append({"kenteken": k, "roepnummers": roepnummers})
         else:
             # Always update roepnummers for completeness
             status[k]["roepnummers"] = roepnummers
             if "last_check_date" not in status[k]:
                 status[k]["last_check_date"] = None
-    return status
+    if not original_status:
+        # On first run, do not send notifications for all existing kentekens.
+        return status, [], []
+    return status, added_kentekens, removed_kentekens
 
 def save_kenteken_status(status):
     with open(KENTEKEN_STATUS_FILE, "w", encoding="utf-8") as f:
@@ -81,7 +89,24 @@ def is_apk_valid(apk_info):
 # 5. Main script
 def main():
     kenteken_map = collect_kentekens_with_roepnummer()
-    status = load_kenteken_status(kenteken_map)
+    status, added_kentekens, removed_kentekens = load_kenteken_status(kenteken_map)
+
+    for item in added_kentekens:
+        roepnummers = item.get("roepnummers", [])
+        roep_str = f" ({', '.join(roepnummers)})" if roepnummers else ""
+        msg = f"Kenteken added: {item['kenteken']}{roep_str}"
+        print(f"  {msg}")
+        discord.webhook_APK_LOG(msg)
+        time.sleep(10)
+
+    for item in removed_kentekens:
+        roepnummers = item.get("roepnummers", [])
+        roep_str = f" ({', '.join(roepnummers)})" if roepnummers else ""
+        msg = f"Kenteken removed: {item['kenteken']}{roep_str}"
+        print(f"  {msg}")
+        discord.webhook_APK_LOG(msg)
+        time.sleep(10)
+
     # Prioritize unknown, then expired, then others
     today = datetime.today().date()
     week_ago = today.fromordinal(today.toordinal() - 7)
