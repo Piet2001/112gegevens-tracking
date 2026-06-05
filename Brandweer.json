@@ -36125,8 +36125,10 @@
   {
     "Regio": "19",
     "Roepnummer": "19-6535",
-    "Type": "TS-4",
-    "Omschrijving": "Tankautospuit\u00a04\u00a0of 5 mans\u00a0bezetting",
+    "Kenteken": "27-BKJ-6",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Aardenburg",
     "Adres": "Noordstraat 4, 4527BN, Aardenburg"
   },
