@@ -5620,13 +5620,6 @@
     "roepnummers": ["28-2242"],
     "last_check_date": "2026-06-06"
   },
-  "KN-94-77": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": ["28-2243"],
-    "last_check_date": "2026-06-06"
-  },
   "KN-94-47": {
     "expiry": null,
     "checked": true,
@@ -15368,7 +15361,7 @@
     "expiry": "2027-06-05",
     "checked": true,
     "unknown": false,
-    "roepnummers": ["23-805"],
+    "roepnummers": ["23-505"],
     "last_check_date": "2026-06-06"
   },
   "VZ-SJ-68": {
@@ -17680,5 +17673,68 @@
     "unknown": false,
     "roepnummers": ["06-141"],
     "last_check_date": "2026-06-05"
+  },
+  "DM-607-N": {
+    "expiry": null,
+    "checked": true,
+    "unknown": true,
+    "roepnummers": ["28-2243"],
+    "last_check_date": "2026-06-06"
+  },
+  "BB-677-D": {
+    "expiry": "2026-09-04",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["15-5250"],
+    "last_check_date": "2026-06-06"
+  },
+  "30-BLR-5": {
+    "expiry": "2026-12-14",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["15-9636"],
+    "last_check_date": "2026-06-06"
+  },
+  "60-BXG-3": {
+    "expiry": "2026-12-27",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["15-9670"],
+    "last_check_date": "2026-06-06"
+  },
+  "77-BHT-3": {
+    "expiry": "2027-04-14",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["15-9680"],
+    "last_check_date": "2026-06-06"
+  },
+  "75-BPB-7": {
+    "expiry": "2026-12-09",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["19-6732"],
+    "last_check_date": "2026-06-06"
+  },
+  "92-BXK-2": {
+    "expiry": "2027-02-01",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["20-9435"],
+    "last_check_date": "2026-06-06"
+  },
+  "HSP-36-J": {
+    "expiry": "2026-07-09",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["04-107"],
+    "last_check_date": "2026-06-06"
+  },
+  "HTN-09-G": {
+    "expiry": "2026-06-20",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["08-125"],
+    "last_check_date": "2026-06-06"
   }
 }

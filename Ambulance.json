@@ -756,6 +756,14 @@
   },
   {
     "Regio": "04",
+    "Roepnummer": "04-107",
+    "Kenteken": "HSP-36-J",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Zwolle"
+  },
+  {
+    "Regio": "04",
     "Roepnummer": "04-130",
     "Kenteken": "ZB-364-B",
     "Omschrijving": "Ambulance",
@@ -1117,6 +1125,14 @@
     "Kenteken": "K-235-RX",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter"
+  },
+  {
+    "Regio": "08",
+    "Roepnummer": "08-125",
+    "Kenteken": "HTN-09-G",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Nijmegen"
   },
   {
     "Regio": "08",
@@ -4450,6 +4466,13 @@
   },
   {
     "Regio": "23",
+    "Roepnummer": "23-505",
+    "Kenteken": "ZF-128-S",
+    "Omschrijving": "Rijopleiding",
+    "Merk": "Volvo XC40"
+  },
+  {
+    "Regio": "23",
     "Roepnummer": "23-506",
     "Kenteken": "83-ZTG-1",
     "Omschrijving": "OpleidingsAmbulance",
@@ -4564,14 +4587,6 @@
     "Kenteken": "K-281-HF",
     "Omschrijving": "Officier van Dienst Geneeskunde",
     "Merk": "Volvo"
-  },
-  {
-    "Regio": "23",
-    "Roepnummer": "23-805",
-    "Kenteken": "ZF-128-S",
-    "Omschrijving": "Officier van Dienst Geneeskunde",
-    "Merk": "Volvo XC40",
-    "Locatie indien vast": "Weert"
   },
   {
     "Regio": "23",

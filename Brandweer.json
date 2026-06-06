@@ -15989,10 +15989,10 @@
   {
     "Regio": "07",
     "Roepnummer": "28-2243",
-    "Kenteken": "KN-94-77",
-    "Type": "TS-6",
-    "Omschrijving": "Tankautospuit 6 mans bezetting",
-    "Merk (& Type)": "Ginaf F3328 ATI380",
+    "Kenteken": "DM-607-N",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "ISK Harskamp",
     "Adres": "Otterloseweg, 6732BS, Harskamp"
   },
@@ -27390,8 +27390,10 @@
   {
     "Regio": "15",
     "Roepnummer": "15-5250",
+    "Kenteken": "BB-677-D",
     "Type": "HW",
     "Omschrijving": "Hoogwerker",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "Zoetermeer-Stadshart",
     "Adres": "Brusselstraat 4, 2711AJ, Zoetermeer"
   },
@@ -28279,8 +28281,10 @@
   {
     "Regio": "15",
     "Roepnummer": "15-9636",
+    "Kenteken": "30-BLR-5",
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Regionaal"
   },
   {
@@ -28328,17 +28332,21 @@
   {
     "Regio": "15",
     "Roepnummer": "15-9670",
+    "Kenteken": "60-BXG-3",
     "Type": "HV",
     "Omschrijving": "Hulpverleningsvoertuig",
     "Toevoeging": "Reserve",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "Regionaal"
   },
   {
     "Regio": "15",
     "Roepnummer": "15-9680",
+    "Kenteken": "77-BHT-3",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
     "Toevoeging": "Reserve",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "Regionaal"
   },
   {
@@ -36549,8 +36557,10 @@
   {
     "Regio": "19",
     "Roepnummer": "19-6732",
+    "Kenteken": "75-BPB-7",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Kloosterzande",
     "Adres": "Hof te Zandeplein 4, 4587CK, Kloosterzande"
   },
@@ -40461,8 +40471,10 @@
   {
     "Regio": "20",
     "Roepnummer": "20-9435",
+    "Kenteken": "92-BXK-2",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "Tilburg-Centrum",
     "Adres": "Fabriekstraat 34, 5038EN, Tilburg"
   },
