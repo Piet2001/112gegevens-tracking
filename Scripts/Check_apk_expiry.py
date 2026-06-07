@@ -49,13 +49,15 @@ def load_kenteken_status(kenteken_map):
     # Ensure all kentekens are present and update roepnummers
     for k, roepnummers in kenteken_map.items():
         if k not in status:
-            status[k] = {"expiry": None, "checked": False, "unknown": True, "roepnummers": roepnummers, "last_check_date": None}
+            status[k] = {"expiry": None, "checked": False, "unknown": True, "no_apk_info": False, "roepnummers": roepnummers, "last_check_date": None}
             added_kentekens.append({"kenteken": k, "roepnummers": roepnummers})
         else:
             # Always update roepnummers for completeness
             status[k]["roepnummers"] = roepnummers
             if "last_check_date" not in status[k]:
                 status[k]["last_check_date"] = None
+            if "no_apk_info" not in status[k]:
+                status[k]["no_apk_info"] = False
     if not original_status:
         # On first run, do not send notifications for all existing kentekens.
         return status, [], []
@@ -139,6 +141,7 @@ def main():
             status[kenteken]["expiry"] = None
             status[kenteken]["checked"] = True
             status[kenteken]["unknown"] = True
+            status[kenteken]["no_apk_info"] = True
             continue
         valid, expiry = is_apk_valid(apk_info)
         previous_expiry = status[kenteken].get("expiry")
@@ -147,9 +150,11 @@ def main():
         # If expiry is None, treat as unknown, not expired
         if expiry is None:
             status[kenteken]["unknown"] = True
+            status[kenteken]["no_apk_info"] = False
             print(f"  {kenteken}: APK vervaldatum onbekend")
         else:
             status[kenteken]["unknown"] = False
+            status[kenteken]["no_apk_info"] = False
             roepnummers = status[kenteken].get("roepnummers", [])
             roep_str = f" ({', '.join(roepnummers)})" if roepnummers else ""
             # Check if previously expired and now valid (verlengt)
@@ -179,14 +184,18 @@ def main():
 
     # Always write a fresh, deduplicated, up-to-date report, excluding unchecked kentekens
     expired_lines = []
-    unknown_lines = []
+    unknown_expiry_lines = []
+    no_apk_info_lines = []
     for kenteken, v in status.items():
         if not v.get("checked", False):
             continue  # Skip unchecked kentekens
         roepnummers = v.get("roepnummers", [])
         roep_str = f" ({', '.join(roepnummers)})" if roepnummers else ""
         if v["unknown"] or v["expiry"] in [None, "None", "null", ""]:
-            unknown_lines.append(f"{kenteken}{roep_str}")
+            if v.get("no_apk_info", False):
+                no_apk_info_lines.append(f"{kenteken}{roep_str}")
+            else:
+                unknown_expiry_lines.append(f"{kenteken}{roep_str}")
         else:
             try:
                 expiry_date = datetime.strptime(v["expiry"], "%Y-%m-%d").date()
@@ -196,13 +205,17 @@ def main():
                 expired_lines.append(f"{kenteken}{roep_str}: verlopen op {v['expiry']}")
     # Remove duplicates and sort
     expired_lines = sorted(set(expired_lines))
-    unknown_lines = sorted(set(unknown_lines))
+    unknown_expiry_lines = sorted(set(unknown_expiry_lines))
+    no_apk_info_lines = sorted(set(no_apk_info_lines))
     with open(REPORT_FILE, "w", encoding="utf-8") as f:
         f.write(f"Expired ({len(expired_lines)}):\n")
         for line in expired_lines:
             f.write(line + "\n")
-        f.write(f"\nUnknown ({len(unknown_lines)}):\n")
-        for line in unknown_lines:
+        f.write(f"\nGeen APK info gevonden ({len(no_apk_info_lines)}):\n")
+        for line in no_apk_info_lines:
+            f.write(line + "\n")
+        f.write(f"\nAPK vervaldatum onbekend ({len(unknown_expiry_lines)}):\n")
+        for line in unknown_expiry_lines:
             f.write(line + "\n")
     print(f"Rapport bijgewerkt in {REPORT_FILE}")
 
