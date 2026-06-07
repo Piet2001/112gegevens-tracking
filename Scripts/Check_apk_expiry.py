@@ -8,6 +8,15 @@ from Functions import discord
 KENTEKEN_STATUS_FILE = "apk_kenteken_status.json"
 REPORT_FILE = "apk_expiry_report.txt"
 
+def is_defensie_kenteken(kenteken):
+    kenteken_norm = kenteken.upper().replace(" ", "")
+    defensie_prefixes = ("DM-", "KM-", "KN-", "KR-", "LM-")
+    if kenteken_norm.startswith(defensie_prefixes):
+        return True
+    if kenteken_norm.startswith("D-") and (kenteken_norm.endswith("-MB") or kenteken_norm.endswith("-MD")):
+        return True
+    return False
+
 # 1. Collect all kentekens from the relevant JSON files
 def collect_kentekens_with_roepnummer():
     kenteken_map = {}
@@ -49,7 +58,7 @@ def load_kenteken_status(kenteken_map):
     # Ensure all kentekens are present and update roepnummers
     for k, roepnummers in kenteken_map.items():
         if k not in status:
-            status[k] = {"expiry": None, "checked": False, "unknown": True, "no_apk_info": False, "roepnummers": roepnummers, "last_check_date": None}
+            status[k] = {"expiry": None, "checked": False, "unknown": True, "no_apk_info": False, "defensie": is_defensie_kenteken(k), "roepnummers": roepnummers, "last_check_date": None}
             added_kentekens.append({"kenteken": k, "roepnummers": roepnummers})
         else:
             # Always update roepnummers for completeness
@@ -58,6 +67,7 @@ def load_kenteken_status(kenteken_map):
                 status[k]["last_check_date"] = None
             if "no_apk_info" not in status[k]:
                 status[k]["no_apk_info"] = False
+            status[k]["defensie"] = is_defensie_kenteken(k)
     if not original_status:
         # On first run, do not send notifications for all existing kentekens.
         return status, [], []
@@ -87,6 +97,16 @@ def is_apk_valid(apk_info):
         expiry = datetime.strptime(vervaldatum, '%Y%m%d').date()
         return expiry >= datetime.today().date(), expiry
     return False, None
+
+
+def is_defensie_kenteken(kenteken):
+    kenteken_norm = kenteken.upper().replace(" ", "")
+    defensie_prefixes = ("DM-", "KM-", "KN-", "KR-", "LM-")
+    if kenteken_norm.startswith(defensie_prefixes):
+        return True
+    if kenteken_norm.startswith("D-") and (kenteken_norm.endswith("-MB") or kenteken_norm.endswith("-MD")):
+        return True
+    return False
 
 # 5. Main script
 def main():
@@ -186,27 +206,38 @@ def main():
     expired_lines = []
     unknown_expiry_lines = []
     no_apk_info_lines = []
+    defensie_lines = []
     for kenteken, v in status.items():
         if not v.get("checked", False):
             continue  # Skip unchecked kentekens
+        is_defensie = is_defensie_kenteken(kenteken)
         roepnummers = v.get("roepnummers", [])
         roep_str = f" ({', '.join(roepnummers)})" if roepnummers else ""
+        report_line = None
         if v["unknown"] or v["expiry"] in [None, "None", "null", ""]:
             if v.get("no_apk_info", False):
-                no_apk_info_lines.append(f"{kenteken}{roep_str}")
+                report_line = f"{kenteken}{roep_str}"
+                if not is_defensie:
+                    no_apk_info_lines.append(report_line)
             else:
-                unknown_expiry_lines.append(f"{kenteken}{roep_str}")
+                report_line = f"{kenteken}{roep_str}"
+                unknown_expiry_lines.append(report_line)
         else:
             try:
                 expiry_date = datetime.strptime(v["expiry"], "%Y-%m-%d").date()
                 if expiry_date < today:
-                    expired_lines.append(f"{kenteken}{roep_str}: verlopen op {v['expiry']}")
+                    report_line = f"{kenteken}{roep_str}: verlopen op {v['expiry']}"
+                    expired_lines.append(report_line)
             except Exception:
-                expired_lines.append(f"{kenteken}{roep_str}: verlopen op {v['expiry']}")
+                report_line = f"{kenteken}{roep_str}: verlopen op {v['expiry']}"
+                expired_lines.append(report_line)
+        if report_line and is_defensie:
+            defensie_lines.append(report_line)
     # Remove duplicates and sort
     expired_lines = sorted(set(expired_lines))
     unknown_expiry_lines = sorted(set(unknown_expiry_lines))
     no_apk_info_lines = sorted(set(no_apk_info_lines))
+    defensie_lines = sorted(set(defensie_lines))
     with open(REPORT_FILE, "w", encoding="utf-8") as f:
         f.write(f"Expired ({len(expired_lines)}):\n")
         for line in expired_lines:
@@ -216,6 +247,9 @@ def main():
             f.write(line + "\n")
         f.write(f"\nAPK vervaldatum onbekend ({len(unknown_expiry_lines)}):\n")
         for line in unknown_expiry_lines:
+            f.write(line + "\n")
+        f.write(f"\nDefensie kentekens ({len(defensie_lines)}):\n")
+        for line in defensie_lines:
             f.write(line + "\n")
     print(f"Rapport bijgewerkt in {REPORT_FILE}")
 
