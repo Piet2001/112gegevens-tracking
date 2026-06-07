@@ -17,6 +17,20 @@ def is_defensie_kenteken(kenteken):
         return True
     return False
 
+
+def is_vaartuig_kenteken(kenteken):
+    """Detecteert RDW-vaartuigregistratietekens op basis van de 3 officiële formaten:
+    YA-12-34 | 12-34-YA | 1-YA-123
+    """
+    import re
+    k = kenteken.upper().replace(" ", "")
+    return bool(
+        re.fullmatch(r'[A-Z]{2}-\d{2}-\d{2}', k) or
+        re.fullmatch(r'\d{2}-\d{2}-[A-Z]{2}', k) or
+        re.fullmatch(r'\d{1}-[A-Z]{2}-\d{3}', k)
+    )
+
+
 # 1. Collect all kentekens from the relevant JSON files
 def collect_kentekens_with_roepnummer():
     kenteken_map = {}
@@ -58,7 +72,7 @@ def load_kenteken_status(kenteken_map):
     # Ensure all kentekens are present and update roepnummers
     for k, roepnummers in kenteken_map.items():
         if k not in status:
-            status[k] = {"expiry": None, "checked": False, "unknown": True, "no_apk_info": False, "defensie": is_defensie_kenteken(k), "roepnummers": roepnummers, "last_check_date": None}
+            status[k] = {"expiry": None, "checked": False, "unknown": True, "no_apk_info": False, "defensie": is_defensie_kenteken(k), "vaartuig": is_vaartuig_kenteken(k), "roepnummers": roepnummers, "last_check_date": None}
             added_kentekens.append({"kenteken": k, "roepnummers": roepnummers})
         else:
             # Always update roepnummers for completeness
@@ -68,6 +82,7 @@ def load_kenteken_status(kenteken_map):
             if "no_apk_info" not in status[k]:
                 status[k]["no_apk_info"] = False
             status[k]["defensie"] = is_defensie_kenteken(k)
+            status[k]["vaartuig"] = is_vaartuig_kenteken(k)
     if not original_status:
         # On first run, do not send notifications for all existing kentekens.
         return status, [], []
@@ -97,16 +112,6 @@ def is_apk_valid(apk_info):
         expiry = datetime.strptime(vervaldatum, '%Y%m%d').date()
         return expiry >= datetime.today().date(), expiry
     return False, None
-
-
-def is_defensie_kenteken(kenteken):
-    kenteken_norm = kenteken.upper().replace(" ", "")
-    defensie_prefixes = ("DM-", "KM-", "KN-", "KR-", "LM-")
-    if kenteken_norm.startswith(defensie_prefixes):
-        return True
-    if kenteken_norm.startswith("D-") and (kenteken_norm.endswith("-MB") or kenteken_norm.endswith("-MD")):
-        return True
-    return False
 
 # 5. Main script
 def main():
@@ -207,17 +212,19 @@ def main():
     unknown_expiry_lines = []
     no_apk_info_lines = []
     defensie_lines = []
+    vaartuig_lines = []
     for kenteken, v in status.items():
         if not v.get("checked", False):
             continue  # Skip unchecked kentekens
         is_defensie = is_defensie_kenteken(kenteken)
+        is_vaartuig = is_vaartuig_kenteken(kenteken)
         roepnummers = v.get("roepnummers", [])
         roep_str = f" ({', '.join(roepnummers)})" if roepnummers else ""
         report_line = None
         if v["unknown"] or v["expiry"] in [None, "None", "null", ""]:
             if v.get("no_apk_info", False):
                 report_line = f"{kenteken}{roep_str}"
-                if not is_defensie:
+                if not is_defensie and not is_vaartuig:
                     no_apk_info_lines.append(report_line)
             else:
                 report_line = f"{kenteken}{roep_str}"
@@ -233,11 +240,14 @@ def main():
                 expired_lines.append(report_line)
         if report_line and is_defensie:
             defensie_lines.append(report_line)
+        if report_line and is_vaartuig and not is_defensie:
+            vaartuig_lines.append(report_line)
     # Remove duplicates and sort
     expired_lines = sorted(set(expired_lines))
     unknown_expiry_lines = sorted(set(unknown_expiry_lines))
     no_apk_info_lines = sorted(set(no_apk_info_lines))
     defensie_lines = sorted(set(defensie_lines))
+    vaartuig_lines = sorted(set(vaartuig_lines))
     with open(REPORT_FILE, "w", encoding="utf-8") as f:
         f.write(f"Expired ({len(expired_lines)}):\n")
         for line in expired_lines:
@@ -250,6 +260,9 @@ def main():
             f.write(line + "\n")
         f.write(f"\nDefensie kentekens ({len(defensie_lines)}):\n")
         for line in defensie_lines:
+            f.write(line + "\n")
+        f.write(f"\nVaartuigen ({len(vaartuig_lines)}):\n")
+        for line in vaartuig_lines:
             f.write(line + "\n")
     print(f"Rapport bijgewerkt in {REPORT_FILE}")
 
