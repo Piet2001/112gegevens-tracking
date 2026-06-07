@@ -5361,13 +5361,6 @@
     "roepnummers": ["07-2782"],
     "last_check_date": "2026-05-23"
   },
-  "BS-LZ-97": {
-    "expiry": "2026-12-09",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": ["07-3182"],
-    "last_check_date": "2026-05-23"
-  },
   "83-BLV-4": {
     "expiry": "2027-01-25",
     "checked": true,
@@ -12326,13 +12319,6 @@
     "roepnummers": ["23-5131"],
     "last_check_date": "2026-05-23"
   },
-  "BV-ZT-83": {
-    "expiry": "2027-06-09",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": ["23-5132"],
-    "last_check_date": "2026-05-23"
-  },
   "BX-RD-44": {
     "expiry": "2026-07-14",
     "checked": true,
@@ -17736,5 +17722,33 @@
     "unknown": false,
     "roepnummers": ["08-125"],
     "last_check_date": "2026-06-06"
+  },
+  "BD-083-K": {
+    "expiry": "2027-04-16",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["07-3182"],
+    "last_check_date": "2026-06-07"
+  },
+  "BD-013-K": {
+    "expiry": "2027-04-15",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["23-5132"],
+    "last_check_date": "2026-06-07"
+  },
+  "X-954-TR": {
+    "expiry": "2027-01-26",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["07-119"],
+    "last_check_date": "2026-06-07"
+  },
+  "GX-705-K": {
+    "expiry": "2026-10-22",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["07-833"],
+    "last_check_date": "2026-06-07"
   }
 }

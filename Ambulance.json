@@ -1072,6 +1072,13 @@
   },
   {
     "Regio": "07",
+    "Roepnummer": "07-119",
+    "Kenteken": "X-954-TR",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter"
+  },
+  {
+    "Regio": "07",
     "Roepnummer": "07-120",
     "Kenteken": "GHX-11-P",
     "Omschrijving": "Ambulance",
@@ -1090,6 +1097,13 @@
     "Kenteken": "TJ-452-B",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter"
+  },
+  {
+    "Regio": "07",
+    "Roepnummer": "07-833",
+    "Kenteken": "GX-705-K",
+    "Omschrijving": "Noodhulp Team",
+    "Merk": "Volkswagen Transporter"
   },
   {
     "Regio": "08",

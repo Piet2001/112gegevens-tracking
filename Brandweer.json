@@ -14367,10 +14367,10 @@
   {
     "Regio": "07",
     "Roepnummer": "07-3182",
-    "Kenteken": "BS-LZ-97",
+    "Kenteken": "BD-083-K",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
-    "Merk (& Type)": "MAN",
+    "Merk (& Type)": "DAF",
     "Kazerne": "Wageningen",
     "Adres": "Marijkeweg 25, 6709PE, Wageningen"
   },
@@ -43475,6 +43475,7 @@
     "Roepnummer": "22-5121",
     "Type": "BOH",
     "Omschrijving": "Basis\u00a0Ontsmettinghaakarmbak",
+    "Toevoeging": "BOE",
     "Kazerne": "Eindhoven-Woensel",
     "Adres": "Avinonlaan 7, 5627GA, Eindhoven"
   },
@@ -45501,10 +45502,10 @@
   {
     "Regio": "23",
     "Roepnummer": "23-5132",
-    "Kenteken": "BV-ZT-83",
+    "Kenteken": "BD-013-K",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes-Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Roermond",
     "Adres": "Minderbroederssingel 36, 6041KK, Roermond"
   },
