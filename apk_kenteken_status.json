@@ -1035,13 +1035,6 @@
     "roepnummers": ["01-2831"],
     "last_check_date": "2026-05-23"
   },
-  "3-XFG-99": {
-    "expiry": "2026-06-30",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": ["01-2900"],
-    "last_check_date": "2026-05-23"
-  },
   "X-337-RN": {
     "expiry": "2027-01-07",
     "checked": true,
@@ -1236,13 +1229,6 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["01-3033"],
-    "last_check_date": "2026-05-23"
-  },
-  "BZ-XX-26": {
-    "expiry": "2027-04-06",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": ["01-3034"],
     "last_check_date": "2026-05-23"
   },
   "28-BDB-7": {
@@ -4924,7 +4910,7 @@
     "expiry": "2027-04-10",
     "checked": true,
     "unknown": false,
-    "roepnummers": ["06-7145"],
+    "roepnummers": ["06-5741"],
     "last_check_date": "2026-05-23"
   },
   "JTL-81-Z": {
@@ -10884,13 +10870,6 @@
     "roepnummers": ["22-2641"],
     "last_check_date": "2026-05-23"
   },
-  "43-XZF-1": {
-    "expiry": "2026-09-28",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": ["22-2681"],
-    "last_check_date": "2026-05-23"
-  },
   "90-BJJ-8": {
     "expiry": "2027-04-03",
     "checked": true,
@@ -11113,13 +11092,6 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["22-3802"],
-    "last_check_date": "2026-05-23"
-  },
-  "50-BKL-2": {
-    "expiry": "2027-02-02",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": ["22-3841"],
     "last_check_date": "2026-05-23"
   },
   "T-283-BJ": {
@@ -11497,7 +11469,7 @@
     "expiry": "2027-01-15",
     "checked": true,
     "unknown": false,
-    "roepnummers": ["22-5042"],
+    "roepnummers": ["22-3841", "22-5042"],
     "last_check_date": "2026-05-23"
   },
   "BZ-BJ-93": {
@@ -15098,13 +15070,6 @@
     "roepnummers": ["22-803"],
     "last_check_date": "2026-05-23"
   },
-  "3-TNJ-37": {
-    "expiry": "2027-05-13",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": ["22-804"],
-    "last_check_date": "2026-05-23"
-  },
   "ZH-076-S": {
     "expiry": "2027-04-10",
     "checked": true,
@@ -17749,6 +17714,104 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["07-833"],
+    "last_check_date": "2026-06-07"
+  },
+  "JZN-86-S": {
+    "expiry": "2030-03-03",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["01-2900"],
+    "last_check_date": "2026-06-07"
+  },
+  "BD-040-L": {
+    "expiry": "2027-05-27",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["01-3034"],
+    "last_check_date": "2026-06-07"
+  },
+  "JTP-28-H": {
+    "expiry": "2030-01-16",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["06-3001"],
+    "last_check_date": "2026-06-07"
+  },
+  "BD-201-K": {
+    "expiry": "2027-05-04",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["06-7145"],
+    "last_check_date": "2026-06-07"
+  },
+  "V-98-NTT": {
+    "expiry": "2030-03-31",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["06-7903"],
+    "last_check_date": "2026-06-07"
+  },
+  "BX-DJ-20": {
+    "expiry": "2027-06-16",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["21-3041"],
+    "last_check_date": "2026-06-07"
+  },
+  "27-BGP-4": {
+    "expiry": "2027-01-21",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["21-3061"],
+    "last_check_date": "2026-06-07"
+  },
+  "GRB-43-J": {
+    "expiry": "2027-12-11",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["22-2481"],
+    "last_check_date": "2026-06-07"
+  },
+  "GLS-39-V": {
+    "expiry": "2027-12-11",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["22-2681"],
+    "last_check_date": "2026-06-07"
+  },
+  "S-050-NH": {
+    "expiry": "2027-03-13",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["22-5196"],
+    "last_check_date": "2026-06-07"
+  },
+  "S-886-VN": {
+    "expiry": "2027-04-26",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["22-5202"],
+    "last_check_date": "2026-06-07"
+  },
+  "S-889-VN": {
+    "expiry": "2027-04-26",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["22-5205"],
+    "last_check_date": "2026-06-07"
+  },
+  "D-414-MB": {
+    "expiry": null,
+    "checked": true,
+    "unknown": true,
+    "roepnummers": ["28-4902"],
+    "last_check_date": "2026-06-07"
+  },
+  "T-804-JS": {
+    "expiry": "2027-07-06",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": ["22-804"],
     "last_check_date": "2026-06-07"
   }
 }
