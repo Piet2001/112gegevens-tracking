@@ -84,7 +84,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["01-0106"],
-    "last_check_date": "2026-06-08",
+    "last_check_date": "2026-06-09",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -2664,7 +2664,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["02-4901"],
-    "last_check_date": "2026-06-08",
+    "last_check_date": "2026-06-09",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -2674,7 +2674,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["02-4902"],
-    "last_check_date": "2026-06-08",
+    "last_check_date": "2026-06-09",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -8344,7 +8344,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["08-8481"],
-    "last_check_date": "2026-06-08",
+    "last_check_date": "2026-06-09",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -9170,11 +9170,11 @@
     "vaartuig": false
   },
   "09-BPB-3": {
-    "expiry": "2026-06-08",
+    "expiry": "2027-06-08",
     "checked": true,
     "unknown": false,
     "roepnummers": ["09-4731"],
-    "last_check_date": "2026-05-23",
+    "last_check_date": "2026-06-09",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -11674,7 +11674,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["15-9594"],
-    "last_check_date": "2026-05-23",
+    "last_check_date": "2026-06-09",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -12464,7 +12464,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["17-9198"],
-    "last_check_date": "2026-06-08",
+    "last_check_date": "2026-06-09",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -12494,7 +12494,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["17-9982"],
-    "last_check_date": "2026-05-23",
+    "last_check_date": "2026-06-09",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
