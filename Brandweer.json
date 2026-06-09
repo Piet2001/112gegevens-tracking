@@ -8663,6 +8663,26 @@
   },
   {
     "Regio": "05",
+    "Roepnummer": "05-0101",
+    "Kenteken": "P-533-XJ",
+    "Type": "DA",
+    "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Volkswagen Polo",
+    "Kazerne": "Hengelo-Centrum",
+    "Adres": "Lansinkesweg 59, 7553AE, Hengelo"
+  },
+  {
+    "Regio": "05",
+    "Roepnummer": "05-0102",
+    "Kenteken": "P-534-XJ",
+    "Type": "DA",
+    "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Volkswagen Polo",
+    "Kazerne": "Hengelo-Centrum",
+    "Adres": "Lansinkesweg 59, 7553AE, Hengelo"
+  },
+  {
+    "Regio": "05",
     "Roepnummer": "05-1081",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",

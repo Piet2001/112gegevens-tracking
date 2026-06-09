@@ -25448,5 +25448,25 @@
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
+  },
+  "P-533-XJ": {
+    "expiry": "2028-07-01",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["05-0101"],
+    "last_check_date": "2026-06-09"
+  },
+  "P-534-XJ": {
+    "expiry": "2028-07-01",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["05-0102"],
+    "last_check_date": "2026-06-09"
   }
 }
