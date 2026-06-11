@@ -20084,17 +20084,6 @@
   },
   {
     "Regio": "09",
-    "Roepnummer": "09-8202",
-    "Kenteken": "3-VSB-55",
-    "Type": "GM",
-    "Omschrijving": "Gereedschap/Materieelwagen",
-    "Toevoeging": "tbv Ademluchtwerkplaats",
-    "Merk (& Type)": "Volkswagen Crafter",
-    "Kazerne": "Maarssen",
-    "Adres": "Binnenweg 2, 3604AC, Maarssen"
-  },
-  {
-    "Regio": "09",
     "Roepnummer": "09-8203",
     "Kenteken": "42-SZ-TT",
     "Type": "DA",
@@ -45988,10 +45977,10 @@
   {
     "Regio": "23",
     "Roepnummer": "23-6184",
-    "Kenteken": "35-BS-PL",
-    "Type": "PM",
-    "Omschrijving": "Personeel/Materieelvoertuig",
-    "Merk (& Type)": "Mercedes-Benz Sprinter",
+    "Kenteken": "75-BJK-9",
+    "Type": "HA",
+    "Omschrijving": "Haakarmvoertuig",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Venlo",
     "Adres": "Ari\u00ebnsstraat 72, 5912PZ, Venlo"
   },
@@ -46062,10 +46051,10 @@
   {
     "Regio": "23",
     "Roepnummer": "23-6198",
-    "Kenteken": "4-SBF-75",
-    "Type": "DA-CVD",
-    "Omschrijving": "Dienstauto - Commandant Van Dienst",
-    "Merk (& Type)": "Volkswagen Golf",
+    "Kenteken": "L-455-JK",
+    "Type": "DA-IM",
+    "Omschrijving": "Dienstauto - Informatie Manager",
+    "Merk (& Type)": "Volkswagen Polo",
     "Kazerne": "Venlo",
     "Adres": "Ari\u00ebnsstraat 72, 5912PZ, Venlo"
   },

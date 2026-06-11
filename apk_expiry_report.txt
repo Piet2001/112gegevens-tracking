@@ -3,7 +3,7 @@ BS-ZV-44 (01-0106): verlopen op 2026-06-05
 VRD-85-D (02-4902): verlopen op 2026-06-02
 VRD-95-D (02-4901): verlopen op 2026-06-02
 
-Geen APK info gevonden (198):
+Geen APK info gevonden (195):
 18-DMT-8 (28-6401)
 2-SRD-11 (16-151)
 2-TKJ-76 (16-161)
@@ -15,13 +15,10 @@ Geen APK info gevonden (198):
 29-TVK-4 (24-712)
 3-KJV-50 (17-107)
 3-TWJ-39 (22-806)
-3-VSB-55 (09-8202)
 3-XND-91 (15-111)
 31-NTX-9 (10-815)
-35-BS-PL (23-6184)
 37-ZJ-RS (18-802)
 39-SF-DJ (09-527)
-4-SBF-75 (23-6198)
 4-TJL-54 (17-128)
 4-TLJ-53 (17-126)
 4-VTL-62 (25-5002)
