@@ -7022,11 +7022,11 @@
   {
     "Regio": "04",
     "Roepnummer": "04-1098",
-    "Kenteken": "22-XTL-3",
+    "Kenteken": "H-238-ZL",
     "Type": "DB-OVD",
     "Omschrijving": "Dienstbus - Officier van Dienst",
     "Toevoeging": "Midden",
-    "Merk (& Type)": "Mercedes-Benz Vito",
+    "Merk (& Type)": "Volkswagen Tiguan",
     "Kazerne": "Regionaal"
   },
   {
@@ -7793,16 +7793,6 @@
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
     "Merk (& Type)": "Mercedes-Benz",
-    "Kazerne": "Dalfsen",
-    "Adres": "Prins Hendrikstraat 4, 7721CZ, Dalfsen"
-  },
-  {
-    "Regio": "04",
-    "Roepnummer": "04-2090",
-    "Kenteken": "23-GLN-6",
-    "Type": "DA-OVD",
-    "Omschrijving": "Dienstauto - Officier van Dienst",
-    "Merk (& Type)": "Mitsubishi Outlander 2.0D",
     "Kazerne": "Dalfsen",
     "Adres": "Prins Hendrikstraat 4, 7721CZ, Dalfsen"
   },
@@ -24233,10 +24223,10 @@
   {
     "Regio": "12",
     "Roepnummer": "12-1699",
-    "Kenteken": "17-XB-HT",
+    "Kenteken": "TN-068-N",
     "Type": "DA-CVD",
     "Omschrijving": "Dienstauto - Commandant Van Dienst",
-    "Merk (& Type)": "Opel",
+    "Merk (& Type)": "Volkswagen Golf",
     "Kazerne": "Haarlem-West",
     "Adres": "Zijlweg 200, 2015CK, Haarlem"
   },
@@ -28246,9 +28236,10 @@
   {
     "Regio": "15",
     "Roepnummer": "15-9594",
-    "Kenteken": "NB-863-K",
+    "Kenteken": "NX-417-X",
     "Type": "DA-HOD",
     "Omschrijving": "Dienstauto - Hoofd Officier van Dienst",
+    "Merk (& Type)": "Volkswagen Tiguan",
     "Kazerne": "Regionaal"
   },
   {
@@ -32620,16 +32611,6 @@
   },
   {
     "Regio": "17",
-    "Roepnummer": "17-9198",
-    "Kenteken": "NZ-913-T",
-    "Type": "DA-OVD",
-    "Omschrijving": "Dienstauto - Officier van Dienst",
-    "Toevoeging": "Reserve",
-    "Merk (& Type)": "Volkswagen Tiguan",
-    "Kazerne": "Gezamenlijke Brandweer"
-  },
-  {
-    "Regio": "17",
     "Roepnummer": "17-9199",
     "Type": "DB-OVD",
     "Omschrijving": "Dienstbus - Officier van Dienst",
@@ -32904,10 +32885,10 @@
   {
     "Regio": "17",
     "Roepnummer": "17-9982",
-    "Kenteken": "NZ-869-L",
+    "Kenteken": "JNP-76-G",
     "Type": "DA-VL",
     "Omschrijving": "Dienstauto - Voorlichter",
-    "Merk (& Type)": "Volkswagen Tiguan",
+    "Merk (& Type)": "Kia EV3",
     "Kazerne": "Leiding & Co\u00f6rdinatie"
   },
   {
@@ -33484,16 +33465,6 @@
     "Regio": "18",
     "Roepnummer": "18-6304",
     "Kenteken": "KK-799-Z",
-    "Type": "DA",
-    "Omschrijving": "Dienstauto",
-    "Merk (& Type)": "Volkswagen Polo",
-    "Kazerne": "Zwijndrecht",
-    "Adres": "Develsingel 17, 3333LD, Zwijndrecht"
-  },
-  {
-    "Regio": "18",
-    "Roepnummer": "18-6305",
-    "Kenteken": "H-513-FS",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
     "Merk (& Type)": "Volkswagen Polo",
@@ -34711,7 +34682,7 @@
   {
     "Regio": "18",
     "Roepnummer": "18-9407",
-    "Kenteken": "25-NLK-1",
+    "Kenteken": "H-513-FS",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
     "Merk (& Type)": "Volkswagen Polo",
@@ -43246,10 +43217,10 @@
   {
     "Regio": "22",
     "Roepnummer": "22-5042",
-    "Kenteken": "BX-BL-96",
+    "Kenteken": "50-BKL-2",
     "Type": "TST-NB",
     "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
-    "Merk (& Type)": "Mercedes-Benz Atego",
+    "Merk (& Type)": "DAF CF",
     "Kazerne": "ROC Waalre",
     "Adres": "Engelse Tuin 1, 5583CT, Waalre"
   },
@@ -43483,16 +43454,6 @@
     "Omschrijving": "Commando haakarmbak",
     "Kazerne": "Helmond",
     "Adres": "Deurneseweg 135, 5701CE, Helmond"
-  },
-  {
-    "Regio": "22",
-    "Roepnummer": "22-5101",
-    "Kenteken": "24-ZDH-9",
-    "Type": "DA",
-    "Omschrijving": "Dienstauto",
-    "Merk (& Type)": "Volkswagen Touran",
-    "Kazerne": "Eindhoven-Centrum",
-    "Adres": "Deken van Somerenstraat 2, 5611KX, Eindhoven"
   },
   {
     "Regio": "22",

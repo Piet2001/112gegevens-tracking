@@ -1,24 +1,16 @@
-Expired (6):
+Expired (3):
 BS-ZV-44 (01-0106): verlopen op 2026-06-05
-NB-863-K (15-9594): verlopen op 2026-06-08
-NZ-869-L (17-9982): verlopen op 2026-06-08
-NZ-913-T (17-9198): verlopen op 2026-06-02
 VRD-85-D (02-4902): verlopen op 2026-06-02
 VRD-95-D (02-4901): verlopen op 2026-06-02
 
-Geen APK info gevonden (203):
-17-XB-HT (12-1699)
+Geen APK info gevonden (198):
 18-DMT-8 (28-6401)
 2-SRD-11 (16-151)
 2-TKJ-76 (16-161)
 2-TZR-76 (09-142)
 2-XHG-63 (17-163)
-22-XTL-3 (04-1098)
-23-GLN-6 (04-2090)
 23-XD-GZ (18-871)
-24-ZDH-9 (22-5101)
 25-956-K (03-134)
-25-NLK-1 (18-9407)
 27-TGL-5 (09-124)
 29-TVK-4 (24-712)
 3-KJV-50 (17-107)
