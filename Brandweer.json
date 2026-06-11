@@ -17188,11 +17188,11 @@
   {
     "Regio": "08",
     "Roepnummer": "08-8481",
-    "Kenteken": "82-BS-TP",
-    "Type": "GM",
-    "Omschrijving": "Gereedschap/Materieelwagen",
-    "Toevoeging": "+ VIA",
-    "Merk (& Type)": "Volkswagen",
+    "Kenteken": "VXT-82-F",
+    "Type": "PM",
+    "Omschrijving": "Personeel/Materieelvoertuig",
+    "Toevoeging": "FRB/OVR/TDV/VI/VKE",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Opheusden",
     "Adres": "Hamsestraat 24, 4043LH, Opheusden"
   },
@@ -25311,7 +25311,7 @@
   {
     "Regio": "13",
     "Roepnummer": "13-3131",
-    "Kenteken": "22-BDH-7",
+    "Kenteken": "BB-552-P",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
     "Merk (& Type)": "Mercedes-Benz",
@@ -25331,8 +25331,10 @@
   {
     "Regio": "13",
     "Roepnummer": "13-3231",
+    "Kenteken": "BB-554-P",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Dirk",
     "Adres": "Honthorststraat 27, 1071DC, Amsterdam"
   },
@@ -44633,8 +44635,10 @@
   {
     "Regio": "23",
     "Roepnummer": "23-2391",
+    "Kenteken": "02-BXD-1",
     "Type": "CO-MU",
     "Omschrijving": "Multi Commando Unit",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Horst",
     "Adres": "Westsingel 201, 5961DD, Horst"
   },
@@ -46112,6 +46116,25 @@
     "Omschrijving": "Tankautospuit-Reserve",
     "Merk (& Type)": "MAN",
     "Kazerne": "Regionaal"
+  },
+  {
+    "Regio": "24",
+    "Roepnummer": "24-1212",
+    "Kenteken": "0-YJ-581",
+    "Type": "BRV-M",
+    "Omschrijving": "Brandweervaartuig - Middel",
+    "Kazerne": "Born",
+    "Adres": "Havenweg 141, 6122EN, Buchten"
+  },
+  {
+    "Regio": "24",
+    "Roepnummer": "24-1281",
+    "Kenteken": "01-BPP-6",
+    "Type": "HA",
+    "Omschrijving": "Haakarmvoertuig",
+    "Merk (& Type)": "Mercedes-Benz",
+    "Kazerne": "Born",
+    "Adres": "Havenweg 141, 6122EN, Buchten"
   },
   {
     "Regio": "24",

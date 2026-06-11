@@ -8339,16 +8339,6 @@
     "defensie": false,
     "vaartuig": false
   },
-  "82-BS-TP": {
-    "expiry": "2026-06-05",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": ["08-8481"],
-    "last_check_date": "2026-06-11",
-    "no_apk_info": false,
-    "defensie": false,
-    "vaartuig": false
-  },
   "19-BDS-5": {
     "expiry": "2026-11-03",
     "checked": true,
@@ -10984,16 +10974,6 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["13-2471"],
-    "last_check_date": "2026-05-23",
-    "no_apk_info": false,
-    "defensie": false,
-    "vaartuig": false
-  },
-  "22-BDH-7": {
-    "expiry": "2026-10-17",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": ["13-3131"],
     "last_check_date": "2026-05-23",
     "no_apk_info": false,
     "defensie": false,
@@ -25468,5 +25448,65 @@
     "vaartuig": false,
     "roepnummers": ["05-0102"],
     "last_check_date": "2026-06-09"
+  },
+  "VXT-82-F": {
+    "expiry": "2026-10-03",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["08-8481"],
+    "last_check_date": "2026-06-11"
+  },
+  "BB-552-P": {
+    "expiry": "2026-11-06",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["13-3131"],
+    "last_check_date": "2026-06-11"
+  },
+  "BB-554-P": {
+    "expiry": "2026-09-01",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["13-3231"],
+    "last_check_date": "2026-06-11"
+  },
+  "02-BXD-1": {
+    "expiry": "2026-11-07",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["23-2391"],
+    "last_check_date": "2026-06-11"
+  },
+  "0-YJ-581": {
+    "expiry": null,
+    "checked": true,
+    "unknown": true,
+    "no_apk_info": true,
+    "defensie": false,
+    "vaartuig": true,
+    "roepnummers": ["24-1212"],
+    "last_check_date": "2026-06-11"
+  },
+  "01-BPP-6": {
+    "expiry": "2027-06-23",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["24-1281"],
+    "last_check_date": "2026-06-11"
   }
 }
