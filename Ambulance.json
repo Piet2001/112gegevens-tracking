@@ -682,9 +682,9 @@
   {
     "Regio": "03",
     "Roepnummer": "03-104",
-    "Kenteken": "PK-941-G",
+    "Kenteken": "JZR-08-V",
     "Omschrijving": "Ambulance",
-    "Merk": "Mercedes-Benz Sprinter",
+    "Merk": "MAN TGE",
     "Locatie indien vast": "Assen"
   },
   {
@@ -697,11 +697,27 @@
   },
   {
     "Regio": "03",
+    "Roepnummer": "03-106",
+    "Kenteken": "T-280-DR",
+    "Omschrijving": "Ambulance",
+    "Merk": "MAN TGE",
+    "Locatie indien vast": "Annen"
+  },
+  {
+    "Regio": "03",
     "Roepnummer": "03-107",
     "Kenteken": "ZN-943-P",
     "Omschrijving": "Ambulance",
     "Merk": "Volkswagen Transporter",
     "Locatie indien vast": "Assen"
+  },
+  {
+    "Regio": "03",
+    "Roepnummer": "03-132",
+    "Kenteken": "HFF-09-X",
+    "Omschrijving": "Ambulance",
+    "Merk": "MAN TGE",
+    "Locatie indien vast": "Emmen"
   },
   {
     "Regio": "03",
@@ -2292,7 +2308,7 @@
   {
     "Regio": "15",
     "Roepnummer": "15-111",
-    "Kenteken": "3-XND-91",
+    "Kenteken": "J-513-NX",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Den Haag - Laak"
@@ -4697,14 +4713,6 @@
   },
   {
     "Regio": "23",
-    "Roepnummer": "23-701",
-    "Kenteken": "PD-127-V",
-    "Omschrijving": "Huisartsenpostvoertuig",
-    "Merk": "Mercedes-Benz",
-    "Locatie indien vast": "Huisartsenpost Weert"
-  },
-  {
-    "Regio": "23",
     "Roepnummer": "23-702",
     "Kenteken": "J-823-RL",
     "Omschrijving": "Huisartsenpostvoertuig",
@@ -4794,6 +4802,20 @@
     "Kenteken": "GX-703-K",
     "Omschrijving": "Noodhulp Team",
     "Merk": "Volkswagen Transporter"
+  },
+  {
+    "Regio": "23",
+    "Roepnummer": "24-712",
+    "Kenteken": "PD-127-V",
+    "Omschrijving": "Huisartsenpostvoertuig",
+    "Merk": "Mercedes-Benz",
+    "Locatie indien vast": "Huisartsenpost Geleen"
+  },
+  {
+    "Regio": "24",
+    "Roepnummer": "23-701",
+    "Omschrijving": "Huisartsenpostvoertuig",
+    "Locatie indien vast": "HAP Roermond"
   },
   {
     "Regio": "24",
@@ -5073,14 +5095,6 @@
     "Kenteken": "J-816-RL",
     "Omschrijving": "Huisartsenpostvoertuig",
     "Merk": "Volvo XC40",
-    "Locatie indien vast": "HAP Zuijderlandziekenhuis Geleen"
-  },
-  {
-    "Regio": "24",
-    "Roepnummer": "24-712",
-    "Kenteken": "29-TVK-4",
-    "Omschrijving": "Huisartsenpostvoertuig",
-    "Merk": "Hyunda Santa Fe",
     "Locatie indien vast": "HAP Zuijderlandziekenhuis Geleen"
   },
   {

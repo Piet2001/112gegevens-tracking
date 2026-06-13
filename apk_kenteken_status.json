@@ -19779,16 +19779,6 @@
     "defensie": false,
     "vaartuig": false
   },
-  "3-XND-91": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": ["15-111"],
-    "last_check_date": "2026-06-07",
-    "no_apk_info": true,
-    "defensie": false,
-    "vaartuig": false
-  },
   "HK-516-J": {
     "expiry": null,
     "checked": true,
@@ -21343,7 +21333,7 @@
     "expiry": null,
     "checked": true,
     "unknown": true,
-    "roepnummers": ["23-701"],
+    "roepnummers": ["24-712"],
     "last_check_date": "2026-06-07",
     "no_apk_info": true,
     "defensie": false,
@@ -21746,16 +21736,6 @@
     "roepnummers": ["24-711"],
     "last_check_date": "2026-05-23",
     "no_apk_info": false,
-    "defensie": false,
-    "vaartuig": false
-  },
-  "29-TVK-4": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": ["24-712"],
-    "last_check_date": "2026-06-07",
-    "no_apk_info": true,
     "defensie": false,
     "vaartuig": false
   },
@@ -25769,16 +25749,6 @@
     "roepnummers": ["03-103"],
     "last_check_date": "2026-06-13"
   },
-  "PK-941-G": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "no_apk_info": true,
-    "defensie": false,
-    "vaartuig": false,
-    "roepnummers": ["03-104"],
-    "last_check_date": "2026-06-13"
-  },
   "P-317-GF": {
     "expiry": "2026-11-17",
     "checked": true,
@@ -25807,6 +25777,46 @@
     "defensie": false,
     "vaartuig": false,
     "roepnummers": ["03-172"],
+    "last_check_date": "2026-06-13"
+  },
+  "JZR-08-V": {
+    "expiry": "2027-03-12",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["03-104"],
+    "last_check_date": "2026-06-13"
+  },
+  "T-280-DR": {
+    "expiry": "2027-05-28",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["03-106"],
+    "last_check_date": "2026-06-13"
+  },
+  "HFF-09-X": {
+    "expiry": "2027-02-10",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["03-132"],
+    "last_check_date": "2026-06-13"
+  },
+  "J-513-NX": {
+    "expiry": "2026-09-16",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["15-111"],
     "last_check_date": "2026-06-13"
   }
 }
