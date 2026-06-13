@@ -657,10 +657,42 @@
   },
   {
     "Regio": "03",
-    "Roepnummer": "03-103",
-    "Kenteken": "6-TRK-15",
+    "Roepnummer": "03-101",
+    "Kenteken": "G-269-DB",
     "Omschrijving": "Ambulance",
-    "Merk": "Volkswagen Transporter",
+    "Merk": "MAN TGE",
+    "Locatie indien vast": "Assen"
+  },
+  {
+    "Regio": "03",
+    "Roepnummer": "03-102",
+    "Kenteken": "XP-729-L",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Beilen"
+  },
+  {
+    "Regio": "03",
+    "Roepnummer": "03-103",
+    "Kenteken": "T-271-DR",
+    "Omschrijving": "Ambulance",
+    "Merk": "MAN TGE",
+    "Locatie indien vast": "Assen"
+  },
+  {
+    "Regio": "03",
+    "Roepnummer": "03-104",
+    "Kenteken": "PK-941-G",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Assen"
+  },
+  {
+    "Regio": "03",
+    "Roepnummer": "03-105",
+    "Kenteken": "P-317-GF",
+    "Omschrijving": "Ambulance",
+    "Merk": "MAN TGE",
     "Locatie indien vast": "Assen"
   },
   {
@@ -674,9 +706,9 @@
   {
     "Regio": "03",
     "Roepnummer": "03-134",
-    "Kenteken": "25-956-K",
+    "Kenteken": "T-355-GN",
     "Omschrijving": "Ambulance",
-    "Merk": "Volkswagen Transporter"
+    "Merk": "MAN TGE"
   },
   {
     "Regio": "03",
@@ -691,14 +723,14 @@
     "Roepnummer": "03-138",
     "Kenteken": "R-847-FK",
     "Omschrijving": "Ambulance",
-    "Merk": "MAN"
+    "Merk": "MAN TGE"
   },
   {
     "Regio": "03",
     "Roepnummer": "03-172",
-    "Kenteken": "GD-415-P",
-    "Omschrijving": "Reserve ambulance",
-    "Merk": "Volkswagen Transporter",
+    "Kenteken": "JZL-07-K",
+    "Omschrijving": "Ambulance",
+    "Merk": "MAN TGE",
     "Locatie indien vast": "Regionaal"
   },
   {
