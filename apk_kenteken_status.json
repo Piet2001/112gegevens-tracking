@@ -84,7 +84,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["01-0106"],
-    "last_check_date": "2026-06-12",
+    "last_check_date": "2026-06-13",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -2664,7 +2664,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["02-4901"],
-    "last_check_date": "2026-06-12",
+    "last_check_date": "2026-06-13",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -2674,7 +2674,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["02-4902"],
-    "last_check_date": "2026-06-12",
+    "last_check_date": "2026-06-13",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -10230,11 +10230,11 @@
     "vaartuig": true
   },
   "PK-517-S": {
-    "expiry": "2026-06-11",
+    "expiry": "2027-06-11",
     "checked": true,
     "unknown": false,
     "roepnummers": ["11-0197"],
-    "last_check_date": "2026-06-12",
+    "last_check_date": "2026-06-13",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -13900,11 +13900,11 @@
     "vaartuig": false
   },
   "76-BNL-1": {
-    "expiry": "2026-06-12",
+    "expiry": "2027-06-12",
     "checked": true,
     "unknown": false,
     "roepnummers": ["19-8184"],
-    "last_check_date": "2026-05-23",
+    "last_check_date": "2026-06-13",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -17554,7 +17554,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["23-5531"],
-    "last_check_date": "2026-05-23",
+    "last_check_date": "2026-06-13",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -25004,7 +25004,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["13-177"],
-    "last_check_date": "2026-06-12",
+    "last_check_date": "2026-06-13",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
