@@ -25838,5 +25838,15 @@
     "vaartuig": false,
     "roepnummers": ["25-126"],
     "last_check_date": "2026-06-13"
+  },
+  "K-400-VZ": {
+    "expiry": "2026-07-22",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["04-2582"],
+    "last_check_date": "2026-06-17"
   }
 }
