@@ -20669,16 +20669,6 @@
     "defensie": false,
     "vaartuig": false
   },
-  "N-068-N": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": ["22-130"],
-    "last_check_date": "2026-06-21",
-    "no_apk_info": true,
-    "defensie": false,
-    "vaartuig": false
-  },
   "S-827-PT": {
     "expiry": "2027-03-30",
     "checked": true,
@@ -25848,5 +25838,15 @@
     "vaartuig": false,
     "roepnummers": ["04-2582"],
     "last_check_date": "2026-06-17"
+  },
+  "N-068-NN": {
+    "expiry": "2026-12-02",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["22-130"],
+    "last_check_date": "2026-06-21"
   }
 }
