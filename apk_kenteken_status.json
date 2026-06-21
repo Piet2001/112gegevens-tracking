@@ -25848,5 +25848,15 @@
     "vaartuig": false,
     "roepnummers": ["22-130"],
     "last_check_date": "2026-06-21"
+  },
+  "BB-941-V": {
+    "expiry": "2026-11-21",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["23-5431"],
+    "last_check_date": "2026-06-21"
   }
 }

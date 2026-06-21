@@ -45745,8 +45745,10 @@
   {
     "Regio": "23",
     "Roepnummer": "23-5431",
-    "Type": "TS",
-    "Omschrijving": "Tankautospuit",
+    "Kenteken": "BB-941-V",
+    "Type": "TST",
+    "Omschrijving": "Tankautospuit-Terreinvaardig",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Susteren",
     "Adres": "Reinoud van Gelderstraat 38, 6114EC, Susteren"
   },
