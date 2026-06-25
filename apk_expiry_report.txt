@@ -1,12 +1,10 @@
-Expired (9):
+Expired (7):
 4-XHR-36 (20-504): verlopen op 2026-05-05
-72-XG-PK (22-5303): verlopen op 2026-06-18
 9-KJP-92 (08-510): verlopen op 2026-06-18
 BV-ZV-85 (23-5531): verlopen op 2026-06-12
 H-027-FF (12-172): verlopen op 2026-01-31
 H-879-TG (13-177): verlopen op 2026-06-11
 HTN-09-G (08-125): verlopen op 2026-06-20
-VP-039-J (20-1505): verlopen op 2026-06-17
 VP-141-F (21-590): verlopen op 2026-06-24
 
 Geen APK info gevonden (137):

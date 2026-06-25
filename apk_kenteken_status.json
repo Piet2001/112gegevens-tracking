@@ -14139,16 +14139,6 @@
     "defensie": false,
     "vaartuig": false
   },
-  "VP-039-J": {
-    "expiry": "2026-06-17",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": ["20-1505"],
-    "last_check_date": "2026-06-25",
-    "no_apk_info": false,
-    "defensie": false,
-    "vaartuig": false
-  },
   "KN-702-R": {
     "expiry": "2026-12-27",
     "checked": true,
@@ -16655,16 +16645,6 @@
     "unknown": false,
     "roepnummers": ["22-5291"],
     "last_check_date": "2026-05-23",
-    "no_apk_info": false,
-    "defensie": false,
-    "vaartuig": false
-  },
-  "72-XG-PK": {
-    "expiry": "2026-06-18",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": ["22-5303"],
-    "last_check_date": "2026-06-25",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
