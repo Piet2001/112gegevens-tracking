@@ -21339,16 +21339,6 @@
     "defensie": false,
     "vaartuig": false
   },
-  "SB-427-J": {
-    "expiry": "2027-03-18",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": ["24-155"],
-    "last_check_date": "2026-05-23",
-    "no_apk_info": false,
-    "defensie": false,
-    "vaartuig": false
-  },
   "53-HZH-1": {
     "expiry": "2027-02-12",
     "checked": true,
@@ -25867,6 +25857,16 @@
     "defensie": false,
     "vaartuig": false,
     "roepnummers": ["20-505"],
+    "last_check_date": "2026-06-25"
+  },
+  "KNB-53-K": {
+    "expiry": "2027-06-19",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["24-155"],
     "last_check_date": "2026-06-25"
   }
 }
