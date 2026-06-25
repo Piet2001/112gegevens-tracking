@@ -19099,16 +19099,6 @@
     "defensie": false,
     "vaartuig": false
   },
-  "9-KJP-92": {
-    "expiry": "2026-06-18",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": ["08-510"],
-    "last_check_date": "2026-06-25",
-    "no_apk_info": false,
-    "defensie": false,
-    "vaartuig": false
-  },
   "TZ-216-J": {
     "expiry": "2026-11-14",
     "checked": true,
@@ -24359,16 +24349,6 @@
     "defensie": false,
     "vaartuig": false
   },
-  "H-879-TG": {
-    "expiry": "2026-06-11",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": ["13-177"],
-    "last_check_date": "2026-06-25",
-    "no_apk_info": false,
-    "defensie": false,
-    "vaartuig": false
-  },
   "P-002-DV": {
     "expiry": "2027-02-11",
     "checked": true,
@@ -25759,16 +25739,6 @@
     "roepnummers": ["20-353"],
     "last_check_date": "2026-06-13"
   },
-  "4-XHR-36": {
-    "expiry": "2026-05-05",
-    "checked": true,
-    "unknown": false,
-    "no_apk_info": false,
-    "defensie": false,
-    "vaartuig": false,
-    "roepnummers": ["20-504"],
-    "last_check_date": "2026-06-25"
-  },
   "X-641-SZ": {
     "expiry": "2027-02-01",
     "checked": true,
@@ -25837,6 +25807,66 @@
     "defensie": false,
     "vaartuig": false,
     "roepnummers": ["23-5531"],
+    "last_check_date": "2026-06-25"
+  },
+  "TH-800-X": {
+    "expiry": "2026-08-08",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["08-510"],
+    "last_check_date": "2026-06-25"
+  },
+  "P-863-ZG": {
+    "expiry": "2027-08-03",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["12-354"],
+    "last_check_date": "2026-06-25"
+  },
+  "HXN-36-N": {
+    "expiry": "2026-07-22",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["13-161"],
+    "last_check_date": "2026-06-25"
+  },
+  "HXN-35-N": {
+    "expiry": "2026-07-22",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["13-177"],
+    "last_check_date": "2026-06-25"
+  },
+  "HXN-37-N": {
+    "expiry": "2027-05-13",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["13-251"],
+    "last_check_date": "2026-06-25"
+  },
+  "V-232-RL": {
+    "expiry": "2026-07-30",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["20-505"],
     "last_check_date": "2026-06-25"
   }
 }

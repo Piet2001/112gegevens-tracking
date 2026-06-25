@@ -1213,9 +1213,9 @@
   {
     "Regio": "08",
     "Roepnummer": "08-510",
-    "Kenteken": "9-KJP-92",
+    "Kenteken": "TH-800-X",
     "Omschrijving": "OpleidingsAmbulance",
-    "Merk": "Mercedes-Benz Sprinter"
+    "Merk": "BMW"
   },
   {
     "Regio": "08",
@@ -1903,9 +1903,25 @@
   },
   {
     "Regio": "12",
+    "Roepnummer": "12-354",
+    "Kenteken": "P-863-ZG",
+    "Omschrijving": "Rapid Responder",
+    "Merk": "Mercedes-Benz Vito",
+    "Locatie indien vast": "Schiphol"
+  },
+  {
+    "Regio": "12",
     "Roepnummer": "12-355",
     "Kenteken": "G-626-XG",
     "Omschrijving": "Medic 2",
+    "Locatie indien vast": "Schiphol"
+  },
+  {
+    "Regio": "12",
+    "Roepnummer": "12-355",
+    "Kenteken": "G-626-XG",
+    "Omschrijving": "Rapid Responder",
+    "Merk": "Mazda CX-5",
     "Locatie indien vast": "Schiphol"
   },
   {
@@ -1983,6 +1999,13 @@
   },
   {
     "Regio": "13",
+    "Roepnummer": "13-161",
+    "Kenteken": "HXN-36-N",
+    "Omschrijving": "Ambualnce",
+    "Merk": "Mercedes-Benz Sprinter"
+  },
+  {
+    "Regio": "13",
     "Roepnummer": "13-175",
     "Kenteken": "PL-557-T",
     "Omschrijving": "Ambulance",
@@ -2000,7 +2023,7 @@
   {
     "Regio": "13",
     "Roepnummer": "13-177",
-    "Kenteken": "H-879-TG",
+    "Kenteken": "HXN-35-N",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Amstelveen"
@@ -2033,6 +2056,13 @@
     "Regio": "13",
     "Roepnummer": "13-203",
     "Kenteken": "G-733-XT",
+    "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "Mercedes-Benz Sprinter"
+  },
+  {
+    "Regio": "13",
+    "Roepnummer": "13-251",
+    "Kenteken": "HXN-37-N",
     "Omschrijving": "Middencomplexe Ambulance",
     "Merk": "Mercedes-Benz Sprinter"
   },
@@ -3508,9 +3538,9 @@
   },
   {
     "Regio": "20",
-    "Roepnummer": "20-504",
-    "Kenteken": "4-XHR-36",
-    "Omschrijving": "Team Ambulance (Voorlichting)",
+    "Roepnummer": "20-505",
+    "Kenteken": "V-232-RL",
+    "Omschrijving": "OpleidingsAmbulance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Tilburg-Noord"
   },
