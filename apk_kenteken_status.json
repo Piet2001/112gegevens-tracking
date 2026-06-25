@@ -17429,16 +17429,6 @@
     "defensie": false,
     "vaartuig": false
   },
-  "BV-ZV-85": {
-    "expiry": "2026-06-12",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": ["23-5531"],
-    "last_check_date": "2026-06-25",
-    "no_apk_info": false,
-    "defensie": false,
-    "vaartuig": false
-  },
   "H-511-FH": {
     "expiry": "2027-02-14",
     "checked": true,
@@ -25838,5 +25828,15 @@
     "vaartuig": false,
     "roepnummers": ["23-5431"],
     "last_check_date": "2026-06-21"
+  },
+  "BB-919-S": {
+    "expiry": "2026-10-15",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["23-5531"],
+    "last_check_date": "2026-06-25"
   }
 }
