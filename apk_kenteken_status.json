@@ -25659,16 +25659,6 @@
     "roepnummers": ["12-171"],
     "last_check_date": "2026-06-13"
   },
-  "H-027-FF": {
-    "expiry": "2026-01-31",
-    "checked": true,
-    "unknown": false,
-    "no_apk_info": false,
-    "defensie": false,
-    "vaartuig": false,
-    "roepnummers": ["12-172"],
-    "last_check_date": "2026-06-26"
-  },
   "1-XKB-64": {
     "expiry": "2027-01-14",
     "checked": true,
@@ -25868,5 +25858,15 @@
     "vaartuig": false,
     "roepnummers": ["24-155"],
     "last_check_date": "2026-06-25"
+  },
+  "GGX-12-S": {
+    "expiry": "2026-07-31",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["12-172"],
+    "last_check_date": "2026-06-26"
   }
 }
