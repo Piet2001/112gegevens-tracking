@@ -8350,11 +8350,11 @@
     "vaartuig": false
   },
   "GG-491-T": {
-    "expiry": "2026-06-25",
+    "expiry": "2027-06-25",
     "checked": true,
     "unknown": false,
     "roepnummers": ["08-9002"],
-    "last_check_date": "2026-05-23",
+    "last_check_date": "2026-06-26",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -19970,11 +19970,11 @@
     "vaartuig": false
   },
   "ZH-127-F": {
-    "expiry": "2026-06-25",
+    "expiry": "2027-06-25",
     "checked": true,
     "unknown": false,
     "roepnummers": ["17-157"],
-    "last_check_date": "2026-05-23",
+    "last_check_date": "2026-06-26",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -22284,7 +22284,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["21-590"],
-    "last_check_date": "2026-06-25",
+    "last_check_date": "2026-06-26",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -24464,7 +24464,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["08-125"],
-    "last_check_date": "2026-06-25",
+    "last_check_date": "2026-06-26",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -25667,7 +25667,7 @@
     "defensie": false,
     "vaartuig": false,
     "roepnummers": ["12-172"],
-    "last_check_date": "2026-06-25"
+    "last_check_date": "2026-06-26"
   },
   "1-XKB-64": {
     "expiry": "2027-01-14",
