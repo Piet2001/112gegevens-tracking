@@ -1905,7 +1905,7 @@
     "Regio": "12",
     "Roepnummer": "12-354",
     "Kenteken": "P-863-ZG",
-    "Omschrijving": "Rapid Responder",
+    "Omschrijving": "Rapid Responder (Medic01)",
     "Merk": "Mercedes-Benz Vito",
     "Locatie indien vast": "Schiphol"
   },
@@ -1913,14 +1913,7 @@
     "Regio": "12",
     "Roepnummer": "12-355",
     "Kenteken": "G-626-XG",
-    "Omschrijving": "Medic 2",
-    "Locatie indien vast": "Schiphol"
-  },
-  {
-    "Regio": "12",
-    "Roepnummer": "12-355",
-    "Kenteken": "G-626-XG",
-    "Omschrijving": "Rapid Responder",
+    "Omschrijving": "Rapid Responder (Medic02)",
     "Merk": "Mazda CX-5",
     "Locatie indien vast": "Schiphol"
   },
