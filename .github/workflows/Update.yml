@@ -56,7 +56,7 @@ jobs:
       - name: commit and push as actions bot
         run: |
           export TZ="Europe/Amsterdam"
-          COMMIT_MESSAGE="$(date '+%Y-%m-%d %H:00 - Update Documents')"
+          COMMIT_MESSAGE="$(date '+%Y-%m-%d %H:%M - Update Documents')"
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
