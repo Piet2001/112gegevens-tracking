@@ -1180,11 +1180,11 @@
     "vaartuig": false
   },
   "15-LHF-6": {
-    "expiry": "2026-06-28",
+    "expiry": "2027-06-28",
     "checked": true,
     "unknown": false,
     "roepnummers": ["01-2301"],
-    "last_check_date": "2026-05-23",
+    "last_check_date": "2026-06-29",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -7244,7 +7244,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["06-9036"],
-    "last_check_date": "2026-06-28",
+    "last_check_date": "2026-06-29",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -12364,7 +12364,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["17-9909"],
-    "last_check_date": "2026-06-28",
+    "last_check_date": "2026-06-29",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -18900,11 +18900,11 @@
     "vaartuig": false
   },
   "JT-037-V": {
-    "expiry": "2026-06-28",
+    "expiry": "2027-06-28",
     "checked": true,
     "unknown": false,
     "roepnummers": ["04-805"],
-    "last_check_date": "2026-05-23",
+    "last_check_date": "2026-06-29",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -21070,11 +21070,11 @@
     "vaartuig": false
   },
   "NF-477-F": {
-    "expiry": "2026-06-28",
+    "expiry": "2027-06-28",
     "checked": true,
     "unknown": false,
     "roepnummers": ["23-703"],
-    "last_check_date": "2026-05-23",
+    "last_check_date": "2026-06-29",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -22284,7 +22284,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["21-590"],
-    "last_check_date": "2026-06-28",
+    "last_check_date": "2026-06-29",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -24464,7 +24464,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["08-125"],
-    "last_check_date": "2026-06-28",
+    "last_check_date": "2026-06-29",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
