@@ -38,6 +38,7 @@ jobs:
           DISCORD: ${{ secrets.DISCORD  }}
           DISCORD_APK: ${{ secrets.DISCORD_APK  }}
           DISCORD_APK_LOG: ${{ secrets.DISCORD_APK_LOG  }}
+          RDW_API_CHANGES_WEBHOOK: ${{ secrets.RDW_API_CHANGES_WEBHOOK  }}
 
       - name: json-syntax-check
         uses: limitusus/json-syntax-check@v1
