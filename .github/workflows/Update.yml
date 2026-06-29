@@ -13,13 +13,13 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          persist-credentials: false
+          persist-credentials: true
           fetch-depth: 0
 
       - name: setup python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.9"
+          python-version: "3.11"
 
       - name: install python packages
         run: |
@@ -29,6 +29,7 @@ jobs:
       - name: update
         run: |
           python -u Scripts/Update.py
+          python -u Scripts/Poll_rdw_inrichting.py
           python -u Scripts/Check_apk_expiry.py
         env:
           BRW_URL: ${{ secrets.BRW_URL  }}
@@ -43,10 +44,20 @@ jobs:
         with:
           pattern: "\\.json$"
 
-      - name: Prettify code & PUSH
-        uses: creyD/prettier_action@master
+      - name: setup node
+        uses: actions/setup-node@v4
         with:
-          prettier_options: --write **/*.{js,md,json}
-          commit_message: Update Documents
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN  }}
+          node-version: "20"
+
+      - name: format files
+        run: npx --yes prettier@3 --write "**/*.{js,md,json}"
+
+      - name: commit and push as actions bot
+        run: |
+          export TZ="Europe/Amsterdam"
+          COMMIT_MESSAGE="$(date '+%Y-%m-%d %H:00 - Update Documents')"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git diff --cached --quiet || git commit -m "$COMMIT_MESSAGE"
+          git push
