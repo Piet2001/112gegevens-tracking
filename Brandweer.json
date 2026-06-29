@@ -1539,10 +1539,10 @@
   {
     "Regio": "01",
     "Roepnummer": "01-2631",
-    "Kenteken": "BP-FJ-62",
-    "Type": "TS-8",
-    "Omschrijving": "Tankautospuit 8 mans bezetting",
-    "Merk (& Type)": "Scania P94D",
+    "Kenteken": "BD-246-N",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Volvo FE 320",
     "Kazerne": "Stadskanaal",
     "Adres": "Veenstraat 8, 9502EZ, Stadskanaal"
   },
@@ -10383,6 +10383,16 @@
   },
   {
     "Regio": "06",
+    "Roepnummer": "06-1631",
+    "Kenteken": "BD-586-L",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Volvo FE 320",
+    "Kazerne": "Nunspeet",
+    "Adres": "Elburgerweg 13, 8071TA, Nunspeet"
+  },
+  {
+    "Regio": "06",
     "Roepnummer": "06-1641",
     "Kenteken": "BB-997-J",
     "Type": "TST-NB",
@@ -10440,6 +10450,26 @@
     "Merk (& Type)": "Volvo FMX 420",
     "Kazerne": "Apeldoorn Centrum",
     "Adres": "Vosselmanstraat 203, 7311CL, Apeldoorn"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-2801",
+    "Kenteken": "JTP-96-G",
+    "Type": "DB",
+    "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Volkswagen E-Transporter",
+    "Kazerne": "Hoog Soeren",
+    "Adres": "Hoog Soeren 52, 7346AJ, Hoog-Soeren"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-2843",
+    "Kenteken": "BZ-XZ-72",
+    "Type": "TST-NB",
+    "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
+    "Merk (& Type)": "Iveco",
+    "Kazerne": "Hoog Soeren",
+    "Adres": "Hoog Soeren 52, 7346AJ, Hoog-Soeren"
   },
   {
     "Regio": "06",
@@ -11699,14 +11729,6 @@
     "Merk (& Type)": "Volvo",
     "Kazerne": "Hoenderloo",
     "Adres": "Brinkenbergweg 6, 7351BD, Hoenderloo"
-  },
-  {
-    "Regio": "06",
-    "Roepnummer": "06-7748",
-    "Type": "TST-NB",
-    "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
-    "Kazerne": "Hoog Soeren",
-    "Adres": "Hoog Soeren 52, 7346AJ, Hoog-Soeren"
   },
   {
     "Regio": "06",
@@ -18403,6 +18425,16 @@
   },
   {
     "Regio": "09",
+    "Roepnummer": "09-2201",
+    "Kenteken": "18-ZDH-9",
+    "Type": "DB",
+    "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Volkswagen transporter",
+    "Kazerne": "Leusden",
+    "Adres": "Burgemeester van der Postlaan 1, 3833VT, Leusden"
+  },
+  {
+    "Regio": "09",
     "Roepnummer": "09-2231",
     "Kenteken": "94-BNV-5",
     "Type": "TS",
@@ -18448,10 +18480,10 @@
   {
     "Regio": "09",
     "Roepnummer": "09-2286",
-    "Kenteken": "BZ-FZ-08",
+    "Kenteken": "81-BPG-6",
     "Type": "HA-T",
     "Omschrijving": "Haakarmbakvoertuig-Terreinvaardig",
-    "Merk (& Type)": "Volvo",
+    "Merk (& Type)": "Tatra",
     "Kazerne": "Leusden",
     "Adres": "Burgemeester van der Postlaan 1, 3833VT, Leusden"
   },
@@ -45533,7 +45565,7 @@
   {
     "Regio": "23",
     "Roepnummer": "23-5151",
-    "Kenteken": "BX-RD-44",
+    "Kenteken": "00-BDD-5",
     "Type": "HW",
     "Omschrijving": "Hoogwerker",
     "Merk (& Type)": "Volvo",
@@ -46030,10 +46062,38 @@
   },
   {
     "Regio": "24",
+    "Roepnummer": "24-0192",
+    "Kenteken": "Z-479-PS",
+    "Type": "DA-HOD",
+    "Omschrijving": "Dienstauto - Hoofd Officier van Dienst",
+    "Merk (& Type)": "Toyota",
+    "Kazerne": "Regionaal"
+  },
+  {
+    "Regio": "24",
+    "Roepnummer": "24-0195",
+    "Kenteken": "Z-476-PS",
+    "Type": "DA-OVD",
+    "Omschrijving": "Dienstauto - Officier van Dienst",
+    "Merk (& Type)": "Toyota",
+    "Kazerne": "Regionaal"
+  },
+  {
+    "Regio": "24",
     "Roepnummer": "24-1212",
     "Kenteken": "0-YJ-581",
     "Type": "BRV-M",
     "Omschrijving": "Brandweervaartuig - Middel",
+    "Kazerne": "Born",
+    "Adres": "Havenweg 141, 6122EN, Buchten"
+  },
+  {
+    "Regio": "24",
+    "Roepnummer": "24-1231",
+    "Kenteken": "23-BPL-3",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Born",
     "Adres": "Havenweg 141, 6122EN, Buchten"
   },
@@ -46552,16 +46612,6 @@
   },
   {
     "Regio": "24",
-    "Roepnummer": "24-3131",
-    "Kenteken": "42-BDF-4",
-    "Type": "TS-7",
-    "Omschrijving": "Tankautospuit 7 mans bezetting",
-    "Merk (& Type)": "Mercedes-Benz Atego",
-    "Kazerne": "Sittard-West",
-    "Adres": "Zurichstraat 10, 6135LP, Sittard"
-  },
-  {
-    "Regio": "24",
     "Roepnummer": "24-3141",
     "Type": "TST-7NB",
     "Omschrijving": "Tankautospuit-Terreinvaardig 7 mans bezetting Natuurbrand Bestrijding",
@@ -46752,6 +46802,16 @@
     "Omschrijving": "Dienstauto - Verkenningseenheid Brandweer",
     "Kazerne": "Gulpen",
     "Adres": "Landsraderweg 1, 6271NT, Gulpen"
+  },
+  {
+    "Regio": "24",
+    "Roepnummer": "24-3332",
+    "Kenteken": "42-BDF-4",
+    "Type": "TS-7",
+    "Omschrijving": "Tankautospuit 7 mans bezetting",
+    "Merk (& Type)": "Mercedes-Benz Atego",
+    "Kazerne": "Sittard-West",
+    "Adres": "Zurichstraat 10, 6135LP, Sittard"
   },
   {
     "Regio": "24",
@@ -47253,16 +47313,6 @@
     "Merk (& Type)": "MAN",
     "Kazerne": "Heerlen",
     "Adres": "Bekkerweg 44, 6417BW, Heerlen"
-  },
-  {
-    "Regio": "24",
-    "Roepnummer": "24-4331",
-    "Kenteken": "23-BPL-3",
-    "Type": "TS",
-    "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes-Benz Atego",
-    "Kazerne": "Born",
-    "Adres": "Havenweg 141, 6122EN, Buchten"
   },
   {
     "Regio": "24",

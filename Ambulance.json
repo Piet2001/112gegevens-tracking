@@ -161,7 +161,7 @@
   {
     "Regio": "01",
     "Roepnummer": "01-133",
-    "Kenteken": "L-469-GX",
+    "Kenteken": "JBS-13-H",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Veendam"
@@ -5283,6 +5283,14 @@
     "Kenteken": "2-TTK-46",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter"
+  },
+  {
+    "Regio": "25",
+    "Roepnummer": "25-701",
+    "Kenteken": "G-082-DK",
+    "Omschrijving": "Huisartsenpostvoertuig",
+    "Merk": "Volvo",
+    "Locatie indien vast": "Lelystad"
   },
   {
     "Regio": "25",
