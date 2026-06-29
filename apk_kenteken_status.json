@@ -7229,16 +7229,6 @@
     "defensie": false,
     "vaartuig": false
   },
-  "BJ-HV-92": {
-    "expiry": "2026-06-26",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": ["06-9036"],
-    "last_check_date": "2026-06-29",
-    "no_apk_info": false,
-    "defensie": false,
-    "vaartuig": false
-  },
   "91-BPB-5": {
     "expiry": "2026-12-05",
     "checked": true,

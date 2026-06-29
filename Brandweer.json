@@ -12720,16 +12720,6 @@
   },
   {
     "Regio": "06",
-    "Roepnummer": "06-9036",
-    "Kenteken": "BJ-HV-92",
-    "Type": "TS-RES",
-    "Omschrijving": "Tankautospuit-Reserve",
-    "Merk (& Type)": "MAN",
-    "Kazerne": "Eibergen",
-    "Adres": "Nijverheidsstraat 2, 7151HN, Eibergen"
-  },
-  {
-    "Regio": "06",
     "Roepnummer": "06-9038",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
