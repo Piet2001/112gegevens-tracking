@@ -4,15 +4,39 @@ import os
 import time
 from Functions import discord, changelog
 
+
+def fetch_json_or_old(env_var, label, old_data, retries=3, timeout=30):
+    url = os.getenv(env_var)
+    if not url:
+        print(f"{label}: env var {env_var} ontbreekt, gebruik bestaande data")
+        return old_data
+
+    for attempt in range(1, retries + 1):
+        try:
+            response = requests.get(url, timeout=timeout)
+            response.raise_for_status()
+            data = response.json()
+            if isinstance(data, list):
+                return data
+            print(f"{label}: response is geen lijst (attempt {attempt}/{retries})")
+        except Exception as exc:
+            print(f"{label}: ophalen mislukt (attempt {attempt}/{retries}): {exc}")
+
+        if attempt < retries:
+            time.sleep(5)
+
+    print(f"{label}: alle pogingen mislukt, gebruik bestaande data")
+    return old_data
+
 print("open old Lists")
 brw = json.load(open(f"Brandweer.json", encoding="utf8"))
 amb = json.load(open(f"Ambulance.json", encoding="utf8"))
 kaz = json.load(open(f"Kazernes.json", encoding="utf8"))
 
 print("Get new lists")
-brw_new = requests.get(os.getenv("BRW_URL")).json()
-amb_new = requests.get(os.getenv("AMB_URL")).json()
-kaz_new = requests.get(os.getenv("KAZ_URL")).json()
+brw_new = fetch_json_or_old("BRW_URL", "Brandweer", brw)
+amb_new = fetch_json_or_old("AMB_URL", "Ambulance", amb)
+kaz_new = fetch_json_or_old("KAZ_URL", "Kazernes", kaz)
 
 print("Check brandweer")
 for x in brw_new:
