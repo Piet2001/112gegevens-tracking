@@ -1,6 +1,7 @@
 import json
 import os
 import sys
+import time
 from datetime import datetime
 from typing import Any
 
@@ -143,6 +144,8 @@ def send_change_message(message: str) -> None:
             print(f"Discord webhook failed ({response.status_code}): {response.text}")
     except requests.RequestException as exc:
         print(f"Discord webhook failed: {exc}")
+    finally:
+        time.sleep(10)
 
 
 def notify_kenteken_changes(naam: str, added: list[str], removed: list[str]) -> None:
