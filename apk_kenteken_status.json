@@ -360,11 +360,11 @@
     "vaartuig": false
   },
   "3-VHS-61": {
-    "expiry": "2026-06-29",
+    "expiry": "2027-06-29",
     "checked": true,
     "unknown": false,
     "roepnummers": ["01-1201"],
-    "last_check_date": "2026-05-23",
+    "last_check_date": "2026-06-30",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -12334,7 +12334,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["17-9909"],
-    "last_check_date": "2026-06-29",
+    "last_check_date": "2026-06-30",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -22064,7 +22064,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["21-590"],
-    "last_check_date": "2026-06-29",
+    "last_check_date": "2026-06-30",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -24234,7 +24234,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["08-125"],
-    "last_check_date": "2026-06-29",
+    "last_check_date": "2026-06-30",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -25657,7 +25657,7 @@
     "defensie": false,
     "vaartuig": false,
     "roepnummers": ["01-115"],
-    "last_check_date": "2026-06-29"
+    "last_check_date": "2026-06-30"
   },
   "GLX-32-S": {
     "expiry": "2026-09-24",
