@@ -8029,8 +8029,10 @@
   {
     "Regio": "04",
     "Roepnummer": "04-2336",
+    "Kenteken": "BD-690-G",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Dedemsvaart",
     "Adres": "Hoofdvaart 55a, 7701GW, Dedemsvaart"
   },
@@ -18093,7 +18095,9 @@
     "Kenteken": "P-342-JF",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Mercedes-Benz Vito"
+    "Merk (& Type)": "Mercedes-Benz Vito",
+    "Kazerne": "De Bilt",
+    "Adres": "Henri Dunantplein 4c, 3731CL, De Bilt"
   },
   {
     "Regio": "09",
@@ -29667,6 +29671,16 @@
   },
   {
     "Regio": "16",
+    "Roepnummer": "16-4182",
+    "Kenteken": "22-BF-ZR",
+    "Type": "AB",
+    "Omschrijving": "Adembeschermingsvoertuig",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
+    "Kazerne": "Leiden-Noord",
+    "Adres": "Gooimeerlaan 25, 2317JZ, Leiden"
+  },
+  {
+    "Regio": "16",
     "Roepnummer": "16-4200",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
@@ -35554,8 +35568,10 @@
   {
     "Regio": "19",
     "Roepnummer": "19-4462",
+    "Kenteken": "BP-BR-54",
     "Type": "WT-G",
     "Omschrijving": "Watertankwagen -\u00a0Groot",
+    "Merk (& Type)": "DAF CF",
     "Kazerne": "Vlissingen-Souburg",
     "Adres": "Marie Curieweg 3b, 4389WB, Vlissingen"
   },
@@ -40622,10 +40638,20 @@
   {
     "Regio": "20",
     "Roepnummer": "26-8282",
+    "Kenteken": "14-BBJ-3",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "Tilburg-Centrum",
     "Adres": "Fabriekstraat 34, 5038EN, Tilburg"
+  },
+  {
+    "Regio": "20",
+    "Roepnummer": "28-4262",
+    "Kenteken": "LM-07-82",
+    "Type": "TST",
+    "Omschrijving": "Tankautospuit-Terreinvaardig",
+    "Kazerne": "Woensdrecht"
   },
   {
     "Regio": "20",
@@ -41743,8 +41769,10 @@
   {
     "Regio": "21",
     "Roepnummer": "21-4341",
+    "Kenteken": "BX-JG-82",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Vlijmen",
     "Adres": "Burgemeester Zwaansweg 2a, 5251CJ, Vlijmen"
   },

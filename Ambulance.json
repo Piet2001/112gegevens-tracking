@@ -121,7 +121,7 @@
   {
     "Regio": "01",
     "Roepnummer": "01-127",
-    "Kenteken": "G-510-BG",
+    "Kenteken": "HRG-02-J",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Groningen-Gotenburgweg"
@@ -397,14 +397,6 @@
   },
   {
     "Regio": "01",
-    "Roepnummer": "01-210",
-    "Kenteken": "HG-899-P",
-    "Omschrijving": "Middencomplexe Ambulance",
-    "Merk": "Mercedes-Benz Sprinter",
-    "Locatie indien vast": "Groningen-Zuid"
-  },
-  {
-    "Regio": "01",
     "Roepnummer": "01-211",
     "Kenteken": "S-168-NF",
     "Omschrijving": "Middencomplexe Ambulance",
@@ -420,7 +412,7 @@
   {
     "Regio": "01",
     "Roepnummer": "01-301",
-    "Kenteken": "KS-144-B",
+    "Kenteken": "GXL-42-S",
     "Omschrijving": "Mobiele Intensive Care Unit",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Groningen-Noord"
@@ -3486,6 +3478,7 @@
     "Regio": "20",
     "Roepnummer": "20-155",
     "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Waalwijk"
   },
   {
@@ -3498,16 +3491,24 @@
   {
     "Regio": "20",
     "Roepnummer": "20-183",
-    "Kenteken": "XP-03-S",
+    "Kenteken": "JXP-03-S",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter"
   },
   {
     "Regio": "20",
     "Roepnummer": "20-187",
-    "Kenteken": "XP-02-S",
+    "Kenteken": "JXP-02-S",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter"
+  },
+  {
+    "Regio": "20",
+    "Roepnummer": "20-195",
+    "Kenteken": "JXX-14-G",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Waalwijk"
   },
   {
     "Regio": "20",
