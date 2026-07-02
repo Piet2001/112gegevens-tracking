@@ -18089,6 +18089,14 @@
   },
   {
     "Regio": "09",
+    "Roepnummer": "09-0801",
+    "Kenteken": "P-342-JF",
+    "Type": "DB",
+    "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Vito"
+  },
+  {
+    "Regio": "09",
     "Roepnummer": "09-0831",
     "Kenteken": "00-BNV-9",
     "Type": "TS",
@@ -43709,6 +43717,15 @@
     "Merk (& Type)": "Mercedes-Benz Citan",
     "Kazerne": "Oirschot",
     "Adres": "Kempenweg 1, 5688MZ, Oirschot"
+  },
+  {
+    "Regio": "22",
+    "Roepnummer": "22-5203",
+    "Kenteken": "S-887-VN",
+    "Type": "DB",
+    "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Citan",
+    "Kazerne": "Regionaal"
   },
   {
     "Regio": "22",

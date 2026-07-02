@@ -25988,5 +25988,25 @@
     "vaartuig": false,
     "roepnummers": ["25-701"],
     "last_check_date": "2026-06-29"
+  },
+  "P-342-JF": {
+    "expiry": "2026-09-03",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["09-0801"],
+    "last_check_date": "2026-07-02"
+  },
+  "S-887-VN": {
+    "expiry": "2027-04-26",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["22-5203"],
+    "last_check_date": "2026-07-02"
   }
 }
