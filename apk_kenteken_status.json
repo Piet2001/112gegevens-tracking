@@ -10980,11 +10980,11 @@
     "vaartuig": false
   },
   "85-BDK-6": {
-    "expiry": "2026-07-01",
+    "expiry": "2027-07-01",
     "checked": true,
     "unknown": false,
     "roepnummers": ["13-9232"],
-    "last_check_date": "2026-05-23",
+    "last_check_date": "2026-07-02",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -12334,7 +12334,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["17-9909"],
-    "last_check_date": "2026-07-01",
+    "last_check_date": "2026-07-02",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -12454,7 +12454,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["18-5402"],
-    "last_check_date": "2026-07-01",
+    "last_check_date": "2026-07-02",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -14030,11 +14030,11 @@
     "vaartuig": false
   },
   "ZB-431-V": {
-    "expiry": "2026-07-01",
+    "expiry": "2027-07-01",
     "checked": true,
     "unknown": false,
     "roepnummers": ["20-1107"],
-    "last_check_date": "2026-05-23",
+    "last_check_date": "2026-07-02",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -19660,11 +19660,11 @@
     "vaartuig": false
   },
   "74-ZSK-1": {
-    "expiry": "2026-07-01",
+    "expiry": "2027-07-01",
     "checked": true,
     "unknown": false,
     "roepnummers": ["17-135"],
-    "last_check_date": "2026-05-23",
+    "last_check_date": "2026-07-02",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -22064,7 +22064,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["21-590"],
-    "last_check_date": "2026-07-01",
+    "last_check_date": "2026-07-02",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -24234,7 +24234,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["08-125"],
-    "last_check_date": "2026-07-01",
+    "last_check_date": "2026-07-02",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -24487,7 +24487,7 @@
     "defensie": false,
     "vaartuig": true,
     "roepnummers": ["24-1212"],
-    "last_check_date": "2026-06-25"
+    "last_check_date": "2026-07-02"
   },
   "01-BPP-6": {
     "expiry": "2027-06-23",
@@ -25657,7 +25657,7 @@
     "defensie": false,
     "vaartuig": false,
     "roepnummers": ["01-115"],
-    "last_check_date": "2026-07-01"
+    "last_check_date": "2026-07-02"
   },
   "GLX-32-S": {
     "expiry": "2026-09-24",
