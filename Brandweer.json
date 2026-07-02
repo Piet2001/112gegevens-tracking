@@ -7958,16 +7958,6 @@
   },
   {
     "Regio": "04",
-    "Roepnummer": "04-2306",
-    "Kenteken": "K-402-VZ",
-    "Type": "DB",
-    "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Mercedes-Benz Sprinter",
-    "Kazerne": "Dedemsvaart",
-    "Adres": "Hoofdvaart 55a, 7701GW, Dedemsvaart"
-  },
-  {
-    "Regio": "04",
     "Roepnummer": "04-2310",
     "Type": "BRV",
     "Omschrijving": "Brandweervaartuig",
@@ -8135,6 +8125,16 @@
     "Omschrijving": "Personeel/Materieelvoertuig",
     "Kazerne": "Hardenberg",
     "Adres": "Europaweg 10, 7771BG, Hardenberg"
+  },
+  {
+    "Regio": "04",
+    "Roepnummer": "04-2389",
+    "Kenteken": "K-402-VZ",
+    "Type": "DB",
+    "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
+    "Kazerne": "Dedemsvaart",
+    "Adres": "Hoofdvaart 55a, 7701GW, Dedemsvaart"
   },
   {
     "Regio": "04",
@@ -17122,8 +17122,10 @@
   {
     "Regio": "08",
     "Roepnummer": "08-8181",
+    "Kenteken": "R-956-DK",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Dodewaard",
     "Adres": "Oranjelaan 1b, 6669AH, Dodewaard"
   },

@@ -5258,8 +5258,22 @@
   },
   {
     "Regio": "25",
+    "Roepnummer": "25-115",
+    "Kenteken": "GBR-48-G",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter"
+  },
+  {
+    "Regio": "25",
     "Roepnummer": "25-123",
     "Kenteken": "XH-306-H",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter"
+  },
+  {
+    "Regio": "25",
+    "Roepnummer": "25-125",
+    "Kenteken": "HND-43-T",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter"
   },

@@ -6033,7 +6033,7 @@
     "expiry": "2026-07-22",
     "checked": true,
     "unknown": false,
-    "roepnummers": ["04-2306"],
+    "roepnummers": ["04-2389"],
     "last_check_date": "2026-05-23",
     "no_apk_info": false,
     "defensie": false,
@@ -26067,6 +26067,36 @@
     "defensie": false,
     "vaartuig": false,
     "roepnummers": ["20-195"],
+    "last_check_date": "2026-07-02"
+  },
+  "R-956-DK": {
+    "expiry": "2026-08-03",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["08-8181"],
+    "last_check_date": "2026-07-02"
+  },
+  "GBR-48-G": {
+    "expiry": "2027-06-13",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["25-115"],
+    "last_check_date": "2026-07-02"
+  },
+  "HND-43-T": {
+    "expiry": "2027-04-25",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["25-125"],
     "last_check_date": "2026-07-02"
   }
 }

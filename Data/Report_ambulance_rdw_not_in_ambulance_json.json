@@ -1,7 +1,7 @@
 {
   "source_json_file": "Ambulance.json",
   "source_rdw_file": "Data/Ambulance_rdw.json",
-  "rdw_not_in_source_count": 952,
+  "rdw_not_in_source_count": 950,
   "rdw_not_in_source_kentekens": [
     "01JHZ6",
     "04LHS6",
@@ -114,7 +114,6 @@
     "GBN57F",
     "GBN58F",
     "GBR47G",
-    "GBR48G",
     "GBR49G",
     "GD094X",
     "GDB77R",
@@ -251,7 +250,6 @@
     "HKL34J",
     "HKN77T",
     "HKZ34G",
-    "HND43T",
     "HNG86R",
     "HNX16X",
     "HP327P",
