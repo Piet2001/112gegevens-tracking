@@ -460,9 +460,9 @@
   {
     "Regio": "01",
     "Roepnummer": "01-381",
-    "Kenteken": "GV-537-V",
+    "Kenteken": "G-947-RL",
     "Omschrijving": "Rapid Responder",
-    "Merk": "Skoda Fabia"
+    "Merk": "Volkswagen T-ROC"
   },
   {
     "Regio": "01",
@@ -489,9 +489,9 @@
   {
     "Regio": "01",
     "Roepnummer": "01-385",
-    "Kenteken": "KP-242-P",
+    "Kenteken": "XP-193-N",
     "Omschrijving": "Rapid Responder",
-    "Merk": "Audi A5"
+    "Merk": "Audi A6"
   },
   {
     "Regio": "01",
@@ -526,7 +526,7 @@
   {
     "Regio": "01",
     "Roepnummer": "01-702",
-    "Kenteken": "HB-044-N",
+    "Kenteken": "G-408-VB",
     "Omschrijving": "Huisartsenpostvoertuig",
     "Merk": "Mercedes-Benz V-Klasse",
     "Locatie indien vast": "Leek"
@@ -534,7 +534,7 @@
   {
     "Regio": "01",
     "Roepnummer": "01-703",
-    "Kenteken": "HB-046-N",
+    "Kenteken": "G-036-XV",
     "Omschrijving": "Huisartsenpostvoertuig",
     "Merk": "Mercedes-Benz V-Klasse",
     "Locatie indien vast": "Delfzijl"
@@ -542,7 +542,7 @@
   {
     "Regio": "01",
     "Roepnummer": "01-704",
-    "Kenteken": "HB-998-L",
+    "Kenteken": "G-036-XN",
     "Omschrijving": "Huisartsenpostvoertuig",
     "Merk": "Mercedes-Benz V-Klasse",
     "Locatie indien vast": "Groningen"
@@ -566,6 +566,7 @@
   {
     "Regio": "01",
     "Roepnummer": "01-707",
+    "Kenteken": "HB-046-N",
     "Omschrijving": "Huisartsenpostvoertuig",
     "Merk": "Mercedes-Benz V-Klasse"
   },
@@ -638,33 +639,117 @@
     "Roepnummer": "02-109",
     "Kenteken": "KT-225-G",
     "Omschrijving": "Ambulance",
-    "Merk": "Volkswagen Transporter"
+    "Merk": "Volkswagen Transporter",
+    "Locatie indien vast": "Buitenpost"
+  },
+  {
+    "Regio": "02",
+    "Roepnummer": "02-111",
+    "Kenteken": "T-281-DR",
+    "Omschrijving": "Ambulance",
+    "Merk": "Volkswagen Crafter",
+    "Locatie indien vast": "Leeuwarden-Zuid"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-112",
-    "Kenteken": "RT-939-J",
+    "Kenteken": "T-358-GN",
     "Omschrijving": "Ambulance",
-    "Merk": "Mercedes-Benz Sprinter"
+    "Merk": "Volkswagen Crafter",
+    "Locatie indien vast": "Leeuwarden-Zuid"
   },
   {
     "Regio": "02",
-    "Roepnummer": "02-131",
-    "Kenteken": "3-ZBV-24",
+    "Roepnummer": "02-113",
+    "Kenteken": "R-845-FK",
     "Omschrijving": "Ambulance",
-    "Merk": "Volkswagen Transporter"
+    "Merk": "Volkswagen Crafter",
+    "Locatie indien vast": "Leeuwarden-Zuid"
+  },
+  {
+    "Regio": "02",
+    "Roepnummer": "02-115",
+    "Kenteken": "R-337-BG",
+    "Omschrijving": "Ambulance",
+    "Merk": "MAN TGE",
+    "Locatie indien vast": "Leeuwarden-Zuid"
+  },
+  {
+    "Regio": "02",
+    "Roepnummer": "02-116",
+    "Kenteken": "R-335-BG",
+    "Omschrijving": "Ambulance",
+    "Merk": "MAN TGE",
+    "Locatie indien vast": "Leeuwarden-Zuid"
+  },
+  {
+    "Regio": "02",
+    "Roepnummer": "02-121",
+    "Kenteken": "T-679-DL",
+    "Omschrijving": "Ambulance",
+    "Merk": "MAN TGE",
+    "Locatie indien vast": "Sneek"
+  },
+  {
+    "Regio": "02",
+    "Roepnummer": "02-122",
+    "Kenteken": "R-305-FK",
+    "Omschrijving": "Ambulance",
+    "Merk": "Volkswagen Crafter",
+    "Locatie indien vast": "Sneek"
+  },
+  {
+    "Regio": "02",
+    "Roepnummer": "02-125",
+    "Kenteken": "R-763-GR",
+    "Omschrijving": "Ambulance",
+    "Merk": "Volkswagen Crafter",
+    "Locatie indien vast": "Harlingen"
+  },
+  {
+    "Regio": "02",
+    "Roepnummer": "02-129",
+    "Kenteken": "G-200-SP",
+    "Omschrijving": "Ambulance",
+    "Merk": "Volkswagen Crafter",
+    "Locatie indien vast": "Leeuwarden-Zuid"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-132",
-    "Kenteken": "PJ-477-X",
+    "Kenteken": "R-731-DK",
     "Omschrijving": "Ambulance",
-    "Merk": "Volkswagen Transporter"
+    "Merk": "Volkswagen Crafter",
+    "Locatie indien vast": "Drachten"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-136",
-    "Kenteken": "KH-125-G",
+    "Kenteken": "T-514-DL",
+    "Omschrijving": "Ambulance",
+    "Merk": "MAN TGE",
+    "Locatie indien vast": "Dokkum"
+  },
+  {
+    "Regio": "02",
+    "Roepnummer": "02-141",
+    "Kenteken": "G-189-SP",
+    "Omschrijving": "Ambulance",
+    "Merk": "Volkswagen Crafter",
+    "Locatie indien vast": "Dokkum"
+  },
+  {
+    "Regio": "02",
+    "Roepnummer": "02-142",
+    "Kenteken": "T-361-GN",
+    "Omschrijving": "Ambulance",
+    "Merk": "MAN TGE",
+    "Locatie indien vast": "Dokkum"
+  },
+  {
+    "Regio": "02",
+    "Roepnummer": "02-145",
+    "Kenteken": "K-319-XN",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter"
   },
@@ -687,9 +772,17 @@
     "Omschrijving": "Piketauto"
   },
   {
+    "Regio": "02",
+    "Roepnummer": "Ameland",
+    "Kenteken": "S-905-TT",
+    "Omschrijving": "Ambulance",
+    "Merk": "MAN TGE",
+    "Locatie indien vast": "Drachten"
+  },
+  {
     "Regio": "03",
     "Roepnummer": "03-101",
-    "Kenteken": "G-269-DB",
+    "Kenteken": "T-356-GN",
     "Omschrijving": "Ambulance",
     "Merk": "MAN TGE",
     "Locatie indien vast": "Assen"
@@ -697,10 +790,10 @@
   {
     "Regio": "03",
     "Roepnummer": "03-102",
-    "Kenteken": "XP-729-L",
+    "Kenteken": "JXJ-56-N",
     "Omschrijving": "Ambulance",
-    "Merk": "Mercedes-Benz Sprinter",
-    "Locatie indien vast": "Beilen"
+    "Merk": "Volkswagen Crafter",
+    "Locatie indien vast": "Assen"
   },
   {
     "Regio": "03",
@@ -721,7 +814,7 @@
   {
     "Regio": "03",
     "Roepnummer": "03-105",
-    "Kenteken": "P-317-GF",
+    "Kenteken": "T-086-BN",
     "Omschrijving": "Ambulance",
     "Merk": "MAN TGE",
     "Locatie indien vast": "Assen"
@@ -737,10 +830,34 @@
   {
     "Regio": "03",
     "Roepnummer": "03-107",
-    "Kenteken": "ZN-943-P",
+    "Kenteken": "JZL-05-K",
     "Omschrijving": "Ambulance",
-    "Merk": "Volkswagen Transporter",
+    "Merk": "MAN TGE",
     "Locatie indien vast": "Assen"
+  },
+  {
+    "Regio": "03",
+    "Roepnummer": "03-108",
+    "Kenteken": "HHJ-87-G",
+    "Omschrijving": "Ambulance",
+    "Merk": "Volkswagen Crafter",
+    "Locatie indien vast": "Roden"
+  },
+  {
+    "Regio": "03",
+    "Roepnummer": "03-121",
+    "Kenteken": "R-339-BG",
+    "Omschrijving": "Ambulance",
+    "Merk": "MAN TGE",
+    "Locatie indien vast": "Eelde"
+  },
+  {
+    "Regio": "03",
+    "Roepnummer": "03-131",
+    "Kenteken": "R-340-BG",
+    "Omschrijving": "Ambulance",
+    "Merk": "MAN TGE",
+    "Locatie indien vast": "Emmen"
   },
   {
     "Regio": "03",
@@ -752,6 +869,14 @@
   },
   {
     "Regio": "03",
+    "Roepnummer": "03-133",
+    "Kenteken": "HFF-24-X",
+    "Omschrijving": "Ambulance",
+    "Merk": "MAN TGE",
+    "Locatie indien vast": "Klazienaveen"
+  },
+  {
+    "Regio": "03",
     "Roepnummer": "03-134",
     "Kenteken": "T-355-GN",
     "Omschrijving": "Ambulance",
@@ -759,10 +884,18 @@
   },
   {
     "Regio": "03",
-    "Roepnummer": "03-136",
-    "Kenteken": "SH-043-B",
+    "Roepnummer": "03-135",
+    "Kenteken": "T-091-BN",
     "Omschrijving": "Ambulance",
-    "Merk": "Volvo XC90",
+    "Merk": "Volkswagen Crafter",
+    "Locatie indien vast": "Emmen"
+  },
+  {
+    "Regio": "03",
+    "Roepnummer": "03-136",
+    "Kenteken": "T-090-BN",
+    "Omschrijving": "Ambulance",
+    "Merk": "Volkswagen Crafter",
     "Locatie indien vast": "Emmen"
   },
   {
@@ -771,6 +904,70 @@
     "Kenteken": "R-847-FK",
     "Omschrijving": "Ambulance",
     "Merk": "MAN TGE"
+  },
+  {
+    "Regio": "03",
+    "Roepnummer": "03-141",
+    "Kenteken": "JXJ-57-N",
+    "Omschrijving": "Ambulance",
+    "Merk": "Volkswagen Crafter",
+    "Locatie indien vast": "Emmer-Compascuum"
+  },
+  {
+    "Regio": "03",
+    "Roepnummer": "03-152",
+    "Kenteken": "G-291-LS",
+    "Omschrijving": "Ambulance",
+    "Merk": "Volkswagen Transporter",
+    "Locatie indien vast": "Hoogeveen"
+  },
+  {
+    "Regio": "03",
+    "Roepnummer": "03-153",
+    "Kenteken": "T-341-GN",
+    "Omschrijving": "Ambulance",
+    "Merk": "MAN TGE",
+    "Locatie indien vast": "Hoogeveen"
+  },
+  {
+    "Regio": "03",
+    "Roepnummer": "03-154",
+    "Kenteken": "JXJ-55-N",
+    "Omschrijving": "Ambulance",
+    "Merk": "Volkswagen Crafter",
+    "Locatie indien vast": "Hoogeveen"
+  },
+  {
+    "Regio": "03",
+    "Roepnummer": "03-155",
+    "Kenteken": "R-338-BG",
+    "Omschrijving": "Ambulance",
+    "Merk": "Volkswagen Crafter",
+    "Locatie indien vast": "Hoogeveen"
+  },
+  {
+    "Regio": "03",
+    "Roepnummer": "03-158",
+    "Kenteken": "HFF-78-V",
+    "Omschrijving": "Ambulance",
+    "Merk": "Volkswagen Crafter",
+    "Locatie indien vast": "Hoogeveen"
+  },
+  {
+    "Regio": "03",
+    "Roepnummer": "03-161",
+    "Kenteken": "T-340-GN",
+    "Omschrijving": "Ambulance",
+    "Merk": "MAN TGE",
+    "Locatie indien vast": "Hoogeveen"
+  },
+  {
+    "Regio": "03",
+    "Roepnummer": "03-162",
+    "Kenteken": "T-282-DR",
+    "Omschrijving": "Ambulance",
+    "Merk": "Volkswagen Crafter",
+    "Locatie indien vast": "Meppel"
   },
   {
     "Regio": "03",
