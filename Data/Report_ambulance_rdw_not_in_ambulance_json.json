@@ -1,7 +1,7 @@
 {
   "source_json_file": "Ambulance.json",
   "source_rdw_file": "Data/Ambulance_rdw.json",
-  "rdw_not_in_source_count": 928,
+  "rdw_not_in_source_count": 927,
   "rdw_not_in_source_kentekens": [
     "01JHZ6",
     "04LHS6",
@@ -229,7 +229,6 @@
     "H946DN",
     "HDK79S",
     "HDV70S",
-    "HFX71Z",
     "HG091R",
     "HGF30B",
     "HGR45S",

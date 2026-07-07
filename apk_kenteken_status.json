@@ -26386,7 +26386,7 @@
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false,
-    "roepnummers": ["03-201", "03-205"],
+    "roepnummers": ["03-201"],
     "last_check_date": "2026-07-07"
   },
   "HGF-31-B": {
@@ -26559,16 +26559,6 @@
     "roepnummers": ["03-801"],
     "last_check_date": "2026-07-07"
   },
-  "G-268-DH": {
-    "expiry": "2025-08-28",
-    "checked": true,
-    "unknown": false,
-    "no_apk_info": false,
-    "defensie": false,
-    "vaartuig": false,
-    "roepnummers": ["03-802"],
-    "last_check_date": "2026-07-07"
-  },
   "G-480-NX": {
     "expiry": null,
     "checked": true,
@@ -26577,6 +26567,26 @@
     "defensie": false,
     "vaartuig": false,
     "roepnummers": ["03-803"],
+    "last_check_date": "2026-07-07"
+  },
+  "HFX-71-Z": {
+    "expiry": "2027-03-06",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["03-205"],
+    "last_check_date": "2026-07-07"
+  },
+  "H-476-TD": {
+    "expiry": "2028-05-14",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["03-802"],
     "last_check_date": "2026-07-07"
   }
 }
