@@ -1,8 +1,8 @@
 Expired (10):
 57-KKB-1 (18-5402): verlopen op 2026-06-30
 BX-DJ-21 (02-0239): verlopen op 2026-07-05
+G-268-DH (03-802): verlopen op 2025-08-28
 HTN-09-G (08-125): verlopen op 2026-06-20
-L-418-JN (03-205): verlopen op 2026-05-28
 L-568-NL (01-115): verlopen op 2026-06-23
 L-696-PR (01-120): verlopen op 2026-07-02
 L-697-PR (01-121): verlopen op 2026-07-02
@@ -10,7 +10,7 @@ PT-752-K (17-9909): verlopen op 2026-06-27
 VL-349-Z (05-9383): verlopen op 2026-07-05
 VP-141-F (21-590): verlopen op 2026-06-24
 
-Geen APK info gevonden (128):
+Geen APK info gevonden (129):
 1-XFB-71 (03-228)
 18-DMT-8 (28-6401)
 55-KJR-2 (22-807)
@@ -94,6 +94,7 @@ BX-GS-64 (18-6562)
 BX-ST-70 (15-7230)
 BX-ZJ-51 (18-6531)
 BZ-JF-88 (20-1562)
+G-480-NX (03-803)
 GH-561-T (22-5198)
 GP-521-H (13-120)
 GV-082-P (24-123)

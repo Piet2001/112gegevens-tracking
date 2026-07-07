@@ -1012,7 +1012,7 @@
   {
     "Regio": "03",
     "Roepnummer": "03-205",
-    "Kenteken": "L-418-JN",
+    "Kenteken": "HFX-70-Z",
     "Omschrijving": "Middencomplexe Ambulance",
     "Merk": "MAN TGE",
     "Locatie indien vast": "Hoogeveen"
@@ -1104,26 +1104,59 @@
   },
   {
     "Regio": "03",
-    "Roepnummer": "03-716",
-    "Kenteken": "G-271-TS",
+    "Roepnummer": "03-713",
+    "Kenteken": "HKV-83-P",
     "Omschrijving": "Huisartsenpostvoertuig",
-    "Merk": "Volkswagen Touran"
+    "Merk": "Volkswagen Tiguan Hybrid",
+    "Locatie indien vast": "Meppel"
+  },
+  {
+    "Regio": "03",
+    "Roepnummer": "03-715",
+    "Kenteken": "G-324-LF",
+    "Omschrijving": "Huisartsenpostvoertuig",
+    "Merk": "Volkswagen Touran",
+    "Locatie indien vast": "Hoogeveen"
+  },
+  {
+    "Regio": "03",
+    "Roepnummer": "03-716",
+    "Kenteken": "HKV-82-P",
+    "Omschrijving": "Huisartsenpostvoertuig",
+    "Merk": "Volkswagen Tiguan Hybrid",
+    "Locatie indien vast": "Emmen"
+  },
+  {
+    "Regio": "03",
+    "Roepnummer": "03-717",
+    "Kenteken": "G-272-TD",
+    "Omschrijving": "Huisartsenpostvoertuig",
+    "Merk": "Volkswagen Touran",
+    "Locatie indien vast": "Stadskanaal"
   },
   {
     "Regio": "03",
     "Roepnummer": "03-801",
-    "Kenteken": "10-TXP-3",
+    "Kenteken": "G-479-NX",
     "Omschrijving": "Officier van Dienst Geneeskunde",
-    "Merk": "Mitsubishi Outlander",
+    "Merk": "Volkswagen Tiguan",
     "Locatie indien vast": "Assen"
   },
   {
     "Regio": "03",
     "Roepnummer": "03-802",
-    "Kenteken": "77-ZB-JK",
+    "Kenteken": "G-268-DH",
     "Omschrijving": "Officier van Dienst Geneeskunde",
-    "Merk": "Volkswagen Touran",
-    "Locatie indien vast": "Assen"
+    "Merk": "Volkswagen Tiguan",
+    "Locatie indien vast": "Emmen"
+  },
+  {
+    "Regio": "03",
+    "Roepnummer": "03-803",
+    "Kenteken": "G-480-NX",
+    "Omschrijving": "Officier van Dienst Geneeskunde",
+    "Merk": "Volkswagen Tiguan",
+    "Locatie indien vast": "Hoogeveen"
   },
   {
     "Regio": "04",
