@@ -45280,10 +45280,10 @@
   {
     "Regio": "23",
     "Roepnummer": "23-4469",
-    "Kenteken": "VF-371-T",
+    "Kenteken": "V-99-LTJ",
     "Type": "SI-2",
     "Omschrijving": "Snel Interventie Voertuig 2 mans bezetting",
-    "Merk (& Type)": "Mercedes-Benz Sprinter",
+    "Merk (& Type)": "Toyota",
     "Kazerne": "Weert",
     "Adres": "De Savornin Lohmanstraat 8, 6004AM, Weert"
   },
@@ -45663,6 +45663,16 @@
   },
   {
     "Regio": "23",
+    "Roepnummer": "23-5180",
+    "Kenteken": "V-75-FNZ",
+    "Type": "GM",
+    "Omschrijving": "Gereedschap/Materieelwagen",
+    "Merk (& Type)": "Toyota",
+    "Kazerne": "Roermond",
+    "Adres": "Minderbroederssingel 36, 6041KK, Roermond"
+  },
+  {
+    "Regio": "23",
     "Roepnummer": "23-5182",
     "Kenteken": "12-BHZ-9",
     "Type": "HA",
@@ -45674,8 +45684,10 @@
   {
     "Regio": "23",
     "Roepnummer": "23-5183",
+    "Kenteken": "VKG-16-D",
     "Type": "GM",
     "Omschrijving": "Gereedschap/Materieelwagen",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Roermond",
     "Adres": "Minderbroederssingel 36, 6041KK, Roermond"
   },
@@ -45728,8 +45740,10 @@
   {
     "Regio": "23",
     "Roepnummer": "23-5302",
+    "Kenteken": "H-511-FH",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Volkswagen Polo",
     "Kazerne": "Echt",
     "Adres": "Bandertlaan 28, 9101LZ, Echt"
   },
@@ -45753,17 +45767,21 @@
   },
   {
     "Regio": "23",
-    "Roepnummer": "23-5369",
-    "Type": "SI-2",
-    "Omschrijving": "Snel Interventie Voertuig 2 mans bezetting",
+    "Roepnummer": "23-5371",
+    "Kenteken": "BV-VF-10",
+    "Type": "HV",
+    "Omschrijving": "Hulpverleningsvoertuig",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Echt",
     "Adres": "Bandertlaan 28, 9101LZ, Echt"
   },
   {
     "Regio": "23",
-    "Roepnummer": "23-5371",
-    "Type": "HV",
-    "Omschrijving": "Hulpverleningsvoertuig",
+    "Roepnummer": "23-5379",
+    "Kenteken": "VG-614-N",
+    "Type": "ON-HV",
+    "Omschrijving": "Ondersteuningsteamvoertuig - Hulpverlening",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Echt",
     "Adres": "Bandertlaan 28, 9101LZ, Echt"
   },
@@ -45922,10 +45940,10 @@
   {
     "Regio": "23",
     "Roepnummer": "23-6122",
-    "Kenteken": "H-511-FH",
-    "Type": "DA-VL",
-    "Omschrijving": "Dienstauto - Voorlichter",
-    "Merk (& Type)": "Volkswagen Polo",
+    "Kenteken": "HTG-15-X",
+    "Type": "DB-AGS",
+    "Omschrijving": "Dienstbus - Adviseur Gevaarlijke Stoffen",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Regionaal"
   },
   {
@@ -45966,8 +45984,10 @@
   {
     "Regio": "23",
     "Roepnummer": "23-6134",
+    "Kenteken": "BP-GD-825",
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Regionaal"
   },
   {
@@ -46087,6 +46107,15 @@
     "Merk (& Type)": "Volkswagen Polo",
     "Kazerne": "Venlo",
     "Adres": "Ari\u00ebnsstraat 72, 5912PZ, Venlo"
+  },
+  {
+    "Regio": "23",
+    "Roepnummer": "23-6199",
+    "Kenteken": "L-456-JK",
+    "Type": "DA",
+    "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Volkswagen Polo",
+    "Kazerne": "Regionaal"
   },
   {
     "Regio": "23",
