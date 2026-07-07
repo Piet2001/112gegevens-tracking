@@ -741,9 +741,9 @@
   {
     "Regio": "02",
     "Roepnummer": "02-142",
-    "Kenteken": "T-361-GN",
+    "Kenteken": "JZR-07-V",
     "Omschrijving": "Ambulance",
-    "Merk": "MAN TGE",
+    "Merk": "Volkswagen Crafter",
     "Locatie indien vast": "Dokkum"
   },
   {
@@ -979,10 +979,112 @@
   },
   {
     "Regio": "03",
+    "Roepnummer": "03-201",
+    "Kenteken": "HFX-70-Z",
+    "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "MAN TGE",
+    "Locatie indien vast": "Hoogeveen"
+  },
+  {
+    "Regio": "03",
+    "Roepnummer": "03-202",
+    "Kenteken": "HGF-31-B",
+    "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "MAN TGE",
+    "Locatie indien vast": "Assen"
+  },
+  {
+    "Regio": "03",
+    "Roepnummer": "03-203",
+    "Kenteken": "L-420-JN",
+    "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "MAN TGE",
+    "Locatie indien vast": "Meppel"
+  },
+  {
+    "Regio": "03",
+    "Roepnummer": "03-204",
+    "Kenteken": "HHP-01-R",
+    "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "MAN TGE",
+    "Locatie indien vast": "Emmen"
+  },
+  {
+    "Regio": "03",
+    "Roepnummer": "03-205",
+    "Kenteken": "L-418-JN",
+    "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "MAN TGE",
+    "Locatie indien vast": "Hoogeveen"
+  },
+  {
+    "Regio": "03",
+    "Roepnummer": "03-206",
+    "Kenteken": "HFX-69-Z",
+    "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "MAN TGE",
+    "Locatie indien vast": "Emmen"
+  },
+  {
+    "Regio": "03",
+    "Roepnummer": "03-207",
+    "Kenteken": "N-439-NB",
+    "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "MAN TGE",
+    "Locatie indien vast": "Emmen"
+  },
+  {
+    "Regio": "03",
+    "Roepnummer": "03-208",
+    "Kenteken": "P-317-GF",
+    "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "MAN TGE"
+  },
+  {
+    "Regio": "03",
+    "Roepnummer": "03-209",
+    "Kenteken": "P-473-GJ",
+    "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "MAN TGE",
+    "Locatie indien vast": "Emmen"
+  },
+  {
+    "Regio": "03",
     "Roepnummer": "03-224",
     "Kenteken": "02-SXN-7",
     "Omschrijving": "Piketauto",
     "Merk": "Volkswagen Polo"
+  },
+  {
+    "Regio": "03",
+    "Roepnummer": "03-226",
+    "Kenteken": "03-SXN-7",
+    "Omschrijving": "Piketauto",
+    "Merk": "Volkswagen Polo",
+    "Locatie indien vast": "Assen"
+  },
+  {
+    "Regio": "03",
+    "Roepnummer": "03-228",
+    "Kenteken": "1-XFB-71",
+    "Omschrijving": "Piketauto",
+    "Merk": "Volkswagen Golf",
+    "Locatie indien vast": "Emmen"
+  },
+  {
+    "Regio": "03",
+    "Roepnummer": "03-241",
+    "Kenteken": "2-XFB-71",
+    "Omschrijving": "Dienstauto",
+    "Merk": "Volkswagen Golf"
+  },
+  {
+    "Regio": "03",
+    "Roepnummer": "03-242",
+    "Kenteken": "3-XFB-71",
+    "Omschrijving": "Dienstauto",
+    "Merk": "Volkswagen Golf",
+    "Locatie indien vast": "Hoogeveen"
   },
   {
     "Regio": "03",
@@ -995,9 +1097,9 @@
   {
     "Regio": "03",
     "Roepnummer": "03-551",
-    "Kenteken": "BB-BH-50",
+    "Kenteken": "69-BSJ-8",
     "Omschrijving": "Haakarmvoertuig Logistiek",
-    "Merk": "DAF",
+    "Merk": "Mercedes-Benz",
     "Locatie indien vast": "Tynaarlo"
   },
   {
