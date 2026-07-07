@@ -1,11 +1,9 @@
-Expired (10):
-57-KKB-1 (18-5402): verlopen op 2026-06-30
+Expired (8):
 BX-DJ-21 (02-0239): verlopen op 2026-07-05
 HTN-09-G (08-125): verlopen op 2026-06-20
 L-568-NL (01-115): verlopen op 2026-06-23
 L-696-PR (01-120): verlopen op 2026-07-02
 L-697-PR (01-121): verlopen op 2026-07-02
-P-790-PZ (05-736): verlopen op 2025-06-22
 PT-752-K (17-9909): verlopen op 2026-06-27
 VL-349-Z (05-9383): verlopen op 2026-07-05
 VP-141-F (21-590): verlopen op 2026-06-24
@@ -146,7 +144,7 @@ XH-306-H (25-123)
 Z-208-KT (24-2595)
 ZK-025-J (19-135)
 
-APK vervaldatum onbekend (42):
+APK vervaldatum onbekend (43):
 12-WT-XJ (02-60VI)
 13-WF-XF (22-5287)
 14-WJ-XP (03-8674)
@@ -175,6 +173,7 @@ J-687-HP (04-403)
 JN-662-Z (20-124)
 MZ-JF-25 (01-323)
 SZ-874-T (06-412)
+V-89-PSH (24-1822)
 VD-369-H (06-9881)
 WF-80-ZR (03-9964)
 WG-67-VL (03-9864)

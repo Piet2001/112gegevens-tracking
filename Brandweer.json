@@ -33114,16 +33114,6 @@
   },
   {
     "Regio": "18",
-    "Roepnummer": "18-5402",
-    "Kenteken": "57-KKB-1",
-    "Type": "DA",
-    "Omschrijving": "Dienstauto",
-    "Merk (& Type)": "Volkswagen Touran",
-    "Kazerne": "Oud Beijerland",
-    "Adres": "Aston Martinlaan 20, 3261NB, Oud Beijerland"
-  },
-  {
-    "Regio": "18",
     "Roepnummer": "18-5403",
     "Kenteken": "V-865-BP",
     "Type": "PM",
@@ -34663,6 +34653,15 @@
     "Omschrijving": "Oefen Materiaal Aanhanger",
     "Kazerne": "Arkel",
     "Adres": "Vlietskade 1002, 4241WB, Arkel"
+  },
+  {
+    "Regio": "18",
+    "Roepnummer": "18-9400",
+    "Kenteken": "K-289-LS",
+    "Type": "DA",
+    "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Volkswagen Polo",
+    "Kazerne": "Regionaal"
   },
   {
     "Regio": "18",
@@ -46182,6 +46181,16 @@
     "Merk (& Type)": "MAN",
     "Kazerne": "Margraten",
     "Adres": "Holstraat 35a, 6269AW, Margraten"
+  },
+  {
+    "Regio": "24",
+    "Roepnummer": "24-1822",
+    "Kenteken": "V-89-PSH",
+    "Type": "DA-VK",
+    "Omschrijving": "Dienstauto - Verkenning",
+    "Merk (& Type)": "Toyota Hilux",
+    "Kazerne": "Gulpen",
+    "Adres": "Landsraderweg 1, 6271NT, Gulpen"
   },
   {
     "Regio": "24",
