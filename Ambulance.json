@@ -1417,14 +1417,6 @@
   },
   {
     "Regio": "04",
-    "Roepnummer": "04-181",
-    "Kenteken": "N-907-KK",
-    "Omschrijving": "Ambulance",
-    "Merk": "Mercedes-Benz Sprinter",
-    "Locatie indien vast": "Nijverdal"
-  },
-  {
-    "Regio": "04",
     "Roepnummer": "04-202",
     "Kenteken": "PK-985-R",
     "Omschrijving": "Middencomplexe Ambulance",
@@ -1441,9 +1433,10 @@
   {
     "Regio": "04",
     "Roepnummer": "04-301",
-    "Kenteken": "6-STL-87",
+    "Kenteken": "KFF-09-X",
     "Omschrijving": "Mobiele Intensive Care Unit",
-    "Merk": "Mercedes-Benz"
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Zwolle"
   },
   {
     "Regio": "04",
@@ -1524,10 +1517,9 @@
   {
     "Regio": "04",
     "Roepnummer": "04-805",
-    "Kenteken": "JT-037-V",
+    "Kenteken": "GRF-58-F",
     "Omschrijving": "Officier van Dienst Geneeskunde",
-    "Merk": "Volkswagen Touran",
-    "Locatie indien vast": "Zwolle"
+    "Merk": "Volvo XC40"
   },
   {
     "Regio": "04",
@@ -1539,6 +1531,7 @@
   {
     "Regio": "05",
     "Roepnummer": "05-101",
+    "Kenteken": "N-919-BL",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Hengelo"
@@ -1548,11 +1541,69 @@
     "Roepnummer": "05-102",
     "Kenteken": "J-805-NB",
     "Omschrijving": "Ambulance",
-    "Merk": "Mercedes-Benz Sprinter"
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Hengelo"
+  },
+  {
+    "Regio": "05",
+    "Roepnummer": "05-103",
+    "Kenteken": "X-943-JH",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Hengelo"
+  },
+  {
+    "Regio": "05",
+    "Roepnummer": "05-104",
+    "Kenteken": "H-464-PJ",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Hengelo"
+  },
+  {
+    "Regio": "05",
+    "Roepnummer": "05-105",
+    "Kenteken": "T-285-XZ",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Hengelo"
+  },
+  {
+    "Regio": "05",
+    "Roepnummer": "05-106",
+    "Kenteken": "GJB-43-V",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Hengelo"
+  },
+  {
+    "Regio": "05",
+    "Roepnummer": "05-107",
+    "Kenteken": "S-863-GP",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Hengelo"
+  },
+  {
+    "Regio": "05",
+    "Roepnummer": "05-111",
+    "Kenteken": "H-774-DV",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Enschede"
+  },
+  {
+    "Regio": "05",
+    "Roepnummer": "05-112",
+    "Kenteken": "GVX-24-N",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Enschede"
   },
   {
     "Regio": "05",
     "Roepnummer": "05-113",
+    "Kenteken": "N-007-BT",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Enschede"
@@ -1562,14 +1613,48 @@
     "Roepnummer": "05-114",
     "Kenteken": "J-799-NB",
     "Omschrijving": "Ambulance",
-    "Merk": "Mercedes-Benz Sprinter"
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Enschede"
+  },
+  {
+    "Regio": "05",
+    "Roepnummer": "05-114",
+    "Kenteken": "J-799-NB",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Enschede"
+  },
+  {
+    "Regio": "05",
+    "Roepnummer": "05-115",
+    "Kenteken": "G-390-XH",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Enschede"
+  },
+  {
+    "Regio": "05",
+    "Roepnummer": "05-116",
+    "Kenteken": "GVX-26-N",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Enschede"
+  },
+  {
+    "Regio": "05",
+    "Roepnummer": "05-117",
+    "Kenteken": "GVX-25-N",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Enschede"
   },
   {
     "Regio": "05",
     "Roepnummer": "05-118",
     "Kenteken": "H-466-JP",
     "Omschrijving": "Ambulance",
-    "Merk": "Mercedes-Benz Sprinter"
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Enschede"
   },
   {
     "Regio": "05",
@@ -1581,16 +1666,218 @@
   },
   {
     "Regio": "05",
+    "Roepnummer": "05-152",
+    "Kenteken": "GJB-45-V",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Almelo"
+  },
+  {
+    "Regio": "05",
     "Roepnummer": "05-153",
     "Kenteken": "J-807-NB",
     "Omschrijving": "Ambulance",
-    "Merk": "Mercedes-Benz Sprinter"
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Almelo"
+  },
+  {
+    "Regio": "05",
+    "Roepnummer": "05-154",
+    "Kenteken": "H-465-PJ",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Almelo"
+  },
+  {
+    "Regio": "05",
+    "Roepnummer": "05-155",
+    "Kenteken": "X-936-JH",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Almelo"
   },
   {
     "Regio": "05",
     "Roepnummer": "05-156",
+    "Kenteken": "J-806-NB",
     "Omschrijving": "Ambulance",
-    "Merk": "Mercedes-Benz Sprinter"
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Almelo"
+  },
+  {
+    "Regio": "05",
+    "Roepnummer": "05-158",
+    "Kenteken": "XV-417-K",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Almelo"
+  },
+  {
+    "Regio": "05",
+    "Roepnummer": "05-219",
+    "Kenteken": "15-SVG-Z",
+    "Omschrijving": "Piketauto",
+    "Merk": "Volkswagen Touran"
+  },
+  {
+    "Regio": "05",
+    "Roepnummer": "05-225",
+    "Kenteken": "H-437-GF",
+    "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Hengelo"
+  },
+  {
+    "Regio": "05",
+    "Roepnummer": "05-226",
+    "Kenteken": "G-322-ZR",
+    "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Hengelo"
+  },
+  {
+    "Regio": "05",
+    "Roepnummer": "05-227",
+    "Kenteken": "H-946-DN",
+    "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Hengelo"
+  },
+  {
+    "Regio": "05",
+    "Roepnummer": "05-228",
+    "Kenteken": "H-530-FK",
+    "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Hengelo"
+  },
+  {
+    "Regio": "05",
+    "Roepnummer": "05-229",
+    "Kenteken": "S-841-GP",
+    "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Hengelo"
+  },
+  {
+    "Regio": "05",
+    "Roepnummer": "05-342",
+    "Kenteken": "V-429-TJ",
+    "Omschrijving": "Rapid Responder",
+    "Merk": "Mercedes-Benz Vito",
+    "Locatie indien vast": "Hengelo"
+  },
+  {
+    "Regio": "05",
+    "Roepnummer": "05-343",
+    "Kenteken": "V-428-TJ",
+    "Omschrijving": "Rapid Responder",
+    "Merk": "Mercedes-Benz Vito",
+    "Locatie indien vast": "Hengelo"
+  },
+  {
+    "Regio": "05",
+    "Roepnummer": "05-344",
+    "Kenteken": "T-815-NT",
+    "Omschrijving": "Rapid Responder",
+    "Merk": "Mercedes-Benz Vito",
+    "Locatie indien vast": "Hengelo"
+  },
+  {
+    "Regio": "05",
+    "Roepnummer": "05-540",
+    "Kenteken": "VH-566-Z",
+    "Omschrijving": "Opleidingsvoertuig",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Hengelo"
+  },
+  {
+    "Regio": "05",
+    "Roepnummer": "05-541",
+    "Kenteken": "17-SVG-2",
+    "Omschrijving": "Logistiekvoertuig",
+    "Merk": "Volkswagen Touran",
+    "Locatie indien vast": "Hengelo"
+  },
+  {
+    "Regio": "05",
+    "Roepnummer": "05-594",
+    "Kenteken": "17-BXP-2",
+    "Omschrijving": "Grootschalige Geneeskundige Bijstand",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Hengelo"
+  },
+  {
+    "Regio": "05",
+    "Roepnummer": "05-599",
+    "Kenteken": "VFN-02-D",
+    "Omschrijving": "Logistiekvoertuig",
+    "Merk": "Iveco",
+    "Locatie indien vast": "Hengelo"
+  },
+  {
+    "Regio": "05",
+    "Roepnummer": "05-731",
+    "Kenteken": "P-208-PD",
+    "Omschrijving": "Huisartsenpostvoertuig",
+    "Merk": "Mitsubishi Outlander",
+    "Locatie indien vast": "Enschede"
+  },
+  {
+    "Regio": "05",
+    "Roepnummer": "05-732",
+    "Kenteken": "P-209-PD",
+    "Omschrijving": "Huisartsenpostvoertuig",
+    "Merk": "Mitsubishi Outlander",
+    "Locatie indien vast": "Enschede"
+  },
+  {
+    "Regio": "05",
+    "Roepnummer": "05-733",
+    "Kenteken": "P-210-PD",
+    "Omschrijving": "Huisartsenpostvoertuig",
+    "Merk": "Mitsubishi Outlander",
+    "Locatie indien vast": "Almelo"
+  },
+  {
+    "Regio": "05",
+    "Roepnummer": "05-734",
+    "Kenteken": "P-788-PZ",
+    "Omschrijving": "Huisartsenpostvoertuig",
+    "Merk": "Mitsubishi Outlander",
+    "Locatie indien vast": "Almelo"
+  },
+  {
+    "Regio": "05",
+    "Roepnummer": "05-735",
+    "Kenteken": "P-789-PZ",
+    "Omschrijving": "Huisartsenpostvoertuig",
+    "Merk": "Mitsubishi Outlander",
+    "Locatie indien vast": "Hengelo"
+  },
+  {
+    "Regio": "05",
+    "Roepnummer": "05-736",
+    "Kenteken": "P-790-PZ",
+    "Omschrijving": "Huisartsenpostvoertuig",
+    "Merk": "Mitsubishi Outlander",
+    "Locatie indien vast": "Hengelo"
+  },
+  {
+    "Regio": "05",
+    "Roepnummer": "05-808",
+    "Kenteken": "X-510-XX",
+    "Omschrijving": "Officier van Dienst Geneeskunde",
+    "Merk": "Volkswagen Tiguan",
+    "Locatie indien vast": "Hengelo"
+  },
+  {
+    "Regio": "05",
+    "Roepnummer": "05-809",
+    "Kenteken": "TT-304-P",
+    "Omschrijving": "Officier van Dienst Geneeskunde",
+    "Merk": "Volkswagen Touran",
+    "Locatie indien vast": "Hengelo"
   },
   {
     "Regio": "06",
