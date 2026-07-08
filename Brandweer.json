@@ -1548,6 +1548,16 @@
   },
   {
     "Regio": "01",
+    "Roepnummer": "01-2632",
+    "Kenteken": "BD-815-P",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Volvo FE 320",
+    "Kazerne": "Stadskanaal",
+    "Adres": "Veenstraat 8, 9502EZ, Stadskanaal"
+  },
+  {
+    "Regio": "01",
     "Roepnummer": "01-2633",
     "Kenteken": "BX-XF-08",
     "Type": "TS-7",
@@ -10382,6 +10392,16 @@
     "Merk (& Type)": "Volvo FMX 420",
     "Kazerne": "Heerde",
     "Adres": "Rhijnsburglaan 52, 8181XT, Heerde"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-1541",
+    "Kenteken": "BD-814-P",
+    "Type": "TST-NB",
+    "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
+    "Merk (& Type)": "Volvo FMX 420",
+    "Kazerne": "Elburg",
+    "Adres": "Oostendorperstraatweg 8, 8081RK, Elburg"
   },
   {
     "Regio": "06",
@@ -32916,7 +32936,7 @@
   {
     "Regio": "17",
     "Roepnummer": "17-9982",
-    "Kenteken": "JNP-76-G",
+    "Kenteken": "JNP-67-G",
     "Type": "DA-VL",
     "Omschrijving": "Dienstauto - Voorlichter",
     "Merk (& Type)": "Kia EV3",
@@ -45683,7 +45703,7 @@
   {
     "Regio": "23",
     "Roepnummer": "23-5183",
-    "Kenteken": "VKG-16-D",
+    "Kenteken": "VGK-16-D",
     "Type": "GM",
     "Omschrijving": "Gereedschap/Materieelwagen",
     "Merk (& Type)": "Mercedes-Benz Sprinter",
