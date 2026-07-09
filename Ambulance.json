@@ -3812,6 +3812,14 @@
   },
   {
     "Regio": "17",
+    "Roepnummer": "17-150",
+    "Kenteken": "GJR-89-G",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Barendrecht"
+  },
+  {
+    "Regio": "17",
     "Roepnummer": "17-151",
     "Omschrijving": "Ambulance"
   },
@@ -4012,10 +4020,25 @@
   },
   {
     "Regio": "17",
+    "Roepnummer": "17-545",
+    "Kenteken": "VR-819-H",
+    "Omschrijving": "Logistiekvoertuig",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Rotterdam"
+  },
+  {
+    "Regio": "17",
     "Roepnummer": "17-812",
     "Kenteken": "GRJ-13-V",
     "Omschrijving": "Officier van Dienst Geneeskunde",
     "Merk": "SKODA ENYAQ 85"
+  },
+  {
+    "Regio": "17",
+    "Roepnummer": "17-951",
+    "Kenteken": "X-284-BG",
+    "Omschrijving": "Noodhulp Team",
+    "Merk": "Fiat"
   },
   {
     "Regio": "18",
