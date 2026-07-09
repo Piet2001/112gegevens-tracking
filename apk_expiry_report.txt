@@ -8,7 +8,7 @@ L-697-PR (01-121): verlopen op 2026-07-02
 PT-752-K (17-9909): verlopen op 2026-06-27
 VL-349-Z (05-9383): verlopen op 2026-07-05
 
-Geen APK info gevonden (134):
+Geen APK info gevonden (135):
 1-XFB-71 (03-228)
 15-SVG-Z (05-219)
 18-DMT-8 (28-6401)
@@ -85,6 +85,7 @@ BT-ZX-73 (04-2564)
 BV-HB-73 (15-9610)
 BV-NZ-02 (20-0034)
 BX-BD-46 (17-1151)
+BX-BD-84 (17-0451)
 BX-BJ-16 (09-5931)
 BX-DD-28 (02-6972)
 BX-DP-50 (07-5141)
@@ -144,7 +145,7 @@ XH-306-H (25-123)
 Z-208-KT (24-2595)
 ZK-025-J (19-135)
 
-APK vervaldatum onbekend (43):
+APK vervaldatum onbekend (44):
 12-WT-XJ (02-60VI)
 13-WF-XF (22-5287)
 14-WJ-XP (03-8674)
@@ -159,6 +160,7 @@ APK vervaldatum onbekend (43):
 40-WH-NG (01-3012)
 49-WJ-LP (02-57MSA)
 52-WG-DV (01-1061)
+61-WN-HP (20-1271)
 63-WT-XL (20-0065)
 66-WN-HV (17-2340)
 69-WT-HJ (01-1276)

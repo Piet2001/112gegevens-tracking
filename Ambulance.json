@@ -1457,9 +1457,9 @@
   {
     "Regio": "04",
     "Roepnummer": "04-341",
-    "Kenteken": "GKS-82-R",
+    "Kenteken": "J-033-VG",
     "Omschrijving": "Rapid Responder",
-    "Merk": "Volvo XC40 (Hybride)",
+    "Merk": "Mercedes-Benz Vito",
     "Locatie indien vast": "Zwolle"
   },
   {
@@ -1604,14 +1604,6 @@
     "Regio": "05",
     "Roepnummer": "05-113",
     "Kenteken": "N-007-BT",
-    "Omschrijving": "Ambulance",
-    "Merk": "Mercedes-Benz Sprinter",
-    "Locatie indien vast": "Enschede"
-  },
-  {
-    "Regio": "05",
-    "Roepnummer": "05-114",
-    "Kenteken": "J-799-NB",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Enschede"
@@ -4891,7 +4883,7 @@
   {
     "Regio": "21",
     "Roepnummer": "21-701",
-    "Kenteken": "N-929-FX",
+    "Kenteken": "N-928-FX",
     "Omschrijving": "Huisartsenpostvoertuig",
     "Merk": "Volvo XC40 (Hybride)",
     "Locatie indien vast": "HAP Den Bosch"

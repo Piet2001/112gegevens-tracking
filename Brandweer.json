@@ -6938,10 +6938,12 @@
   {
     "Regio": "04",
     "Roepnummer": "04-1035",
+    "Kenteken": "BT-LZ-10",
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
-    "Merk (& Type)": "MAN",
-    "Kazerne": "Regionaal"
+    "Merk (& Type)": "Scania",
+    "Kazerne": "Ommen",
+    "Adres": "Schurinkstraat 44a, 7731GE, Ommen"
   },
   {
     "Regio": "04",
@@ -7583,8 +7585,10 @@
   {
     "Regio": "04",
     "Roepnummer": "04-1832",
+    "Kenteken": "97-BRZ-2",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Genemuiden",
     "Adres": "Stuivenbergstraat 15, 8281EJ, Genemuiden"
   },
@@ -7837,16 +7841,20 @@
   {
     "Regio": "04",
     "Roepnummer": "04-2242",
+    "Kenteken": "69-BDL-5",
     "Type": "TST-NB",
     "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
+    "Merk (& Type)": "Renault",
     "Kazerne": "Ommen",
     "Adres": "Schurinkstraat 44a, 7731GE, Ommen"
   },
   {
     "Regio": "04",
     "Roepnummer": "04-2260",
+    "Kenteken": "BX-GZ-20",
     "Type": "WT",
     "Omschrijving": "Watertankwagen",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Ommen",
     "Adres": "Schurinkstraat 44a, 7731GE, Ommen"
   },
@@ -7869,8 +7877,10 @@
   {
     "Regio": "04",
     "Roepnummer": "04-2270",
+    "Kenteken": "58-BXR-8",
     "Type": "HV",
     "Omschrijving": "Hulpverleningsvoertuig",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "Ommen",
     "Adres": "Schurinkstraat 44a, 7731GE, Ommen"
   },
@@ -7893,24 +7903,30 @@
   {
     "Regio": "04",
     "Roepnummer": "04-2280",
+    "Kenteken": "JH-380-V",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Volkswagen Transporter",
     "Kazerne": "Ommen",
     "Adres": "Schurinkstraat 44a, 7731GE, Ommen"
   },
   {
     "Regio": "04",
     "Roepnummer": "04-2285",
+    "Kenteken": "56-BJD-8",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Ommen",
     "Adres": "Schurinkstraat 44a, 7731GE, Ommen"
   },
   {
     "Regio": "04",
     "Roepnummer": "04-2290",
+    "Kenteken": "VTD-44-Z",
     "Type": "PM-NB",
     "Omschrijving": "Personeel/Materieelvoertuig - Natuurbrand Bestrijding",
+    "Merk (& Type)": "Ford",
     "Kazerne": "Ommen",
     "Adres": "Schurinkstraat 44a, 7731GE, Ommen"
   },
@@ -8003,8 +8019,10 @@
   {
     "Regio": "04",
     "Roepnummer": "04-2333",
+    "Kenteken": "BD-440-J",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Gramsbergen",
     "Adres": "Oldenhof 4a, 7431AB, Gramsbergen"
   },
@@ -14225,8 +14243,10 @@
   {
     "Regio": "07",
     "Roepnummer": "07-2751",
+    "Kenteken": "17-BLZ-2",
     "Type": "HW",
     "Omschrijving": "Hoogwerker",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Ede-Centrum",
     "Adres": "Breelaan 4, 6711MR, Ede"
   },
@@ -23411,8 +23431,10 @@
   {
     "Regio": "11",
     "Roepnummer": "11-5012",
+    "Kenteken": "90-BKL-4",
     "Type": "WO",
     "Omschrijving": "Waterongevallenvoertuig",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Purmerend",
     "Adres": "Gorslaan 50, 1441RG, Purmerend"
   },
@@ -30322,8 +30344,10 @@
   {
     "Regio": "17",
     "Roepnummer": "17-0451",
+    "Kenteken": "BX-BD-84",
     "Type": "HW",
     "Omschrijving": "Hoogwerker",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "Schiedam",
     "Adres": "`s-Gravelandseweg 551, 3119XT, Schiedam"
   },
@@ -38277,8 +38301,10 @@
   {
     "Regio": "20",
     "Roepnummer": "20-1202",
+    "Kenteken": "KK-138-N",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Volkswagen Transporter",
     "Kazerne": "Oudenbosch",
     "Adres": "Vaartweg 32a, 4731RA, Oudenbosch"
   },
@@ -38293,8 +38319,10 @@
   {
     "Regio": "20",
     "Roepnummer": "20-1231",
+    "Kenteken": "12-BFJ-5",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Volvo FE320",
     "Kazerne": "Oudenbosch",
     "Adres": "Vaartweg 32a, 4731RA, Oudenbosch"
   },
@@ -38325,8 +38353,10 @@
   {
     "Regio": "20",
     "Roepnummer": "20-1271",
-    "Type": "VI",
-    "Omschrijving": "Veetakel Installatie",
+    "Kenteken": "61-WN-HP",
+    "Type": "VIA",
+    "Omschrijving": "Veetakelinstallatie aanhanger",
+    "Merk (& Type)": "Saris C2C C2700",
     "Kazerne": "Oudenbosch",
     "Adres": "Vaartweg 32a, 4731RA, Oudenbosch"
   },
