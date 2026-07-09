@@ -20699,16 +20699,6 @@
     "defensie": false,
     "vaartuig": false
   },
-  "XX-710-X": {
-    "expiry": "2027-01-22",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": ["24-115"],
-    "last_check_date": "2026-05-23",
-    "no_apk_info": false,
-    "defensie": false,
-    "vaartuig": false
-  },
   "KP-237-R": {
     "expiry": "2026-07-15",
     "checked": true,
@@ -27368,5 +27358,25 @@
     "vaartuig": false,
     "roepnummers": ["23-5183"],
     "last_check_date": "2026-07-08"
+  },
+  "K-586-RK": {
+    "expiry": "2027-02-07",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["07-102"],
+    "last_check_date": "2026-07-09"
+  },
+  "KPF-05-B": {
+    "expiry": "2027-07-02",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["24-115"],
+    "last_check_date": "2026-07-09"
   }
 }

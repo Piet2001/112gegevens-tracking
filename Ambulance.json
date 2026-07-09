@@ -2031,6 +2031,13 @@
   },
   {
     "Regio": "07",
+    "Roepnummer": "07-102",
+    "Kenteken": "K-586-RK",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter"
+  },
+  {
+    "Regio": "07",
     "Roepnummer": "07-104",
     "Omschrijving": "Ambulance"
   },
@@ -5866,7 +5873,7 @@
   {
     "Regio": "24",
     "Roepnummer": "24-115",
-    "Kenteken": "XX-710-X",
+    "Kenteken": "KPF-05-B",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Geleen"
