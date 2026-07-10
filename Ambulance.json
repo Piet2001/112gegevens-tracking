@@ -5920,7 +5920,7 @@
   {
     "Regio": "24",
     "Roepnummer": "24-123",
-    "Kenteken": "GV-082-P",
+    "Kenteken": "N-809-KX",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Heerlen"
@@ -6199,6 +6199,13 @@
     "Regio": "25",
     "Roepnummer": "25-112",
     "Kenteken": "8-XRF-06",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter"
+  },
+  {
+    "Regio": "25",
+    "Roepnummer": "25-113",
+    "Kenteken": "HDV-70-S",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter"
   },

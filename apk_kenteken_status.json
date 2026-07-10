@@ -20709,16 +20709,6 @@
     "defensie": false,
     "vaartuig": false
   },
-  "GV-082-P": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": ["24-123"],
-    "last_check_date": "2026-07-05",
-    "no_apk_info": true,
-    "defensie": false,
-    "vaartuig": false
-  },
   "XP-615-S": {
     "expiry": "2027-02-28",
     "checked": true,
@@ -27658,5 +27648,25 @@
     "vaartuig": false,
     "roepnummers": ["17-951"],
     "last_check_date": "2026-07-09"
+  },
+  "N-809-KX": {
+    "expiry": "2026-11-04",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["24-123"],
+    "last_check_date": "2026-07-10"
+  },
+  "HDV-70-S": {
+    "expiry": "2027-01-31",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["25-113"],
+    "last_check_date": "2026-07-10"
   }
 }
