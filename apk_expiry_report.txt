@@ -1,16 +1,19 @@
-Expired (7):
+Expired (9):
 48-VX-KG (08-9017): verlopen op 2026-07-08
+83-BBX-3 (19-8162): verlopen op 2026-07-11
 BX-DJ-21 (02-0239): verlopen op 2026-07-05
+JT-708-S (22-705): verlopen op 2026-07-11
 L-568-NL (01-115): verlopen op 2026-06-23
 L-696-PR (01-120): verlopen op 2026-07-02
 L-697-PR (01-121): verlopen op 2026-07-02
 PT-752-K (17-9909): verlopen op 2026-06-27
 VL-349-Z (05-9383): verlopen op 2026-07-05
 
-Geen APK info gevonden (132):
+Geen APK info gevonden (133):
 1-XFB-71 (03-228)
 15-SVG-Z (05-219)
 18-DMT-8 (28-6401)
+38-WS-HP (01-1388)
 55-KJR-2 (22-807)
 74-TNS-7 (10-345)
 8-XKV-84 (06-189)
@@ -141,7 +144,7 @@ XH-306-H (25-123)
 Z-208-KT (24-2595)
 ZK-025-J (19-135)
 
-APK vervaldatum onbekend (44):
+APK vervaldatum onbekend (43):
 12-WT-XJ (02-60VI)
 13-WF-XF (22-5287)
 14-WJ-XP (03-8674)
@@ -151,7 +154,6 @@ APK vervaldatum onbekend (44):
 32-RXJ-4 (18-6489)
 36-WS-HP (01-2788)
 37-WS-HP (01-3388)
-38-WS-HP (01-1388)
 39-WS-HP (01-2288)
 40-WH-NG (01-3012)
 49-WJ-LP (02-57MSA)
