@@ -1,7 +1,7 @@
 {
   "source_json_file": "Ambulance.json",
   "source_rdw_file": "Data/Ambulance_rdw.json",
-  "rdw_not_in_source_count": 883,
+  "rdw_not_in_source_count": 881,
   "rdw_not_in_source_kentekens": [
     "01JHZ6",
     "04LHS6",
@@ -431,7 +431,6 @@
     "K772PF",
     "K774PF",
     "K783SK",
-    "K869GX",
     "K882RF",
     "K906BH",
     "K923TK",
@@ -695,7 +694,6 @@
     "ST610T",
     "SV754J",
     "SZ854T",
-    "T179LB",
     "T193FV",
     "T213XB",
     "T214XB",
