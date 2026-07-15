@@ -4188,6 +4188,22 @@
   },
   {
     "Regio": "17",
+    "Roepnummer": "17-207",
+    "Kenteken": "J-362-HR",
+    "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Brugwachter"
+  },
+  {
+    "Regio": "17",
+    "Roepnummer": "17-208",
+    "Kenteken": "J-359-HR",
+    "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Brugwachter"
+  },
+  {
+    "Regio": "17",
     "Roepnummer": "17-215",
     "Kenteken": "J-369-HR",
     "Omschrijving": "Middencomplexe Ambulance",
@@ -4284,27 +4300,6 @@
     "Regio": "17",
     "Roepnummer": "17-411",
     "Omschrijving": "Laagcomplexe Ambulance"
-  },
-  {
-    "Regio": "17",
-    "Roepnummer": "17-412",
-    "Kenteken": "J-359-HR",
-    "Omschrijving": "Laagcomplexe Ambulance",
-    "Merk": "Mercedes-Benz Sprinter"
-  },
-  {
-    "Regio": "17",
-    "Roepnummer": "17-413",
-    "Kenteken": "J-609-FN",
-    "Omschrijving": "Laagcomplexe Ambulance",
-    "Merk": "Mercedes-Benz Sprinter"
-  },
-  {
-    "Regio": "17",
-    "Roepnummer": "17-414",
-    "Kenteken": "J-362-HR",
-    "Omschrijving": "Laagcomplexe Ambulance",
-    "Merk": "Mercedes-Benz Sprinter"
   },
   {
     "Regio": "17",
