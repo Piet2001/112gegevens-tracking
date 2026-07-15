@@ -5193,6 +5193,22 @@
   },
   {
     "Regio": "22",
+    "Roepnummer": "22-131",
+    "Kenteken": "GXX-42-B",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Helmond"
+  },
+  {
+    "Regio": "22",
+    "Roepnummer": "22-132",
+    "Kenteken": "GXZ-79-S",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Helmond"
+  },
+  {
+    "Regio": "22",
     "Roepnummer": "22-201",
     "Kenteken": "S-827-PT",
     "Omschrijving": "Middencomplexe Ambulance",

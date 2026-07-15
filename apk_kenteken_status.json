@@ -27668,5 +27668,25 @@
     "vaartuig": false,
     "roepnummers": ["25-113"],
     "last_check_date": "2026-07-10"
+  },
+  "GXX-42-B": {
+    "expiry": "2027-01-06",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["22-131"],
+    "last_check_date": "2026-07-15"
+  },
+  "GXZ-79-S": {
+    "expiry": "2027-01-06",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["22-132"],
+    "last_check_date": "2026-07-15"
   }
 }
