@@ -23336,8 +23336,10 @@
   {
     "Regio": "11",
     "Roepnummer": "11-2002",
+    "Kenteken": "HPZ-47-R",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Opel Corsa",
     "Kazerne": "Volendam",
     "Adres": "Julianaweg 137B, 1131DH, Volendam"
   },
@@ -23476,6 +23478,16 @@
     "Roepnummer": "11-5006",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
+    "Kazerne": "Purmerend",
+    "Adres": "Gorslaan 50, 1441RG, Purmerend"
+  },
+  {
+    "Regio": "11",
+    "Roepnummer": "11-5007",
+    "Kenteken": "SN-881-X",
+    "Type": "DA",
+    "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Mercedes-Benz Citan",
     "Kazerne": "Purmerend",
     "Adres": "Gorslaan 50, 1441RG, Purmerend"
   },
@@ -30993,6 +31005,16 @@
     "Roepnummer": "17-1781",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
+    "Kazerne": "Rozenburg",
+    "Adres": "Laan van Nieuw Blankenburg 10, 3191DA, Rozenburg"
+  },
+  {
+    "Regio": "17",
+    "Roepnummer": "17-1782",
+    "Kenteken": "11-BTP-3",
+    "Type": "HA",
+    "Omschrijving": "Haakarmvoertuig",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "Rozenburg",
     "Adres": "Laan van Nieuw Blankenburg 10, 3191DA, Rozenburg"
   },

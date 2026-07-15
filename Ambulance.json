@@ -1115,7 +1115,7 @@
     "Regio": "03",
     "Roepnummer": "03-413",
     "Kenteken": "2-XLZ-65",
-    "Omschrijving": "Zorgambulance",
+    "Omschrijving": "Laagcomplexe Ambulance",
     "Merk": "Volkswagen Transporter",
     "Locatie indien vast": "Barneveld"
   },
@@ -1466,7 +1466,7 @@
     "Regio": "04",
     "Roepnummer": "04-401",
     "Kenteken": "J-686-HP",
-    "Omschrijving": "Zorgambulance",
+    "Omschrijving": "Laagcomplexe Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Zwolle"
   },
@@ -1474,7 +1474,7 @@
     "Regio": "04",
     "Roepnummer": "04-402",
     "Kenteken": "J-016-LB",
-    "Omschrijving": "Zorgambulance",
+    "Omschrijving": "Laagcomplexe Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Hardenberg"
   },
@@ -1482,7 +1482,7 @@
     "Regio": "04",
     "Roepnummer": "04-403",
     "Kenteken": "J-687-HP",
-    "Omschrijving": "Zorgambulance",
+    "Omschrijving": "Laagcomplexe Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Deventer"
   },
@@ -1490,7 +1490,7 @@
     "Regio": "04",
     "Roepnummer": "04-404",
     "Kenteken": "K-452-NX",
-    "Omschrijving": "Zorgambulance",
+    "Omschrijving": "Laagcomplexe Ambulance",
     "Merk": "Mercedes-Benz Sprinter"
   },
   {
@@ -1989,7 +1989,7 @@
     "Regio": "06",
     "Roepnummer": "06-412",
     "Kenteken": "SZ-874-T",
-    "Omschrijving": "Zorgambulance",
+    "Omschrijving": "Laagcomplexe Ambulance",
     "Merk": "Mercedes-Benz"
   },
   {
@@ -2543,27 +2543,27 @@
   {
     "Regio": "09",
     "Roepnummer": "09-403",
-    "Omschrijving": "Zorgambulance",
+    "Omschrijving": "Laagcomplexe Ambulance",
     "Merk": "Mercedes-Benz Sprinter"
   },
   {
     "Regio": "09",
     "Roepnummer": "09-408",
     "Kenteken": "J-928-TK",
-    "Omschrijving": "Zorgambulance",
+    "Omschrijving": "Laagcomplexe Ambulance",
     "Merk": "Mercedes-Benz Sprinter"
   },
   {
     "Regio": "09",
     "Roepnummer": "09-410",
     "Kenteken": "J-017-ZK",
-    "Omschrijving": "Zorgambulance",
+    "Omschrijving": "Laagcomplexe Ambulance",
     "Merk": "Mercedes-Benz Sprinter"
   },
   {
     "Regio": "09",
     "Roepnummer": "09-483",
-    "Omschrijving": "Zorgambulance"
+    "Omschrijving": "Laagcomplexe Ambulance"
   },
   {
     "Regio": "09",
@@ -3665,7 +3665,7 @@
     "Regio": "16",
     "Roepnummer": "16-270",
     "Kenteken": "G-940-GV",
-    "Omschrijving": "Zorgambulance",
+    "Omschrijving": "Laagcomplexe Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Leiden"
   },
@@ -3681,6 +3681,14 @@
     "Regio": "16",
     "Roepnummer": "16-310",
     "Omschrijving": "Mobiele Intensive Care Unit"
+  },
+  {
+    "Regio": "17",
+    "Roepnummer": "17-101",
+    "Kenteken": "K-767-PF",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Barendrecht"
   },
   {
     "Regio": "17",
@@ -3891,7 +3899,8 @@
     "Roepnummer": "17-163",
     "Kenteken": "N-501-VK",
     "Omschrijving": "Ambulance",
-    "Merk": "Mercedes-Benz Sprinter"
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Barendrecht"
   },
   {
     "Regio": "17",
@@ -3985,58 +3994,66 @@
   {
     "Regio": "17",
     "Roepnummer": "17-401",
-    "Omschrijving": "Zorgambulance"
+    "Omschrijving": "Laagcomplexe Ambulance"
   },
   {
     "Regio": "17",
     "Roepnummer": "17-403",
-    "Omschrijving": "Zorgambulance"
+    "Omschrijving": "Laagcomplexe Ambulance"
+  },
+  {
+    "Regio": "17",
+    "Roepnummer": "17-405",
+    "Kenteken": "NN-450-Z",
+    "Omschrijving": "Laagcomplexe Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Barendrecht"
   },
   {
     "Regio": "17",
     "Roepnummer": "17-408",
-    "Kenteken": "J-358-HR",
-    "Omschrijving": "Zorgambulance",
+    "Kenteken": "JLB-14-H",
+    "Omschrijving": "Laagcomplexe Ambulance",
     "Merk": "Mercedes-Benz Sprinter"
   },
   {
     "Regio": "17",
     "Roepnummer": "17-410",
     "Kenteken": "J-370-HR",
-    "Omschrijving": "Zorgambulance",
+    "Omschrijving": "Laagcomplexe Ambulance",
     "Merk": "Mercedes-Benz Sprinter"
   },
   {
     "Regio": "17",
     "Roepnummer": "17-411",
-    "Omschrijving": "Zorgambulance"
+    "Omschrijving": "Laagcomplexe Ambulance"
   },
   {
     "Regio": "17",
     "Roepnummer": "17-412",
     "Kenteken": "J-359-HR",
-    "Omschrijving": "Zorgambulance",
+    "Omschrijving": "Laagcomplexe Ambulance",
     "Merk": "Mercedes-Benz Sprinter"
   },
   {
     "Regio": "17",
     "Roepnummer": "17-413",
     "Kenteken": "J-609-FN",
-    "Omschrijving": "Zorgambulance",
+    "Omschrijving": "Laagcomplexe Ambulance",
     "Merk": "Mercedes-Benz Sprinter"
   },
   {
     "Regio": "17",
     "Roepnummer": "17-414",
     "Kenteken": "J-362-HR",
-    "Omschrijving": "Zorgambulance",
+    "Omschrijving": "Laagcomplexe Ambulance",
     "Merk": "Mercedes-Benz Sprinter"
   },
   {
     "Regio": "17",
     "Roepnummer": "17-415",
     "Kenteken": "J-363-HR",
-    "Omschrijving": "Zorgambulance",
+    "Omschrijving": "Laagcomplexe Ambulance",
     "Merk": "Mercedes-Benz Sprinter"
   },
   {
@@ -4215,7 +4232,7 @@
   {
     "Regio": "19",
     "Roepnummer": "19-140",
-    "Kenteken": "H-584-SJ",
+    "Kenteken": "JJD-73-D",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter"
   },
@@ -4532,6 +4549,13 @@
   },
   {
     "Regio": "20",
+    "Roepnummer": "20-234",
+    "Kenteken": "JXP-97-R",
+    "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "Mercedes-Benz Sprinter"
+  },
+  {
+    "Regio": "20",
     "Roepnummer": "20-341",
     "Omschrijving": "Rapid Responder"
   },
@@ -4546,40 +4570,40 @@
   {
     "Regio": "20",
     "Roepnummer": "20-441",
-    "Omschrijving": "Zorgambulance"
+    "Omschrijving": "Laagcomplexe Ambulance"
   },
   {
     "Regio": "20",
     "Roepnummer": "20-442",
     "Kenteken": "G-779-HN",
-    "Omschrijving": "Zorgambulance",
+    "Omschrijving": "Laagcomplexe Ambulance",
     "Merk": "Mercedes-Benz Sprinter"
   },
   {
     "Regio": "20",
     "Roepnummer": "20-444",
-    "Omschrijving": "Zorgambulance"
+    "Omschrijving": "Laagcomplexe Ambulance"
   },
   {
     "Regio": "20",
     "Roepnummer": "20-445",
-    "Omschrijving": "Zorgambulance",
+    "Omschrijving": "Laagcomplexe Ambulance",
     "Locatie indien vast": "Waalwijk"
   },
   {
     "Regio": "20",
     "Roepnummer": "20-446",
-    "Omschrijving": "Zorgambulance"
+    "Omschrijving": "Laagcomplexe Ambulance"
   },
   {
     "Regio": "20",
     "Roepnummer": "20-447",
-    "Omschrijving": "Zorgambulance"
+    "Omschrijving": "Laagcomplexe Ambulance"
   },
   {
     "Regio": "20",
     "Roepnummer": "20-448",
-    "Omschrijving": "Zorgambulance"
+    "Omschrijving": "Laagcomplexe Ambulance"
   },
   {
     "Regio": "20",
