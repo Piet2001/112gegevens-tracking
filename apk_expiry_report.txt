@@ -1,4 +1,4 @@
-Expired (9):
+Expired (8):
 48-VX-KG (08-9017): verlopen op 2026-07-08
 83-BBX-3 (19-8162): verlopen op 2026-07-11
 JT-708-S (22-705): verlopen op 2026-07-11
@@ -6,7 +6,6 @@ L-568-NL (01-115): verlopen op 2026-06-23
 L-696-PR (01-120): verlopen op 2026-07-02
 L-697-PR (01-121): verlopen op 2026-07-02
 PT-752-K (17-9909): verlopen op 2026-06-27
-RF-829-K (17-132): verlopen op 2024-11-01
 VL-349-Z (05-9383): verlopen op 2026-07-05
 
 Geen APK info gevonden (130):

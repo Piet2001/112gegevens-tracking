@@ -3724,6 +3724,14 @@
   },
   {
     "Regio": "17",
+    "Roepnummer": "17-106",
+    "Kenteken": "K-773-PF",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Schiedam"
+  },
+  {
+    "Regio": "17",
     "Roepnummer": "17-107",
     "Kenteken": "L-116-NR",
     "Omschrijving": "Ambulance",
@@ -3913,14 +3921,6 @@
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Barendrecht"
-  },
-  {
-    "Regio": "17",
-    "Roepnummer": "17-132",
-    "Kenteken": "RF-829-K",
-    "Omschrijving": "Ambulance",
-    "Merk": "Mercedes-Benz Sprinter",
-    "Locatie indien vast": "Brugwachter"
   },
   {
     "Regio": "17",
@@ -4127,28 +4127,70 @@
     "Roepnummer": "17-169",
     "Kenteken": "JLB-12-H",
     "Omschrijving": "Ambulance",
-    "Merk": "Mercedes-Benz Sprinter"
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Barendrecht"
   },
   {
     "Regio": "17",
     "Roepnummer": "17-170",
     "Kenteken": "K-319-RH",
     "Omschrijving": "Ambulance",
-    "Merk": "Mercedes-Benz Sprinter"
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Breille"
+  },
+  {
+    "Regio": "17",
+    "Roepnummer": "17-201",
+    "Kenteken": "J-358-HR",
+    "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Brugwachter"
   },
   {
     "Regio": "17",
     "Roepnummer": "17-202",
     "Kenteken": "JGF-80-P",
-    "Omschrijving": "Ambulance",
+    "Omschrijving": "Middencomplexe Ambulance",
     "Merk": "Volkswagen Crafter",
     "Locatie indien vast": "Brugwachter"
   },
   {
     "Regio": "17",
+    "Roepnummer": "17-203",
+    "Kenteken": "N-344-FH",
+    "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Brugwachter"
+  },
+  {
+    "Regio": "17",
+    "Roepnummer": "17-204",
+    "Kenteken": "J-370-HR",
+    "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Barendrecht"
+  },
+  {
+    "Regio": "17",
+    "Roepnummer": "17-205",
+    "Kenteken": "N-343-FH",
+    "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Barendrecht"
+  },
+  {
+    "Regio": "17",
+    "Roepnummer": "17-206",
+    "Kenteken": "J-609-FN",
+    "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Barendrecht"
+  },
+  {
+    "Regio": "17",
     "Roepnummer": "17-215",
     "Kenteken": "J-369-HR",
-    "Omschrijving": "Ambulance",
+    "Omschrijving": "Middencomplexe Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Brugwachter"
   },
@@ -4292,14 +4334,6 @@
     "Kenteken": "X-284-BG",
     "Omschrijving": "Noodhulp Team",
     "Merk": "Fiat"
-  },
-  {
-    "Regio": "17",
-    "Roepnummer": "Brugwachter",
-    "Kenteken": "K-773-PF",
-    "Omschrijving": "Ambulance",
-    "Merk": "Mercedes-Benz Sprinter",
-    "Locatie indien vast": "Schiedam"
   },
   {
     "Regio": "18",

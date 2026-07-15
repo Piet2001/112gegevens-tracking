@@ -10110,6 +10110,17 @@
   },
   {
     "Regio": "05",
+    "Roepnummer": "05-9088",
+    "Kenteken": "BB-875-L",
+    "Type": "BM",
+    "Omschrijving": "Bijzonder materieel",
+    "Toevoeging": "Verkenningsrobot",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
+    "Kazerne": "Vriezenveen",
+    "Adres": "De Zuivering 30, 7671SP, Vriezenveen"
+  },
+  {
+    "Regio": "05",
     "Roepnummer": "05-9091",
     "Type": "DA-HOD",
     "Omschrijving": "Dienstauto - Hoofd Officier van Dienst",
