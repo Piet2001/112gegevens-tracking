@@ -4204,6 +4204,53 @@
   },
   {
     "Regio": "17",
+    "Roepnummer": "17-209",
+    "Kenteken": "JLB-13-H",
+    "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "Mercedes-Benz Sprinter"
+  },
+  {
+    "Regio": "17",
+    "Roepnummer": "17-210",
+    "Kenteken": "ZN-612-P",
+    "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Barendrecht"
+  },
+  {
+    "Regio": "17",
+    "Roepnummer": "17-211",
+    "Kenteken": "ZR-866-K",
+    "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Barendrecht"
+  },
+  {
+    "Regio": "17",
+    "Roepnummer": "17-212",
+    "Kenteken": "J-363-HR",
+    "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Brugwachter"
+  },
+  {
+    "Regio": "17",
+    "Roepnummer": "17-213",
+    "Kenteken": "L-114-NR",
+    "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Brugwachter"
+  },
+  {
+    "Regio": "17",
+    "Roepnummer": "17-214",
+    "Kenteken": "Z-405-HT",
+    "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Brugwachter"
+  },
+  {
+    "Regio": "17",
     "Roepnummer": "17-215",
     "Kenteken": "J-369-HR",
     "Omschrijving": "Middencomplexe Ambulance",
@@ -4214,6 +4261,13 @@
     "Regio": "17",
     "Roepnummer": "17-216",
     "Kenteken": "J-356-HR",
+    "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "Mercedes-Benz Sprinter"
+  },
+  {
+    "Regio": "17",
+    "Roepnummer": "17-217",
+    "Kenteken": "JGF-70-P",
     "Omschrijving": "Middencomplexe Ambulance",
     "Merk": "Mercedes-Benz Sprinter"
   },
@@ -4286,13 +4340,6 @@
     "Regio": "17",
     "Roepnummer": "17-408",
     "Kenteken": "JLB-14-H",
-    "Omschrijving": "Laagcomplexe Ambulance",
-    "Merk": "Mercedes-Benz Sprinter"
-  },
-  {
-    "Regio": "17",
-    "Roepnummer": "17-410",
-    "Kenteken": "J-370-HR",
     "Omschrijving": "Laagcomplexe Ambulance",
     "Merk": "Mercedes-Benz Sprinter"
   },

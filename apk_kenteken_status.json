@@ -19543,7 +19543,7 @@
     "expiry": "2026-08-04",
     "checked": true,
     "unknown": false,
-    "roepnummers": ["17-204", "17-410"],
+    "roepnummers": ["17-204"],
     "last_check_date": "2026-05-23",
     "no_apk_info": false,
     "defensie": false,
@@ -19583,7 +19583,7 @@
     "expiry": "2026-08-04",
     "checked": true,
     "unknown": false,
-    "roepnummers": ["17-415"],
+    "roepnummers": ["17-212", "17-415"],
     "last_check_date": "2026-05-23",
     "no_apk_info": false,
     "defensie": false,
@@ -28127,6 +28127,66 @@
     "defensie": false,
     "vaartuig": false,
     "roepnummers": ["17-205"],
+    "last_check_date": "2026-07-15"
+  },
+  "JLB-13-H": {
+    "expiry": "2026-11-05",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["17-209"],
+    "last_check_date": "2026-07-15"
+  },
+  "ZN-612-P": {
+    "expiry": "2026-11-28",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["17-210"],
+    "last_check_date": "2026-07-15"
+  },
+  "ZR-866-K": {
+    "expiry": "2027-04-26",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["17-211"],
+    "last_check_date": "2026-07-15"
+  },
+  "L-114-NR": {
+    "expiry": "2027-02-10",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["17-213"],
+    "last_check_date": "2026-07-15"
+  },
+  "Z-405-HT": {
+    "expiry": "2027-04-09",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["17-214"],
+    "last_check_date": "2026-07-15"
+  },
+  "JGF-70-P": {
+    "expiry": "2026-09-19",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["17-217"],
     "last_check_date": "2026-07-15"
   }
 }
