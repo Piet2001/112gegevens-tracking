@@ -1965,6 +1965,13 @@
   },
   {
     "Regio": "06",
+    "Roepnummer": "06-188",
+    "Kenteken": "HZR-13-G",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter"
+  },
+  {
+    "Regio": "06",
     "Roepnummer": "06-189",
     "Kenteken": "8-XKV-84",
     "Omschrijving": "Ambulance",
@@ -3605,6 +3612,13 @@
   },
   {
     "Regio": "16",
+    "Roepnummer": "16-172",
+    "Kenteken": "GDB-78-R",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter"
+  },
+  {
+    "Regio": "16",
     "Roepnummer": "16-174",
     "Omschrijving": "Ambulance"
   },
@@ -3916,6 +3930,13 @@
   },
   {
     "Regio": "17",
+    "Roepnummer": "17-216",
+    "Kenteken": "J-365-HR",
+    "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "Mercedes-Benz Sprinter"
+  },
+  {
+    "Regio": "17",
     "Roepnummer": "17-301",
     "Kenteken": "H-522-HJ",
     "Omschrijving": "Piketauto",
@@ -4042,6 +4063,13 @@
   },
   {
     "Regio": "18",
+    "Roepnummer": "18-171",
+    "Kenteken": "R-132-VP",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter"
+  },
+  {
+    "Regio": "18",
     "Roepnummer": "18-177",
     "Kenteken": "X-734-KT",
     "Omschrijving": "Ambulance",
@@ -4151,8 +4179,15 @@
   },
   {
     "Regio": "19",
+    "Roepnummer": "19-134",
+    "Kenteken": "HSX-12-S",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter"
+  },
+  {
+    "Regio": "19",
     "Roepnummer": "19-135",
-    "Kenteken": "ZK-025-J",
+    "Kenteken": "S-077-TP",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter"
   },
@@ -4165,8 +4200,31 @@
   },
   {
     "Regio": "19",
+    "Roepnummer": "19-138",
+    "Kenteken": "H-242-SX",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter"
+  },
+  {
+    "Regio": "19",
     "Roepnummer": "19-139",
-    "Omschrijving": "Ambulance"
+    "Kenteken": "JPG-22-S",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter"
+  },
+  {
+    "Regio": "19",
+    "Roepnummer": "19-140",
+    "Kenteken": "H-584-SJ",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter"
+  },
+  {
+    "Regio": "19",
+    "Roepnummer": "19-217",
+    "Kenteken": "T-505-DF",
+    "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "Mercedes-Benz Sprinter"
   },
   {
     "Regio": "20",
