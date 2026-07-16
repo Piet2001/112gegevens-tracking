@@ -10260,10 +10260,10 @@
   {
     "Regio": "05",
     "Roepnummer": "05-9383",
-    "Kenteken": "VL-349-Z",
+    "Kenteken": "VVF-46-R",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
-    "Merk (& Type)": "Volkswagen Transporter",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Regionaal"
   },
   {
@@ -17407,15 +17407,6 @@
     "Merk (& Type)": "Volkswagen Caddy",
     "Kazerne": "Nijmegen-Centrum",
     "Adres": "Professor Bellefroidstraat 11, 6525AG, Nijmegen"
-  },
-  {
-    "Regio": "08",
-    "Roepnummer": "08-9017",
-    "Kenteken": "48-VX-KG",
-    "Type": "PM",
-    "Omschrijving": "Personeel/Materieelvoertuig",
-    "Merk (& Type)": "Mercedes-Benz Sprinter",
-    "Kazerne": "Regionaal"
   },
   {
     "Regio": "08",
@@ -33026,15 +33017,6 @@
     "Merk (& Type)": "KIA",
     "Kazerne": "Spijkenisse",
     "Adres": "Schenkelweg 90, 3203LE, Spijkenisse"
-  },
-  {
-    "Regio": "17",
-    "Roepnummer": "17-9909",
-    "Kenteken": "PT-752-K",
-    "Type": "DA",
-    "Omschrijving": "Dienstauto",
-    "Merk (& Type)": "Skoda",
-    "Kazerne": "Leiding & Co\u00f6rdinatie"
   },
   {
     "Regio": "17",

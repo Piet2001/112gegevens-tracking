@@ -6449,16 +6449,6 @@
     "defensie": false,
     "vaartuig": false
   },
-  "VL-349-Z": {
-    "expiry": "2026-07-05",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": ["05-9383"],
-    "last_check_date": "2026-07-16",
-    "no_apk_info": false,
-    "defensie": false,
-    "vaartuig": false
-  },
   "1-XRS-51": {
     "expiry": "2026-09-20",
     "checked": true,
@@ -8335,16 +8325,6 @@
     "unknown": false,
     "roepnummers": ["08-9014"],
     "last_check_date": "2026-06-04",
-    "no_apk_info": false,
-    "defensie": false,
-    "vaartuig": false
-  },
-  "48-VX-KG": {
-    "expiry": "2026-07-08",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": ["08-9017"],
-    "last_check_date": "2026-07-16",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -12305,16 +12285,6 @@
     "unknown": false,
     "roepnummers": ["17-9232"],
     "last_check_date": "2026-05-23",
-    "no_apk_info": false,
-    "defensie": false,
-    "vaartuig": false
-  },
-  "PT-752-K": {
-    "expiry": "2026-06-27",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": ["17-9909"],
-    "last_check_date": "2026-07-16",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -28438,5 +28408,15 @@
     "vaartuig": false,
     "roepnummers": ["17-811"],
     "last_check_date": "2026-07-15"
+  },
+  "VVF-46-R": {
+    "expiry": "2027-04-06",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["05-9383"],
+    "last_check_date": "2026-07-16"
   }
 }
