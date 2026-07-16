@@ -28418,5 +28418,25 @@
     "vaartuig": false,
     "roepnummers": ["05-9383"],
     "last_check_date": "2026-07-16"
+  },
+  "BD-735-P": {
+    "expiry": "2027-06-19",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["06-6041"],
+    "last_check_date": "2026-07-16"
+  },
+  "78-BXV-1": {
+    "expiry": "2027-05-23",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["18-6369"],
+    "last_check_date": "2026-07-16"
   }
 }

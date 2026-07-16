@@ -10844,6 +10844,16 @@
   },
   {
     "Regio": "06",
+    "Roepnummer": "06-6041",
+    "Kenteken": "BD-735-P",
+    "Type": "TST-NB",
+    "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
+    "Merk (& Type)": "Volvo FMX 4x4",
+    "Kazerne": "Zelhem",
+    "Adres": "Industriepark 2, 7021BL, Zelhem"
+  },
+  {
+    "Regio": "06",
     "Roepnummer": "06-6131",
     "Kenteken": "BB-332-V",
     "Type": "TS",
@@ -33672,6 +33682,15 @@
     "Merk (& Type)": "MAN",
     "Kazerne": "Zwijndrecht",
     "Adres": "Develsingel 17, 3333LD, Zwijndrecht"
+  },
+  {
+    "Regio": "18",
+    "Roepnummer": "18-6369",
+    "Kenteken": "78-BXV-1",
+    "Type": "SB",
+    "Omschrijving": "Schuimblusvoertuig",
+    "Merk (& Type)": "Volvo FM 8x2",
+    "Kazerne": "Bedrijfsbrandweer Kijfhoek"
   },
   {
     "Regio": "18",
