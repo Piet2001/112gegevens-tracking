@@ -509,6 +509,14 @@
   },
   {
     "Regio": "01",
+    "Roepnummer": "01-541",
+    "Kenteken": "HB-047-N",
+    "Omschrijving": "Opleidingsvoertuig",
+    "Merk": "Mercedes-Benz V-Klasse",
+    "Locatie indien vast": "Groningen"
+  },
+  {
+    "Regio": "01",
     "Roepnummer": "01-592",
     "Kenteken": "VP-887-L",
     "Omschrijving": "Grootschalige Geneeskundige Bijstand",
@@ -554,14 +562,6 @@
     "Omschrijving": "Huisartsenpostvoertuig",
     "Merk": "Mercedes-Benz V-Klasse",
     "Locatie indien vast": "Groningen"
-  },
-  {
-    "Regio": "01",
-    "Roepnummer": "01-706",
-    "Kenteken": "HB-047-N",
-    "Omschrijving": "Huisartsenpostvoertuig",
-    "Merk": "Mercedes-Benz V-Klasse",
-    "Locatie indien vast": "Winschoten"
   },
   {
     "Regio": "01",
@@ -3374,7 +3374,7 @@
   {
     "Regio": "15",
     "Roepnummer": "15-122",
-    "Kenteken": "JL-768-T",
+    "Kenteken": "R-791-NX",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Mangaanstraat"
@@ -3416,6 +3416,13 @@
     "Roepnummer": "15-129",
     "Omschrijving": "Ambulance",
     "Locatie indien vast": "Den Haag"
+  },
+  {
+    "Regio": "15",
+    "Roepnummer": "15-130",
+    "Kenteken": "H-988-RJ",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter"
   },
   {
     "Regio": "15",
@@ -3529,6 +3536,21 @@
   },
   {
     "Regio": "15",
+    "Roepnummer": "15-345",
+    "Kenteken": "HTR-80-G",
+    "Omschrijving": "Rapid Responder",
+    "Merk": "Mercedes-Benz e-Vito"
+  },
+  {
+    "Regio": "15",
+    "Roepnummer": "15-346",
+    "Kenteken": "T-800-JR",
+    "Omschrijving": "Rapid Responder",
+    "Merk": "Toyota Proace",
+    "Locatie indien vast": "Zoetermeer"
+  },
+  {
+    "Regio": "15",
     "Roepnummer": "15-801",
     "Kenteken": "NB-856-K",
     "Omschrijving": "Officier van Dienst Geneeskunde",
@@ -3537,9 +3559,9 @@
   {
     "Regio": "15",
     "Roepnummer": "15-802",
-    "Kenteken": "NB-857-K",
+    "Kenteken": "GXF-60-L",
     "Omschrijving": "Officier van Dienst Geneeskunde",
-    "Merk": "Volkswagen Tiguan"
+    "Merk": "Ford Kuga"
   },
   {
     "Regio": "15",
