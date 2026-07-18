@@ -20519,16 +20519,6 @@
     "defensie": false,
     "vaartuig": false
   },
-  "RT-086-Z": {
-    "expiry": "2026-08-27",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": ["24-111"],
-    "last_check_date": "2026-05-23",
-    "no_apk_info": false,
-    "defensie": false,
-    "vaartuig": false
-  },
   "SK-031-S": {
     "expiry": "2026-11-07",
     "checked": true,
@@ -28648,5 +28638,15 @@
     "vaartuig": false,
     "roepnummers": ["15-802"],
     "last_check_date": "2026-07-17"
+  },
+  "KPT-71-J": {
+    "expiry": "2027-07-13",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["24-111"],
+    "last_check_date": "2026-07-18"
   }
 }
