@@ -1,6 +1,4 @@
-Expired (10):
-83-BBX-3 (19-8162): verlopen op 2026-07-11
-BB-217-L (06-2541): verlopen op 2026-07-16
+Expired (8):
 BX-FZ-42 (06-9433): verlopen op 2026-07-15
 H-094-TV (13-116): verlopen op 2026-07-15
 H-988-RJ (15-130): verlopen op 2026-04-09
@@ -14,12 +12,12 @@ Geen APK info gevonden (129):
 1-XFB-71 (03-228)
 15-SVG-Z (05-219)
 18-DMT-8 (28-6401)
-38-WS-HP (01-1388)
 55-KJR-2 (22-807)
 74-TNS-7 (10-345)
 8-XKV-84 (06-189)
 8-XRF-06 (25-112)
 82-RF-JH (18-9508)
+83-BBX-3 (19-8162)
 83-ZBL-6 (18-7301)
 83-ZTG-1 (23-506)
 85-TFS-6 (07-7002)
@@ -141,7 +139,7 @@ WD-51-NN (01-2564)
 XH-306-H (25-123)
 Z-208-KT (24-2595)
 
-APK vervaldatum onbekend (42):
+APK vervaldatum onbekend (43):
 12-WT-XJ (02-60VI)
 13-WF-XF (22-5287)
 14-WJ-XP (03-8674)
@@ -151,6 +149,7 @@ APK vervaldatum onbekend (42):
 32-RXJ-4 (18-6489)
 36-WS-HP (01-2788)
 37-WS-HP (01-3388)
+38-WS-HP (01-1388)
 39-WS-HP (01-2288)
 40-WH-NG (01-3012)
 49-WJ-LP (02-57MSA)
