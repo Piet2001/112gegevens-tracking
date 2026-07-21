@@ -1,11 +1,12 @@
-Expired (5):
+Expired (6):
+70-LGB-1 (02-6191): verlopen op 2026-07-21
 BX-FZ-42 (06-9433): verlopen op 2026-07-15
 H-094-TV (13-116): verlopen op 2026-07-15
 H-988-RJ (15-130): verlopen op 2026-04-09
 KP-237-R (24-120): verlopen op 2026-07-15
 L-568-NL (01-115): verlopen op 2026-06-23
 
-Geen APK info gevonden (129):
+Geen APK info gevonden (128):
 1-XFB-71 (03-228)
 15-SVG-Z (05-219)
 18-DMT-8 (28-6401)
@@ -112,7 +113,6 @@ KT-532-V (07-101)
 KT-9586-G (18-5101)
 KZ-012-B (24-721)
 L-860-XF (22-106)
-N-954-JL (17-135)
 NG-500-H (24-722)
 NG-922-D (24-723)
 NT-811-Z (13-901)
