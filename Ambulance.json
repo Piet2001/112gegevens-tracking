@@ -2946,7 +2946,7 @@
   {
     "Regio": "13",
     "Roepnummer": "13-116",
-    "Kenteken": "H-094-TV",
+    "Kenteken": "HZB-32-N",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Amsterdam Noord"
@@ -3423,13 +3423,6 @@
     "Roepnummer": "15-129",
     "Omschrijving": "Ambulance",
     "Locatie indien vast": "Den Haag"
-  },
-  {
-    "Regio": "15",
-    "Roepnummer": "15-130",
-    "Kenteken": "H-988-RJ",
-    "Omschrijving": "Ambulance",
-    "Merk": "Mercedes-Benz Sprinter"
   },
   {
     "Regio": "15",
@@ -6504,7 +6497,7 @@
   {
     "Regio": "24",
     "Roepnummer": "24-120",
-    "Kenteken": "KP-237-R",
+    "Kenteken": "GNB-95-N",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Heerlen"
@@ -6616,7 +6609,7 @@
   {
     "Regio": "24",
     "Roepnummer": "24-151",
-    "Kenteken": "H-871-XH",
+    "Kenteken": "KRD-49-F",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Landgraaf"

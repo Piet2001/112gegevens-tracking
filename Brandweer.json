@@ -13139,16 +13139,6 @@
   },
   {
     "Regio": "06",
-    "Roepnummer": "06-9433",
-    "Kenteken": "BX-FZ-42",
-    "Type": "TS",
-    "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "MAN",
-    "Kazerne": "Dinxperlo",
-    "Adres": "Nieuwstraat 2, 7091DG, Dinxperlo"
-  },
-  {
-    "Regio": "06",
     "Roepnummer": "06-9434",
     "Kenteken": "BT-DH-72",
     "Type": "TS",
@@ -44335,6 +44325,46 @@
     "Omschrijving": "Bijzonder materieel",
     "Toevoeging": "Golfkar",
     "Kazerne": "Regionaal"
+  },
+  {
+    "Regio": "23",
+    "Roepnummer": "23-0091",
+    "Kenteken": "KDD-85-J",
+    "Type": "DB-OVDBZ",
+    "Omschrijving": "Dienstbus - Officier van Dienst-Bevolkings Zorg",
+    "Merk (& Type)": "Volkswagen Caddy",
+    "Kazerne": "Venray",
+    "Adres": "Acaciastraat 15, 5802EK, Venray"
+  },
+  {
+    "Regio": "23",
+    "Roepnummer": "23-0092",
+    "Kenteken": "JRZ-69-R",
+    "Type": "DB-OVDBZ",
+    "Omschrijving": "Dienstbus - Officier van Dienst-Bevolkings Zorg",
+    "Merk (& Type)": "Volkswagen Caddy",
+    "Kazerne": "Venlo",
+    "Adres": "Ari\u00ebnsstraat 72, 5912PZ, Venlo"
+  },
+  {
+    "Regio": "23",
+    "Roepnummer": "23-0093",
+    "Kenteken": "JZR-71-R",
+    "Type": "DB-OVDBZ",
+    "Omschrijving": "Dienstbus - Officier van Dienst-Bevolkings Zorg",
+    "Merk (& Type)": "Volkswagen Caddy",
+    "Kazerne": "Weert",
+    "Adres": "De Savornin Lohmanstraat 8, 6004AM, Weert"
+  },
+  {
+    "Regio": "23",
+    "Roepnummer": "23-0094",
+    "Kenteken": "JZR-04-S",
+    "Type": "DB-OVDBZ",
+    "Omschrijving": "Dienstbus - Officier van Dienst-Bevolkings Zorg",
+    "Merk (& Type)": "Volkwagen Caddy",
+    "Kazerne": "Roermond",
+    "Adres": "Minderbroederssingel 36, 6041KK, Roermond"
   },
   {
     "Regio": "23",
