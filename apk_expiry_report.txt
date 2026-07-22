@@ -1,8 +1,9 @@
-Expired (2):
+Expired (3):
 70-LGB-1 (02-6191): verlopen op 2026-07-21
+JT-708-S (22-705): verlopen op 2026-07-11
 L-568-NL (01-115): verlopen op 2026-06-23
 
-Geen APK info gevonden (128):
+Geen APK info gevonden (127):
 1-XFB-71 (03-228)
 15-SVG-Z (05-219)
 18-DMT-8 (28-6401)
@@ -99,7 +100,6 @@ JN-418-Z (20-101)
 JN-622-Z (20-106)
 JN-805-Z (20-104)
 JS-074-L (24-141)
-JT-708-S (22-705)
 JZ-236-N (10-189)
 JZ-940-X (20-103)
 KF-161-J (12-9053)
