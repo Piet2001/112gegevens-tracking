@@ -6903,7 +6903,7 @@
     "expiry": "2027-02-10",
     "checked": true,
     "unknown": false,
-    "roepnummers": ["06-6942"],
+    "roepnummers": ["06-1542", "06-6942"],
     "last_check_date": "2026-05-23",
     "no_apk_info": false,
     "defensie": false,
@@ -6913,7 +6913,7 @@
     "expiry": "2026-10-14",
     "checked": true,
     "unknown": false,
-    "roepnummers": ["06-6971"],
+    "roepnummers": ["06-1571", "06-6971"],
     "last_check_date": "2026-05-23",
     "no_apk_info": false,
     "defensie": false,
@@ -8593,7 +8593,7 @@
     "expiry": "2026-11-29",
     "checked": true,
     "unknown": false,
-    "roepnummers": ["09-0734"],
+    "roepnummers": ["09-0734", "09-3034"],
     "last_check_date": "2026-05-23",
     "no_apk_info": false,
     "defensie": false,
@@ -28678,5 +28678,55 @@
     "vaartuig": false,
     "roepnummers": ["24-151"],
     "last_check_date": "2026-07-22"
+  },
+  "JTP-20-H": {
+    "expiry": "2030-03-18",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["06-1501"],
+    "last_check_date": "2026-07-23"
+  },
+  "99-BV-FS": {
+    "expiry": "2026-10-15",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["06-1562"],
+    "last_check_date": "2026-07-23"
+  },
+  "S-456-BH": {
+    "expiry": "2027-01-30",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["06-7001"],
+    "last_check_date": "2026-07-23"
+  },
+  "JTL-84-Z": {
+    "expiry": "2030-04-10",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["06-7501"],
+    "last_check_date": "2026-07-23"
+  },
+  "BG-TH-50": {
+    "expiry": "2027-04-25",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["09-3080"],
+    "last_check_date": "2026-07-23"
   }
 }

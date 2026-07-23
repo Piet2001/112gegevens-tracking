@@ -10476,11 +10476,51 @@
   },
   {
     "Regio": "06",
+    "Roepnummer": "06-1501",
+    "Kenteken": "JTP-20-H",
+    "Type": "DB",
+    "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Volkswagen e-Transporter",
+    "Kazerne": "Elburg",
+    "Adres": "Oostendorperstraatweg 8, 8081RK, Elburg"
+  },
+  {
+    "Regio": "06",
     "Roepnummer": "06-1541",
     "Kenteken": "BD-814-P",
     "Type": "TST-NB",
     "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
     "Merk (& Type)": "Volvo FMX 420",
+    "Kazerne": "Elburg",
+    "Adres": "Oostendorperstraatweg 8, 8081RK, Elburg"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-1542",
+    "Kenteken": "23-BHT-5",
+    "Type": "TST-NB",
+    "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
+    "Merk (& Type)": "Scania",
+    "Kazerne": "Elburg",
+    "Adres": "Oostendorperstraatweg 8, 8081RK, Elburg"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-1562",
+    "Kenteken": "99-BV-FS",
+    "Type": "SL-KW",
+    "Omschrijving": "Slangenvoertuig - Kleinschalige Watervoorziening",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
+    "Kazerne": "Elburg",
+    "Adres": "Oostendorperstraatweg 8, 8081RK, Elburg"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-1571",
+    "Kenteken": "BZ-NH-46",
+    "Type": "HV",
+    "Omschrijving": "Hulpverleningsvoertuig",
+    "Merk (& Type)": "DAF CF",
     "Kazerne": "Elburg",
     "Adres": "Oostendorperstraatweg 8, 8081RK, Elburg"
   },
@@ -11143,10 +11183,12 @@
   {
     "Regio": "06",
     "Roepnummer": "06-7001",
+    "Kenteken": "S-456-BH",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Kazerne": "Harderwijk",
-    "Adres": "Maltezerlaan 1, 3842AZ, Harderwijk"
+    "Merk (& Type)": "Ford",
+    "Kazerne": "Elburg",
+    "Adres": "Oostendorperstraatweg 8, 8081RK, Elburg"
   },
   {
     "Regio": "06",
@@ -11573,6 +11615,16 @@
     "Omschrijving": "Slangenwagen",
     "Kazerne": "Putten",
     "Adres": "Kelnarijstraat 10a, 3881CB, Putten"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-7501",
+    "Kenteken": "JTL-84-Z",
+    "Type": "DA",
+    "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Volkswagen",
+    "Kazerne": "Elburg",
+    "Adres": "Oostendorperstraatweg 8, 8081RK, Elburg"
   },
   {
     "Regio": "06",
@@ -18814,6 +18866,16 @@
   },
   {
     "Regio": "09",
+    "Roepnummer": "09-3034",
+    "Kenteken": "29-BLP-6",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Mercedes-Benz",
+    "Kazerne": "Renswoude",
+    "Adres": "Dorpsstraat 117, 3927BC, Renswoude"
+  },
+  {
+    "Regio": "09",
     "Roepnummer": "09-3041",
     "Type": "TST-NB",
     "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
@@ -18833,8 +18895,10 @@
   {
     "Regio": "09",
     "Roepnummer": "09-3080",
+    "Kenteken": "BG-TH-50",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Renswoude",
     "Adres": "Dorpsstraat 117, 3927BC, Renswoude"
   },
