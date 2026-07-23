@@ -3440,11 +3440,11 @@
     "vaartuig": false
   },
   "30-BNP-7": {
-    "expiry": "2026-07-23",
+    "expiry": "2027-07-23",
     "checked": true,
     "unknown": false,
     "roepnummers": ["02-6182"],
-    "last_check_date": "2026-05-23",
+    "last_check_date": "2026-07-24",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -3464,7 +3464,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["02-6191"],
-    "last_check_date": "2026-07-23",
+    "last_check_date": "2026-07-24",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -5470,11 +5470,11 @@
     "vaartuig": false
   },
   "BZ-ZN-09": {
-    "expiry": "2026-07-23",
+    "expiry": "2027-07-23",
     "checked": true,
     "unknown": false,
     "roepnummers": ["03-8835"],
-    "last_check_date": "2026-05-23",
+    "last_check_date": "2026-07-24",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -20114,7 +20114,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["22-705"],
-    "last_check_date": "2026-07-23",
+    "last_check_date": "2026-07-24",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -25097,7 +25097,7 @@
     "defensie": false,
     "vaartuig": false,
     "roepnummers": ["01-115"],
-    "last_check_date": "2026-07-23"
+    "last_check_date": "2026-07-24"
   },
   "GLX-32-S": {
     "expiry": "2026-09-24",
