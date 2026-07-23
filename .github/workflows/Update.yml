@@ -6,6 +6,11 @@ on:
       - master
   workflow_dispatch:
 
+concurrency:
+  group: production-deploy
+  cancel-in-progress: false
+  queue: max
+  
 jobs:
   format:
     runs-on: ubuntu-latest
