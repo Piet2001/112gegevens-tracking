@@ -20569,16 +20569,6 @@
     "defensie": false,
     "vaartuig": false
   },
-  "SK-173-S": {
-    "expiry": "2027-05-15",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": ["24-133"],
-    "last_check_date": "2026-05-23",
-    "no_apk_info": false,
-    "defensie": false,
-    "vaartuig": false
-  },
   "XB-549-H": {
     "expiry": "2026-08-11",
     "checked": true,
@@ -28728,5 +28718,15 @@
     "vaartuig": false,
     "roepnummers": ["09-3080"],
     "last_check_date": "2026-07-23"
+  },
+  "KRN-34-J": {
+    "expiry": "2027-07-23",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["24-133"],
+    "last_check_date": "2026-07-28"
   }
 }
