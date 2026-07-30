@@ -1,8 +1,7 @@
-Expired (6):
+Expired (5):
 70-LGB-1 (02-6191): verlopen op 2026-07-21
 83-BBX-3 (19-8162): verlopen op 2026-07-11
 GGR-28-H (23-113): verlopen op 2026-07-26
-J-561-GV (21-802): verlopen op 2026-07-29
 JT-708-S (22-705): verlopen op 2026-07-11
 TD-130-P (23-117): verlopen op 2026-07-29
 

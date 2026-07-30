@@ -3464,7 +3464,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["02-6191"],
-    "last_check_date": "2026-07-30",
+    "last_check_date": "2026-07-31",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -13624,7 +13624,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["19-8162"],
-    "last_check_date": "2026-07-30",
+    "last_check_date": "2026-07-31",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -17620,11 +17620,11 @@
     "vaartuig": false
   },
   "41-BDF-4": {
-    "expiry": "2026-07-30",
+    "expiry": "2027-07-30",
     "checked": true,
     "unknown": false,
     "roepnummers": ["24-3341"],
-    "last_check_date": "2026-05-23",
+    "last_check_date": "2026-07-31",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -19430,11 +19430,11 @@
     "vaartuig": false
   },
   "J-109-SH": {
-    "expiry": "2026-07-30",
+    "expiry": "2028-07-30",
     "checked": true,
     "unknown": false,
     "roepnummers": ["17-351"],
-    "last_check_date": "2026-05-23",
+    "last_check_date": "2026-07-31",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -20114,7 +20114,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["22-705"],
-    "last_check_date": "2026-07-30",
+    "last_check_date": "2026-07-31",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -20234,7 +20234,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["23-117"],
-    "last_check_date": "2026-07-30",
+    "last_check_date": "2026-07-31",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -21590,11 +21590,11 @@
     "vaartuig": false
   },
   "J-561-GV": {
-    "expiry": "2026-07-29",
+    "expiry": "2028-07-29",
     "checked": true,
     "unknown": false,
     "roepnummers": ["21-802"],
-    "last_check_date": "2026-07-30",
+    "last_check_date": "2026-07-31",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -22374,7 +22374,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["23-113"],
-    "last_check_date": "2026-07-30",
+    "last_check_date": "2026-07-31",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -25040,14 +25040,14 @@
     "last_check_date": "2026-06-25"
   },
   "V-232-RL": {
-    "expiry": "2026-07-30",
+    "expiry": "2027-07-30",
     "checked": true,
     "unknown": false,
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false,
     "roepnummers": ["20-505"],
-    "last_check_date": "2026-06-25"
+    "last_check_date": "2026-07-31"
   },
   "KNB-53-K": {
     "expiry": "2027-06-19",
