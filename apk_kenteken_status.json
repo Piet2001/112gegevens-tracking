@@ -28808,5 +28808,15 @@
     "vaartuig": false,
     "roepnummers": ["25-121"],
     "last_check_date": "2026-08-02"
+  },
+  "JXD-71-K": {
+    "expiry": "2027-02-03",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["20-222"],
+    "last_check_date": "2026-08-02"
   }
 }
