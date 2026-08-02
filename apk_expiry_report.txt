@@ -1,4 +1,4 @@
-Expired (7):
+Expired (8):
 70-LGB-1 (02-6191): verlopen op 2026-07-21
 83-BBX-3 (19-8162): verlopen op 2026-07-11
 GGR-28-H (23-113): verlopen op 2026-07-26
@@ -6,6 +6,7 @@ GGX-60-P (23-124): verlopen op 2026-07-31
 GGX-61-P (23-123): verlopen op 2026-07-31
 JT-708-S (22-705): verlopen op 2026-07-11
 TD-130-P (23-117): verlopen op 2026-07-29
+ZR-802-H (23-120): verlopen op 2026-08-02
 
 Geen APK info gevonden (127):
 1-XFB-71 (03-228)
