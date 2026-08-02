@@ -792,11 +792,6 @@
   },
   {
     "Regio": "02",
-    "Roepnummer": "02-206",
-    "Omschrijving": "Piketauto"
-  },
-  {
-    "Regio": "02",
     "Roepnummer": "02-801",
     "Kenteken": "T-525-RB",
     "Omschrijving": "Officier van Dienst Geneeskunde",
@@ -1936,22 +1931,31 @@
   {
     "Regio": "06",
     "Roepnummer": "06-155",
-    "Omschrijving": "Ambulance"
+    "Kenteken": "N-996-ZZ",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Doetinchem"
   },
   {
     "Regio": "06",
     "Roepnummer": "06-158",
-    "Omschrijving": "Ambulance"
+    "Kenteken": "H-646-XR",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter"
   },
   {
     "Regio": "06",
     "Roepnummer": "06-161",
-    "Omschrijving": "Ambulance"
+    "Kenteken": "P-153-BN",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter"
   },
   {
     "Regio": "06",
     "Roepnummer": "06-183",
-    "Omschrijving": "Ambulance"
+    "Kenteken": "T-581-LR",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter"
   },
   {
     "Regio": "06",
@@ -1962,12 +1966,8 @@
   },
   {
     "Regio": "06",
-    "Roepnummer": "06-186",
-    "Omschrijving": "Ambulance"
-  },
-  {
-    "Regio": "06",
     "Roepnummer": "06-187",
+    "Kenteken": "T-214-XB",
     "Omschrijving": "Ambulance"
   },
   {
@@ -2010,6 +2010,7 @@
   {
     "Regio": "06",
     "Roepnummer": "06-811",
+    "Kenteken": "H-427-FG",
     "Omschrijving": "Officier van Dienst Geneeskunde",
     "Locatie indien vast": "Oost"
   },
@@ -2024,6 +2025,7 @@
   {
     "Regio": "06",
     "Roepnummer": "06-813",
+    "Kenteken": "H-513-FH",
     "Omschrijving": "Officier van Dienst Geneeskunde",
     "Locatie indien vast": "West"
   },
