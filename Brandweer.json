@@ -3847,16 +3847,6 @@
   },
   {
     "Regio": "02",
-    "Roepnummer": "02-6191",
-    "Kenteken": "70-LGB-1",
-    "Type": "DA-HOD",
-    "Omschrijving": "Dienstauto - Hoofd Officier van Dienst",
-    "Merk (& Type)": "Volkswagen Transporter",
-    "Kazerne": "Leeuwarden-Hoofdpost",
-    "Adres": "Aldl\u00e2nsdijk 11, 8934AA, Leeuwarden"
-  },
-  {
-    "Regio": "02",
     "Roepnummer": "02-6193",
     "Kenteken": "T-646-XP",
     "Type": "DA-OVD",
@@ -37099,16 +37089,6 @@
     "Regio": "19",
     "Roepnummer": "19-8161",
     "Kenteken": "13-BBZ-9",
-    "Type": "AS",
-    "Omschrijving": "Autospuit",
-    "Merk (& Type)": "Mercedes-Benz Actros",
-    "Kazerne": "DOW Terneuzen",
-    "Adres": "Herbert H. Dowweg, 4542NM, Hoek"
-  },
-  {
-    "Regio": "19",
-    "Roepnummer": "19-8162",
-    "Kenteken": "83-BBX-3",
     "Type": "AS",
     "Omschrijving": "Autospuit",
     "Merk (& Type)": "Mercedes-Benz Actros",

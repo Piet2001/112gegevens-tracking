@@ -3459,16 +3459,6 @@
     "defensie": false,
     "vaartuig": false
   },
-  "70-LGB-1": {
-    "expiry": "2026-07-21",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": ["02-6191"],
-    "last_check_date": "2026-08-04",
-    "no_apk_info": false,
-    "defensie": false,
-    "vaartuig": false
-  },
   "T-646-XP": {
     "expiry": "2027-11-27",
     "checked": true,
@@ -13619,16 +13609,6 @@
     "defensie": false,
     "vaartuig": false
   },
-  "83-BBX-3": {
-    "expiry": "2026-07-11",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": ["19-8162"],
-    "last_check_date": "2026-08-04",
-    "no_apk_info": false,
-    "defensie": false,
-    "vaartuig": false
-  },
   "78-BPG-7": {
     "expiry": "2027-02-18",
     "checked": true,
@@ -20105,16 +20085,6 @@
     "unknown": false,
     "roepnummers": ["22-704"],
     "last_check_date": "2026-05-23",
-    "no_apk_info": false,
-    "defensie": false,
-    "vaartuig": false
-  },
-  "JT-708-S": {
-    "expiry": "2026-07-11",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": ["22-705"],
-    "last_check_date": "2026-08-04",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -28818,5 +28788,15 @@
     "vaartuig": false,
     "roepnummers": ["20-222"],
     "last_check_date": "2026-08-02"
+  },
+  "GLN-58-G": {
+    "expiry": "2026-09-19",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["22-705"],
+    "last_check_date": "2026-08-04"
   }
 }
