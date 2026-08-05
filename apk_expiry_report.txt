@@ -1,5 +1,6 @@
-Expired (7):
+Expired (8):
 BH-JX-88 (12-9032): verlopen op 2026-08-03
+BP-TS-03 (05-1361): verlopen op 2026-08-05
 GGR-28-H (23-113): verlopen op 2026-07-26
 GGX-60-P (23-124): verlopen op 2026-07-31
 GGX-61-P (23-123): verlopen op 2026-07-31
