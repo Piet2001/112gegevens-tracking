@@ -26129,16 +26129,6 @@
     "roepnummers": ["03-802"],
     "last_check_date": "2026-07-07"
   },
-  "G-477-NX": {
-    "expiry": "2027-10-31",
-    "checked": true,
-    "unknown": false,
-    "no_apk_info": false,
-    "defensie": false,
-    "vaartuig": false,
-    "roepnummers": ["01-805"],
-    "last_check_date": "2026-07-07"
-  },
   "G-478-NX": {
     "expiry": "2027-10-31",
     "checked": true,
@@ -28798,5 +28788,15 @@
     "vaartuig": false,
     "roepnummers": ["24-154"],
     "last_check_date": "2026-08-07"
+  },
+  "HB-048-N": {
+    "expiry": "2026-10-03",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["01-805"],
+    "last_check_date": "2026-08-08"
   }
 }
