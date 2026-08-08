@@ -28798,5 +28798,15 @@
     "vaartuig": false,
     "roepnummers": ["03-152"],
     "last_check_date": "2026-08-08"
+  },
+  "G-734-FX": {
+    "expiry": "2027-09-19",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["24-2590"],
+    "last_check_date": "2026-08-08"
   }
 }
