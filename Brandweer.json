@@ -32025,8 +32025,10 @@
   {
     "Regio": "17",
     "Roepnummer": "17-4561",
+    "Kenteken": "BZ-TZ-28",
     "Type": "WT",
     "Omschrijving": "Watertankwagen",
+    "Merk (& Type)": "Scania",
     "Kazerne": "Olympiakazerne",
     "Adres": "Olympiaweg 38, 3245DL, Sommelsdijk"
   },
@@ -35679,8 +35681,10 @@
   {
     "Regio": "19",
     "Roepnummer": "19-4330",
+    "Kenteken": "BZ-XN-93",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Kapelle",
     "Adres": "Mauritsstraat 1a, 4421CJ, Kapelle"
   },
@@ -36998,9 +37002,11 @@
   {
     "Regio": "19",
     "Roepnummer": "19-8035",
+    "Kenteken": "70-BDD-3",
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
     "Toevoeging": "Noord",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Middelburg"
   },
   {
