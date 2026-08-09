@@ -13619,23 +13619,29 @@
   {
     "Regio": "06",
     "Roepnummer": "06-9901",
+    "Kenteken": "TB-790-T",
     "Type": "DA-IM",
     "Omschrijving": "Dienstauto - Informatie Manager",
-    "Kazerne": "Leiding & Co\u00f6rdinatie"
+    "Merk (& Type)": "Volkswagen Polo",
+    "Kazerne": "Regionaal"
   },
   {
     "Regio": "06",
     "Roepnummer": "06-9902",
+    "Kenteken": "TB-791-T",
     "Type": "DA-IM",
     "Omschrijving": "Dienstauto - Informatie Manager",
-    "Kazerne": "Leiding & Co\u00f6rdinatie"
+    "Merk (& Type)": "Volkswagen Polo",
+    "Kazerne": "Regionaal"
   },
   {
     "Regio": "06",
     "Roepnummer": "06-9903",
+    "Kenteken": "S-459-BH",
     "Type": "DA-IM",
     "Omschrijving": "Dienstauto - Informatie Manager",
-    "Kazerne": "Leiding & Co\u00f6rdinatie"
+    "Merk (& Type)": "Ford",
+    "Kazerne": "Regionaal"
   },
   {
     "Regio": "06",

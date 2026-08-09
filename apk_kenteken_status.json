@@ -28878,5 +28878,35 @@
     "vaartuig": false,
     "roepnummers": ["15-213"],
     "last_check_date": "2026-08-09"
+  },
+  "TB-790-T": {
+    "expiry": "2027-06-24",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["06-9901"],
+    "last_check_date": "2026-08-09"
+  },
+  "TB-791-T": {
+    "expiry": "2027-07-20",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["06-9902"],
+    "last_check_date": "2026-08-09"
+  },
+  "S-459-BH": {
+    "expiry": "2027-01-30",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["06-9903"],
+    "last_check_date": "2026-08-09"
   }
 }
