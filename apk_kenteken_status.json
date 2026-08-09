@@ -28908,5 +28908,15 @@
     "vaartuig": false,
     "roepnummers": ["06-9903"],
     "last_check_date": "2026-08-09"
+  },
+  "VFT-46-V": {
+    "expiry": "2027-04-17",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["04-1882"],
+    "last_check_date": "2026-08-09"
   }
 }
