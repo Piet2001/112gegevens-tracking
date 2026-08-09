@@ -2929,21 +2929,23 @@
     "Kenteken": "HP-765-V",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
-    "Locatie indien vast": "Amsterdam"
+    "Locatie indien vast": "Overamstel"
   },
   {
     "Regio": "13",
     "Roepnummer": "13-104",
     "Kenteken": "ZH-757-H",
     "Omschrijving": "Ambulance",
-    "Merk": "Mercedes-Benz Sprinter"
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Overamstel"
   },
   {
     "Regio": "13",
     "Roepnummer": "13-105",
-    "Kenteken": "KV-499-S",
+    "Kenteken": "T-665-ZJ",
     "Omschrijving": "Ambulance",
-    "Merk": "Mercedes-Benz Sprinter"
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Overamstel"
   },
   {
     "Regio": "13",
@@ -2951,14 +2953,15 @@
     "Kenteken": "HZB-32-N",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
-    "Locatie indien vast": "Amsterdam Noord"
+    "Locatie indien vast": "Boven IJ"
   },
   {
     "Regio": "13",
     "Roepnummer": "13-120",
-    "Kenteken": "GP-521-H",
+    "Kenteken": "N-912-PN",
     "Omschrijving": "Ambulance",
-    "Merk": "Mercedes-Benz Sprinter"
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Boven IJ"
   },
   {
     "Regio": "13",
@@ -3503,19 +3506,25 @@
   {
     "Regio": "15",
     "Roepnummer": "15-225",
+    "Kenteken": "H-055-PZ",
     "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Mangaanstraat"
   },
   {
     "Regio": "15",
     "Roepnummer": "15-240",
+    "Kenteken": "SN-789-F",
     "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Zoetermeer"
   },
   {
     "Regio": "15",
     "Roepnummer": "15-241",
+    "Kenteken": "KR-924-P",
     "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Zoetermeer"
   },
   {

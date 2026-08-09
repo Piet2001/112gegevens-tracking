@@ -6268,8 +6268,10 @@
   {
     "Regio": "03",
     "Roepnummer": "03-8971",
+    "Kenteken": "81-BKR-6",
     "Type": "HVT-KR",
     "Omschrijving": "Hulpverleningsvoertuig-Terreinvaardig met kraan",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Hoogeveen",
     "Adres": "Industrieweg 2, 7902AA, Hoogeveen"
   },
@@ -6286,25 +6288,20 @@
   {
     "Regio": "03",
     "Roepnummer": "03-8982",
+    "Kenteken": "BV-PR-80",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Hoogeveen",
     "Adres": "Industrieweg 2, 7902AA, Hoogeveen"
   },
   {
     "Regio": "03",
     "Roepnummer": "03-8993",
+    "Kenteken": "T-424-GD",
     "Type": "DB-OVD",
     "Omschrijving": "Dienstbus - Officier van Dienst",
-    "Kazerne": "Hoogeveen",
-    "Adres": "Industrieweg 2, 7902AA, Hoogeveen"
-  },
-  {
-    "Regio": "03",
-    "Roepnummer": "03-8994",
-    "Type": "DB-OVD",
-    "Omschrijving": "Dienstbus - Officier van Dienst",
-    "Toevoeging": "Reserve",
+    "Merk (& Type)": "Toyota",
     "Kazerne": "Hoogeveen",
     "Adres": "Industrieweg 2, 7902AA, Hoogeveen"
   },
@@ -6329,32 +6326,30 @@
   {
     "Regio": "03",
     "Roepnummer": "03-9002",
+    "Kenteken": "HBN-58-J",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Ruinerwold",
     "Adres": "Gieser Wildemans 1, 7961GD, Ruinerwold"
   },
   {
     "Regio": "03",
     "Roepnummer": "03-9003",
+    "Kenteken": "HBN-56-J",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Zuidwolde",
     "Adres": "Industrieweg 34, 7921JP, Zuidwolde"
   },
   {
     "Regio": "03",
-    "Roepnummer": "03-9014",
-    "Type": "WOV",
-    "Omschrijving": "Waterongevallenvaartuig",
-    "Kazerne": "De Wijk-Koekange",
-    "Adres": "Zuiderkanaalweg 16, 7957NK, De Wijk"
-  },
-  {
-    "Regio": "03",
-    "Roepnummer": "03-9028",
+    "Roepnummer": "03-9004",
+    "Kenteken": "7-VXS-38",
     "Type": "VEB",
     "Omschrijving": "Verkenningseenheid Brandweer (Meetploeg)",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Ruinen",
     "Adres": "Kloosterstraat 5, 7963AJ, Ruinen"
   },
@@ -6821,8 +6816,10 @@
   {
     "Regio": "04",
     "Roepnummer": "04-1000",
+    "Kenteken": "V-50-LDF",
     "Type": "DV-TBO",
     "Omschrijving": "Dienstvoertuig - Team Brand Onderzoek",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Zwolle-Zuid",
     "Adres": "Marsweg 39, 8013PE, Zwolle"
   },
@@ -16294,41 +16291,32 @@
   {
     "Regio": "08",
     "Roepnummer": "08-1231",
+    "Kenteken": "11-BKL-4",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Kazerne": "Millingen aan den Rijn",
-    "Adres": "Heerbaan 65, 6566ED, Millingen aan den Rijn"
-  },
-  {
-    "Regio": "08",
-    "Roepnummer": "08-1281",
-    "Type": "PM",
-    "Omschrijving": "Personeel/Materieelvoertuig",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Millingen aan den Rijn",
     "Adres": "Heerbaan 65, 6566ED, Millingen aan den Rijn"
   },
   {
     "Regio": "08",
     "Roepnummer": "08-1331",
+    "Kenteken": "12-BKL-4",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Beek-Ubbergen",
     "Adres": "Nieuwe Rijksweg 1, 6573DH, Beek"
   },
   {
     "Regio": "08",
     "Roepnummer": "08-1381",
+    "Kenteken": "VLK-65-B",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Beek-Ubbergen",
     "Adres": "Nieuwe Rijksweg 1, 6573DH, Beek"
-  },
-  {
-    "Regio": "08",
-    "Roepnummer": "08-1431",
-    "Type": "TS",
-    "Omschrijving": "Tankautospuit",
-    "Kazerne": "Rindern"
   },
   {
     "Regio": "08",
@@ -16585,8 +16573,10 @@
   {
     "Regio": "08",
     "Roepnummer": "08-4331",
+    "Kenteken": "BV-TD-52",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Dreumel",
     "Adres": "Margrietstraat 12b, 6621BW, Dreumel"
   },
@@ -20682,6 +20672,7 @@
   {
     "Regio": "09",
     "Roepnummer": "09-9272",
+    "Kenteken": "TPL-78-L",
     "Type": "BM",
     "Omschrijving": "Bijzonder materieel",
     "Toevoeging": "Verrijker",
@@ -20710,22 +20701,28 @@
   {
     "Regio": "09",
     "Roepnummer": "09-9291",
+    "Kenteken": "55-ZSR-7",
     "Type": "DA-HOD",
     "Omschrijving": "Dienstauto - Hoofd Officier van Dienst",
+    "Merk (& Type)": "Volkswagen Touran",
     "Kazerne": "Leiding & Co\u00f6rdinatie"
   },
   {
     "Regio": "09",
     "Roepnummer": "09-9292",
+    "Kenteken": "GKD-01-L",
     "Type": "DA-IM",
     "Omschrijving": "Dienstauto - Informatie Manager",
+    "Merk (& Type)": "Ford",
     "Kazerne": "Leiding & Co\u00f6rdinatie"
   },
   {
     "Regio": "09",
     "Roepnummer": "09-9297",
+    "Kenteken": "09-BKG-9",
     "Type": "MCU",
     "Omschrijving": "Mobiele Commando Unit",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Amersfoort-Centrum",
     "Adres": "Kleine Koppel 112, 3812PG, Amersfoort"
   },
@@ -23284,17 +23281,21 @@
   {
     "Regio": "11",
     "Roepnummer": "11-0832",
-    "Type": "TS-RES",
-    "Omschrijving": "Tankautospuit-Reserve",
-    "Kazerne": "Zaandam Prins Bernhardplein",
-    "Adres": "Prins Bernhardplein 112, 1508XB, Zaandam"
+    "Kenteken": "BZ-PL-98",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Toevoeging": "Reserve",
+    "Merk (& Type)": "Mercedes-Benz Atego",
+    "Kazerne": "Purmerend",
+    "Adres": "Gorslaan 50, 1441RG, Purmerend"
   },
   {
     "Regio": "11",
     "Roepnummer": "11-0833",
     "Kenteken": "BN-VN-78",
-    "Type": "TS-RES",
-    "Omschrijving": "Tankautospuit-Reserve",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Toevoeging": "Reserve",
     "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Zaandam Prins Bernhardplein",
     "Adres": "Prins Bernhardplein 112, 1508XB, Zaandam"
@@ -23312,10 +23313,11 @@
   {
     "Regio": "11",
     "Roepnummer": "11-0882",
+    "Kenteken": "V-949-VV",
     "Type": "PM-TD",
     "Omschrijving": "Personeel/Materieelvoertuig - Technische Dienst",
-    "Kazerne": "Zaandam Prins Bernhardplein",
-    "Adres": "Prins Bernhardplein 112, 1508XB, Zaandam"
+    "Merk (& Type)": "Mercedes-Benz Vito",
+    "Kazerne": "Regionaal"
   },
   {
     "Regio": "11",
@@ -25554,16 +25556,10 @@
   {
     "Regio": "13",
     "Roepnummer": "13-3431",
+    "Kenteken": "BB-609-Z",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Kazerne": "Victor",
-    "Adres": "Dapperstraat 325, 1093BS, Amsterdam"
-  },
-  {
-    "Regio": "13",
-    "Roepnummer": "13-3452",
-    "Type": "AL",
-    "Omschrijving": "Autoladder",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Victor",
     "Adres": "Dapperstraat 325, 1093BS, Amsterdam"
   },
@@ -26537,6 +26533,7 @@
   {
     "Regio": "14",
     "Roepnummer": "14-1129",
+    "Kenteken": "58-WL-JS",
     "Type": "RBA",
     "Omschrijving": "Rietenkap Brandbestrijdingaanhanger",
     "Kazerne": "Blaricum",
@@ -26555,8 +26552,10 @@
   {
     "Regio": "14",
     "Roepnummer": "14-1201",
+    "Kenteken": "KHF-89-S",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Ford",
     "Kazerne": "Bussum",
     "Adres": "Brinklaan 140, 1404GW, Bussum"
   },
@@ -26567,14 +26566,6 @@
     "Type": "DB",
     "Omschrijving": "Dienstbus",
     "Merk (& Type)": "Volkswagen Transporter T5-Kombi 2,0TDi",
-    "Kazerne": "Bussum",
-    "Adres": "Brinklaan 140, 1404GW, Bussum"
-  },
-  {
-    "Regio": "14",
-    "Roepnummer": "14-1203",
-    "Type": "PM",
-    "Omschrijving": "Personeel/Materieelvoertuig",
     "Kazerne": "Bussum",
     "Adres": "Brinklaan 140, 1404GW, Bussum"
   },
@@ -26620,16 +26611,20 @@
   {
     "Regio": "14",
     "Roepnummer": "14-1301",
+    "Kenteken": "33-LXG-9",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Volkswagen Polo",
     "Kazerne": "Huizen",
     "Adres": "Eemlandweg 30, 1271KS, Huizen"
   },
   {
     "Regio": "14",
     "Roepnummer": "14-1302",
+    "Kenteken": "70-ZST-8",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Volkswagen Caddy",
     "Kazerne": "Huizen",
     "Adres": "Eemlandweg 30, 1271KS, Huizen"
   },
@@ -26646,24 +26641,20 @@
   {
     "Regio": "14",
     "Roepnummer": "14-1331",
+    "Kenteken": "BB-063-B",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Kazerne": "Huizen",
-    "Adres": "Eemlandweg 30, 1271KS, Huizen"
-  },
-  {
-    "Regio": "14",
-    "Roepnummer": "14-1342",
-    "Type": "TST-NB",
-    "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Huizen",
     "Adres": "Eemlandweg 30, 1271KS, Huizen"
   },
   {
     "Regio": "14",
     "Roepnummer": "14-1401",
+    "Kenteken": "GB-910-B",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Volkswagen Transporter",
     "Kazerne": "Muiden",
     "Adres": "Weesperweg 2b, 1398XD, Muiden"
   },
@@ -28191,8 +28182,10 @@
   {
     "Regio": "15",
     "Roepnummer": "15-7620",
+    "Kenteken": "10-BRG-6",
     "Type": "GS-SI",
     "Omschrijving": "Gevaarlijke Stoffen-Snel Interventie voertuig",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Den Haag-Laak",
     "Adres": "Waldorpstraat 555, 2521CK, Den Haag"
   },
@@ -30375,8 +30368,10 @@
   {
     "Regio": "17",
     "Roepnummer": "17-0141",
-    "Type": "TST-NB",
-    "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
+    "Kenteken": "V-03-PHL",
+    "Type": "VKT-NB",
+    "Omschrijving": "Verkenningsvoertuig Terreinvaardig - Natuurbrandbestrijding",
+    "Merk (& Type)": "Toyota",
     "Kazerne": "Hoek van Holland",
     "Adres": "Planciushof 80, 3151GC, Hoek van Holland"
   },
@@ -34063,8 +34058,10 @@
   {
     "Regio": "18",
     "Roepnummer": "18-6604",
+    "Kenteken": "J-405-SK",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Mercedes-Benz Citan",
     "Kazerne": "Dordrecht-Leerpark",
     "Adres": "Prof. Kohnstammlaan 10, 3312KL, Dordrecht"
   },
@@ -35683,24 +35680,30 @@
   {
     "Regio": "19",
     "Roepnummer": "19-4233",
+    "Kenteken": "BS-PH-24",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "Yerseke",
     "Adres": "Burenpolderweg 1, 4401KW, Yerseke"
   },
   {
     "Regio": "19",
     "Roepnummer": "19-4272",
+    "Kenteken": "BX-GB-18",
     "Type": "HV",
     "Omschrijving": "Hulpverleningsvoertuig",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Kruiningen",
     "Adres": "Blauwhoefseweg 6, 4416RC, Kruiningen"
   },
   {
     "Regio": "19",
     "Roepnummer": "19-4300",
+    "Kenteken": "ZP-659-B",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Goes-Oranjeweg",
     "Adres": "Oranjeweg 100, 4461LR, Goes"
   },
@@ -36185,49 +36188,40 @@
   {
     "Regio": "19",
     "Roepnummer": "19-4765",
-    "Type": "SV",
-    "Omschrijving": "Schuimvormend\u00a0middel\u00a0voertuig",
+    "Kenteken": "OL-26-RZ",
+    "Type": "SV-A",
+    "Omschrijving": "Schuimvormend\u00a0middel\u00a0aanhanger",
     "Kazerne": "Borssele",
     "Adres": "Quistenburg 3, 4454PZ, Borssele"
   },
   {
     "Regio": "19",
-    "Roepnummer": "19-4776",
-    "Type": "PM-FRB",
-    "Omschrijving": "Personeel/Materieelvoertuig - First\u00a0Responder\u00a0Brandweer",
-    "Kazerne": "Kortgene",
-    "Adres": "Torendijk 45, 4484AT, Kortgene"
-  },
-  {
-    "Regio": "19",
     "Roepnummer": "19-4780",
+    "Kenteken": "BT-DL-23",
     "Type": "BM",
     "Omschrijving": "Bijzonder materieel",
-    "Toevoeging": "Truck",
+    "Toevoeging": "Truck voor de 19-4765",
+    "Merk (& Type)": "Renault",
     "Kazerne": "Borssele",
     "Adres": "Quistenburg 3, 4454PZ, Borssele"
   },
   {
     "Regio": "19",
     "Roepnummer": "19-4782",
+    "Kenteken": "94-VPT-2",
     "Type": "GM",
     "Omschrijving": "Gereedschap/Materieelwagen",
+    "Merk (& Type)": "Volkswagen Crafter",
     "Kazerne": "Kapelle",
     "Adres": "Mauritsstraat 1a, 4421CJ, Kapelle"
   },
   {
     "Regio": "19",
-    "Roepnummer": "19-4795",
-    "Type": "DV-OVD",
-    "Omschrijving": "Dienstvoertuig - Officier van Dienst",
-    "Toevoeging": "Midden-Oost",
-    "Kazerne": "Goes"
-  },
-  {
-    "Regio": "19",
     "Roepnummer": "19-4800",
+    "Kenteken": "1-VXG-06",
     "Type": "DB-FRB",
     "Omschrijving": "Dienstbus - First\u00a0Responder\u00a0Brandweer",
+    "Merk (& Type)": "Ford Transit Tourneo",
     "Kazerne": "Colijnsplaat",
     "Adres": "Colijnsplaatseweg 2b, 4486AX, Colijnsplaat"
   },
@@ -36244,8 +36238,10 @@
   {
     "Regio": "19",
     "Roepnummer": "19-4802",
+    "Kenteken": "94-TPT-6",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Peugeot",
     "Kazerne": "Zierikzee",
     "Adres": "Regenboogstraat 17, 4301BR, Zierikzee"
   },
@@ -36650,26 +36646,22 @@
   {
     "Regio": "19",
     "Roepnummer": "19-6638",
+    "Kenteken": "02-BRX-4",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Koewacht",
     "Adres": "Vlasstraat 8, 4576BB, Koewacht"
   },
   {
     "Regio": "19",
     "Roepnummer": "19-6639",
-    "Type": "TS-4",
-    "Omschrijving": "Tankautospuit\u00a04\u00a0of 5 mans\u00a0bezetting",
+    "Kenteken": "23-BKL-1",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Zaamslag",
     "Adres": "Bedrijvenstraat 11a, 4543NZ, Zaamslag"
-  },
-  {
-    "Regio": "19",
-    "Roepnummer": "19-6641",
-    "Type": "TST",
-    "Omschrijving": "Tankautospuit-Terreinvaardig",
-    "Kazerne": "Terneuzen-Koegors",
-    "Adres": "Koegorsstraat 4, 4538PK, Terneuzen"
   },
   {
     "Regio": "19",
@@ -36703,18 +36695,12 @@
   },
   {
     "Regio": "19",
-    "Roepnummer": "19-6662",
-    "Type": "SV-A",
-    "Omschrijving": "Schuimvormend\u00a0middel\u00a0aanhanger",
-    "Kazerne": "Hoek",
-    "Adres": "Mauritsfort 2, 4542LA, Hoek"
-  },
-  {
-    "Regio": "19",
     "Roepnummer": "19-6664",
-    "Type": "SI-2",
-    "Omschrijving": "Snel Interventie Voertuig 2 mans bezetting",
+    "Kenteken": "BZ-FN-45",
+    "Type": "PM",
+    "Omschrijving": "Personeel/Materieelvoertuig",
     "Toevoeging": "Met COBRA",
+    "Merk (& Type)": "Iveco",
     "Kazerne": "Sluiskil",
     "Adres": "Bosjesweg 1, 4541AM, Sluiskil"
   },
@@ -36723,14 +36709,6 @@
     "Roepnummer": "19-6665",
     "Type": "SV-A",
     "Omschrijving": "Schuimvormend\u00a0middel\u00a0aanhanger",
-    "Kazerne": "Terneuzen-Koegors",
-    "Adres": "Koegorsstraat 4, 4538PK, Terneuzen"
-  },
-  {
-    "Regio": "19",
-    "Roepnummer": "19-6666",
-    "Type": "TS-4",
-    "Omschrijving": "Tankautospuit\u00a04\u00a0of 5 mans\u00a0bezetting",
     "Kazerne": "Terneuzen-Koegors",
     "Adres": "Koegorsstraat 4, 4538PK, Terneuzen"
   },
@@ -36795,14 +36773,6 @@
   },
   {
     "Regio": "19",
-    "Roepnummer": "19-6682",
-    "Type": "HA-KR",
-    "Omschrijving": "Haakarmvoertuig met Kraan",
-    "Kazerne": "Hoek",
-    "Adres": "Mauritsfort 2, 4542LA, Hoek"
-  },
-  {
-    "Regio": "19",
     "Roepnummer": "19-6687",
     "Type": "SA-H",
     "Omschrijving": "(Nood)Stroom\u00a0Aggregaat\u00a0(haakarmbak)",
@@ -36820,25 +36790,31 @@
   {
     "Regio": "19",
     "Roepnummer": "19-6695",
+    "Kenteken": "KP-021-Z",
     "Type": "DV-OVD",
     "Omschrijving": "Dienstvoertuig - Officier van Dienst",
     "Toevoeging": "Zuid-Oost",
+    "Merk (& Type)": "Volkswagen Transporter",
     "Kazerne": "Terneuzen-Koegors",
     "Adres": "Koegorsstraat 4, 4538PK, Terneuzen"
   },
   {
     "Regio": "19",
     "Roepnummer": "19-6700",
+    "Kenteken": "87-NPZ-1",
     "Type": "DB-VEB",
     "Omschrijving": "Dienstbus - Verkenningseenheid Brandweer",
+    "Merk (& Type)": "Volkswagen Transporter",
     "Kazerne": "Hulst",
     "Adres": "Globe 2, 4561PK, Hulst"
   },
   {
     "Regio": "19",
     "Roepnummer": "19-6701",
+    "Kenteken": "KK-391-B",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Volkswagen Transporter",
     "Kazerne": "Hulst",
     "Adres": "Globe 2, 4561PK, Hulst"
   },
@@ -39049,48 +39025,40 @@
   {
     "Regio": "20",
     "Roepnummer": "20-3004",
+    "Kenteken": "HXJ-66-Z",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Kazerne": "Breda",
-    "Adres": "Tramsingel 71, 4814AC, Breda"
-  },
-  {
-    "Regio": "20",
-    "Roepnummer": "20-3005",
-    "Type": "DA",
-    "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Citro\u00ebn",
     "Kazerne": "Breda",
     "Adres": "Tramsingel 71, 4814AC, Breda"
   },
   {
     "Regio": "20",
     "Roepnummer": "20-3006",
+    "Kenteken": "V-39-NKS",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Ford",
     "Kazerne": "Breda",
     "Adres": "Tramsingel 71, 4814AC, Breda"
   },
   {
     "Regio": "20",
     "Roepnummer": "20-3007",
+    "Kenteken": "V-40-NKS",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Ford",
     "Kazerne": "Breda",
     "Adres": "Tramsingel 71, 4814AC, Breda"
   },
   {
     "Regio": "20",
     "Roepnummer": "20-3008",
+    "Kenteken": "9-ZDP-30",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Kazerne": "Breda",
-    "Adres": "Tramsingel 71, 4814AC, Breda"
-  },
-  {
-    "Regio": "20",
-    "Roepnummer": "20-3009",
-    "Type": "DA",
-    "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Volkswagen Up",
     "Kazerne": "Breda",
     "Adres": "Tramsingel 71, 4814AC, Breda"
   },
@@ -44671,10 +44639,10 @@
   {
     "Regio": "23",
     "Roepnummer": "23-1431",
-    "Kenteken": "BX-ZZ-93",
+    "Kenteken": "30-BNK-3",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes-Benz",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Venray",
     "Adres": "Acaciastraat 15, 5802EK, Venray"
   },
@@ -46284,8 +46252,10 @@
   {
     "Regio": "23",
     "Roepnummer": "23-6131",
+    "Kenteken": "BX-ZZ-93",
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Venray",
     "Adres": "Acaciastraat 15, 5802EK, Venray"
   },
