@@ -6972,9 +6972,11 @@
   {
     "Regio": "04",
     "Roepnummer": "04-1093",
+    "Kenteken": "ZV-566-F",
     "Type": "DAT-OVD",
     "Omschrijving": "Dienstauto-Terreinvaardig - Officier van Dienst",
     "Toevoeging": "Noord",
+    "Merk (& Type)": "Volkswagen Tiguan",
     "Kazerne": "Regionaal"
   },
   {
@@ -8985,6 +8987,7 @@
   {
     "Regio": "05",
     "Roepnummer": "05-1679",
+    "Kenteken": "49-WP-FV",
     "Type": "VT",
     "Omschrijving": "Veetakel",
     "Kazerne": "Markelo",
@@ -9135,8 +9138,10 @@
   {
     "Regio": "05",
     "Roepnummer": "05-2331",
+    "Kenteken": "38-BVH-6",
     "Type": "TS-8",
     "Omschrijving": "Tankautospuit 8 mans bezetting",
+    "Merk (& Type)": "Iveco",
     "Kazerne": "Denekamp",
     "Adres": "Nordhornsestraat 66, 7591BH, Denekamp"
   },
@@ -9161,8 +9166,10 @@
   {
     "Regio": "05",
     "Roepnummer": "05-2401",
+    "Kenteken": "RS-233-F",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Tubbergen",
     "Adres": "Reutummerweg 6, 7651KL, Tubbergen"
   },
@@ -11129,16 +11136,6 @@
   },
   {
     "Regio": "06",
-    "Roepnummer": "06-6942",
-    "Kenteken": "23-BHT-5",
-    "Type": "TST-NB",
-    "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
-    "Merk (& Type)": "Scania",
-    "Kazerne": "Elburg",
-    "Adres": "Oostendorperstraatweg 8, 8081RK, Elburg"
-  },
-  {
-    "Regio": "06",
     "Roepnummer": "06-6951",
     "Type": "HW",
     "Omschrijving": "Hoogwerker",
@@ -11150,16 +11147,6 @@
     "Roepnummer": "06-6961",
     "Type": "MSA",
     "Omschrijving": "Motorspuitaanhanger",
-    "Kazerne": "Elburg",
-    "Adres": "Oostendorperstraatweg 8, 8081RK, Elburg"
-  },
-  {
-    "Regio": "06",
-    "Roepnummer": "06-6971",
-    "Kenteken": "BZ-NH-46",
-    "Type": "HV",
-    "Omschrijving": "Hulpverleningsvoertuig",
-    "Merk (& Type)": "DAF CF",
     "Kazerne": "Elburg",
     "Adres": "Oostendorperstraatweg 8, 8081RK, Elburg"
   },
@@ -16280,8 +16267,10 @@
   {
     "Regio": "08",
     "Roepnummer": "08-1131",
+    "Kenteken": "03-BRZ-3",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Groesbeek",
     "Adres": "Industrieweg 9, 6562AP, Groesbeek"
   },
@@ -18197,16 +18186,6 @@
     "Roepnummer": "09-0731",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Kazerne": "Bilthoven",
-    "Adres": "Leyenseweg 40, 3721BD, Bilthoven"
-  },
-  {
-    "Regio": "09",
-    "Roepnummer": "09-0734",
-    "Kenteken": "29-BLP-6",
-    "Type": "TSC-6",
-    "Omschrijving": "Tankautospuit-Compact\u00a06 mans\u00a0bezetting",
-    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Bilthoven",
     "Adres": "Leyenseweg 40, 3721BD, Bilthoven"
   },
@@ -30930,91 +30909,106 @@
     "Roepnummer": "17-1601",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Kazerne": "Gez. BRW Hoofdkantoor Executieve Ondersteuning "
+    "Kazerne": "Moezelweg",
+    "Adres": "Moezelweg 150, 3198LS, Rotterdam"
   },
   {
     "Regio": "17",
     "Roepnummer": "17-1602",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
-    "Kazerne": "Gez. BRW Hoofdkantoor Executieve Ondersteuning "
+    "Kazerne": "Moezelweg",
+    "Adres": "Moezelweg 150, 3198LS, Rotterdam"
   },
   {
     "Regio": "17",
     "Roepnummer": "17-1603",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Kazerne": "Gez. BRW Hoofdkantoor Executieve Ondersteuning "
+    "Kazerne": "Moezelweg",
+    "Adres": "Moezelweg 150, 3198LS, Rotterdam"
   },
   {
     "Regio": "17",
     "Roepnummer": "17-1604",
+    "Kenteken": "VHG-78-X",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Kazerne": "Gez. BRW Hoofdkantoor Executieve Ondersteuning "
+    "Merk (& Type)": "Volkswagen Transporter",
+    "Kazerne": "Moezelweg",
+    "Adres": "Moezelweg 150, 3198LS, Rotterdam"
   },
   {
     "Regio": "17",
     "Roepnummer": "17-1605",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Kazerne": "Gez. BRW Hoofdkantoor Executieve Ondersteuning "
+    "Kazerne": "Moezelweg",
+    "Adres": "Moezelweg 150, 3198LS, Rotterdam"
   },
   {
     "Regio": "17",
     "Roepnummer": "17-1606",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Kazerne": "Gez. BRW Hoofdkantoor Executieve Ondersteuning "
+    "Kazerne": "Moezelweg",
+    "Adres": "Moezelweg 150, 3198LS, Rotterdam"
   },
   {
     "Regio": "17",
     "Roepnummer": "17-1607",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Kazerne": "Gez. BRW Hoofdkantoor Executieve Ondersteuning "
+    "Kazerne": "Moezelweg",
+    "Adres": "Moezelweg 150, 3198LS, Rotterdam"
   },
   {
     "Regio": "17",
     "Roepnummer": "17-1608",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Kazerne": "Gez. BRW Hoofdkantoor Executieve Ondersteuning "
+    "Kazerne": "Moezelweg",
+    "Adres": "Moezelweg 150, 3198LS, Rotterdam"
   },
   {
     "Regio": "17",
     "Roepnummer": "17-1609",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Kazerne": "Gez. BRW Hoofdkantoor Executieve Ondersteuning "
+    "Kazerne": "Moezelweg",
+    "Adres": "Moezelweg 150, 3198LS, Rotterdam"
   },
   {
     "Regio": "17",
     "Roepnummer": "17-1631",
     "Type": "TS-OTO",
     "Omschrijving": "Tankautospuit-Opleiden Trainen Oefenen",
-    "Kazerne": "Gez. BRW Hoofdkantoor Executieve Ondersteuning "
+    "Kazerne": "Moezelweg",
+    "Adres": "Moezelweg 150, 3198LS, Rotterdam"
   },
   {
     "Regio": "17",
     "Roepnummer": "17-1632",
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
-    "Kazerne": "Gez. BRW Hoofdkantoor Executieve Ondersteuning "
+    "Kazerne": "Moezelweg",
+    "Adres": "Moezelweg 150, 3198LS, Rotterdam"
   },
   {
     "Regio": "17",
     "Roepnummer": "17-1633",
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
-    "Kazerne": "Gez. BRW Hoofdkantoor Executieve Ondersteuning "
+    "Kazerne": "Moezelweg",
+    "Adres": "Moezelweg 150, 3198LS, Rotterdam"
   },
   {
     "Regio": "17",
     "Roepnummer": "17-1634",
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
-    "Kazerne": "Gez. BRW Hoofdkantoor Executieve Ondersteuning "
+    "Kazerne": "Moezelweg",
+    "Adres": "Moezelweg 150, 3198LS, Rotterdam"
   },
   {
     "Regio": "17",
@@ -38691,8 +38685,10 @@
   {
     "Regio": "20",
     "Roepnummer": "20-1381",
+    "Kenteken": "55-BBR-4",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "Roosendaal",
     "Adres": "Laan van Brabant 16, 4701BK, Roosendaal"
   },
@@ -41744,8 +41740,10 @@
   {
     "Regio": "21",
     "Roepnummer": "21-3151",
+    "Kenteken": "46-BXP-1",
     "Type": "HW",
     "Omschrijving": "Hoogwerker",
+    "Merk (& Type)": "Scania",
     "Kazerne": "Oss",
     "Adres": "Wethouder Van Eschstraat 260, 5342AV, Oss"
   },
@@ -47433,10 +47431,12 @@
   {
     "Regio": "24",
     "Roepnummer": "24-3681",
+    "Kenteken": "BZ-LX-87",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
-    "Kazerne": "Meerssen",
-    "Adres": "Tunnelweg 1, 6231RL, Bunde"
+    "Merk (& Type)": "Volvo",
+    "Kazerne": "Vaals",
+    "Adres": "Randweg 7, 6291DC, Vaals"
   },
   {
     "Regio": "24",
@@ -48505,8 +48505,10 @@
   {
     "Regio": "25",
     "Roepnummer": "25-6131",
+    "Kenteken": "95-BDK-3",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Emmeloord",
     "Adres": "Nijverheidstraat 34, 8301AD, Emmeloord"
   },
