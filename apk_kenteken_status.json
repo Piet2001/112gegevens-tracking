@@ -28808,5 +28808,35 @@
     "vaartuig": false,
     "roepnummers": ["24-2590"],
     "last_check_date": "2026-08-08"
+  },
+  "T-630-FG": {
+    "expiry": "2027-05-31",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["11-8006"],
+    "last_check_date": "2026-08-09"
+  },
+  "HVH-91-N": {
+    "expiry": "2029-10-24",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["17-9091"],
+    "last_check_date": "2026-08-09"
+  },
+  "VKJ-79-J": {
+    "expiry": "2027-01-14",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["17-9196"],
+    "last_check_date": "2026-08-09"
   }
 }

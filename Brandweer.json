@@ -23766,8 +23766,10 @@
   {
     "Regio": "11",
     "Roepnummer": "11-8006",
+    "Kenteken": "T-630-FG",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Opel",
     "Kazerne": "Zaandam Prins Bernhardplein",
     "Adres": "Prins Bernhardplein 112, 1508XB, Zaandam"
   },
@@ -32543,6 +32545,7 @@
   {
     "Regio": "17",
     "Roepnummer": "17-9091",
+    "Kenteken": "HVH-91-N",
     "Type": "DA-HOD",
     "Omschrijving": "Dienstauto - Hoofd Officier van Dienst",
     "Toevoeging": "1",
@@ -32858,9 +32861,11 @@
   {
     "Regio": "17",
     "Roepnummer": "17-9196",
+    "Kenteken": "VKJ-79-J",
     "Type": "DB-OVD",
     "Omschrijving": "Dienstbus - Officier van Dienst",
-    "Kazerne": "Voorne-Putten"
+    "Merk (& Type)": "Volkswagen Transporter",
+    "Kazerne": "Regionaal"
   },
   {
     "Regio": "17",
