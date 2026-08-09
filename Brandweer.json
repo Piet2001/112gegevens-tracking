@@ -22014,8 +22014,10 @@
   {
     "Regio": "10",
     "Roepnummer": "10-5932",
+    "Kenteken": "48-BKH-1",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "De Cocksdorp",
     "Adres": "Postweg 211b, 1795JN, De Cocksdorp"
   },
@@ -34479,6 +34481,7 @@
   {
     "Regio": "18",
     "Roepnummer": "18-7187",
+    "Kenteken": "93-WS-VK",
     "Type": "VZA-WC",
     "Omschrijving": "Verzorgings-aanhanger met WC`s",
     "Kazerne": "Bleskensgraaf",

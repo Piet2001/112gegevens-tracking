@@ -29288,5 +29288,25 @@
     "vaartuig": false,
     "roepnummers": ["24-138"],
     "last_check_date": "2026-08-09"
+  },
+  "48-BKH-1": {
+    "expiry": "2026-12-15",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["10-5932"],
+    "last_check_date": "2026-08-09"
+  },
+  "93-WS-VK": {
+    "expiry": "None",
+    "checked": true,
+    "unknown": true,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["18-7187"],
+    "last_check_date": "2026-08-09"
   }
 }
