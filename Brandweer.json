@@ -15964,9 +15964,11 @@
   {
     "Regio": "07",
     "Roepnummer": "07-9391",
+    "Kenteken": "GXG-11-R",
     "Type": "DA-VL",
     "Omschrijving": "Dienstauto - Voorlichter",
-    "Kazerne": "Leiding & Co\u00f6rdinatie"
+    "Merk (& Type)": "Hyundai",
+    "Kazerne": "Regionaal"
   },
   {
     "Regio": "07",
@@ -29227,8 +29229,10 @@
   {
     "Regio": "16",
     "Roepnummer": "16-2226",
+    "Kenteken": "VRB-78-G",
     "Type": "DA-VEB",
     "Omschrijving": "Dienstauto - Verkenningseenheid Brandweer",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Benthuizen",
     "Adres": "Bentwoudlaan 3, 2731BS, Benthuizen"
   },
@@ -29353,14 +29357,6 @@
     "Omschrijving": "Personeel/Materieelvoertuig",
     "Kazerne": "Alphen aan den Rijn",
     "Adres": "Havenstraat 5, 2405BV, Alphen aan den Rijn"
-  },
-  {
-    "Regio": "16",
-    "Roepnummer": "16-2283",
-    "Type": "PM-VEB",
-    "Omschrijving": "Personeel/Materieelvoertuig - Verkennings Eenheid Brandweer",
-    "Kazerne": "Benthuizen",
-    "Adres": "Bentwoudlaan 3, 2731BS, Benthuizen"
   },
   {
     "Regio": "16",
@@ -32549,8 +32545,8 @@
     "Type": "DA-HOD",
     "Omschrijving": "Dienstauto - Hoofd Officier van Dienst",
     "Toevoeging": "1",
-    "Kazerne": "Frobenstraat",
-    "Adres": "Frobenstraat 8, 3045RD, Rotterdam"
+    "Merk (& Type)": "Skoda",
+    "Kazerne": "Regionaal"
   },
   {
     "Regio": "17",
@@ -32558,8 +32554,7 @@
     "Type": "DA-HOD",
     "Omschrijving": "Dienstauto - Hoofd Officier van Dienst",
     "Toevoeging": "2",
-    "Kazerne": "Frobenstraat",
-    "Adres": "Frobenstraat 8, 3045RD, Rotterdam"
+    "Kazerne": "Regionaal"
   },
   {
     "Regio": "17",
@@ -32567,8 +32562,7 @@
     "Type": "DA-HOD",
     "Omschrijving": "Dienstauto - Hoofd Officier van Dienst",
     "Toevoeging": "3",
-    "Kazerne": "Frobenstraat",
-    "Adres": "Frobenstraat 8, 3045RD, Rotterdam"
+    "Kazerne": "Regionaal"
   },
   {
     "Regio": "17",
@@ -48196,10 +48190,12 @@
   {
     "Regio": "25",
     "Roepnummer": "25-4171",
+    "Kenteken": "BS-JN-22",
     "Type": "HV",
     "Omschrijving": "Hulpverleningsvoertuig",
-    "Kazerne": "Almere Stad",
-    "Adres": "Merkerkant 15-13, 1314AT, Almere"
+    "Merk (& Type)": "DAF",
+    "Kazerne": "Almere-Buiten",
+    "Adres": "Makassarweg 61, 1335HW, Almere"
   },
   {
     "Regio": "25",
