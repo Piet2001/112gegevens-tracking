@@ -29798,5 +29798,15 @@
     "vaartuig": false,
     "roepnummers": ["15-241"],
     "last_check_date": "2026-08-10"
+  },
+  "77-BZR-1": {
+    "expiry": "2026-12-04",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["11-2031"],
+    "last_check_date": "2026-08-10"
   }
 }
