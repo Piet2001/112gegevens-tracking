@@ -5065,10 +5065,10 @@
   {
     "Regio": "20",
     "Roepnummer": "20-232",
-    "Kenteken": "2-SXS-68",
-    "Omschrijving": "Piketauto",
-    "Merk": "Volkswagen Up",
-    "Locatie indien vast": "Tilburg-Noord"
+    "Kenteken": "Z-075-PS",
+    "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Tilburg"
   },
   {
     "Regio": "20",
@@ -5142,6 +5142,14 @@
     "Kenteken": "V-132-RL",
     "Omschrijving": "OpleidingsAmbulance",
     "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Tilburg-Noord"
+  },
+  {
+    "Regio": "20",
+    "Roepnummer": "20-535",
+    "Kenteken": "2-SXS-68",
+    "Omschrijving": "Piketauto",
+    "Merk": "Volkswagen Up",
     "Locatie indien vast": "Tilburg-Noord"
   },
   {
