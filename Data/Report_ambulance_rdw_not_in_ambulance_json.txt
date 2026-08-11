@@ -1,5 +1,5 @@
 Report: vergelijking Ambulance.json met RDW-lijst
-RDW wel, Ambulance.json niet (806):
+RDW wel, Ambulance.json niet (805):
 01JHZ6
 04LHS6
 06KHN8
@@ -458,7 +458,6 @@ L396VS
 L411JN
 L419JN
 L420LF
-L446VS
 L470GX
 L470VS
 L489ZD
