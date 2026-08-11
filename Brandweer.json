@@ -27316,16 +27316,6 @@
   },
   {
     "Regio": "14",
-    "Roepnummer": "14-7085",
-    "Kenteken": "85-BPX-4",
-    "Type": "VW-LO",
-    "Omschrijving": "Vrachtwagen - Logistiek en Ondersteuning",
-    "Merk (& Type)": "MAN",
-    "Kazerne": "Hilversum",
-    "Adres": "Kamerlingh Onnesweg 148, 1223JN, Hilversum"
-  },
-  {
-    "Regio": "14",
     "Roepnummer": "14-7086",
     "Kenteken": "86-BPX-4",
     "Type": "VW-LO",
@@ -48796,6 +48786,15 @@
     "Omschrijving": "Hulpverleningshaakarmbak",
     "Kazerne": "Emmeloord",
     "Adres": "Nijverheidstraat 34, 8301AD, Emmeloord"
+  },
+  {
+    "Regio": "25",
+    "Roepnummer": "25-8082",
+    "Kenteken": "85-BPX-4",
+    "Type": "VW-AH",
+    "Omschrijving": "Vrachtwagen - Arbeidshygi\u00ebne",
+    "Merk (& Type)": "MAN",
+    "Kazerne": "Regionaal"
   },
   {
     "Regio": "25",
