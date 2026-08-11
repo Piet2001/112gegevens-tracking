@@ -15897,6 +15897,16 @@
   },
   {
     "Regio": "07",
+    "Roepnummer": "07-9291",
+    "Kenteken": "GXG-10-R",
+    "Type": "DA-VL",
+    "Omschrijving": "Dienstauto - Voorlichter",
+    "Merk (& Type)": "Hyundai Kona",
+    "Kazerne": "Ede-Centrum",
+    "Adres": "Breelaan 4, 6711MR, Ede"
+  },
+  {
+    "Regio": "07",
     "Roepnummer": "07-9295",
     "Kenteken": "XB-239-K",
     "Type": "DA-HOD",
@@ -33507,8 +33517,10 @@
   {
     "Regio": "18",
     "Roepnummer": "18-5432",
+    "Kenteken": "19-BVX-5",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Oud Beijerland",
     "Adres": "Aston Martinlaan 20, 3261NB, Oud Beijerland"
   },
