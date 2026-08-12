@@ -2655,9 +2655,10 @@
   {
     "Regio": "10",
     "Roepnummer": "10-705",
-    "Kenteken": "ZL-715-H",
+    "Kenteken": "GLN-61-G",
     "Omschrijving": "Huisartsenpostvoertuig",
-    "Merk": "Volvo"
+    "Merk": "Volvo",
+    "Locatie indien vast": "Alkmaar"
   },
   {
     "Regio": "10",
@@ -3418,7 +3419,7 @@
   {
     "Regio": "15",
     "Roepnummer": "15-128",
-    "Kenteken": "PB-027-G",
+    "Kenteken": "T-179-LB",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Mangaanstraat"
@@ -4656,7 +4657,10 @@
   {
     "Regio": "18",
     "Roepnummer": "18-272",
-    "Omschrijving": "Middencomplexe Ambulance"
+    "Kenteken": "HKL-34-J",
+    "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Dordrecht"
   },
   {
     "Regio": "18",
@@ -6775,9 +6779,9 @@
   {
     "Regio": "24",
     "Roepnummer": "24-722",
-    "Kenteken": "NG-500-H",
+    "Kenteken": "T-764-TP",
     "Omschrijving": "Huisartsenpostvoertuig",
-    "Merk": "Mercedes-Benz GLK",
+    "Merk": "Hyundai",
     "Locatie indien vast": "Zuijderlandziekenhuis Heerlen"
   },
   {
