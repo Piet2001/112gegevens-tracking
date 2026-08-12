@@ -24630,16 +24630,19 @@
   {
     "Regio": "12",
     "Roepnummer": "12-2230",
+    "Kenteken": "BX-SP-52",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Kazerne": "Beverwijk-West",
-    "Adres": "Wijk aan Duinerweg 4, 1944TV, Beverwijk"
+    "Merk (& Type)": "Mercedes-Benz",
+    "Kazerne": "Regionaal"
   },
   {
     "Regio": "12",
     "Roepnummer": "12-2301",
+    "Kenteken": "1-ZNH-53",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Volkswagen Transporter",
     "Kazerne": "Beverwijk-Oost",
     "Adres": "Spoorsingel 1, 1947LA, Beverwijk"
   },
@@ -24676,8 +24679,10 @@
   {
     "Regio": "12",
     "Roepnummer": "12-2410",
+    "Kenteken": "BB-437-T",
     "Type": "WO",
     "Omschrijving": "Waterongevallenvoertuig",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Velsen",
     "Adres": "`s-Gravenlust 35, 1981AE, Velsen-Zuid"
   },
@@ -24694,8 +24699,10 @@
   {
     "Regio": "12",
     "Roepnummer": "12-2450",
+    "Kenteken": "42-BNG-8",
     "Type": "HW",
     "Omschrijving": "Hoogwerker",
+    "Merk (& Type)": "Scania",
     "Kazerne": "Velsen",
     "Adres": "`s-Gravenlust 35, 1981AE, Velsen-Zuid"
   },
@@ -31635,56 +31642,38 @@
   {
     "Regio": "17",
     "Roepnummer": "17-2181",
+    "Kenteken": "91-BLF-9",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "Don Berghuijs",
     "Adres": "Butaanweg 251, 3196KC, Rotterdam"
   },
   {
     "Regio": "17",
     "Roepnummer": "17-2182",
-    "Type": "BMH",
-    "Omschrijving": "Bijzonder Materieel Haakarmbak",
+    "Type": "BMH-BBM",
+    "Omschrijving": "Bijzonder materieelhaakarmbak - Bijzondere Blus Middelen",
     "Kazerne": "Don Berghuijs",
     "Adres": "Butaanweg 251, 3196KC, Rotterdam"
   },
   {
     "Regio": "17",
-    "Roepnummer": "17-2201",
-    "Type": "DA",
-    "Omschrijving": "Dienstauto",
-    "Kazerne": "Hoogvliet",
-    "Adres": "Rietbroek 35, 3191HA, Hoogvliet"
-  },
-  {
-    "Regio": "17",
     "Roepnummer": "17-2231",
+    "Kenteken": "BB-680-V",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Hoogvliet",
     "Adres": "Rietbroek 35, 3191HA, Hoogvliet"
-  },
-  {
-    "Regio": "17",
-    "Roepnummer": "17-2313",
-    "Type": "GM",
-    "Omschrijving": "Gereedschap/Materieelwagen",
-    "Kazerne": "Rockanje",
-    "Adres": "Kerkweg 10, 3235XL, Rockanje"
-  },
-  {
-    "Regio": "17",
-    "Roepnummer": "17-2321",
-    "Type": "DB-VEB",
-    "Omschrijving": "Dienstbus - Verkenningseenheid Brandweer",
-    "Kazerne": "Rockanje",
-    "Adres": "Kerkweg 10, 3235XL, Rockanje"
   },
   {
     "Regio": "17",
     "Roepnummer": "17-2331",
+    "Kenteken": "97-BDN-6",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "DAF",
     "Kazerne": "Rockanje",
     "Adres": "Kerkweg 10, 3235XL, Rockanje"
   },
@@ -31703,6 +31692,7 @@
     "Kenteken": "V-04-PHL",
     "Type": "VKT-NB",
     "Omschrijving": "Verkenningsvoertuig Terreinvaardig - Natuurbrandbestrijding",
+    "Toevoeging": "Tevens 17-2321 VKE",
     "Merk (& Type)": "Toyota",
     "Kazerne": "Rockanje",
     "Adres": "Kerkweg 10, 3235XL, Rockanje"
@@ -31710,26 +31700,12 @@
   {
     "Regio": "17",
     "Roepnummer": "17-2431",
+    "Kenteken": "27-BDH-7",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "DAF",
     "Kazerne": "Oostvoorne",
     "Adres": "Voorweg 65, 3233SJ, Oostvoorne"
-  },
-  {
-    "Regio": "17",
-    "Roepnummer": "17-2481",
-    "Type": "DB",
-    "Omschrijving": "Dienstbus",
-    "Kazerne": "Oostvoorne",
-    "Adres": "Voorweg 65, 3233SJ, Oostvoorne"
-  },
-  {
-    "Regio": "17",
-    "Roepnummer": "17-2501",
-    "Type": "DB",
-    "Omschrijving": "Dienstbus",
-    "Kazerne": "Hellevoetsluis",
-    "Adres": "Tolweg 45a, 3223CD, Hellevoetsluis"
   },
   {
     "Regio": "17",
@@ -36875,9 +36851,11 @@
   {
     "Regio": "19",
     "Roepnummer": "19-6671",
+    "Kenteken": "V-496-DL",
     "Type": "DB-HRT",
     "Omschrijving": "Personeel/Materieelvoertuig - Hoogte Reddings Team",
     "Toevoeging": "tbv Rope Rescue Team (RRT)",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Terneuzen-Koegors",
     "Adres": "Koegorsstraat 4, 4538PK, Terneuzen"
   },
@@ -36975,8 +36953,10 @@
   {
     "Regio": "19",
     "Roepnummer": "19-6731",
+    "Kenteken": "58-BPJ-5",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Hulst",
     "Adres": "Globe 2, 4561PK, Hulst"
   },
@@ -36993,24 +36973,30 @@
   {
     "Regio": "19",
     "Roepnummer": "19-6733",
+    "Kenteken": "BR-VB-53",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "Vogelwaarde",
     "Adres": "Bossestraat 30, 4581BE, Vogelwaarde"
   },
   {
     "Regio": "19",
     "Roepnummer": "19-6750",
+    "Kenteken": "BB-171-S",
     "Type": "HW",
     "Omschrijving": "Hoogwerker",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "Hulst",
     "Adres": "Globe 2, 4561PK, Hulst"
   },
   {
     "Regio": "19",
     "Roepnummer": "19-6770",
+    "Kenteken": "62-BDL-5",
     "Type": "HV",
     "Omschrijving": "Hulpverleningsvoertuig",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "Hulst",
     "Adres": "Globe 2, 4561PK, Hulst"
   },
@@ -37021,98 +37007,6 @@
     "Omschrijving": "(Nood)Stroom\u00a0Aggregaat\u00a0(aanhanger)",
     "Kazerne": "Hulst",
     "Adres": "Globe 2, 4561PK, Hulst"
-  },
-  {
-    "Regio": "19",
-    "Roepnummer": "19-7101",
-    "Type": "RB",
-    "Omschrijving": "Reddingboot",
-    "Toevoeging": "Winifred Lucy Verkade Clark",
-    "Kazerne": "Cadzand",
-    "Adres": "Nieuwleusenerstraat 18, 4506AB, Cadzand"
-  },
-  {
-    "Regio": "19",
-    "Roepnummer": "19-7105",
-    "Type": "KHV",
-    "Omschrijving": "Kusthulpverleningsvoertuig",
-    "Kazerne": "Cadzand",
-    "Adres": "Nieuwleusenerstraat 18, 4506AB, Cadzand"
-  },
-  {
-    "Regio": "19",
-    "Roepnummer": "19-7111",
-    "Type": "RB",
-    "Omschrijving": "Reddingboot",
-    "Toevoeging": "Zeemanshoop",
-    "Kazerne": "Breskens",
-    "Adres": "Weijkmanlaan 15, 4511CS, Breskens"
-  },
-  {
-    "Regio": "19",
-    "Roepnummer": "19-7112",
-    "Type": "RB",
-    "Omschrijving": "Reddingboot",
-    "Toevoeging": "Leng",
-    "Kazerne": "Breskens",
-    "Adres": "Weijkmanlaan 15, 4511CS, Breskens"
-  },
-  {
-    "Regio": "19",
-    "Roepnummer": "19-7121",
-    "Type": "RB",
-    "Omschrijving": "Reddingboot",
-    "Toevoeging": "Uly",
-    "Kazerne": "Westkapelle",
-    "Adres": "Oude Zandweg 11a, 4361SK, Westkapelle"
-  },
-  {
-    "Regio": "19",
-    "Roepnummer": "19-7125",
-    "Type": "KHV",
-    "Omschrijving": "Kusthulpverleningsvoertuig",
-    "Kazerne": "Westkapelle",
-    "Adres": "Oude Zandweg 11a, 4361SK, Westkapelle"
-  },
-  {
-    "Regio": "19",
-    "Roepnummer": "19-7131",
-    "Type": "KHV",
-    "Omschrijving": "Kusthulpverleningsvoertuig",
-    "Kazerne": "Veere",
-    "Adres": "Veerseweg 23, 4351RC, Veere"
-  },
-  {
-    "Regio": "19",
-    "Roepnummer": "19-7141",
-    "Type": "RB",
-    "Omschrijving": "Reddingboot",
-    "Toevoeging": "Koopmansdank",
-    "Kazerne": "Neeltje Jans-Buiten"
-  },
-  {
-    "Regio": "19",
-    "Roepnummer": "19-7142",
-    "Type": "RB",
-    "Omschrijving": "Reddingboot",
-    "Toevoeging": "Fred",
-    "Kazerne": "Neeltje Jans-Binnen"
-  },
-  {
-    "Regio": "19",
-    "Roepnummer": "19-7511",
-    "Type": "RB",
-    "Omschrijving": "Reddingboot",
-    "Toevoeging": "Koopmansdank",
-    "Kazerne": "Hansweert"
-  },
-  {
-    "Regio": "19",
-    "Roepnummer": "19-7512",
-    "Type": "RB",
-    "Omschrijving": "Reddingboot",
-    "Toevoeging": "Kleine Vlet",
-    "Kazerne": "Hansweert"
   },
   {
     "Regio": "19",
@@ -37913,6 +37807,100 @@
     "Omschrijving": "Multi Commando Unit",
     "Kazerne": "Goes-Oranjeweg",
     "Adres": "Oranjeweg 100, 4461LR, Goes"
+  },
+  {
+    "Regio": "19",
+    "Roepnummer": "35-7101",
+    "Type": "RB",
+    "Omschrijving": "Reddingboot",
+    "Toevoeging": "Winifred Lucy Verkade Clark",
+    "Kazerne": "Cadzand",
+    "Adres": "Nieuwleusenerstraat 18, 4506AB, Cadzand"
+  },
+  {
+    "Regio": "19",
+    "Roepnummer": "35-7105",
+    "Kenteken": "BP-ZN-57",
+    "Type": "KHV",
+    "Omschrijving": "Kusthulpverleningsvoertuig",
+    "Kazerne": "Cadzand",
+    "Adres": "Nieuwleusenerstraat 18, 4506AB, Cadzand"
+  },
+  {
+    "Regio": "19",
+    "Roepnummer": "35-7111",
+    "Type": "RB",
+    "Omschrijving": "Reddingboot",
+    "Toevoeging": "Zeemanshoop",
+    "Kazerne": "Breskens",
+    "Adres": "Weijkmanlaan 15, 4511CS, Breskens"
+  },
+  {
+    "Regio": "19",
+    "Roepnummer": "35-7112",
+    "Type": "RB",
+    "Omschrijving": "Reddingboot",
+    "Toevoeging": "Leng",
+    "Kazerne": "Breskens",
+    "Adres": "Weijkmanlaan 15, 4511CS, Breskens"
+  },
+  {
+    "Regio": "19",
+    "Roepnummer": "35-7121",
+    "Type": "RB",
+    "Omschrijving": "Reddingboot",
+    "Toevoeging": "Uly",
+    "Kazerne": "Westkapelle",
+    "Adres": "Oude Zandweg 11a, 4361SK, Westkapelle"
+  },
+  {
+    "Regio": "19",
+    "Roepnummer": "35-7125",
+    "Kenteken": "BS-ZZ-46",
+    "Type": "KHV",
+    "Omschrijving": "Kusthulpverleningsvoertuig",
+    "Kazerne": "Westkapelle",
+    "Adres": "Oude Zandweg 11a, 4361SK, Westkapelle"
+  },
+  {
+    "Regio": "19",
+    "Roepnummer": "35-7131",
+    "Type": "KHV",
+    "Omschrijving": "Kusthulpverleningsvoertuig",
+    "Kazerne": "Veere",
+    "Adres": "Veerseweg 23, 4351RC, Veere"
+  },
+  {
+    "Regio": "19",
+    "Roepnummer": "35-7141",
+    "Type": "RB",
+    "Omschrijving": "Reddingboot",
+    "Toevoeging": "Koopmansdank",
+    "Kazerne": "Neeltje Jans-Buiten"
+  },
+  {
+    "Regio": "19",
+    "Roepnummer": "35-7142",
+    "Type": "RB",
+    "Omschrijving": "Reddingboot",
+    "Toevoeging": "Fred",
+    "Kazerne": "Neeltje Jans-Binnen"
+  },
+  {
+    "Regio": "19",
+    "Roepnummer": "35-7511",
+    "Type": "RB",
+    "Omschrijving": "Reddingboot",
+    "Toevoeging": "Koopmansdank",
+    "Kazerne": "Hansweert"
+  },
+  {
+    "Regio": "19",
+    "Roepnummer": "35-7512",
+    "Type": "RB",
+    "Omschrijving": "Reddingboot",
+    "Toevoeging": "Kleine Vlet",
+    "Kazerne": "Hansweert"
   },
   {
     "Regio": "20",
