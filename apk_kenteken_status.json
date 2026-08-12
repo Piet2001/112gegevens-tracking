@@ -7513,7 +7513,7 @@
     "expiry": "2026-11-05",
     "checked": true,
     "unknown": false,
-    "roepnummers": ["07-2782"],
+    "roepnummers": ["07-2782", "07-9082"],
     "last_check_date": "2026-05-23",
     "no_apk_info": false,
     "defensie": false,
@@ -30368,5 +30368,55 @@
     "vaartuig": false,
     "roepnummers": ["18-5432"],
     "last_check_date": "2026-08-11"
+  },
+  "BX-VP-54": {
+    "expiry": "2026-11-28",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["07-2783"],
+    "last_check_date": "2026-08-12"
+  },
+  "66-WJ-NL": {
+    "expiry": "None",
+    "checked": true,
+    "unknown": true,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["07-2788"],
+    "last_check_date": "2026-08-12"
+  },
+  "26-BBH-3": {
+    "expiry": "2026-10-31",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["07-2831"],
+    "last_check_date": "2026-08-12"
+  },
+  "J-398-SK": {
+    "expiry": "2026-11-11",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["23-3401"],
+    "last_check_date": "2026-08-12"
+  },
+  "BV-XJ-12": {
+    "expiry": "2027-04-06",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["23-3431"],
+    "last_check_date": "2026-08-12"
   }
 }
