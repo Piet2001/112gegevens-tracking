@@ -10459,6 +10459,16 @@
   },
   {
     "Regio": "06",
+    "Roepnummer": "06-1131",
+    "Kenteken": "BD-722-P",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Volvo FE 320",
+    "Kazerne": "Harderwijk",
+    "Adres": "Maltezerlaan 1, 3842AZ, Harderwijk"
+  },
+  {
+    "Regio": "06",
     "Roepnummer": "06-1401",
     "Kenteken": "JTP-23-H",
     "Type": "DB",
@@ -27684,8 +27694,10 @@
   {
     "Regio": "15",
     "Roepnummer": "15-5170",
+    "Kenteken": "12-BXB-8",
     "Type": "HV",
     "Omschrijving": "Hulpverleningsvoertuig",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "Leidschendam-Voorburg",
     "Adres": "Via Donizetti 1, 2272VK, Voorburg"
   },
@@ -39565,54 +39577,55 @@
   {
     "Regio": "20",
     "Roepnummer": "20-5001",
+    "Kenteken": "HVB-22-D",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Citro\u00ebn",
     "Kazerne": "Oosterhout",
     "Adres": "Vaartweg 2, 4905BL, Oosterhout"
   },
   {
     "Regio": "20",
     "Roepnummer": "20-5002",
+    "Kenteken": "HVB-23-D",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Citro\u00ebn",
     "Kazerne": "Oosterhout",
     "Adres": "Vaartweg 2, 4905BL, Oosterhout"
   },
   {
     "Regio": "20",
     "Roepnummer": "20-5031",
-    "Type": "TS-RES",
-    "Omschrijving": "Tankautospuit-Reserve",
-    "Toevoeging": "Cluster Noord",
+    "Kenteken": "BV-JV-29",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Toevoeging": "Reserve",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "Oosterhout",
     "Adres": "Vaartweg 2, 4905BL, Oosterhout"
   },
   {
     "Regio": "20",
     "Roepnummer": "20-5032",
-    "Type": "TS-RES",
-    "Omschrijving": "Tankautospuit-Reserve",
-    "Toevoeging": "Cluster Noord",
-    "Kazerne": "Genderen",
-    "Adres": "Genderensedijk 7, 4265JJ, Genderen"
-  },
-  {
-    "Regio": "20",
-    "Roepnummer": "20-5033",
-    "Type": "TS-RES",
-    "Omschrijving": "Tankautospuit-Reserve",
-    "Toevoeging": "Cluster Noord",
-    "Kazerne": "Made",
-    "Adres": "Nieuwelaan 14, 4921ZH, Made"
+    "Kenteken": "BV-JD-95",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Toevoeging": "Reserve",
+    "Merk (& Type)": "Volvo",
+    "Kazerne": "Almkerk",
+    "Adres": "Provincialeweg Noord 36, 4286EB, Almkerk"
   },
   {
     "Regio": "20",
     "Roepnummer": "20-5034",
-    "Type": "TS-RES",
-    "Omschrijving": "Tankautospuit-Reserve",
-    "Toevoeging": "Cluster Noord",
-    "Kazerne": "Woudrichem",
-    "Adres": "Almkerkseweg 2, 4285WZ, Woudrichem"
+    "Kenteken": "BV-HV-89",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Toevoeging": "Reserve",
+    "Merk (& Type)": "Volvo",
+    "Kazerne": "Breda",
+    "Adres": "Tramsingel 71, 4814AC, Breda"
   },
   {
     "Regio": "20",
