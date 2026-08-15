@@ -10,7 +10,7 @@ L-938-XF (20-141): verlopen op 2026-08-13
 VTT-90-K (01-2904): verlopen op 2026-08-09
 ZR-802-H (23-120): verlopen op 2026-08-02
 
-Geen APK info gevonden (125):
+Geen APK info gevonden (124):
 08-BKG-9 (09-9197)
 1-XFB-71 (03-228)
 15-SVG-Z (05-219)
@@ -72,7 +72,6 @@ BP-TZ-10 (09-5551)
 BP-VX-34 (05-9232)
 BP-XS-06 (02-6431)
 BR-DS-07 (17-4932)
-BR-LX-56 (19-6636)
 BR-NV-57 (09-8632)
 BR-RD-15 (03-8631)
 BR-RP-92 (12-1531)
@@ -137,7 +136,7 @@ XH-306-H (25-123)
 Z-075-PS (20-232)
 Z-208-KT (24-2595)
 
-APK vervaldatum onbekend (51):
+APK vervaldatum onbekend (52):
 12-WT-XJ (02-60VI)
 13-WF-XF (22-5287)
 14-WJ-XP (03-8674)
@@ -163,6 +162,7 @@ APK vervaldatum onbekend (51):
 70-WV-HX (02-64VI)
 71-WG-SG (03-8914)
 71-WV-HX (02-44VIA)
+73-WKZ-5 (13-5261)
 88-WZ-BJ (08-9669)
 91-WH-KP (20-15GMA)
 93-WS-VK (18-7187)
