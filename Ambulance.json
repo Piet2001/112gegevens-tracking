@@ -2089,7 +2089,9 @@
   {
     "Regio": "07",
     "Roepnummer": "07-114",
-    "Omschrijving": "Ambulance"
+    "Kenteken": "P-550-PN",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter"
   },
   {
     "Regio": "07",
@@ -3022,7 +3024,7 @@
   {
     "Regio": "13",
     "Roepnummer": "13-180",
-    "Kenteken": "GP-112-J",
+    "Kenteken": "N-065-NN",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Amstelveen"
