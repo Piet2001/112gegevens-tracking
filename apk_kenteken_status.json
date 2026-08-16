@@ -31808,5 +31808,45 @@
     "vaartuig": false,
     "roepnummers": ["23-507"],
     "last_check_date": "2026-08-15"
+  },
+  "BT-TL-47": {
+    "expiry": "2027-02-27",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["17-4731"],
+    "last_check_date": "2026-08-16"
+  },
+  "T-515-NK": {
+    "expiry": "2027-07-31",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["20-3401"],
+    "last_check_date": "2026-08-16"
+  },
+  "61-77-YS": {
+    "expiry": null,
+    "checked": true,
+    "unknown": true,
+    "no_apk_info": true,
+    "defensie": false,
+    "vaartuig": true,
+    "roepnummers": ["20-5461"],
+    "last_check_date": "2026-08-16"
+  },
+  "VH-131-K": {
+    "expiry": "2027-01-09",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["20-9102"],
+    "last_check_date": "2026-08-16"
   }
 }

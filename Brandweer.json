@@ -32188,8 +32188,10 @@
   {
     "Regio": "17",
     "Roepnummer": "17-4731",
+    "Kenteken": "BT-TL-47",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Volvo",
     "Kazerne": "Stad aan 't Haringvliet"
   },
   {
@@ -39509,8 +39511,10 @@
   {
     "Regio": "20",
     "Roepnummer": "20-3401",
+    "Kenteken": "T-515-NK",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Citro\u00ebn",
     "Kazerne": "Etten-Leur",
     "Adres": "Wipakker 8, 4872XH, Etten-Leur"
   },
@@ -39915,8 +39919,9 @@
   {
     "Regio": "20",
     "Roepnummer": "20-5461",
-    "Type": "BRV",
-    "Omschrijving": "Brandweervaartuig",
+    "Kenteken": "61-77-YS",
+    "Type": "BRV-M",
+    "Omschrijving": "Brandweervaartuig - Middel",
     "Kazerne": "Made",
     "Adres": "Nieuwelaan 14, 4921ZH, Made"
   },
@@ -40692,10 +40697,12 @@
   {
     "Regio": "20",
     "Roepnummer": "20-9102",
+    "Kenteken": "VH-131-K",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
-    "Kazerne": "Oisterwijk",
-    "Adres": "Blokshekken 4, 5061HA, Oisterwijk"
+    "Merk (& Type)": "Volkswagen Caddy",
+    "Kazerne": "Tilburg-Centrum",
+    "Adres": "Fabriekstraat 34, 5038EN, Tilburg"
   },
   {
     "Regio": "20",
