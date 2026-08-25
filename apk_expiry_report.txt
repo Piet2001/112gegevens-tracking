@@ -1,7 +1,6 @@
-Expired (11):
+Expired (10):
 2-KTJ-51 (13-4301): verlopen op 2026-08-16
 4-XFG-13 (01-1801): verlopen op 2026-08-19
-60-BT-JZ (18-9602): verlopen op 2026-08-09
 7-XFS-39 (01-3300): verlopen op 2026-08-19
 BH-JX-88 (12-9032): verlopen op 2026-08-03
 BP-NT-13 (09-5751): verlopen op 2026-05-18

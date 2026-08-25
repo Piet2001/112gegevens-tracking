@@ -110,11 +110,11 @@
     "vaartuig": false
   },
   "BX-JJ-33": {
-    "expiry": "2026-08-25",
+    "expiry": "2027-08-25",
     "checked": true,
     "unknown": false,
     "roepnummers": ["01-0132"],
-    "last_check_date": "2026-05-23",
+    "last_check_date": "2026-08-26",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -694,7 +694,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["01-1801"],
-    "last_check_date": "2026-08-25",
+    "last_check_date": "2026-08-26",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -820,11 +820,11 @@
     "vaartuig": false
   },
   "72-BVT-3": {
-    "expiry": "2026-08-25",
+    "expiry": "2027-08-25",
     "checked": true,
     "unknown": false,
     "roepnummers": ["01-1851"],
-    "last_check_date": "2026-05-23",
+    "last_check_date": "2026-08-26",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -1484,7 +1484,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["01-2904"],
-    "last_check_date": "2026-08-25",
+    "last_check_date": "2026-08-26",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -1864,7 +1864,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["01-3300"],
-    "last_check_date": "2026-08-25",
+    "last_check_date": "2026-08-26",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -3550,11 +3550,11 @@
     "vaartuig": false
   },
   "BZ-JJ-74": {
-    "expiry": "2026-08-25",
+    "expiry": "2027-08-25",
     "checked": true,
     "unknown": false,
     "roepnummers": ["02-6382"],
-    "last_check_date": "2026-05-23",
+    "last_check_date": "2026-08-26",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -6184,7 +6184,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["05-1361"],
-    "last_check_date": "2026-08-25",
+    "last_check_date": "2026-08-26",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -8114,7 +8114,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["08-7331"],
-    "last_check_date": "2026-08-25",
+    "last_check_date": "2026-08-26",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -10624,7 +10624,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["12-9032"],
-    "last_check_date": "2026-08-25",
+    "last_check_date": "2026-08-26",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -10794,7 +10794,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["13-4301"],
-    "last_check_date": "2026-08-25",
+    "last_check_date": "2026-08-26",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -13060,11 +13060,11 @@
     "vaartuig": false
   },
   "60-BT-JZ": {
-    "expiry": "2026-08-09",
+    "expiry": "2027-08-24",
     "checked": true,
     "unknown": false,
     "roepnummers": ["18-9602"],
-    "last_check_date": "2026-08-25",
+    "last_check_date": "2026-08-26",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -22134,7 +22134,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": ["23-124"],
-    "last_check_date": "2026-08-25",
+    "last_check_date": "2026-08-26",
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false
@@ -24777,7 +24777,7 @@
     "defensie": false,
     "vaartuig": false,
     "roepnummers": ["01-115"],
-    "last_check_date": "2026-08-25"
+    "last_check_date": "2026-08-26"
   },
   "GLX-32-S": {
     "expiry": "2026-09-24",
@@ -26490,14 +26490,14 @@
     "last_check_date": "2026-07-07"
   },
   "P-208-PD": {
-    "expiry": "2026-08-25",
+    "expiry": "2027-08-25",
     "checked": true,
     "unknown": false,
     "no_apk_info": false,
     "defensie": false,
     "vaartuig": false,
     "roepnummers": ["05-731"],
-    "last_check_date": "2026-07-07"
+    "last_check_date": "2026-08-26"
   },
   "P-789-PZ": {
     "expiry": "2027-02-27",
@@ -27627,7 +27627,7 @@
     "defensie": false,
     "vaartuig": true,
     "roepnummers": ["17-353"],
-    "last_check_date": "2026-08-19"
+    "last_check_date": "2026-08-26"
   },
   "70-HFT-1": {
     "expiry": "2027-03-18",
@@ -30257,7 +30257,7 @@
     "defensie": false,
     "vaartuig": false,
     "roepnummers": ["07-2788"],
-    "last_check_date": "2026-08-19"
+    "last_check_date": "2026-08-26"
   },
   "26-BBH-3": {
     "expiry": "2026-10-31",
@@ -30477,7 +30477,7 @@
     "defensie": false,
     "vaartuig": true,
     "roepnummers": ["16-2212"],
-    "last_check_date": "2026-08-19"
+    "last_check_date": "2026-08-26"
   },
   "P-113-ND": {
     "expiry": "2027-06-08",
@@ -31377,7 +31377,7 @@
     "defensie": false,
     "vaartuig": false,
     "roepnummers": ["09-5751"],
-    "last_check_date": "2026-08-25"
+    "last_check_date": "2026-08-26"
   },
   "BX-LN-79": {
     "expiry": "2027-04-15",
