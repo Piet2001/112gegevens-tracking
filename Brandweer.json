@@ -42308,6 +42308,14 @@
     "Kazerne": "Aspen locatie De Geer"
   },
   {
+    "Regio": "21",
+    "Roepnummer": "28-5062",
+    "Kenteken": "LM-59-82",
+    "Type": "CT",
+    "Omschrijving": "Crashtender",
+    "Kazerne": "Vliegbasis Volkel"
+  },
+  {
     "Regio": "22",
     "Roepnummer": "22-1001",
     "Kenteken": "97-XVN-1",
@@ -44575,6 +44583,16 @@
     "Adres": "Flightforum 1550, 5657EZ, Eindhoven"
   },
   {
+    "Regio": "22",
+    "Roepnummer": "28-4993",
+    "Kenteken": "D-777-MB",
+    "Type": "DA",
+    "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Land Rover",
+    "Kazerne": "Eindhoven Airport",
+    "Adres": "Flightforum 1550, 5657EZ, Eindhoven"
+  },
+  {
     "Regio": "23",
     "Roepnummer": "23-0001",
     "Type": "BM",
@@ -45146,8 +45164,10 @@
   {
     "Regio": "23",
     "Roepnummer": "23-2601",
+    "Kenteken": "TT-865-Z",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Volkswagen Polo",
     "Kazerne": "Panningen",
     "Adres": "John F. Kennedylaan 212, 5981WX, Panningen"
   },
@@ -45286,8 +45306,10 @@
   {
     "Regio": "23",
     "Roepnummer": "23-3101",
+    "Kenteken": "3-XHJ-67",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Volkswagen Transporter",
     "Kazerne": "Lomm",
     "Adres": "Spikweien 68a, 5943AD, Lomm"
   },
@@ -45502,8 +45524,10 @@
   {
     "Regio": "23",
     "Roepnummer": "23-3287",
+    "Kenteken": "VZ-336-V",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
+    "Merk (& Type)": "Volkswagen Transporter",
     "Kazerne": "Venlo",
     "Adres": "Ari\u00ebnsstraat 72, 5912PZ, Venlo"
   },
@@ -48916,8 +48940,10 @@
   {
     "Regio": "25",
     "Roepnummer": "25-8101",
-    "Type": "DA",
-    "Omschrijving": "Dienstauto",
+    "Kenteken": "V-50-PFD",
+    "Type": "DB-TBO",
+    "Omschrijving": "Dienstbus -Team Brandonderzoek",
+    "Merk (& Type)": "Renault Master E-tech",
     "Kazerne": "Regionaal"
   },
   {
