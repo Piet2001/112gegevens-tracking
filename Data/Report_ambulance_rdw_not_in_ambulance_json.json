@@ -1,7 +1,7 @@
 {
   "source_json_file": "Ambulance.json",
   "source_rdw_file": "Data/Ambulance_rdw.json",
-  "rdw_not_in_source_count": 807,
+  "rdw_not_in_source_count": 806,
   "rdw_not_in_source_kentekens": [
     "01JHZ6",
     "04LHS6",
@@ -797,7 +797,6 @@
     "ZN067B",
     "ZN289Z",
     "ZN943P",
-    "ZP719K",
     "ZR441K",
     "ZR442K",
     "ZR443K",

@@ -1,7 +1,7 @@
 {
   "source_json_file": "Brandweer.json",
   "source_rdw_file": "Data/Brandweer_rdw.json",
-  "rdw_not_in_source_count": 1522,
+  "rdw_not_in_source_count": 1521,
   "rdw_not_in_source_kentekens": [
     "00BBK3",
     "00BDK6",
@@ -1263,7 +1263,6 @@
     "BXFG98",
     "BXFH04",
     "BXFV67",
-    "BXFV91",
     "BXGG16",
     "BXGJ35",
     "BXGR33",
