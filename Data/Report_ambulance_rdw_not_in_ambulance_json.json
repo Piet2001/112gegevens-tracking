@@ -1,7 +1,7 @@
 {
   "source_json_file": "Ambulance.json",
   "source_rdw_file": "Data/Ambulance_rdw.json",
-  "rdw_not_in_source_count": 805,
+  "rdw_not_in_source_count": 807,
   "rdw_not_in_source_kentekens": [
     "01JHZ6",
     "04LHS6",
@@ -444,6 +444,7 @@
     "KST60H",
     "KTF02T",
     "KTF97G",
+    "KTV84B",
     "KV499S",
     "KVF67H",
     "KVF68H",
@@ -553,6 +554,7 @@
     "PG918V",
     "PK163R",
     "PK447V",
+    "PN260N",
     "PN368K",
     "PN469G",
     "PN944H",
