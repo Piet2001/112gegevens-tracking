@@ -39677,10 +39677,13 @@
   {
     "Regio": "20",
     "Roepnummer": "20-5092",
+    "Kenteken": "JFV-45-G",
     "Type": "DA-OVD",
     "Omschrijving": "Dienstauto - Officier van Dienst",
     "Toevoeging": "Cluster Noord",
-    "Kazerne": "Tilburg"
+    "Merk (& Type)": "Mercedes-Benz Vito",
+    "Kazerne": "Oosterhout",
+    "Adres": "Vaartweg 2, 4905BL, Oosterhout"
   },
   {
     "Regio": "20",

@@ -32228,5 +32228,15 @@
     "vaartuig": false,
     "roepnummers": ["25-8101"],
     "last_check_date": "2026-08-31"
+  },
+  "JFV-45-G": {
+    "expiry": "2028-10-15",
+    "checked": true,
+    "unknown": false,
+    "no_apk_info": false,
+    "defensie": false,
+    "vaartuig": false,
+    "roepnummers": ["20-5092"],
+    "last_check_date": "2026-09-05"
   }
 }
