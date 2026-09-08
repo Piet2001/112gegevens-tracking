@@ -1,5 +1,5 @@
 Report: vergelijking Brandweer.json met RDW-lijst
-RDW wel, Brandweer.json niet (1526):
+RDW wel, Brandweer.json niet (1527):
 00BBK3
 00BDK6
 00BFV6
@@ -1008,6 +1008,7 @@ BNZX10
 BP67LF
 BPBB40
 BPBF98
+BPBN60
 BPBN70
 BPBS24
 BPBT35
