@@ -1,4 +1,4 @@
-Expired (21):
+Expired (23):
 2-KTJ-51 (13-4301): verlopen op 2026-08-16
 51-XL-SH (09-2601): verlopen op 2026-09-12
 7-XFS-39 (01-3300): verlopen op 2026-08-19
@@ -20,6 +20,8 @@ KB-193-R (03-8202): verlopen op 2026-09-01
 L-568-NL (01-115): verlopen op 2026-06-23
 PJ-663-J (04-203): verlopen op 2026-08-28
 TJ-080-D (07-121): verlopen op 2026-08-28
+V-908-JB (06-503): verlopen op 2026-09-13
+VR-591-G (23-592): verlopen op 2026-09-13
 
 Geen APK info gevonden (119):
 1-XFB-71 (03-228)
