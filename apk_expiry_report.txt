@@ -1,4 +1,5 @@
-Expired (21):
+Expired (22):
+01-XR-LL (14-7004): verlopen op 2026-09-17
 2-KTJ-51 (13-4301): verlopen op 2026-08-16
 51-XL-SH (09-2601): verlopen op 2026-09-12
 64-BPD-4 (02-4871): verlopen op 2026-09-15
@@ -12,10 +13,10 @@ BV-RG-94 (09-9733): verlopen op 2026-08-26
 BX-GN-07 (17-2161): verlopen op 2026-09-08
 G-081-DK (25-702): verlopen op 2026-09-03
 GB-909-B (22-1981): verlopen op 2026-09-03
-JX-608-N (03-8901): verlopen op 2026-09-01
 JX-611-N (03-8194): verlopen op 2026-09-01
 KB-193-R (03-8202): verlopen op 2026-09-01
 L-568-NL (01-115): verlopen op 2026-06-23
+P-356-KP (23-204): verlopen op 2026-09-17
 PJ-663-J (04-203): verlopen op 2026-08-28
 TJ-080-D (07-121): verlopen op 2026-08-28
 V-908-JB (06-503): verlopen op 2026-09-13
