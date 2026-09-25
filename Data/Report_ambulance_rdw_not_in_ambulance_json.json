@@ -1,7 +1,7 @@
 {
   "source_json_file": "Ambulance.json",
   "source_rdw_file": "Data/Ambulance_rdw.json",
-  "rdw_not_in_source_count": 810,
+  "rdw_not_in_source_count": 809,
   "rdw_not_in_source_kentekens": [
     "01JHZ6",
     "04LHS6",
@@ -86,7 +86,6 @@
     "G710XT",
     "G725JD",
     "G725XL",
-    "G773HN",
     "G774HN",
     "G777HN",
     "G778HN",
