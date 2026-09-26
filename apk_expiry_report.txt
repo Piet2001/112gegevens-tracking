@@ -1,10 +1,9 @@
-Expired (26):
+Expired (25):
 01-XR-LL (14-7004): verlopen op 2026-09-17
 2-KTJ-51 (13-4301): verlopen op 2026-08-16
 51-XL-SH (09-2601): verlopen op 2026-09-12
 7-XFS-39 (01-3300): verlopen op 2026-08-19
 BH-JX-88 (12-9032): verlopen op 2026-08-03
-BL-BX-43 (03-8980): verlopen op 2026-09-23
 BN-FH-92 (02-7567): verlopen op 2026-09-04
 BP-NT-13 (09-5751): verlopen op 2026-05-18
 BP-TS-03 (05-1361): verlopen op 2026-08-05
@@ -26,7 +25,7 @@ TT-864-Z (23-5104): verlopen op 2026-09-25
 V-908-JB (06-503): verlopen op 2026-09-13
 VR-591-G (23-592): verlopen op 2026-09-13
 
-Geen APK info gevonden (119):
+Geen APK info gevonden (120):
 1-XFB-71 (03-228)
 15-SVG-Z (05-219)
 18-DMT-8 (28-6401)
@@ -139,6 +138,7 @@ V-583-NS (07-4372)
 V-584-NS (07-1572)
 V-59-KVL (21-2081)
 VB-233-P (01-2073)
+VD-369-H (06-9881)
 VH-028-H (06-9921)
 VH-566-Z (05-540)
 VX-39-NN (17-9185)
@@ -147,7 +147,7 @@ WD-51-NN (01-2564)
 XH-306-H (25-123)
 Z-208-KT (24-2595)
 
-APK vervaldatum onbekend (56):
+APK vervaldatum onbekend (55):
 12-WT-XJ (02-60VI)
 13-WF-XF (22-5287)
 14-WJ-XP (03-8674)
@@ -188,7 +188,6 @@ JN-662-Z (20-124)
 MZ-JF-25 (01-323)
 SZ-874-T (06-412)
 TPL-78-L (09-9272)
-VD-369-H (06-9881)
 WF-80-ZR (03-9964)
 WF-LF-68 (07-4865)
 WG-67-VL (03-9864)
