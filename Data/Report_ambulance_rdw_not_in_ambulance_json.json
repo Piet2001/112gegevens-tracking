@@ -1,7 +1,7 @@
 {
   "source_json_file": "Ambulance.json",
   "source_rdw_file": "Data/Ambulance_rdw.json",
-  "rdw_not_in_source_count": 814,
+  "rdw_not_in_source_count": 809,
   "rdw_not_in_source_kentekens": [
     "01JHZ6",
     "04LHS6",
@@ -415,7 +415,6 @@
     "KNB01L",
     "KNB77K",
     "KRB80F",
-    "KRB81F",
     "KRK40Z",
     "KRN01H",
     "KRN38H",
@@ -456,10 +455,6 @@
     "KZJ68F",
     "KZJ73F",
     "KZJ74F",
-    "KZV88J",
-    "KZV95H",
-    "KZV96H",
-    "KZV97H",
     "L006ZK",
     "L007ZK",
     "L008ZK",
