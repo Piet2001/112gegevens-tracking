@@ -1,7 +1,7 @@
 {
   "source_json_file": "Ambulance.json",
   "source_rdw_file": "Data/Ambulance_rdw.json",
-  "rdw_not_in_source_count": 814,
+  "rdw_not_in_source_count": 813,
   "rdw_not_in_source_kentekens": [
     "01JHZ6",
     "04LHS6",
@@ -45,7 +45,6 @@
     "76NBG9",
     "79NXVF",
     "83XGLX",
-    "84GJV7",
     "84RNL4",
     "85JKT6",
     "87XDS8",
