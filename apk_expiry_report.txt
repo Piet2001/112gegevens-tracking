@@ -1,5 +1,6 @@
 Expired (32):
 01-XR-LL (14-7004): verlopen op 2026-09-17
+06-BLJ-7 (17-0951): verlopen op 2026-10-13
 11-BLJ-7 (12-3030): verlopen op 2026-09-27
 2-KTJ-51 (13-4301): verlopen op 2026-08-16
 51-XL-SH (09-2601): verlopen op 2026-09-12
@@ -21,7 +22,6 @@ JP-294-J (15-124): verlopen op 2026-10-12
 JX-611-N (03-8194): verlopen op 2026-09-01
 K-495-NJ (04-123): verlopen op 2026-10-09
 KB-193-R (03-8202): verlopen op 2026-09-01
-KV-263-G (24-137): verlopen op 2026-10-12
 L-568-NL (01-115): verlopen op 2026-06-23
 PJ-663-J (04-203): verlopen op 2026-08-28
 PK-985-R (04-202): verlopen op 2026-09-19
