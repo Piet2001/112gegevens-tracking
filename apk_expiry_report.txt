@@ -1,6 +1,5 @@
 Expired (32):
 01-XR-LL (14-7004): verlopen op 2026-09-17
-06-BLJ-7 (17-0951): verlopen op 2026-10-13
 11-BLJ-7 (12-3030): verlopen op 2026-09-27
 2-KTJ-51 (13-4301): verlopen op 2026-08-16
 51-XL-SH (09-2601): verlopen op 2026-09-12
@@ -8,6 +7,7 @@ Expired (32):
 BH-JX-88 (12-9032): verlopen op 2026-08-03
 BN-FH-92 (02-7567): verlopen op 2026-09-04
 BP-NT-13 (09-5751): verlopen op 2026-05-18
+BP-RB-27 (12-9033): verlopen op 2026-10-14
 BP-TS-03 (05-1361): verlopen op 2026-08-05
 BT-BZ-81 (08-7331): verlopen op 2026-08-21
 BV-RG-94 (09-9733): verlopen op 2026-08-26
@@ -18,6 +18,7 @@ G-461-XD (10-101): verlopen op 2026-10-11
 G-779-HN (20-442): verlopen op 2026-09-25
 GB-909-B (22-1981): verlopen op 2026-09-03
 J-793-RL (23-707): verlopen op 2026-10-09
+J-928-TK (09-408): verlopen op 2026-10-14
 JP-294-J (15-124): verlopen op 2026-10-12
 JX-611-N (03-8194): verlopen op 2026-09-01
 K-495-NJ (04-123): verlopen op 2026-10-09
@@ -29,7 +30,6 @@ PS-902-N (20-122): verlopen op 2026-09-25
 T-863-VG (22-120): verlopen op 2026-10-03
 TJ-080-D (07-121): verlopen op 2026-08-28
 TR-975-F (01-386): verlopen op 2026-10-04
-V-908-JB (06-503): verlopen op 2026-09-13
 VXT-82-F (08-8481): verlopen op 2026-10-03
 
 Geen APK info gevonden (120):
