@@ -31,7 +31,7 @@ TJ-080-D (07-121): verlopen op 2026-08-28
 TR-975-F (01-386): verlopen op 2026-10-04
 VXT-82-F (08-8481): verlopen op 2026-10-03
 
-Geen APK info gevonden (120):
+Geen APK info gevonden (121):
 1-XFB-71 (03-228)
 15-SVG-Z (05-219)
 18-DMT-8 (28-6401)
@@ -140,6 +140,7 @@ PD-717-R (12-527)
 PK-427-R (15-117)
 PL-557-T (13-175)
 RD-883-B (07-108)
+SZ-874-T (06-412)
 V-583-NS (07-4372)
 V-584-NS (07-1572)
 V-59-KVL (21-2081)
@@ -153,7 +154,7 @@ WD-51-NN (01-2564)
 XH-306-H (25-123)
 Z-208-KT (24-2595)
 
-APK vervaldatum onbekend (55):
+APK vervaldatum onbekend (54):
 12-WT-XJ (02-60VI)
 13-WF-XF (22-5287)
 14-WJ-XP (03-8674)
@@ -192,7 +193,6 @@ BX-GZ-09 (01-3060)
 J-687-HP (04-403)
 JN-662-Z (20-124)
 MZ-JF-25 (01-323)
-SZ-874-T (06-412)
 TPL-78-L (09-9272)
 WF-80-ZR (03-9964)
 WF-LF-68 (07-4865)
