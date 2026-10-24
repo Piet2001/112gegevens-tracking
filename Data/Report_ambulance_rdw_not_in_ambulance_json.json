@@ -1,7 +1,7 @@
 {
   "source_json_file": "Ambulance.json",
   "source_rdw_file": "Data/Ambulance_rdw.json",
-  "rdw_not_in_source_count": 825,
+  "rdw_not_in_source_count": 826,
   "rdw_not_in_source_kentekens": [
     "01JHZ6",
     "04LHS6",
@@ -522,6 +522,7 @@
     "NDF05D",
     "NDF11D",
     "NDF13D",
+    "NDL01K",
     "NF326V",
     "NF343V",
     "NJ446S",
