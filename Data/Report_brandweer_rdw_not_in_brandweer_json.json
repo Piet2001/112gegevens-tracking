@@ -1,7 +1,7 @@
 {
   "source_json_file": "Brandweer.json",
   "source_rdw_file": "Data/Brandweer_rdw.json",
-  "rdw_not_in_source_count": 1538,
+  "rdw_not_in_source_count": 1541,
   "rdw_not_in_source_kentekens": [
     "00BBK3",
     "00BDK6",
@@ -483,6 +483,7 @@
     "59BJX6",
     "59BKH1",
     "59BTL6",
+    "5VHL92",
     "60BDF6",
     "60BDK6",
     "60BKS2",
@@ -922,6 +923,7 @@
     "BDFZ48",
     "BDGL32",
     "BDTZ32",
+    "BF172B",
     "BF20XJ",
     "BFPP94",
     "BFTD41",
@@ -1060,6 +1062,7 @@
     "BPTR89",
     "BPTT15",
     "BPTT74",
+    "BPXJ31",
     "BPXT20",
     "BPXV52",
     "BPZR07",
