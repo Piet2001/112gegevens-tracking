@@ -4,6 +4,7 @@ Expired (36):
 2-KTJ-51 (13-4301): verlopen op 2026-08-16
 2-XLZ-65 (03-413): verlopen op 2026-10-20
 25-ZDH-5 (09-527): verlopen op 2026-10-24
+3-SGZ-58 (02-7301): verlopen op 2026-10-29
 51-XL-SH (09-2601): verlopen op 2026-09-12
 7-XFS-39 (01-3300): verlopen op 2026-08-19
 85-BLH-8 (09-0144): verlopen op 2026-10-23
@@ -33,7 +34,6 @@ PV-878-J (15-9100): verlopen op 2026-10-19
 T-863-VG (22-120): verlopen op 2026-10-03
 TJ-080-D (07-121): verlopen op 2026-08-28
 TR-975-F (01-386): verlopen op 2026-10-04
-V-289-KV (17-9193): verlopen op 2026-10-27
 VHG-76-X (17-9099): verlopen op 2026-10-22
 
 Geen APK info gevonden (124):
