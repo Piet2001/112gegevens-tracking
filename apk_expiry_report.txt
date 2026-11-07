@@ -9,13 +9,13 @@ Expired (38):
 7-XFS-39 (01-3300): verlopen op 2026-08-19
 BH-JX-88 (12-9032): verlopen op 2026-08-03
 BN-FH-92 (02-7567): verlopen op 2026-09-04
+BP-LV-41 (20-3161): verlopen op 2026-11-07
 BP-NT-13 (09-5751): verlopen op 2026-05-18
 BP-RB-27 (12-9033): verlopen op 2026-10-14
 BP-TS-03 (05-1361): verlopen op 2026-08-05
 BT-BZ-81 (08-7331): verlopen op 2026-08-21
 BV-RG-94 (09-9733): verlopen op 2026-08-26
 BX-GN-07 (17-2161): verlopen op 2026-09-08
-BZ-NT-44 (08-9051): verlopen op 2026-11-01
 G-081-DK (25-702): verlopen op 2026-09-03
 G-082-DK (25-701): verlopen op 2026-10-07
 G-237-KR (17-1696): verlopen op 2026-10-25
