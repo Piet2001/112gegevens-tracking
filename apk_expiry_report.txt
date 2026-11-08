@@ -1,10 +1,12 @@
-Expired (38):
+Expired (40):
 01-XR-LL (14-7004): verlopen op 2026-09-17
+08-SLT-4 (01-1001): verlopen op 2026-11-08
 18-ZDS-6 (22-5105): verlopen op 2026-11-06
 2-KTJ-51 (13-4301): verlopen op 2026-08-16
 2-XLZ-65 (03-413): verlopen op 2026-10-20
 25-ZDH-5 (09-527): verlopen op 2026-10-24
 3-SGZ-58 (02-7301): verlopen op 2026-10-29
+46-SKL-9 (02-6406): verlopen op 2026-11-08
 51-XL-SH (09-2601): verlopen op 2026-09-12
 7-XFS-39 (01-3300): verlopen op 2026-08-19
 BH-JX-88 (12-9032): verlopen op 2026-08-03
