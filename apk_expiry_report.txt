@@ -1,4 +1,4 @@
-Expired (40):
+Expired (43):
 01-XR-LL (14-7004): verlopen op 2026-09-17
 08-SLT-4 (01-1001): verlopen op 2026-11-08
 18-ZDS-6 (22-5105): verlopen op 2026-11-06
@@ -9,12 +9,15 @@ Expired (40):
 46-SKL-9 (02-6406): verlopen op 2026-11-08
 51-XL-SH (09-2601): verlopen op 2026-09-12
 7-XFS-39 (01-3300): verlopen op 2026-08-19
+80-BGK-7 (23-502): verlopen op 2026-11-09
+97-SLD-6 (02-7304): verlopen op 2026-11-09
 BH-JX-88 (12-9032): verlopen op 2026-08-03
 BN-FH-92 (02-7567): verlopen op 2026-09-04
 BP-LV-41 (20-3161): verlopen op 2026-11-07
 BP-NT-13 (09-5751): verlopen op 2026-05-18
 BP-RB-27 (12-9033): verlopen op 2026-10-14
 BP-TS-03 (05-1361): verlopen op 2026-08-05
+BS-HN-66 (02-0232): verlopen op 2026-11-09
 BT-BZ-81 (08-7331): verlopen op 2026-08-21
 BV-RG-94 (09-9733): verlopen op 2026-08-26
 BX-GN-07 (17-2161): verlopen op 2026-09-08
