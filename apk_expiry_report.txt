@@ -42,11 +42,12 @@ TR-975-F (01-386): verlopen op 2026-10-04
 VHG-76-X (17-9099): verlopen op 2026-10-22
 XB-239-K (07-9295): verlopen op 2026-11-03
 
-Geen APK info gevonden (122):
+Geen APK info gevonden (123):
 1-XFB-71 (03-228)
 15-SVG-Z (05-219)
 18-DMT-8 (28-6401)
 51-XL-SH (09-2601)
+54-BNZ-3 (05-5541)
 55-KJR-2 (22-807)
 74-TNS-7 (10-345)
 8-XKV-84 (06-189)
