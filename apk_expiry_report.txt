@@ -43,7 +43,7 @@ TZ-211-J (01-202): verlopen op 2026-11-14
 VHG-76-X (17-9099): verlopen op 2026-10-22
 XB-239-K (07-9295): verlopen op 2026-11-03
 
-Geen APK info gevonden (123):
+Geen APK info gevonden (124):
 1-XFB-71 (03-228)
 15-SVG-Z (05-219)
 18-DMT-8 (28-6401)
@@ -133,6 +133,7 @@ HK-519-J (15-116)
 HP-765-V (13-101)
 HSD-22-X (04-147)
 J-053-TR (04-154)
+J-482-VN (02-4501)
 JG-326-V (24-731)
 JN-418-Z (20-101)
 JN-622-Z (20-106)
