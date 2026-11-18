@@ -1,11 +1,10 @@
-Expired (43):
+Expired (41):
 01-XR-LL (14-7004): verlopen op 2026-09-17
 08-SLT-4 (01-1001): verlopen op 2026-11-08
 18-ZDS-6 (22-5105): verlopen op 2026-11-06
 2-KTJ-51 (13-4301): verlopen op 2026-08-16
 2-XLZ-65 (03-413): verlopen op 2026-10-20
 25-ZDH-5 (09-527): verlopen op 2026-10-24
-3-SGZ-58 (02-7301): verlopen op 2026-10-29
 46-SKL-9 (02-6406): verlopen op 2026-11-08
 7-XFS-39 (01-3300): verlopen op 2026-08-19
 7-ZLP-99 (01-2501): verlopen op 2026-11-10
@@ -36,7 +35,6 @@ PJ-663-J (04-203): verlopen op 2026-08-28
 PK-985-R (04-202): verlopen op 2026-09-19
 PS-902-N (20-122): verlopen op 2026-09-25
 PV-878-J (15-9100): verlopen op 2026-10-19
-T-863-VG (22-120): verlopen op 2026-10-03
 TJ-080-D (07-121): verlopen op 2026-08-28
 TR-975-F (01-386): verlopen op 2026-10-04
 TZ-211-J (01-202): verlopen op 2026-11-14
